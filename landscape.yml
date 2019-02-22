@@ -3,140 +3,97 @@ landscape:
     name: .ORG
     subcategories:
       - subcategory:
-        name: Framework
+        name: .ORG
         items:
-          - item:
-            name: Accord.NET
-            homepage_url: 'http://accord-framework.net/'
-            repo_url: 'https://github.com/accord-net/framework'
-            project: graduated
-            logo: accord-net.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
-      - subcategory:
-        name: Platform
-        items:
-          - item:
-            name: Apache SystemML
-            homepage_url: 'https://systemml.apache.org/'
-            repo_url: 'https://github.com/apache/systemml'
-            logo: apache-system-ml.svg
-            twitter: 'https://twitter.com/ApacheSystemML'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
   - category:
-    name: Traffic / Delivery 
-    subcategories:
-      - subcategory:
-        name: Framework
-        items:
-          - item:
-            name: H2o.ai
-            homepage_url: 'https://www.h2o.ai/'
-            repo_url: 'https://github.com/h2oai/h2o-3'
-            logo: h2o-ai.svg
-            twitter: 'https://twitter.com/h2oai'
-            crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
-      - subcategory:
-        name: Platform
-        items:
-          - item:
-            name: Kubeflow
-            homepage_url: 'https://www.kubeflow.org/'
-            repo_url: 'https://github.com/kubeflow/kubeflow'
-            logo: kubeflow.svg
-            twitter: 'https://twitter.com/kubeflow'
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-  - category:
-    name: Traffic Routing
+    name: Traffic Routing 
     subcategories:
       - subcategory:
         name: Traffic Routing
         items:
+  - category:
+    name:  Edge Relevant Software
+    subcategories:
+      - subcategory:
+        name: Edge Relevant Software
+        items:
           - item:
-            name: MLFlow
-            homepage_url: 'https://mlflow.org/'
-            repo_url: 'https://github.com/mlflow/mlflow'
-            logo: mlflow.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/databricks'
+            name: Kubernetes
+            homepage_url: 'https://kubernetes.io/'
+            repo_url: 'https://github.com/kubernetes/kubernetes'
+            project: graduated
+            logo: kubernetes.svg
+            twitter: 'https://twitter.com/kubernetesio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+  - category:
+    name: Traffic / Delivery 
+    subcategories:
+      - subcategory:
+        name: Traditional CDN's
+        items:
+      - subcategory:
+        name: Application Delivery 
+        items:
+      - subcategory:
+        name: SD-Wan / Security 
+        items:
   - category:
     name: Platforms
     subcategories:
       - subcategory:
-        name: Platforms 
+        name: Edge PASS 
         items:
-          - item:
-            name: PredictionIO
-            homepage_url: 'https://predictionio.apache.org/'
-            repo_url: 'https://github.com/apache/predictionio'
-            logo: apache-predictionio.svg
-            twitter: 'https://twitter.com/ApachePIO'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
+      - subcategory:
+        name: IoT Focused
+        items:
+      - subcategory:
+        name: Decentralized 
+        items:
   - category:
     name: Infrastructure 
     subcategories:
       - subcategory:
-        name: Infrastructure 
+        name: Provisionning  
         items:
-          - item:
-            name: Seldon
-            homepage_url: 'https://www.seldon.io/'
-            repo_url: 'https://github.com/SeldonIO/seldon-core'
-            logo: seldon.svg
-            twitter: 'https://twitter.com/seldon_io'
-            crunchbase: 'https://www.crunchbase.com/organization/seldon'
+      - subcategory:
+        name: IAAS
+        items:
   - category:
     name: Hardware
     subcategories:
       - subcategory:
-        name: Hardware
+        name: Core Silicon 
         items:
-            name: Vowpal Wabbit
-            homepage_url: 'https://github.com/VowpalWabbit/vowpal_wabbit/wiki'
-            repo_url: 'https://github.com/VowpalWabbit/vowpal_wabbit'
-            logo: vowpal-wabbit.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+      - subcategory:
+        name: Accelerators
+        items:
   - category:
     name: Connectivity
     subcategories:
       - subcategory:
-        name: Connectivity
+        name: Fiber & Peering 
         items:
-          - item:
-            name: CatBoost
-            homepage_url: 'https://catboost.ai'
-            repo_url: 'https://github.com/catboost/catboost'
-            logo: catboost.svg
-            twitter: 'https://twitter.com/catboostml'
-            crunchbase: 'https://www.crunchbase.com/organization/yandex'
+      - subcategory:
+        name: 4G / 5G / IoT
+        items:
   - category:
     name: Real Estate 
     subcategories:
       - subcategory:
-        name: Real Estate 
+        name: Traditional 
         items:
-          - item:
-            name: MLlib
-            homepage_url: 'https://spark.apache.org/mllib/'
-            repo_url: 'https://github.com/apache/spark'
-            logo: mllib.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
+      - subcategory:
+        name: Non Traditional 
+        items:
+      - subcategory:
+        name: Towers
+        items:
   - category:
     name: Supply Chain
     subcategories:
       - subcategory:
         name: Supply Chain
         items:
-          - item:
-            name: mlpack
-            homepage_url: 'http://www.mlpack.org/'
-            repo_url: 'https://github.com/mlpack/mlpack'
-            logo: mlpack.svg
-            project: incubating
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/georgia-institute-of-technology'
   - category:
     name: LF Edge Member Company
     subcategories:
@@ -144,12 +101,19 @@ landscape:
         name: Premium
         items:
           - item:
-            name: Amdocs
-            homepage_url: 'https://www.amdocs.com/'
-            stock_ticker: DOX
-            logo: amdocs.svg
-            twitter: 'https://twitter.com/Amdocs'
-            crunchbase: 'https://www.crunchbase.com/organization/amdocs'
+            name: Intel
+            homepage_url: 'http://www.arm.com'
+            stock_ticker: INTC
+            logo: intel.svg
+            twitter: 'http://twitter.com/intel'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Arm
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            logo: arm.svg
+            stock_ticker: null 
+            twitter: 'https://twitter.com/Arm'
+            crunchbase: 'https://www.crunchbase.com/organization/arm'      
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
@@ -157,37 +121,79 @@ landscape:
             logo: att.svg
             twitter: 'https://twitter.com/ATT'
             crunchbase: 'https://www.crunchbase.com/organization/at-t'
+          - item:
+            name: Baidu
+            homepage_url: 'https://www.baidu.com/'
+            stock_ticker: BIDU
+            logo: baidu.svg
+            twitter: 'https://twitter.com/Baidu_Inc'
+            crunchbase: 'https://www.crunchbase.com/organization/baidu'
+          - item:
+            name: Dell EMC
+            homepage_url: 'https://www.dellemc.com/en-us/index.htm'
+            logo: dell-emc.svg
+            stock_ticker: null 
+            twitter: 'https://twitter.com/DellEMCStorage'
+            crunchbase: 'https://www.crunchbase.com/organization/dell-emc'
+          - item:
+            name: Ericsson
+            homepage_url: 'https://www.ericsson.com/en'
+            stock_ticker: ERIC
+            logo: ericsson.svg
+            twitter: 'https://twitter.com/ericsson'
+            crunchbase: 'https://www.crunchbase.com/organization/ericsson'
+          - item:
+            name: Huawei
+            homepage_url: 'https://www.huawei.com/en/'
+            stock_ticker: null
+            logo: huawei.svg
+            twitter: 'https://twitter.com/Huawei'
+            crunchbase: 'https://www.crunchbase.com/organization/huawei'
+          - item:
+            name: Nokia
+            homepage_url: 'https://www.nokia.com'
+            stock_ticker: NOK
+            logo: nokia.svg
+            twitter: 'https://twitter.com/nokia'
+            crunchbase: 'https://www.crunchbase.com/organization/nokia'
+          - item:
+            name: Tencent
+            homepage_url: 'https://www.tencent.com/zh-cn/index.html'
+            stock_ticker: TCEHY
+            logo: tencent.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
+          - item:
+            name: Red Hat
+            homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: RHT
+            logo: redhat.svg
+            twitter: 'https://twitter.com/redhat'
+            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+          - item:
+            name: HPE 
+            homepage_url: 'https://www.hpe.com'
+            stock_ticker: HPE
+            logo: hpe.svg
+            twitter: 'https://twitter.com/HPE'
+            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard-enterprise'
+          - item:
+            name: HP
+            homepage_url: 'https://www.hp.com'
+            stock_ticker: HPQ
+            logo: hp.svg
+            twitter: 'https://twitter.com/HP'
+            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard'
       - subcategory:
         name: General
         items:
           - item:
-            name: Ciena
-            homepage_url: 'https://www.ciena.com/'
-            stock_ticker: CIEN
-            logo: ciena.svg
-            twitter: 'https://twitter.com/ciena'
-            crunchbase: 'https://www.crunchbase.com/organization/ciena'
-          - item:
-            name: Didi
-            homepage_url: 'https://www.didiglobal.com'
-            stock_ticker: null
-            logo: didi.svg
-            twitter: 'https://twitter.com/DidiChuxing'
-            crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
+            name: Packet
+            homepage_url: 'https://www.packet.com/'
+            logo: packet.svg
+            stock_ticker: null 
+            twitter: 'https://twitter.com/packethost'
+            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
       - subcategory:
         name: Associate
         items:
-          - item:
-            name: Intel
-            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
-            stock_ticker: INTC
-            logo: intel.svg
-            twitter: 'http://twitter.com/intel'
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
-          - item:
-            name: Orange
-            homepage_url: 'https://www.orange.com/en/home'
-            stock_ticker: ORAN
-            logo: orange.svg
-            twitter: 'https://twitter.com/orange'
-            crunchbase: 'https://www.crunchbase.com/organization/orange'
