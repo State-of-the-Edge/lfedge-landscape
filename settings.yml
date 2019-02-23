@@ -4,7 +4,7 @@ global:
   repo: lf-edge/lfedge-landscape
   website: 'https://landscape.lfedge.org'
   short_domain: l.lfedge.org
-  company_url: 'https://lfdl.io'
+  company_url: 'https://lfedge.org'
   email: info@lfedge.org
   meta:
     title: LF Edge Landscape
@@ -70,9 +70,10 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>LF Edge Interactive Landscape</h1> The LF Edge landscape (<a target="_blank"
-    href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a
-    href="http://landscape.cncf.io">CNCF</a> and the <a href="http://landscape.lfdl.io">LF Deep Learning</a> landscapes and based on the same open source code.
+    <h1>LF Edge Interactive Landscape</h1> The LF Edge landscape (<a target="_blank" href="images/landscape.png">png</a>, 
+    <a target="_blank" href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the 
+    <a href="http://landscape.cncf.io">CNCF</a> and the <a href="http://landscape.lfdl.io">LF Deep Learning Foundation</a> landscapes 
+    and based on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
@@ -99,7 +100,7 @@ big_picture:
     url: landscape
     name: Landscape
     title: LF Edge Landscape
-    fullscreen_header: See the interactive landscape at l.lfdl.io
+    fullscreen_header: See the interactive landscape at l.lfedge.org
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 1115
@@ -111,7 +112,7 @@ big_picture:
       - type: HorizontalCategory
         category: .ORG
         rows: 3
-        width: 260
+        width: 150
         height: 160
         top: 0
         left: 0
@@ -120,24 +121,24 @@ big_picture:
       - type: HorizontalCategory
         category: Traffic / Delivery
         rows: 3
-        width: 260
+        width: 480
         height: 160
         top: 0
-        left: 280
+        left: 170
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
         category: Traffic Routing
         rows: 3
-        width: 260
+        width: 150
         height: 160
         top: 0
-        left: 560
+        left: 670
         color: 'rgb(43, 142, 136)'
         fit_width: true
       - type: HorizontalCategory
         category: Platforms
-        rows: 4
+        rows: 3
         width: 275
         height: 160
         top: 0
@@ -147,15 +148,24 @@ big_picture:
       - type: HorizontalCategory
         category: Infrastructure
         rows: 3
-        width: 705
+        width: 340
         height: 160
         top: 190
         left: 410
         color: 'rgb(74, 131, 104)'
         fit_width: true
       - type: HorizontalCategory
+        category: Edge Relevant Software
+        rows: 3
+        width: 345
+        height: 160
+        top: 190
+        left: 770
+        color: 'rgb(64, 131, 104)'
+        fit_width: true
+      - type: HorizontalCategory
         category: Hardware
-        rows: 4
+        rows: 3
         width: 260
         height: 160
         top: 380
@@ -182,7 +192,7 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Supply Chain 
-        rows: 4
+        rows: 3
         width: 275
         height: 160
         top: 380
@@ -191,7 +201,7 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: LF Edge Member Company
-        rows: 4
+        rows: 3
         width: 1115
         height: 160
         top: 570
@@ -233,9 +243,9 @@ big_picture:
             right: 5
             top: 60
 test:
-  header: LF Edge Interactive Landscape
-  section: Graduated LF Edge Projects
-  logo: accord-net.svg
+   header: LF Edge Interactive Landscape
+   section: Graduated LF Edge Projects
+   logo: kubernetes.svg
 update_server:
   ip: 147.75.39.153
   update_hour: 0
