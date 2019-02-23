@@ -4,525 +4,198 @@ landscape:
     name: .ORG
     subcategories:
       - subcategory:
-        name: Framework
-        items:
-          - item:
-            name: Accord.NET
-            homepage_url: 'http://accord-framework.net/'
-            repo_url: 'https://github.com/accord-net/framework'
-            project: graduated
-            logo: accord-net.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
-            crunchbase_data:
-              name: Accord.NET Framework
-              description: Machine Learning Framework
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://accord-framework.net/'
-              city: Grenoble
-              region: Rhone-Alpes
-              country: France
-              twitter: null
-              linkedin: null
-            github_data:
-              stars: 3284
-              license: Other
-              description: 'Machine learning, computer vision, statistics and general scientific computing for .NET'
-              latest_commit_date: '2018-07-10T00:00:00.000Z'
-              latest_commit_link: /accord-net/framework/commit/1b3bd76cd9c37b3c3055df16238862c4918889e1
-              contributors_count: 62
-              contributors_link: 'https://github.com/accord-net/framework/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /accord-net/framework/commit/5e834efc89c071bb32c84f41124d5c9a5bbfe1e3
-              start_date: '2012-04-08T14:05:58Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: accord-net.svg
-              hash: tdvFWfo6hfZQqHqjscAtcoZWk6qztZFzBTVqKWUjYig=
-            best_practice_data:
-              badge: false
-              percentage: null
-      - subcategory:
-        name: Platform
-        items:
-          - item:
-            name: Apache SystemML
-            homepage_url: 'https://systemml.apache.org/'
-            repo_url: 'https://github.com/apache/systemml'
-            logo: apache-system-ml.svg
-            twitter: 'https://twitter.com/ApacheSystemML'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-            github_data:
-              stars: 735
-              license: Apache License 2.0
-              description: Mirror of Apache SystemML
-              latest_commit_date: '2019-02-19T08:00:00.000Z'
-              latest_commit_link: /apache/systemml/commit/fe83cad3e13d049eacea19662b1a4e3b1704cb6d
-              release_date: '2018-08-17T05:58:26Z'
-              release_link: 'https://github.com/apache/systemml/releases'
-              contributors_count: 58
-              contributors_link: 'https://github.com/apache/systemml/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /apache/systemml/commit/704ef9a1c297a2fb1f9f266f348b7b0809b84df2
-              start_date: '2012-01-11T21:58:41Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: apache-system-ml.svg
-              hash: nH3J4OHDllDGXsAhqPk77WG/QJZ3Pr7NOgsIZh9KeFY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2017-12-21T00:25:55.000Z
-  - category:
-    name: Traffic / Delivery
-    subcategories:
-      - subcategory:
-        name: Framework
-        items:
-          - item:
-            name: H2o.ai
-            homepage_url: 'https://www.h2o.ai/'
-            repo_url: 'https://github.com/h2oai/h2o-3'
-            logo: h2o-ai.svg
-            twitter: 'https://twitter.com/h2oai'
-            crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
-            crunchbase_data:
-              name: H2O.ai
-              description: H2O.ai provides an open source machine learning platform that makes it easy to build smart applications.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://h2o.ai/'
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/h2oai'
-              linkedin: 'https://www.linkedin.com/company/0xdata'
-              kind: funding
-              funding: 73600000
-            github_data:
-              stars: 3814
-              license: Apache License 2.0
-              description: >-
-                Open Source Fast Scalable Machine Learning Platform For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized
-                Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), ...)
-              latest_commit_date: '2019-02-19T08:00:00.000Z'
-              latest_commit_link: /h2oai/h2o-3/commit/c3aeb050f3d81c63c9588e28872ab2929b612c49
-              release_date: '2019-02-19T08:06:30Z'
-              release_link: 'https://github.com/h2oai/h2o-3/releases'
-              contributors_count: 117
-              contributors_link: 'https://github.com/h2oai/h2o-3/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /h2oai/h2o-3/commit/079f9dae869c02c7f5ea47baeacedb6ab4238df5
-              start_date: '2014-03-03T16:08:07Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: h2o-ai.svg
-              hash: 5oGtYO8PS4JbH0uUXvhL5Anznvp3xKRQm8sGTmLwam0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-19T21:13:48.000Z
-      - subcategory:
-        name: Platform
-        items:
-          - item:
-            name: Kubeflow
-            homepage_url: 'https://www.kubeflow.org/'
-            repo_url: 'https://github.com/kubeflow/kubeflow'
-            logo: kubeflow.svg
-            twitter: 'https://twitter.com/kubeflow'
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-            crunchbase_data:
-              name: Google
-              description: Google is a multinational corporation that is specialized in internet-related services and products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.google.com/'
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/google'
-              linkedin: 'https://www.linkedin.com/company/google'
-              ticker: GOOG
-              kind: market_cap
-            github_data:
-              stars: 5991
-              license: Apache License 2.0
-              description: Machine Learning Toolkit for Kubernetes
-              latest_commit_date: '2019-02-19T08:00:00.000Z'
-              latest_commit_link: /kubeflow/kubeflow/commit/2cd82cab55dac990da901bd380b2daa88361c602
-              release_date: '2019-01-15T00:15:01Z'
-              release_link: 'https://github.com/kubeflow/kubeflow/releases'
-              contributors_count: 130
-              contributors_link: 'https://github.com/kubeflow/kubeflow/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /kubeflow/kubeflow/commit/3f3f74931bb99615677fd6ef5413ad9255802dd0
-              start_date: '2017-11-30T22:36:56Z'
-            membership_data:
-              member: false
-            yahoo_finance_data:
-              market_cap: 779405950976
-              effective_ticker: GOOG
-            image_data:
-              fileName: kubeflow.svg
-              hash: 8C0DZjQ7HMZxMnFemZWw8N8NbUHyCg2J3HWAPxmMJMI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-01-30T18:28:11.000Z
+        name: .ORG
+        items: null
   - category:
     name: Traffic Routing
     subcategories:
       - subcategory:
         name: Traffic Routing
+        items: null
+  - category:
+    name: Edge Relevant Software
+    subcategories:
+      - subcategory:
+        name: Edge Relevant Software
         items:
           - item:
-            name: MLFlow
-            homepage_url: 'https://mlflow.org/'
-            repo_url: 'https://github.com/mlflow/mlflow'
-            logo: mlflow.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/databricks'
+            name: Kubernetes
+            homepage_url: 'https://kubernetes.io/'
+            repo_url: 'https://github.com/kubernetes/kubernetes'
+            project: graduated
+            logo: kubernetes.svg
+            twitter: 'https://twitter.com/kubernetesio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
             crunchbase_data:
-              name: Databricks
-              description: 'Databricks accelerates innovation by unifying analytics across data science, data engineering, and the business.'
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: 'https://databricks.com'
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.cncf.io/'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/databricks'
-              linkedin: 'https://www.linkedin.com/company/databricks/'
-              kind: funding
-              funding: 497000000
+              twitter: 'https://twitter.com/cloudnativefdn'
+              linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
             github_data:
-              stars: 3153
+              stars: 48610
               license: Apache License 2.0
-              description: Open source platform for the machine learning lifecycle
-              latest_commit_date: '2019-02-18T08:00:00.000Z'
-              latest_commit_link: /mlflow/mlflow/commit/0e99c1e66afa825be198805b8a4a64fd49f9e7f0
-              release_date: '2018-10-01T22:51:31Z'
-              release_link: 'https://github.com/mlflow/mlflow/releases'
-              contributors_count: 74
-              contributors_link: 'https://github.com/mlflow/mlflow/graphs/contributors'
+              description: Production-Grade Container Scheduling and Management
+              latest_commit_date: '2019-02-23T00:00:00.000Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/1cf8001e534f4e40031ba1f3e9606adce51e69fb
+              release_date: '2019-02-19T13:54:56Z'
+              release_link: 'https://github.com/kubernetes/kubernetes/releases'
+              contributors_count: 2025
+              contributors_link: 'https://github.com/kubernetes/kubernetes/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /mlflow/mlflow/commit/7a69ba64ef269b2a5534e16fe888050a83224ef3
-              start_date: '2018-06-05T16:08:54Z'
+              start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
+              start_date: '2014-06-06T23:40:48Z'
             membership_data:
               member: false
             image_data:
-              fileName: ml-flow.svg
-              hash: CryJCzefVmhaawUAXe3mwYvgJJzVx3soF5VyWciFJ6s=
+              fileName: kubernetes.svg
+              hash: 6FUZKOWXKhcti23fQy7N8u7afX4aS0y+8RjuXJFAFug=
             best_practice_data:
-              badge: false
-              percentage: null
+              badge: 569
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2019-02-22T16:38:54.000Z
+  - category:
+    name: Traffic / Delivery
+    subcategories:
+      - subcategory:
+        name: Traditional CDN's
+        items: null
+      - subcategory:
+        name: Application Delivery
+        items: null
+      - subcategory:
+        name: SD-Wan / Security
+        items: null
   - category:
     name: Platforms
     subcategories:
       - subcategory:
-        name: Platforms
-        items:
-          - item:
-            name: PredictionIO
-            homepage_url: 'https://predictionio.apache.org/'
-            repo_url: 'https://github.com/apache/predictionio'
-            logo: apache-predictionio.svg
-            twitter: 'https://twitter.com/ApachePIO'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-            github_data:
-              stars: 11663
-              license: Apache License 2.0
-              description: 'PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.'
-              latest_commit_date: '2019-02-18T08:00:00.000Z'
-              latest_commit_link: /apache/predictionio/commit/fe94516ef8f765e8188b1875d49ed12821c70f84
-              release_date: '2018-09-19T05:20:01Z'
-              release_link: 'https://github.com/apache/predictionio/releases'
-              contributors_count: 131
-              contributors_link: 'https://github.com/apache/predictionio/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /apache/predictionio/commit/fe6dec6237a6aa3fc4f7280b1393abf75a19e23e
-              start_date: '2013-01-25T19:42:32Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: prediction-io.svg
-              hash: rV9/2aUZAXAtXbWbARwhFU/o5YKRGUzuQrf4aSsp0qg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2017-10-02T22:08:41.000Z
+        name: Edge PASS
+        items: null
+      - subcategory:
+        name: IoT Focused
+        items: null
+      - subcategory:
+        name: Decentralized
+        items: null
   - category:
     name: Infrastructure
     subcategories:
       - subcategory:
-        name: Infrastructure
-        items:
-          - item:
-            name: Seldon
-            homepage_url: 'https://www.seldon.io/'
-            repo_url: 'https://github.com/SeldonIO/seldon-core'
-            logo: seldon.svg
-            twitter: 'https://twitter.com/seldon_io'
-            crunchbase: 'https://www.crunchbase.com/organization/seldon'
-            crunchbase_data:
-              name: Seldon
-              description: Seldon is the open-source machine learning pipeline for real-time recommendations and enterprise-grade predictive analytics.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.seldon.io/'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'http://twitter.com/seldon_io'
-              linkedin: 'https://www.linkedin.com/company/rummble-labs/'
-              kind: funding
-              funding: 4279681
-            github_data:
-              stars: 708
-              license: Apache License 2.0
-              description: Machine Learning Deployment for Kubernetes
-              latest_commit_date: '2019-02-14T08:00:00.000Z'
-              latest_commit_link: /SeldonIO/seldon-core/commit/c9ea03d7485190b0426b8842fdbbdaeb1b42488a
-              contributors_count: 18
-              contributors_link: 'https://github.com/SeldonIO/seldon-core/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /SeldonIO/seldon-core/commit/ebc6741c677eefaf59394d804cdc611aea568a27
-              start_date: '2017-02-21T11:14:14Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: seldon.svg
-              hash: gpngYdiuzASpO2B54TL6qDB2DKSOhOps1IucWP/d2mg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-19T10:53:07.000Z
+        name: Provisionning
+        items: null
+      - subcategory:
+        name: IAAS
+        items: null
   - category:
     name: Hardware
     subcategories:
       - subcategory:
-        name: Hardware
-        items:
-          name: Vowpal Wabbit
-          homepage_url: 'https://github.com/VowpalWabbit/vowpal_wabbit/wiki'
-          repo_url: 'https://github.com/VowpalWabbit/vowpal_wabbit'
-          logo: vowpal-wabbit.svg
-          twitter: null
-          crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+        name: Core Silicon
+        items: null
+      - subcategory:
+        name: Accelerators
+        items: null
   - category:
     name: Connectivity
     subcategories:
       - subcategory:
-        name: Connectivity
-        items:
-          - item:
-            name: CatBoost
-            homepage_url: 'https://catboost.ai'
-            repo_url: 'https://github.com/catboost/catboost'
-            logo: catboost.svg
-            twitter: 'https://twitter.com/catboostml'
-            crunchbase: 'https://www.crunchbase.com/organization/yandex'
-            crunchbase_data:
-              name: Yandex
-              description: Yandex is a multinational technology company that provides internet-related services and operates a search engine platform in Russia.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'http://www.yandex.ru'
-              city: Moscow
-              region: Moscow City
-              country: Russian Federation
-              twitter: 'http://twitter.com/yandexcom'
-              linkedin: 'https://www.linkedin.com/company/yandex'
-              ticker: YNDX
-              kind: market_cap
-            github_data:
-              stars: 3676
-              license: Apache License 2.0
-              description: >-
-                A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine
-                learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-              latest_commit_date: '2019-02-19T08:00:00.000Z'
-              latest_commit_link: /catboost/catboost/commit/2b1fd14a1b56b7ef57ffae8c86a8b14938574536
-              contributors_count: 98
-              contributors_link: 'https://github.com/catboost/catboost/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /catboost/catboost/commit/37378d278a57a2464547e07e48a2c779d888e174
-              start_date: '2017-07-18T05:33:21Z'
-            membership_data:
-              member: false
-            yahoo_finance_data:
-              market_cap: 10660788224
-              effective_ticker: YNDX
-            image_data:
-              fileName: cat-boost.svg
-              hash: m249WT1A0ZXQswBINo+ASFb/YrX0eBBOGJoLEl6S/tc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-15T04:28:29.000Z
+        name: Fiber & Peering
+        items: null
+      - subcategory:
+        name: 4G / 5G / IoT
+        items: null
   - category:
     name: Real Estate
     subcategories:
       - subcategory:
-        name: Real Estate
-        items:
-          - item:
-            name: MLlib
-            homepage_url: 'https://spark.apache.org/mllib/'
-            repo_url: 'https://github.com/apache/spark'
-            logo: mllib.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-            github_data:
-              stars: 20636
-              license: Apache License 2.0
-              description: Apache Spark
-              latest_commit_date: '2019-02-19T08:00:00.000Z'
-              latest_commit_link: /apache/spark/commit/6b3c832dacbc724e6e4e60b3009d165ad281fbaf
-              release_date: '2019-02-19T21:54:26Z'
-              release_link: 'https://github.com/apache/spark/releases'
-              contributors_count: 1330
-              contributors_link: 'https://github.com/apache/spark/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /apache/spark/commit/df29d0ea4c8b7137fdd1844219c7d489e3b0d9c9
-              start_date: '2010-03-29T23:17:55Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: m-llib.svg
-              hash: vtGh+CXFmbhI/thZbWABBDr1xknhEKyoUY287wLwXkk=
-            best_practice_data:
-              badge: false
-              percentage: null
+        name: Traditional
+        items: null
+      - subcategory:
+        name: Non Traditional
+        items: null
+      - subcategory:
+        name: Towers
+        items: null
   - category:
     name: Supply Chain
     subcategories:
       - subcategory:
         name: Supply Chain
-        items:
-          - item:
-            name: mlpack
-            homepage_url: 'http://www.mlpack.org/'
-            repo_url: 'https://github.com/mlpack/mlpack'
-            logo: mlpack.svg
-            project: incubating
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/georgia-institute-of-technology'
-            crunchbase_data:
-              name: Georgia Institute of Technology
-              description: 'The Georgia Institute of Technology is a state-funded research university based in Atlanta, Georgia.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://gatech.edu'
-              city: Atlanta
-              region: Georgia
-              country: United States
-              twitter: 'https://twitter.com/georgiatech'
-              linkedin: 'https://www.linkedin.com/school/3558'
-              kind: funding
-              funding: 600000
-            github_data:
-              stars: 2637
-              license: Other
-              description: 'mlpack: a scalable C++ machine learning library -- '
-              latest_commit_date: '2019-02-17T08:00:00.000Z'
-              latest_commit_link: /mlpack/mlpack/commit/d1cc01dcadb4f99371ca989c0270738d2985cf21
-              contributors_count: 134
-              contributors_link: 'https://github.com/mlpack/mlpack/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /mlpack/mlpack/commit/5a7b54f0a126066ed9f5e0a0c1d6aab045c315b6
-              start_date: '2007-03-13T21:27:11Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: mlpack.svg
-              hash: L9MtgMNKZMPNTsgsZKCWzBUUmTKyupy8Zx2zY8T++rY=
-            best_practice_data:
-              badge: false
-              percentage: null
+        items: null
   - category:
-    name: LF DL Member Company
+    name: LF Edge Member Company
     subcategories:
       - subcategory:
         name: Premium
         items:
           - item:
-            name: Amdocs
-            homepage_url: 'https://www.amdocs.com/'
-            stock_ticker: DOX
-            logo: amdocs.svg
-            twitter: 'https://twitter.com/Amdocs'
-            crunchbase: 'https://www.crunchbase.com/organization/amdocs'
+            name: Intel
+            homepage_url: 'http://www.arm.com'
+            stock_ticker: INTC
+            logo: intel.svg
+            twitter: 'http://twitter.com/intel'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
             crunchbase_data:
-              name: Amdocs
-              description: 'Amdocs is a developer and provider of customer experience systems for communications, media, and entertainment industries.'
+              name: Intel
+              description: 'Intel designs, manufactures, and sells integrated digital technology platforms worldwide.'
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.amdocs.com'
-              city: Chesterfield
-              region: Missouri
+              homepage: 'http://www.intel.com/'
+              city: Santa Clara
+              region: California
               country: United States
-              twitter: 'http://twitter.com/amdocs'
-              linkedin: 'https://www.linkedin.com/company/amdocs'
-              ticker: DOX
+              twitter: 'http://twitter.com/intel'
+              linkedin: 'https://www.linkedin.com/company/intel-corporation'
+              ticker: INTC
               kind: market_cap
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 7817651712
-              effective_ticker: DOX
+              market_cap: 232315011072
+              effective_ticker: INTC
             image_data:
-              fileName: amdocs.svg
-              hash: iaKVhOYy8vPA9Ck8dI+To81bzfQGP319LoGhVCnMJo4=
+              fileName: intel.svg
+              hash: Hsk0TETEt9113n9crwvh4XlWrlgUBxMo0QVYrY1nKAY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-02-18T23:56:22.000Z
+              latest_tweet_date: 2019-02-18T00:01:25.000Z
+          - item:
+            name: Arm
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            logo: arm.svg
+            stock_ticker: null
+            twitter: 'https://twitter.com/Arm'
+            crunchbase: 'https://www.crunchbase.com/organization/arm'
+            crunchbase_data:
+              name: ARM
+              description: 'ARM is a multinational semiconductor company that designs, produces, and licenses IP for digital electronic products development.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://www.arm.com'
+              city: Cambridge
+              region: Cambridgeshire
+              country: United Kingdom
+              twitter: 'https://twitter.com/Arm'
+              linkedin: 'https://www.linkedin.com/company/arm'
+            membership_data:
+              member: premier
+            image_data:
+              fileName: arm.svg
+              hash: QVawBP6MFOhjSRP3wjGp3yYjDazuZjKfSiz3lhAZKog=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-02-22T20:42:10.000Z
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
@@ -550,42 +223,12 @@ landscape:
               effective_ticker: T
             image_data:
               fileName: at-t.svg
-              hash: CGXHzkvBzjLsCl/b4/24O/JeKhIvwR1M8na4gn7UFOg=
+              hash: WLTEq8dCUCQJR4NIJ4UPirIdljIdVgPuNftdWMlScxc=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-02-19T00:35:30.000Z
-          - item:
-            name: B.Yond
-            homepage_url: 'https://www.b-yond.com/'
-            stock_ticker: null
-            logo: byond.svg
-            twitter: 'https://twitter.com/go_byond'
-            crunchbase: 'https://www.crunchbase.com/organization/byond'
-            crunchbase_data:
-              name: Byond
-              description: 'Byond transforms eCommerce through immersive experiences that increase engagement, conversion and ROI'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.byondxr.com'
-              city: Los Altos
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/ByondVR'
-              linkedin: 'https://www.linkedin.com/company/byond/'
-              kind: funding
-              funding: 2600000
-            membership_data:
-              member: premier
-            image_data:
-              fileName: b-yond.svg
-              hash: TizPyhMS9jM6vIW5JqJI9/3O12/i8odR5y4/bc3Yp1s=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-18T18:59:23.000Z
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
@@ -613,12 +256,40 @@ landscape:
               effective_ticker: BIDU
             image_data:
               fileName: baidu.svg
-              hash: ZCmCjgxrmd5SZAhqK372Zt7NG+G8VPJ67fNpLQSR2b4=
+              hash: Uf7XBptZpmwNNo64sUfPrMDoHWVj25eNfd+mRR49lqo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-02-18T12:48:09.000Z
+          - item:
+            name: Dell EMC
+            homepage_url: 'https://www.dellemc.com/en-us/index.htm'
+            logo: dell-emc.svg
+            stock_ticker: null
+            twitter: 'https://twitter.com/DellEMCStorage'
+            crunchbase: 'https://www.crunchbase.com/organization/dell-emc'
+            crunchbase_data:
+              name: Dell EMC
+              description: Dell EMC enables digital transformation with trusted solutions for the modern data center.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://dellemc.com'
+              city: Hopkinton
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/dellemc'
+              linkedin: 'https://www.linkedin.com/company-beta/1128'
+            membership_data:
+              member: premier
+            image_data:
+              fileName: dell-emc.svg
+              hash: 2vqxjbBMMQiDLif0o29fBO+STdqiYewN9pB6yKpiBwA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-02-23T17:36:01.000Z
           - item:
             name: Ericsson
             homepage_url: 'https://www.ericsson.com/en'
@@ -646,7 +317,7 @@ landscape:
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
-              hash: qFmhhsOqOc83qiVcL5kUwhKJr7a1LemHW0kBEO7qHBg=
+              hash: sKaHX/i4rCKD48RUqkFbHw6dLwKNppXQjT5iwCkRILU=
             best_practice_data:
               badge: false
               percentage: null
@@ -674,7 +345,7 @@ landscape:
               member: premier
             image_data:
               fileName: huawei.svg
-              hash: 0Bjon8ZsH23Kygq+sL4LGvfNnDRi0ac+7C1lcTTJJUk=
+              hash: LGtEuzEIh7z2ujX+q1bf/zrJUR/ZarjGneRp1qwfriI=
             best_practice_data:
               badge: false
               percentage: null
@@ -707,40 +378,12 @@ landscape:
               effective_ticker: NOK
             image_data:
               fileName: nokia.svg
-              hash: WNIT6AVifbzLbqsmlLaGE5xHJ3kJuPCJO/XobkozB9A=
+              hash: tUQCfokmTztY1JtL0DUnJ8IaIOKqSsn9HHARZmE1Ifw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-02-18T18:52:56.000Z
-          - item:
-            name: Tech Mahindra
-            homepage_url: 'https://www.techmahindra.com/CWCE.html'
-            stock_ticker: null
-            logo: tech-mahindra.svg
-            twitter: 'https://twitter.com/tech_mahindra'
-            crunchbase: 'https://www.crunchbase.com/organization/tech-mahindra'
-            crunchbase_data:
-              name: Tech Mahindra
-              description: Tech Mahindra is part of the US $15.9 billion Mahindra Group and is a leading global systems integrator.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.techmahindra.com'
-              city: Pune
-              region: Maharashtra
-              country: India
-              twitter: 'http://twitter.com/Tech_Mahindra'
-              linkedin: 'https://www.linkedin.com/company/tech-mahindra'
-            membership_data:
-              member: premier
-            image_data:
-              fileName: tech-mahindra.svg
-              hash: s17RMV0iwS0jW9PlWs+1ZViBI/ZWD7YHqu/ScoWkrIc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-18T14:59:52.000Z
           - item:
             name: Tencent
             homepage_url: 'https://www.tencent.com/zh-cn/index.html'
@@ -773,166 +416,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: ZTE
-            homepage_url: 'https://www.zte.com.cn/global/'
-            stock_ticker: null
-            logo: zte.svg
-            twitter: 'https://twitter.com/ztepress'
-            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-            crunchbase_data:
-              name: ZTE
-              description: ZTE provides telecommunications equipment and network solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://zte.com.cn'
-              city: Shenzhen
-              region: Guangdong
-              country: China
-              twitter: 'https://twitter.com/ZTEPress'
-              linkedin: 'https://www.linkedin.com/company/5804'
-            membership_data:
-              member: premier
-            image_data:
-              fileName: zte.svg
-              hash: bEAML5TEXVSgQuR8t309i+cUvk4iuIYEytSHiwIBhb4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-18T14:07:20.000Z
-      - subcategory:
-        name: General
-        items:
-          - item:
-            name: Ciena
-            homepage_url: 'https://www.ciena.com/'
-            stock_ticker: CIEN
-            logo: ciena.svg
-            twitter: 'https://twitter.com/ciena'
-            crunchbase: 'https://www.crunchbase.com/organization/ciena'
-            crunchbase_data:
-              name: Ciena
-              description: Ciena collaborates with customers to unlock the strategic potential of their networks and and change the way they perform and compete.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.ciena.com'
-              city: Linthicum Heights
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/Ciena'
-              linkedin: 'https://www.linkedin.com/company/ciena'
-              ticker: CIEN
-              kind: market_cap
-            membership_data:
-              member: general
-            yahoo_finance_data:
-              market_cap: 6286270464
-              effective_ticker: CIEN
-            image_data:
-              fileName: ciena.svg
-              hash: hKHvNA+qi/7+xKPafObPVolX/GIcjrwIjb7wi+ERKcc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-18T22:49:40.000Z
-          - item:
-            name: Didi
-            homepage_url: 'https://www.didiglobal.com'
-            stock_ticker: null
-            logo: didi.svg
-            twitter: 'https://twitter.com/DidiChuxing'
-            crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
-            crunchbase_data:
-              name: Didi Chuxing
-              description: 'Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.'
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'https://www.didiglobal.com/#/'
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: 'https://twitter.com/DidiChuxing'
-              linkedin: 'https://www.linkedin.com/company/%E6%BB%B4%E6%BB%B4/'
-              kind: funding
-              funding: 20644700000
-            membership_data:
-              member: general
-            image_data:
-              fileName: didi.svg
-              hash: Hh0XxtzRGIoOrKw9JSYAZWknUOVETIBI5v2I38wKjp0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-01-29T05:18:31.000Z
-          - item:
-            name: Intel
-            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
-            stock_ticker: INTC
-            logo: intel.svg
-            twitter: 'http://twitter.com/intel'
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
-            crunchbase_data:
-              name: Intel
-              description: 'Intel designs, manufactures, and sells integrated digital technology platforms worldwide.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.intel.com/'
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/intel'
-              linkedin: 'https://www.linkedin.com/company/intel-corporation'
-              ticker: INTC
-              kind: market_cap
-            membership_data:
-              member: general
-            yahoo_finance_data:
-              market_cap: 232315011072
-              effective_ticker: INTC
-            image_data:
-              fileName: intel.svg
-              hash: Hsk0TETEt9113n9crwvh4XlWrlgUBxMo0QVYrY1nKAY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-18T00:01:25.000Z
-          - item:
-            name: Orange
-            homepage_url: 'https://www.orange.com/en/home'
-            stock_ticker: ORAN
-            logo: orange.svg
-            twitter: 'https://twitter.com/orange'
-            crunchbase: 'https://www.crunchbase.com/organization/orange'
-            crunchbase_data:
-              name: Orange
-              description: 'Orange, a digital operator, offers mobile and internet services in Europe and Africa, and corporate telecommunication services worldwide.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.orange.com'
-              city: Paris
-              region: Ile-de-France
-              country: France
-              twitter: 'https://twitter.com/orange'
-              linkedin: 'https://www.linkedin.com/company/orange'
-              ticker: ORA
-              kind: market_cap
-            membership_data:
-              member: general
-            yahoo_finance_data:
-              market_cap: 40739864576
-              effective_ticker: ORAN
-            image_data:
-              fileName: orange.svg
-              hash: ONFL5CwjQ3LOkh91HcxYsLu3nFZQSwSTFW/nHOQLDRU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-02-18T17:30:00.000Z
-          - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
             stock_ticker: RHT
@@ -953,7 +436,7 @@ landscape:
               ticker: RHT
               kind: market_cap
             membership_data:
-              member: general
+              member: premier
             yahoo_finance_data:
               market_cap: 31990024192
               effective_ticker: RHT
@@ -966,35 +449,107 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-02-18T21:52:01.000Z
           - item:
-            name: Univa
-            homepage_url: 'https://www.univa.com/'
-            stock_ticker: null
-            logo: univa.svg
-            twitter: 'https://twitter.com/Grid_Engine'
-            crunchbase: 'https://www.crunchbase.com/organization/univa'
+            name: HPE
+            homepage_url: 'https://www.hpe.com'
+            stock_ticker: HPE
+            logo: hpe.svg
+            twitter: 'https://twitter.com/HPE'
+            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard-enterprise'
             crunchbase_data:
-              name: Univa
-              description: 'Univa provides optimization and management software for traditional, dynamic and cloud data centers.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.univa.com'
-              city: Hoffman Estates
-              region: Illinois
+              name: Hewlett Packard Enterprise
+              description: 'Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.hpe.com'
+              city: Palo Alto
+              region: California
               country: United States
-              twitter: 'http://twitter.com/Grid_Engine'
-              linkedin: 'https://www.linkedin.com/company/univa-ud'
-              kind: funding
-              funding: 54777627
+              twitter: 'https://www.twitter.com/hpe'
+              linkedin: 'https://www.linkedin.com/company/hewlett-packard-enterprise'
+              ticker: HPE
+              kind: market_cap
             membership_data:
-              member: general
+              member: premier
+            yahoo_finance_data:
+              market_cap: 22471987200
+              effective_ticker: HPE
             image_data:
-              fileName: univa.svg
-              hash: kf/OVmb7w6NtsAbjrOzrjMBAsFE7TL8SdQP0XtaGIg0=
+              fileName: hpe.svg
+              hash: uMAE7wlbcNQlym/YHFyFYiRcP9SjwPyg/zlendHNDNc=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-02-15T21:17:31.000Z
+              latest_tweet_date: 2019-02-22T21:00:12.000Z
+          - item:
+            name: HP
+            homepage_url: 'https://www.hp.com'
+            stock_ticker: HPQ
+            logo: hp.svg
+            twitter: 'https://twitter.com/HP'
+            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard'
+            crunchbase_data:
+              name: Hewlett-Packard
+              description: 'Hewlett-Packard provides products, technologies, software, solutions, and services to individual consumers and SMBs.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.hp.com'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/HP'
+              linkedin: 'https://www.linkedin.com/company/hp/'
+              ticker: HPQ
+              kind: market_cap
+            membership_data:
+              member: premier
+            yahoo_finance_data:
+              market_cap: 36879851520
+              effective_ticker: HPQ
+            image_data:
+              fileName: hp.svg
+              hash: h+xWN5GbTVupAqw/BpZYytnP+f261w6y1w89xrelNU8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-02-22T13:40:20.000Z
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: Packet
+            homepage_url: 'https://www.packet.com/'
+            logo: packet.svg
+            stock_ticker: null
+            twitter: 'https://twitter.com/packethost'
+            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
+            crunchbase_data:
+              name: Packet
+              description: Packet is a bare metal cloud built for developers.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://www.packet.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'https://twitter.com/packethost'
+              linkedin: 'https://www.linkedin.com/company/packet-host'
+              kind: funding
+              funding: 36567845
+            membership_data:
+              member: general
+            image_data:
+              fileName: packet.svg
+              hash: 6VjEpZPVSfg70jQhUAUK+Equ+UPktbMdeAUhx6287XI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-02-22T17:15:34.000Z
+      - subcategory:
+        name: Associate
+        items: null
 twitter_options:
   count: 22
   since_id: '1095013375270998016'
