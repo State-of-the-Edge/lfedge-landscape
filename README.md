@@ -1,10 +1,10 @@
 [![Dependency Status](https://img.shields.io/david/LFDLFoundation/lfdl-landscape.svg?style=flat-square)](https://david-dm.org/LFDLFoundation/lfdl-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/cb0bff52-871d-42c9-b46e-b3dbf8da9309/deploy-status)](https://app.netlify.com/sites/lfdllandscape/deploys)
 
-# Linux Foundation Deep Learning (LFDL) Landscape
+# Linux Foundation Edge Landscape
 
-![LFDL Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
+![LFEdge Landscape Logo](https://github.com/lf-edge/lfedge-landscape/blob/master/images/left-logo.svg)
 
-- [LFDL Landscape](#cloud-native-landscape)
+- [LF Edge Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -20,7 +20,7 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects, and also shows the member companies of the LF Deep Learning Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
+The intent is for the Landscape to be a living document that developers, investors, vendors, researchers and others can use as a resource on the landscape of edge computing. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
 
 ## Current Version
 
@@ -33,7 +33,7 @@ Please see [landscape.lfdl.io](https://landscape.lfdl.io).
 ## New Entries
 
 * Projects must be open source and hosted on or mirrored to GitHub.
-* AI, ML, and DL projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
+* Edge computing projects with at least 300 GitHub stars that clearly fit in an existing category are generally included. Put the project in the single category where it best fits.
 * We are unlikely to create a new category for projects as we'd rather find the best home with the current options.
 * Your project or company needs a logo and the logo needs to include the name.
 * Crunchbase organization should be the company or organization that controls the software. That is normally the owner of the trademark, whether or not a trademark has been formally filed.
@@ -136,13 +136,7 @@ in a single horitzontal section and adjust the position of sections below.
 
 Beside that, we have to adjust the width of a parent div (1620), the width in a
 `src/components/BigPicture/FullscreenLandscape.js` (1640) and the width in a
-`tools/renderLandscape.js` (6560, because of x4 zoom and margins)
-
-Serverless has a same approach, files are
-`src/components/BigPicture/ServerlessContent.js`,
-  `src/components/BigPicture/FullscreenServerless.js` and
-  `tools/renderLandscape.js`, with a full width of 3450 (because of x3 zoom and
-      margins)
+`tools/renderLandscape.js` (6560, because of x4 zoom and margins).
 
 Sometimes the total height is changed too, then we need to adjust the height the
 same way as we adjust the width.
@@ -151,5 +145,4 @@ We have an experimental `fitWidth` property, it is good when you want to get rid
 an extra space on the right of a section.
 
 The best way to test that layout is ok, is to visit `/landscape`, and if it looks ok, run `PORT=3000 babel-node
-tools/renderLandscape` and see the rendered png files, they are in src/images
-folder
+tools/renderLandscape` and see the rendered png files, they are in src/images folder.
