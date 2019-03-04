@@ -104,10 +104,10 @@ big_picture:
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 1300
-      height: 950
+      height: 1000
     fullscreen_size:
       width: 1300
-      height: 950
+      height: 1000
     elements:
       - type: HorizontalCategory
         category: .ORG
@@ -201,9 +201,9 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: LF Edge Member Company
-        rows: 8
+        rows: 10
         width: 1250
-        height: 300
+        height: 350
         top: 570
         left: 0
         color: 'rgb(124, 200, 182)'
