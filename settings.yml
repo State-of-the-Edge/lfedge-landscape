@@ -70,10 +70,9 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>LF Edge Interactive Landscape</h1> The LF Edge landscape (<a target="_blank" href="images/landscape.png">png</a>, 
-    <a target="_blank" href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the 
-    <a href="http://landscape.cncf.io">CNCF</a> and the <a href="http://landscape.lfdl.io">LF Deep Learning Foundation</a> landscapes 
-    and based on the same open source code.
+    <h1>LF Edge Interactive Landscape</h1> The LF Edge landscape (<a target="_blank" href="images/landscape.png">png</a>,  <a target="_blank"
+    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the  <a href="http://landscape.cncf.io">CNCF</a> and the <a
+    href="http://landscape.lfdl.io">LF Deep Learning Foundation</a> landscapes  and based on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
@@ -173,7 +172,7 @@ big_picture:
         color: 'rgb(142, 209, 216)'
         fit_width: true
       - type: HorizontalCategory
-        category: Connectivity 
+        category: Connectivity
         rows: 3
         width: 260
         height: 160
@@ -191,7 +190,7 @@ big_picture:
         color: 'rgb(108, 135, 75)'
         fit_width: true
       - type: HorizontalCategory
-        category: Supply Chain 
+        category: Supply Chain
         rows: 3
         width: 410
         height: 160
@@ -216,7 +215,8 @@ big_picture:
         children:
           - type: text
             text: >
-              The intent is for the Landscape to be a living document that developers, investors, vendors, researchers and others can use as a resource on the landscape of edge computing.
+              The intent is for the Landscape to be a living document that developers, investors, vendors, researchers and others can use as a resource on the
+              landscape of edge computing.
             top: 20
             left: 100
             right: 120
@@ -243,9 +243,9 @@ big_picture:
             right: 5
             top: 60
 test:
-   header: LF Edge Interactive Landscape
-   section: Graduated LF Edge Projects
-   logo: kubernetes.svg
+  header: LF Edge Interactive Landscape
+  section: Graduated LF Edge Projects
+  logo: kubernetes.svg
 update_server:
   ip: 147.75.39.153
   update_hour: 0
