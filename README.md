@@ -28,7 +28,7 @@ The intent is for the Landscape to be a living document that developers, investo
 
 ## Interactive Version
 
-Please see [landscape.lfdl.io](https://landscape.lfdl.io).
+Please see [landscape.lfedge.org](https://landscape.lfedge.org).
 
 ## New Entries
 
