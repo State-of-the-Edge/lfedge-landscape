@@ -102,10 +102,10 @@ big_picture:
     fullscreen_header: See the interactive landscape at l.lfedge.org
     method: getGroupedItemsForCncfBigPicture
     size:
-      width: 1300
+      width: 2050
       height: 1000
     fullscreen_size:
-      width: 1300
+      width: 2050
       height: 1000
     elements:
       - type: HorizontalCategory
@@ -138,7 +138,7 @@ big_picture:
       - type: HorizontalCategory
         category: Platforms
         rows: 3
-        width: 410
+        width: 1160
         height: 160
         top: 0
         left: 840
@@ -156,7 +156,7 @@ big_picture:
       - type: HorizontalCategory
         category: Edge Relevant Software
         rows: 3
-        width: 480
+        width: 1230
         height: 160
         top: 190
         left: 770
@@ -192,7 +192,7 @@ big_picture:
       - type: HorizontalCategory
         category: Supply Chain
         rows: 3
-        width: 410
+        width: 1160
         height: 160
         top: 380
         left: 840
@@ -201,7 +201,7 @@ big_picture:
       - type: HorizontalCategory
         category: LF Edge Member Company
         rows: 10
-        width: 1250
+        width: 2000
         height: 350
         top: 570
         left: 0
