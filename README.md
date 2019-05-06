@@ -24,7 +24,7 @@ The intent is for the Landscape to be a living document that developers, investo
 
 ## Current Version
 
-[![LFDL Landscape](https://landscape.lfdl.io/images/landscape.png)](https://landscape.lfdl.io/images/landscape.png)
+[![LFDL Landscape](https://landscape.lfedge.org/images/landscape.png)](https://landscape.lfedge.org/images/landscape.png)
 
 ## Interactive Version
 
