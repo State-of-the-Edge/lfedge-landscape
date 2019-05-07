@@ -6,7 +6,7 @@
 3. `git clone git@github.com:LFDLFoundation/lfdl-landscape.git`
 
 ## Install on Linux
-1. `git clone git@github.com:LFDLFoundation/lfdl-landscape.git`
+1. `git clone `
 2. Please follow [this script](https://github.com/cncf/landscapeapp/blob/master/update_server/setup.template) to install correct versions of `nodejs` and other packages on Linux.
 
 ## Local development
