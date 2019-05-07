@@ -13,10 +13,85 @@ landscape:
         name: Traffic Routing
         items: []
   - category:
-    name: Edge Relevant Software
+    name: Traffic / Delivery
     subcategories:
       - subcategory:
-        name: Edge Relevant Software
+        name: Traditional CDN's
+        items: []
+      - subcategory:
+        name: Application Delivery Networks
+        items: []
+      - subcategory:
+        name: Security
+        items: []
+      - subcategory:
+        name: SD-WAN
+        items: []
+  - category:
+    name: Platforms
+    subcategories:
+      - subcategory:
+        name: Edge PaSS
+        items: []
+      - subcategory:
+        name: IoT Focused
+        items: []
+      - subcategory:
+        name: Decentralized
+        items: []
+  - category:
+    name: Infrastructure
+    subcategories:
+      - subcategory:
+        name: Provisionning
+        items: []
+      - subcategory:
+        name: IaaS
+        items: []
+  - category:
+    name: Hardware
+    subcategories:
+      - subcategory:
+        name: Core Silicon (CPU / PLC)
+        items: []
+      - subcategory:
+        name: Accelerators (GPU / FPGA / TPU)
+        items: []
+  - category:
+    name: Networking / Connectivity
+    subcategories:
+      - subcategory:
+        name: Fiber & Peering (PoE)
+        items: []
+      - subcategory:
+        name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
+        items: []
+  - category:
+    name: Real Estate / Land
+    subcategories:
+      - subcategory:
+        name: Traditional
+        items: []
+      - subcategory:
+        name: Non Traditional
+        items: []
+      - subcategory:
+        name: Towers
+        items: []
+      - subcategory:
+        name: Municipal Right of Way (Easements)
+        items: []
+  - category:
+    name: Services / System Integrators
+    subcategories:
+      - subcategory:
+        name: Services / System Integrators
+        items: []
+  - category:
+    name: Other Edge Related Software
+    subcategories:
+      - subcategory:
+        name: Other Edge Related Software
         items:
           - item:
             name: Kubernetes
@@ -60,75 +135,6 @@ landscape:
               percentage: 100
             twitter_data:
               latest_tweet_date: 2019-05-06T17:39:23.000Z
-  - category:
-    name: Traffic / Delivery
-    subcategories:
-      - subcategory:
-        name: Traditional CDN's
-        items: []
-      - subcategory:
-        name: Application Delivery
-        items: []
-      - subcategory:
-        name: SD-Wan / Security
-        items: []
-  - category:
-    name: Platforms
-    subcategories:
-      - subcategory:
-        name: Edge PASS
-        items: []
-      - subcategory:
-        name: IoT Focused
-        items: []
-      - subcategory:
-        name: Decentralized
-        items: []
-  - category:
-    name: Infrastructure
-    subcategories:
-      - subcategory:
-        name: Provisionning
-        items: []
-      - subcategory:
-        name: IAAS
-        items: []
-  - category:
-    name: Hardware
-    subcategories:
-      - subcategory:
-        name: Core Silicon
-        items: []
-      - subcategory:
-        name: Accelerators
-        items: []
-  - category:
-    name: Connectivity
-    subcategories:
-      - subcategory:
-        name: Fiber & Peering
-        items: []
-      - subcategory:
-        name: 4G / 5G / IoT
-        items: []
-  - category:
-    name: Real Estate
-    subcategories:
-      - subcategory:
-        name: Traditional
-        items: []
-      - subcategory:
-        name: Non Traditional
-        items: []
-      - subcategory:
-        name: Towers
-        items: []
-  - category:
-    name: Supply Chain
-    subcategories:
-      - subcategory:
-        name: Supply Chain
-        items: []
   - category:
     name: LF Edge Member Company
     subcategories:
