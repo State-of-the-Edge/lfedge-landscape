@@ -12,36 +12,25 @@ landscape:
         name: Traffic Routing
         items: []
   - category:
-    name: Edge Relevant Software
-    subcategories:
-      - subcategory:
-        name: Edge Relevant Software
-        items:
-          - item:
-            name: Kubernetes
-            homepage_url: 'https://kubernetes.io/'
-            project: graduated
-            repo_url: 'https://github.com/kubernetes/kubernetes'
-            logo: kubernetes.svg
-            twitter: 'https://twitter.com/kubernetesio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-  - category:
     name: Traffic / Delivery
     subcategories:
       - subcategory:
         name: Traditional CDN's
         items: []
       - subcategory:
-        name: Application Delivery
+        name: Application Delivery Networks
         items: []
       - subcategory:
-        name: SD-Wan / Security
+        name: Security
+        items: []
+      - subcategory:
+        name: SD-WAN
         items: []
   - category:
     name: Platforms
     subcategories:
       - subcategory:
-        name: Edge PASS
+        name: Edge PaSS
         items: []
       - subcategory:
         name: IoT Focused
@@ -56,28 +45,28 @@ landscape:
         name: Provisionning
         items: []
       - subcategory:
-        name: IAAS
+        name: IaaS
         items: []
   - category:
     name: Hardware
     subcategories:
       - subcategory:
-        name: Core Silicon
+        name: Core Silicon (CPU / PLC)
         items: []
       - subcategory:
-        name: Accelerators
+        name: Accelerators (GPU / FPGA / TPU)
         items: []
   - category:
-    name: Connectivity
+    name: Networking / Connectivity
     subcategories:
       - subcategory:
-        name: Fiber & Peering
+        name: Fiber & Peering (PoE)
         items: []
       - subcategory:
-        name: 4G / 5G / IoT
+        name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
         items: []
   - category:
-    name: Real Estate
+    name: Real Estate / Land
     subcategories:
       - subcategory:
         name: Traditional
@@ -88,12 +77,29 @@ landscape:
       - subcategory:
         name: Towers
         items: []
+      - subcategory:
+        name: Municipal Right of Way (Easements)
+        items: []
   - category:
-    name: Supply Chain
+    name: Services / System Integrators
     subcategories:
       - subcategory:
-        name: Supply Chain
+        name: Services / System Integrators
         items: []
+   - category:
+    name: Other Edge Related Software
+    subcategories:
+      - subcategory:
+        name: Other Edge Related Software
+        items:
+          - item:
+            name: Kubernetes
+            homepage_url: 'https://kubernetes.io/'
+            project: graduated
+            repo_url: 'https://github.com/kubernetes/kubernetes'
+            logo: kubernetes.svg
+            twitter: 'https://twitter.com/kubernetesio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
     name: LF Edge Member Company
     subcategories:
