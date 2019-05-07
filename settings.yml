@@ -103,16 +103,16 @@ big_picture:
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 2050
-      height: 1000
+      height: 600
     fullscreen_size:
       width: 2050
-      height: 1000
+      height: 600
     elements:
       - type: HorizontalCategory
         category: .ORG
         rows: 3
-        width: 150
-        height: 160
+        width: 350
+        height: 200
         top: 0
         left: 0
         color: 'rgb(78,171,207)'
@@ -120,28 +120,28 @@ big_picture:
       - type: HorizontalCategory
         category: Traffic / Delivery
         rows: 3
-        width: 480
-        height: 160
+        width: 770
+        height: 200
         top: 0
-        left: 170
+        left: 370
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
         category: Traffic Routing
         rows: 3
-        width: 150
-        height: 160
+        width: 160
+        height: 200
         top: 0
-        left: 670
+        left: 1160
         color: 'rgb(43, 142, 136)'
         fit_width: true
       - type: HorizontalCategory
         category: Platforms
         rows: 3
-        width: 1160
-        height: 160
+        width: 660
+        height: 200
         top: 0
-        left: 840
+        left: 1340
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
@@ -149,7 +149,7 @@ big_picture:
         rows: 3
         width: 340
         height: 160
-        top: 190
+        top: 220
         left: 410
         color: 'rgb(74, 131, 104)'
         fit_width: true
@@ -158,7 +158,7 @@ big_picture:
         rows: 3
         width: 1230
         height: 160
-        top: 190
+        top: 220
         left: 770
         color: 'rgb(64, 131, 104)'
         fit_width: true
@@ -167,35 +167,35 @@ big_picture:
         rows: 3
         width: 260
         height: 160
-        top: 380
+        top: 400
         left: 0
         color: 'rgb(142, 209, 216)'
         fit_width: true
       - type: HorizontalCategory
         category: Networking / Connectivity
         rows: 3
-        width: 260
+        width: 460
         height: 160
-        top: 380
+        top: 400
         left: 280
         color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
         category: Real Estate / Land
         rows: 3
-        width: 260
+        width: 760
         height: 160
-        top: 380
-        left: 560
+        top: 400
+        left: 760
         color: 'rgb(108, 135, 75)'
         fit_width: true
       - type: HorizontalCategory
         category: Services / System Integrators
         rows: 3
-        width: 1160
+        width: 460
         height: 160
-        top: 380
-        left: 840
+        top: 400
+        left: 1540
         color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
@@ -203,14 +203,14 @@ big_picture:
         rows: 10
         width: 2000
         height: 350
-        top: 570
+        top: 580
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: LandscapeInfo
         width: 390
         height: 160
-        top: 190
+        top: 220
         left: 5
         children:
           - type: text
