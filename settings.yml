@@ -118,22 +118,13 @@ big_picture:
         color: 'rgb(78,171,207)'
         fit_width: true
       - type: HorizontalCategory
-        category: Traffic / Delivery
+        category: Traffic Routing
         rows: 3
-        width: 770
+        width: 970
         height: 200
         top: 0
         left: 370
         color: 'rgb(104, 145, 145)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Traffic Routing
-        rows: 3
-        width: 160
-        height: 200
-        top: 0
-        left: 1160
-        color: 'rgb(43, 142, 136)'
         fit_width: true
       - type: HorizontalCategory
         category: Platforms
