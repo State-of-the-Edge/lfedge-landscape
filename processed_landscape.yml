@@ -65,14 +65,14 @@ landscape:
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
             github_data:
-              stars: 52181
+              stars: 54102
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2019-05-07T00:00:00.000Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/9f1b04f9066bf396e58a2dea08fc3d37e4f43e79
-              release_date: '2019-05-01T19:20:37Z'
+              latest_commit_date: '2019-06-18T00:00:00.000Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/eaf89cfbb483f99411141f70c294e8a014e49cec
+              release_date: '2019-06-06T18:16:22Z'
               release_link: 'https://github.com/kubernetes/kubernetes/releases'
-              contributors_count: 2123
+              contributors_count: 2164
               contributors_link: 'https://github.com/kubernetes/kubernetes/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
@@ -86,7 +86,7 @@ landscape:
               badge: 569
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-05-06T17:39:23.000Z
+              latest_tweet_date: 2019-06-17T17:15:09.000Z
   - category:
     name: Security
     subcategories: []
@@ -143,7 +143,7 @@ landscape:
         items:
           - item:
             name: Aricent
-            homepage_url: 'http://www.aricent.com/'
+            homepage_url: 'https://northamerica.altran.com/'
             logo: aricent.svg
             twitter: 'http://twitter.com/Aricent'
             crunchbase: 'https://www.crunchbase.com/organization/aricent'
@@ -172,7 +172,7 @@ landscape:
               latest_tweet_date: 2019-04-03T16:00:10.000Z
           - item:
             name: Arm
-            homepage_url: 'http://www.arm.com'
+            homepage_url: 'https://www.arm.com/'
             stock_ticker: null
             logo: arm.svg
             twitter: 'https://twitter.com/Arm'
@@ -197,7 +197,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-04T06:30:02.000Z
+              latest_tweet_date: 2019-06-17T12:13:28.000Z
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
@@ -221,7 +221,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 223215222784
+              market_cap: 235729584128
               effective_ticker: T
             image_data:
               fileName: at-t.svg
@@ -230,7 +230,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-07T02:59:20.000Z
+              latest_tweet_date: 2019-06-18T03:26:07.000Z
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
@@ -254,7 +254,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 57470541824
+              market_cap: 40017215488
               effective_ticker: BIDU
             image_data:
               fileName: baidu.svg
@@ -263,7 +263,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-04-30T13:26:51.000Z
+              latest_tweet_date: 2019-06-14T15:23:49.000Z
           - item:
             name: Dell EMC
             homepage_url: 'https://www.dellemc.com/en-us/index.htm'
@@ -286,7 +286,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 48996495360
+              market_cap: 36380893184
               effective_ticker: DELL
             image_data:
               fileName: dell-emc.svg
@@ -295,10 +295,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-07T01:22:18.000Z
+              latest_tweet_date: 2019-06-18T02:00:03.000Z
           - item:
             name: Dianomic
-            homepage_url: 'http://www.dianomic.com/'
+            homepage_url: 'http://dianomic.com/'
             logo: dianomic.svg
             twitter: 'https://twitter.com/dianomicsystems'
             crunchbase: 'https://www.crunchbase.com/organization/dianomic'
@@ -346,7 +346,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 32364288000
+              market_cap: 31847532544
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
@@ -355,10 +355,70 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-07T01:44:37.000Z
+              latest_tweet_date: 2019-06-17T21:27:12.000Z
+          - item:
+            name: Fujitsu
+            homepage_url: 'http://www.fujitsu.com/'
+            stock_ticker: null
+            logo: fujitsu.svg
+            twitter: 'https://twitter.com/Fujitsu_Global'
+            crunchbase: 'https://www.crunchbase.com/organization/fujitsu'
+            crunchbase_data:
+              name: Fujitsu
+              description: Fujitsu provides information technology and communications solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.fujitsu.com'
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: 'http://twitter.com/Fujitsu_Global'
+              linkedin: 'https://www.linkedin.com/company/1374'
+            membership_data:
+              member: premier
+            image_data:
+              fileName: fujitsu.svg
+              hash: L6JPJzzGJ4ly8bxtI/Re03aKdlVRAkCffFnOJvlPQJI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-06-17T09:15:02.000Z
+          - item:
+            name: GE Research
+            homepage_url: 'https://www.ge.com/reports/'
+            stock_ticker: GE
+            logo: ge.svg
+            twitter: 'https://twitter.com/geresearch'
+            crunchbase: 'https://www.crunchbase.com/organization/ge-global-research'
+            crunchbase_data:
+              name: GE Global Research
+              description: GE Global Research owns and operates a network of innovation centers that make advancements in science and technology.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://ge.geglobalresearch.com'
+              city: Schenectady
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/geresearch'
+              linkedin: 'https://www.linkedin.com/company/geglobalresearch'
+              kind: market_cap
+            membership_data:
+              member: premier
+            yahoo_finance_data:
+              market_cap: 87644143616
+              effective_ticker: GE
+            image_data:
+              fileName: ge-research.svg
+              hash: 9g+/GVJXVElRYXmvOSiuUJHFkdV9/ASS4wq02l2RwYo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-06-17T22:22:56.000Z
           - item:
             name: HP
-            homepage_url: 'https://www.hp.com'
+            homepage_url: 'https://www8.hp.com/us/en/home.html'
             stock_ticker: HPQ
             logo: hp.svg
             twitter: 'https://twitter.com/HP'
@@ -379,7 +439,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 30808016896
+              market_cap: 29975171072
               effective_ticker: HPQ
             image_data:
               fileName: hp.svg
@@ -388,10 +448,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T15:56:06.000Z
+              latest_tweet_date: 2019-06-13T12:18:00.000Z
           - item:
             name: HPE
-            homepage_url: 'https://www.hpe.com'
+            homepage_url: 'https://www.hpe.com/us/en/home.html'
             stock_ticker: HPE
             logo: hpe.svg
             twitter: 'https://twitter.com/HPE'
@@ -412,7 +472,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 21460150272
+              market_cap: 19149844480
               effective_ticker: HPE
             image_data:
               fileName: hpe.svg
@@ -421,7 +481,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T12:45:32.000Z
+              latest_tweet_date: 2019-06-17T21:46:26.000Z
           - item:
             name: Huawei
             homepage_url: 'https://www.huawei.com/en/'
@@ -448,10 +508,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T10:16:50.000Z
+              latest_tweet_date: 2019-06-18T02:02:55.000Z
           - item:
             name: IBM
-            homepage_url: 'https://www.IBM.com'
+            homepage_url: 'https://www.ibm.com/us-en/'
             stock_ticker: IBM
             logo: ibm.svg
             twitter: 'https://twitter.com/IBM'
@@ -472,7 +532,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 124466946048
+              market_cap: 119652474880
               effective_ticker: IBM
             image_data:
               fileName: ibm.svg
@@ -481,7 +541,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T17:02:42.000Z
+              latest_tweet_date: 2019-06-17T23:29:31.000Z
           - item:
             name: Intel
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
@@ -505,7 +565,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 229311954944
+              market_cap: 206524022784
               effective_ticker: INTC
             image_data:
               fileName: intel.svg
@@ -514,10 +574,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T23:05:55.000Z
+              latest_tweet_date: 2019-06-17T16:00:25.000Z
           - item:
             name: inwinSTACK
-            homepage_url: 'http://www.inwinstack.com'
+            homepage_url: 'https://www.inwinstack.com/'
             logo: inwinstack.svg
             twitter: 'https://twitter.com/inwinstack'
             crunchbase: 'https://www.crunchbase.com/organization/inwinstack'
@@ -544,7 +604,7 @@ landscape:
               latest_tweet_date: 2019-01-04T02:46:12.000Z
           - item:
             name: Juniper Networks
-            homepage_url: 'https://www.juniper.net'
+            homepage_url: 'https://www.juniper.net/us/en'
             stock_ticker: JNPR
             logo: juniper.svg
             twitter: 'https://twitter.com/JuniperNetworks'
@@ -565,7 +625,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 9496134656
+              market_cap: 9159045120
               effective_ticker: JNPR
             image_data:
               fileName: juniper-networks.svg
@@ -574,7 +634,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T20:04:03.000Z
+              latest_tweet_date: 2019-06-17T19:43:27.000Z
           - item:
             name: MobiledgeX
             homepage_url: 'https://mobiledgex.com/'
@@ -582,10 +642,10 @@ landscape:
             twitter: 'https://twitter.com/mobiledgex'
             crunchbase: 'https://www.crunchbase.com/organization/mobileedgex'
             crunchbase_data:
-              name: MobileedgeX
-              description: A marketplace of edge computing resources & services
-              num_employees_min: null
-              num_employees_max: null
+              name: MobiledgeX
+              description: MobiledgeX is a marketplace of edge computing resources & services.
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: 'https://mobiledgex.com'
               city: San Francisco
               region: California
@@ -601,7 +661,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-03T19:58:08.000Z
+              latest_tweet_date: 2019-06-17T16:10:35.000Z
           - item:
             name: Netsia
             homepage_url: 'http://www.netsia.com'
@@ -628,7 +688,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-02-28T13:52:25.000Z
+              latest_tweet_date: 2019-06-14T14:22:53.000Z
           - item:
             name: Nokia
             homepage_url: 'https://www.nokia.com'
@@ -641,7 +701,7 @@ landscape:
               description: 'Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices, and network infrastructure.'
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://nokia.com'
+              homepage: 'http://www.nokia.com'
               city: Helsinki
               region: Southern Finland
               country: Finland
@@ -652,7 +712,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 28553111552
+              market_cap: 27655714816
               effective_ticker: NOK
             image_data:
               fileName: nokia.svg
@@ -661,7 +721,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T11:22:34.000Z
+              latest_tweet_date: 2019-06-17T14:46:33.000Z
           - item:
             name: NTT Group
             homepage_url: 'http://www.ntt.co.jp/activity/en/global/'
@@ -685,7 +745,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 79624806400
+              market_cap: 86456516608
               effective_ticker: NTTYY
             image_data:
               fileName: ntt-group.svg
@@ -694,10 +754,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-05T01:30:46.000Z
+              latest_tweet_date: 2019-06-16T01:01:50.000Z
           - item:
             name: OSIsoft
-            homepage_url: 'http://www.osisoft.com'
+            homepage_url: 'https://www.osisoft.com/'
             logo: osisoft.svg
             twitter: 'http://twitter.com/OSIsoft'
             crunchbase: 'https://www.crunchbase.com/organization/osisoft'
@@ -723,7 +783,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-03T11:01:07.000Z
+              latest_tweet_date: 2019-06-17T22:01:04.000Z
           - item:
             name: Qualcomm
             homepage_url: 'https://www.qualcomm.com'
@@ -747,7 +807,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 107285520384
+              market_cap: 84017029120
               effective_ticker: QCOM
             image_data:
               fileName: qualcomm.svg
@@ -756,7 +816,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T23:28:27.000Z
+              latest_tweet_date: 2019-06-17T22:46:26.000Z
           - item:
             name: Radisys
             homepage_url: 'https://www.radisys.com'
@@ -785,12 +845,12 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T18:36:03.000Z
+              latest_tweet_date: 2019-06-17T21:18:02.000Z
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
             stock_ticker: RHT
-            logo: redhat.svg
+            logo: RedHat-new.svg
             twitter: 'https://twitter.com/redhat'
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
             crunchbase_data:
@@ -809,19 +869,19 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 32760430592
+              market_cap: 33112387584
               effective_ticker: RHT
             image_data:
               fileName: red-hat.svg
-              hash: cOZzIOXCMM2PWVYXeQ5O8hYtyiZ+BEkOV379IUtosLc=
+              hash: v40IPUMXKcSPIT67pbYDnbhbezwFX2wzOmRQ3fygxZw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-07T02:22:49.000Z
+              latest_tweet_date: 2019-06-17T21:00:15.000Z
           - item:
             name: Samsung Electronics
-            homepage_url: 'https://www.samsung.com'
+            homepage_url: 'https://www.samsung.com/us/'
             stock_ticker: 005930.KS
             logo: samsung.svg
             twitter: 'https://twitter.com/samsung'
@@ -832,8 +892,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: 'http://www.samsung.com/us'
-              city: Suwon
-              region: Ch'ungch'ong-namdo
+              city: Seoul
+              region: Seoul-t'ukpyolsi
               country: South Korea
               twitter: 'https://twitter.com/samsung'
               linkedin: 'https://www.linkedin.com/company/samsung-electronics/'
@@ -842,7 +902,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 297557112651776
+              market_cap: 295200517783552
               effective_ticker: 005930.KS
             image_data:
               fileName: samsung-electronics.svg
@@ -851,7 +911,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-07T03:01:08.000Z
+              latest_tweet_date: 2019-06-18T02:30:00.000Z
           - item:
             name: Seagate Technology
             homepage_url: 'https://www.seagate.com'
@@ -874,7 +934,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 13667738624
+              market_cap: 12280756224
               effective_ticker: STX
             image_data:
               fileName: seagate-technology.svg
@@ -883,7 +943,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T23:49:55.000Z
+              latest_tweet_date: 2019-06-17T16:17:01.000Z
           - item:
             name: Tencent
             homepage_url: 'https://www.tencent.com/zh-cn/index.html'
@@ -907,7 +967,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 453385814016
+              market_cap: 398921629696
               effective_ticker: TCEHY
             image_data:
               fileName: tencent.svg
@@ -937,7 +997,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 229311954944
+              market_cap: 206524022784
               effective_ticker: INTC
             image_data:
               fileName: wind-river.svg
@@ -946,10 +1006,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-07T02:00:12.000Z
+              latest_tweet_date: 2019-06-17T22:50:46.000Z
           - item:
             name: Wipro Technologies
-            homepage_url: 'http://www.wipro.com'
+            homepage_url: 'https://www.wipro.com/'
             stock_ticker: WIT
             logo: wipro.svg
             twitter: 'http://twitter.com/Wipro'
@@ -970,7 +1030,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 25714767872
+              market_cap: 25612066816
               effective_ticker: WIT
             image_data:
               fileName: wipro-technologies.svg
@@ -979,7 +1039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T21:30:12.000Z
+              latest_tweet_date: 2019-06-17T19:30:09.000Z
           - item:
             name: ZEDEDA
             homepage_url: 'https://www.zededa.com'
@@ -1008,13 +1068,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-03T15:59:22.000Z
+              latest_tweet_date: 2019-06-13T22:32:01.000Z
       - subcategory:
         name: General
         items:
           - item:
             name: Alef Mobitech
-            homepage_url: 'http://www.alefmobitech.com/'
+            homepage_url: 'https://www.alefedge.com/'
             logo: alef.svg
             twitter: 'https://twitter.com/alefmobitech'
             crunchbase: 'https://www.crunchbase.com/organization/alefmobitech'
@@ -1045,7 +1105,7 @@ landscape:
             name: Alleantia
             homepage_url: 'https://www.alleantia.com/'
             logo: alleantia.svg
-            twitter: 'https://twitter.com/FogHorn_IoT'
+            twitter: 'https://twitter.com/Alleantiasrl'
             crunchbase: 'https://www.crunchbase.com/organization/alleantia'
             crunchbase_data:
               name: Alleantia
@@ -1069,7 +1129,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T16:38:00.000Z
+              latest_tweet_date: 2019-06-14T15:28:09.000Z
           - item:
             name: Beechwoods Software
             homepage_url: 'https://www.beechwoods.com/'
@@ -1096,7 +1156,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-02-25T10:01:04.000Z
+              latest_tweet_date: 2019-05-16T15:55:42.000Z
           - item:
             name: CertusNet
             homepage_url: 'http://www.certusnetnj.com.cn/'
@@ -1175,7 +1235,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-02T08:18:19.000Z
+              latest_tweet_date: 2019-06-14T12:37:19.000Z
           - item:
             name: EMQ Technologies
             homepage_url: 'https://www.emqx.io/'
@@ -1231,10 +1291,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-02-21T12:44:59.000Z
+              latest_tweet_date: 2019-06-12T07:37:54.000Z
           - item:
             name: EpiSensor
-            homepage_url: 'http://episensor.com/'
+            homepage_url: 'https://episensor.com/'
             logo: episensor.svg
             twitter: 'http://twitter.com/episensor'
             crunchbase: 'https://www.crunchbase.com/organization/episensor'
@@ -1263,7 +1323,7 @@ landscape:
               latest_tweet_date: 2017-09-18T13:56:20.000Z
           - item:
             name: FogHorn
-            homepage_url: 'https://https://www.foghorn.io/'
+            homepage_url: 'https://www.foghorn.io/'
             logo: foghorn.svg
             twitter: 'https://twitter.com/FogHorn_IoT'
             crunchbase: 'https://www.crunchbase.com/organization/foghorn'
@@ -1289,28 +1349,28 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T16:38:00.000Z
+              latest_tweet_date: 2019-06-17T18:24:10.000Z
           - item:
             name: ForgeRock
-            homepage_url: 'https://https://www.foghorn.io/'
+            homepage_url: 'https://www.forgerock.com/'
             logo: forgerock.svg
-            twitter: 'http://twitter.com/Alleantiasrl'
-            crunchbase: 'https://www.crunchbase.com/organization/foghorn'
+            twitter: 'https://twitter.com/ForgeRock'
+            crunchbase: 'https://www.crunchbase.com/organization/forgerock'
             crunchbase_data:
-              name: FogHorn
-              description: FogHorn is a leading developer of “edge intelligence” software for industrial and commercial IoT application solutions.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'https://www.foghorn.io'
-              city: Mountain View
+              name: ForgeRock
+              description: 'ForgeRock digital identity management solutions transform how organizations securely interact with customers, employees, devices, and things'
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'http://www.forgerock.com'
+              city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/FogHorn_IoT'
-              linkedin: 'https://www.linkedin.com/company/foghorn-systems'
+              twitter: 'https://twitter.com/ForgeRock'
+              linkedin: 'https://www.linkedin.com/company/forgerock'
               kind: funding
-              funding: 47500000
+              funding: 140165000
             membership_data:
-              member: general
+              member: false
             image_data:
               fileName: forge-rock.svg
               hash: 6zdOPYvhO5ZjaDgBdE6EG2izvasIVpiKzYSfTmgnnks=
@@ -1318,7 +1378,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T09:02:26.000Z
+              latest_tweet_date: 2019-06-17T23:43:01.000Z
           - item:
             name: Foundries.io
             homepage_url: 'http://foundries.io/'
@@ -1345,7 +1405,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-01T11:36:00.000Z
+              latest_tweet_date: 2019-06-14T08:00:11.000Z
           - item:
             name: Harmony Cloud
             homepage_url: 'http://harmonycloud.cn/'
@@ -1399,10 +1459,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T10:13:17.000Z
+              latest_tweet_date: 2019-06-12T18:13:57.000Z
           - item:
             name: IoTium
-            homepage_url: 'http://iotium.io'
+            homepage_url: 'https://www.iotium.io/'
             logo: iotium.svg
             twitter: 'https://twitter.com/IoTium_inc'
             crunchbase: 'https://www.crunchbase.com/organization/iotium'
@@ -1428,7 +1488,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-03T17:01:35.000Z
+              latest_tweet_date: 2019-05-16T19:06:43.000Z
           - item:
             name: KMC Controls
             homepage_url: 'https://www.kmccontrols.com/'
@@ -1455,10 +1515,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T19:50:07.000Z
+              latest_tweet_date: 2019-06-17T19:45:10.000Z
           - item:
             name: Linaro
-            homepage_url: 'http://www.linaro.org/'
+            homepage_url: 'https://www.linaro.org/'
             logo: linaro.svg
             twitter: 'http://twitter.com/linaroorg'
             crunchbase: 'https://www.crunchbase.com/organization/linaro'
@@ -1482,7 +1542,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-04-30T13:35:41.000Z
+              latest_tweet_date: 2019-06-13T14:08:55.000Z
           - item:
             name: Mainflux
             homepage_url: 'https://www.mainflux.com/'
@@ -1509,7 +1569,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-02T23:00:25.000Z
+              latest_tweet_date: 2019-06-14T06:33:33.000Z
           - item:
             name: Marvell Technology
             homepage_url: 'https://www.marvell.com/'
@@ -1532,7 +1592,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 16101814272
+              market_cap: 15678919680
               effective_ticker: MRVL
             image_data:
               fileName: marvell-technology.svg
@@ -1541,7 +1601,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T18:28:24.000Z
+              latest_tweet_date: 2019-06-17T19:09:05.000Z
           - item:
             name: Mocana
             homepage_url: 'https://www.mocana.com/'
@@ -1573,7 +1633,7 @@ landscape:
               latest_tweet_date: 2017-07-24T12:20:34.000Z
           - item:
             name: NetFoundry
-            homepage_url: 'https://www.netfoundry.io/'
+            homepage_url: 'https://netfoundry.io/'
             logo: netfoundry.svg
             twitter: 'https://www.twitter.com/netfoundry'
             crunchbase: 'https://www.crunchbase.com/organization/netfoundry'
@@ -1597,7 +1657,32 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T20:53:00.000Z
+              latest_tweet_date: 2019-06-17T20:54:40.000Z
+          - item:
+            name: OTAinfo
+            homepage_url: 'https://www.otainfo.com'
+            logo: otainfo.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/otainfo'
+            crunchbase_data:
+              name: OTAinfo
+              description: OTAinfo is an open source project. It helps customer in adopting Uptane project.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.otainfo.com'
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+            membership_data:
+              member: general
+            image_data:
+              fileName: ot-ainfo.svg
+              hash: t9a1qM9H72TZyoZPVTVlThWFnUy3FWndWP8kTtvLch4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Packet
             homepage_url: 'https://www.packet.com'
@@ -1626,10 +1711,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-07T01:39:06.000Z
+              latest_tweet_date: 2019-06-17T23:53:32.000Z
           - item:
             name: Pluribus Networks
-            homepage_url: 'http://pluribusnetworks.com'
+            homepage_url: 'https://www.pluribusnetworks.com/'
             logo: pluribus.svg
             twitter: 'http://twitter.com/pluribusnet'
             crunchbase: 'https://www.crunchbase.com/organization/pluribus-networks'
@@ -1655,10 +1740,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T17:34:23.000Z
+              latest_tweet_date: 2019-06-17T14:48:11.000Z
           - item:
             name: RackN
-            homepage_url: 'https://www.rackn.com'
+            homepage_url: 'https://rackn.com/'
             logo: rackn.svg
             twitter: 'https://www.twitter.com/rackngo'
             crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
@@ -1687,7 +1772,7 @@ landscape:
               latest_tweet_date: 2019-04-15T16:14:14.000Z
           - item:
             name: Redis Labs
-            homepage_url: 'https://www.redislabs.com'
+            homepage_url: 'https://redislabs.com/'
             logo: redislabs.svg
             twitter: 'http://twitter.com/RedisLabs'
             crunchbase: 'https://www.crunchbase.com/organization/redis-labs'
@@ -1713,10 +1798,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T23:34:00.000Z
+              latest_tweet_date: 2019-06-17T19:03:01.000Z
           - item:
             name: REPLY
-            homepage_url: 'https://www.reply.com/'
+            homepage_url: 'https://www.reply.com/en/'
             logo: reply.svg
             twitter: 'https://twitter.com/reply_uk'
             crunchbase: 'https://www.crunchbase.com/organization/reply'
@@ -1740,7 +1825,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T12:45:13.000Z
+              latest_tweet_date: 2019-06-17T13:15:16.000Z
           - item:
             name: section.io
             homepage_url: 'https://www.section.io/'
@@ -1769,7 +1854,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-01T13:10:23.000Z
+              latest_tweet_date: 2019-06-10T15:57:28.000Z
           - item:
             name: Ubuntu
             homepage_url: 'https://www.ubuntu.com/'
@@ -1798,10 +1883,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T20:00:13.000Z
+              latest_tweet_date: 2019-06-17T19:50:28.000Z
           - item:
             name: Vapor IO
-            homepage_url: 'http://www.vapor.io/'
+            homepage_url: 'https://www.vapor.io/'
             logo: vaporio.svg
             twitter: 'https://twitter.com/vaporio'
             crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
@@ -1825,10 +1910,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-03T15:12:02.000Z
+              latest_tweet_date: 2019-06-17T13:23:01.000Z
           - item:
             name: Vitro Technology Corporation
-            homepage_url: 'http://vitro.io'
+            homepage_url: 'https://vitro.io/'
             logo: vitro.svg
             twitter: 'https://twitter.com/vitro_io'
             crunchbase: 'https://www.crunchbase.com/organization/vitro-technology-corporation'
@@ -1855,7 +1940,7 @@ landscape:
               latest_tweet_date: 2019-02-25T22:37:04.000Z
           - item:
             name: Volterra
-            homepage_url: 'http://vitro.io'
+            homepage_url: 'https://www.ves.io/'
             logo: volterra.svg
             twitter: 'https://twitter.com/Volterra_'
             crunchbase: 'https://www.crunchbase.com/organization/volterra-inc'
@@ -1912,7 +1997,7 @@ landscape:
         items:
           - item:
             name: Automotive Edge Computing Consortium
-            homepage_url: 'http://www.aecc.org'
+            homepage_url: 'https://aecc.org/'
             logo: aecc.svg
             twitter: 'https://twitter.com/TweetAECC'
             crunchbase: 'https://www.crunchbase.com/organization/automotive-edge-computing-consortium'
@@ -1936,10 +2021,10 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-03T15:00:33.000Z
+              latest_tweet_date: 2019-05-16T14:00:09.000Z
           - item:
             name: Beijing University of Posts and Telecommunications
-            homepage_url: 'http://www.bupt.edu.cn/'
+            homepage_url: 'https://www.bupt.edu.cn/'
             logo: bupt.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications'
@@ -1964,7 +2049,7 @@ landscape:
               percentage: null
           - item:
             name: ETRI
-            homepage_url: 'https://etrij.etri.re.kr/'
+            homepage_url: 'https://etri.re.kr/eng/main/main.etri'
             logo: etri.svg
             twitter: 'https://www.twitter.com/etrinewsmaker'
             crunchbase: 'https://www.crunchbase.com/organization/etri'
@@ -1989,6 +2074,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-03-14T01:31:57.000Z
+          - item:
+            name: Industrial Internet Consortium
+            homepage_url: 'https://www.iiconsortium.org/'
+            logo: iic-liaison.svg
+            twitter: 'https://twitter.com/iiconsortium'
+            crunchbase: 'https://www.crunchbase.com/organization/industrial-internet-consortium-2'
+            crunchbase_data:
+              name: Industrial Internet Consortium
+              description: 'Industrial Internet Consortium, a non-profit, open-membership group, catalyzes, coordinates, and enables growth of the industrial internet.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.iiconsortium.org/'
+              city: Needham
+              region: Massachusetts
+              country: United States
+              twitter: 'http://twitter.com/iiconsortium'
+              linkedin: 'https://www.linkedin.com/company-beta/5380050'
+            membership_data:
+              member: associate
+            image_data:
+              fileName: industrial-internet-consortium.svg
+              hash: Jdj9lZbbnizQp86FKotYvNLNzBJDSW73noI4mIeA+Wg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-06-12T14:02:10.000Z
           - item:
             name: Infrastructure Masons
             homepage_url: 'https://imasons.org'
@@ -2017,7 +2129,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-04-25T23:57:51.000Z
+              latest_tweet_date: 2019-05-17T01:13:01.000Z
           - item:
             name: Project Haystack
             homepage_url: 'https://project-haystack.org'
@@ -2044,7 +2156,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T11:18:23.000Z
+              latest_tweet_date: 2019-06-11T19:46:21.000Z
           - item:
             name: University of New Hampshire - Interoperability Lab
             homepage_url: 'https://www.iol.unh.edu/'
@@ -2073,7 +2185,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-05-06T18:36:31.000Z
+              latest_tweet_date: 2019-06-17T15:36:09.000Z
 twitter_options:
   count: 22
   since_id: '1095013375270998016'
