@@ -13,10 +13,7 @@ landscape:
         items: []
       - subcategory:
         name: Application Delivery Networks
-        items: []
-      - subcategory:
-        name: Security
-        items: []
+        items: []  
       - subcategory:
         name: SD-WAN
         items: []
@@ -24,7 +21,13 @@ landscape:
     name: Platforms
     subcategories:
       - subcategory:
-        name: Edge PaSS
+        name: CDN & Distributed Caches
+        items: []
+      - subcategory:
+        name: Application Delivery Network (ADN)
+        items: []
+      - subcategory:
+        name: Edge PaaS
         items: []
       - subcategory:
         name: IoT Focused
@@ -32,15 +35,29 @@ landscape:
       - subcategory:
         name: Decentralized
         items: []
+      - subcategory:
+        name: Edge Virtualization
+        items: []
   - category:
     name: Infrastructure
     subcategories:
       - subcategory:
-        name: Provisionning
-        items: []
-      - subcategory:
-        name: IaaS
-        items: []
+        name: Infrastructure
+        items:
+          - item:
+            name: Kubernetes
+            homepage_url: 'https://kubernetes.io/'
+            project: graduated
+            repo_url: 'https://github.com/kubernetes/kubernetes'
+            logo: kubernetes.svg
+            twitter: 'https://twitter.com/kubernetesio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+  - category:
+    name: Security
+    subcategories: []
+  - category:
+    name: Networking
+    subcategories: []  
   - category:
     name: Hardware
     subcategories:
@@ -51,7 +68,7 @@ landscape:
         name: Accelerators (GPU / FPGA / TPU)
         items: []
   - category:
-    name: Networking / Connectivity
+    name: Edge OEMs
     subcategories:
       - subcategory:
         name: Fiber & Peering (PoE)
@@ -59,6 +76,9 @@ landscape:
       - subcategory:
         name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
         items: []
+  - category:
+    name: Wireless & Wireline
+    subcategories: []      
   - category:
     name: Real Estate / Land
     subcategories:
@@ -79,18 +99,7 @@ landscape:
     subcategories: []
   - category:
     name: Other Edge Related Software
-    subcategories:
-      - subcategory:
-        name: Other Edge Related Software
-        items:
-          - item:
-            name: Kubernetes
-            homepage_url: 'https://kubernetes.io/'
-            project: graduated
-            repo_url: 'https://github.com/kubernetes/kubernetes'
-            logo: kubernetes.svg
-            twitter: 'https://twitter.com/kubernetesio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+    subcategories: []
   - category:
     name: LF Edge Member Company
     subcategories:

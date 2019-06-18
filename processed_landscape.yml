@@ -16,16 +16,19 @@ landscape:
         name: Application Delivery Networks
         items: []
       - subcategory:
-        name: Security
-        items: []
-      - subcategory:
         name: SD-WAN
         items: []
   - category:
     name: Platforms
     subcategories:
       - subcategory:
-        name: Edge PaSS
+        name: CDN & Distributed Caches
+        items: []
+      - subcategory:
+        name: Application Delivery Network (ADN)
+        items: []
+      - subcategory:
+        name: Edge PaaS
         items: []
       - subcategory:
         name: IoT Focused
@@ -33,56 +36,14 @@ landscape:
       - subcategory:
         name: Decentralized
         items: []
+      - subcategory:
+        name: Edge Virtualization
+        items: []
   - category:
     name: Infrastructure
     subcategories:
       - subcategory:
-        name: Provisionning
-        items: []
-      - subcategory:
-        name: IaaS
-        items: []
-  - category:
-    name: Hardware
-    subcategories:
-      - subcategory:
-        name: Core Silicon (CPU / PLC)
-        items: []
-      - subcategory:
-        name: Accelerators (GPU / FPGA / TPU)
-        items: []
-  - category:
-    name: Networking / Connectivity
-    subcategories:
-      - subcategory:
-        name: Fiber & Peering (PoE)
-        items: []
-      - subcategory:
-        name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
-        items: []
-  - category:
-    name: Real Estate / Land
-    subcategories:
-      - subcategory:
-        name: Traditional
-        items: []
-      - subcategory:
-        name: Non Traditional
-        items: []
-      - subcategory:
-        name: Towers
-        items: []
-      - subcategory:
-        name: Municipal Right of Way (Easements)
-        items: []
-  - category:
-    name: Services / System Integrators
-    subcategories: []
-  - category:
-    name: Other Edge Related Software
-    subcategories:
-      - subcategory:
-        name: Other Edge Related Software
+        name: Infrastructure
         items:
           - item:
             name: Kubernetes
@@ -126,6 +87,54 @@ landscape:
               percentage: 100
             twitter_data:
               latest_tweet_date: 2019-05-06T17:39:23.000Z
+  - category:
+    name: Security
+    subcategories: []
+  - category:
+    name: Networking
+    subcategories: []
+  - category:
+    name: Hardware
+    subcategories:
+      - subcategory:
+        name: Core Silicon (CPU / PLC)
+        items: []
+      - subcategory:
+        name: Accelerators (GPU / FPGA / TPU)
+        items: []
+  - category:
+    name: Edge OEMs
+    subcategories:
+      - subcategory:
+        name: Fiber & Peering (PoE)
+        items: []
+      - subcategory:
+        name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
+        items: []
+  - category:
+    name: Wireless & Wireline
+    subcategories: []
+  - category:
+    name: Real Estate / Land
+    subcategories:
+      - subcategory:
+        name: Traditional
+        items: []
+      - subcategory:
+        name: Non Traditional
+        items: []
+      - subcategory:
+        name: Towers
+        items: []
+      - subcategory:
+        name: Municipal Right of Way (Easements)
+        items: []
+  - category:
+    name: Services / System Integrators
+    subcategories: []
+  - category:
+    name: Other Edge Related Software
+    subcategories: []
   - category:
     name: LF Edge Member Company
     subcategories:
