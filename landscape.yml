@@ -1,21 +1,48 @@
 landscape:
   - category:
     name: .ORG
-    subcategories:
-      - subcategory:
-        name: .ORG
-        items: []
+    subcategories: []
   - category:
     name: Traffic Routing
+    subcategories: []
+  - category:
+    name: Traffic / Delivery
     subcategories:
       - subcategory:
-        name: Traffic Routing
+        name: Traditional CDN's
+        items: []
+      - subcategory:
+        name: Application Delivery Networks
+        items: []  
+      - subcategory:
+        name: SD-WAN
         items: []
   - category:
-    name: Edge Relevant Software
+    name: Platforms
     subcategories:
       - subcategory:
-        name: Edge Relevant Software
+        name: CDN & Distributed Caches
+        items: []
+      - subcategory:
+        name: Application Delivery Network (ADN)
+        items: []
+      - subcategory:
+        name: Edge PaaS
+        items: []
+      - subcategory:
+        name: IoT Focused
+        items: []
+      - subcategory:
+        name: Decentralized
+        items: []
+      - subcategory:
+        name: Edge Virtualization
+        items: []
+  - category:
+    name: Infrastructure
+    subcategories:
+      - subcategory:
+        name: Infrastructure
         items:
           - item:
             name: Kubernetes
@@ -26,58 +53,34 @@ landscape:
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
   - category:
-    name: Traffic / Delivery
-    subcategories:
-      - subcategory:
-        name: Traditional CDN's
-        items: []
-      - subcategory:
-        name: Application Delivery
-        items: []
-      - subcategory:
-        name: SD-Wan / Security
-        items: []
+    name: Security
+    subcategories: []
   - category:
-    name: Platforms
-    subcategories:
-      - subcategory:
-        name: Edge PASS
-        items: []
-      - subcategory:
-        name: IoT Focused
-        items: []
-      - subcategory:
-        name: Decentralized
-        items: []
-  - category:
-    name: Infrastructure
-    subcategories:
-      - subcategory:
-        name: Provisionning
-        items: []
-      - subcategory:
-        name: IAAS
-        items: []
+    name: Networking
+    subcategories: []  
   - category:
     name: Hardware
     subcategories:
       - subcategory:
-        name: Core Silicon
+        name: Core Silicon (CPU / PLC)
         items: []
       - subcategory:
-        name: Accelerators
+        name: Accelerators (GPU / FPGA / TPU)
         items: []
   - category:
-    name: Connectivity
+    name: Edge OEMs
     subcategories:
       - subcategory:
-        name: Fiber & Peering
+        name: Fiber & Peering (PoE)
         items: []
       - subcategory:
-        name: 4G / 5G / IoT
+        name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
         items: []
   - category:
-    name: Real Estate
+    name: Wireless & Wireline
+    subcategories: []      
+  - category:
+    name: Real Estate / Land
     subcategories:
       - subcategory:
         name: Traditional
@@ -88,12 +91,15 @@ landscape:
       - subcategory:
         name: Towers
         items: []
-  - category:
-    name: Supply Chain
-    subcategories:
       - subcategory:
-        name: Supply Chain
+        name: Municipal Right of Way (Easements)
         items: []
+  - category:
+    name: Services / System Integrators
+    subcategories: []
+  - category:
+    name: Other Edge Related Software
+    subcategories: []
   - category:
     name: LF Edge Member Company
     subcategories:
