@@ -42,7 +42,10 @@ landscape:
     name: Infrastructure
     subcategories:
       - subcategory:
-        name: Infrastructure
+        name: Monitoring
+        items: []
+      - subcategory:
+        name: Provisioning
         items:
           - item:
             name: Kubernetes
@@ -52,6 +55,20 @@ landscape:
             logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+      - subcategory:
+        name: Virtualization
+        items: 
+          - item:
+            name: Project EVE
+            homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
+            project: graduated
+            repo_url: 'https://github.com/lf-edge/eve'
+            logo: logo-eve-wtext.svg
+            twitter: 'https://twitter.com/lf_edge'
+            crunchbase: 'https://www.crunchbase.com/organization/the-linux-foundation'
+      - subcategory:
+        name: Physical
+        items: []
   - category:
     name: Security
     subcategories: []
