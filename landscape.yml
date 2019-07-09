@@ -9,20 +9,14 @@ landscape:
     name: Traffic / Delivery
     subcategories:
       - subcategory:
-        name: Traditional CDN's
-        items: []
-      - subcategory:
-        name: Application Delivery Networks
+        name: CDN & Distributed Caches
         items: []
       - subcategory:
         name: SD-WAN
         items: []
   - category:
     name: Platforms
-    subcategories:
-      - subcategory:
-        name: CDN & Distributed Caches
-        items: []
+    subcategories: 
       - subcategory:
         name: Application Delivery Network (ADN)
         items: []
@@ -34,9 +28,6 @@ landscape:
         items: []
       - subcategory:
         name: Decentralized
-        items: []
-      - subcategory:
-        name: Edge Virtualization
         items: []
   - category:
     name: Infrastructure
