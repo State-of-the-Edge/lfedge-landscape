@@ -43,7 +43,14 @@ landscape:
     subcategories:
       - subcategory:
         name: Monitoring
-        items: []
+        items: 
+          - item:
+            name: Synse
+            homepage_url: 'https://www.vapor.io/synse/'
+            repo_url: 'https://github.com/vapor-ware/synse'
+            logo: synse-logo.svg
+            twitter: 'https://twitter.com/vaporio'
+            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
       - subcategory:
         name: Provisioning
         items:

@@ -44,7 +44,48 @@ landscape:
     subcategories:
       - subcategory:
         name: Monitoring
-        items: []
+        items:
+          - item:
+            name: Synse
+            homepage_url: 'https://www.vapor.io/synse/'
+            repo_url: 'https://github.com/vapor-ware/synse'
+            logo: synse-logo.svg
+            twitter: 'https://twitter.com/vaporio'
+            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
+            crunchbase_data:
+              name: Vapor IO
+              description: 'Edge colocation, interconnection and software-defined networking'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.vapor.io/'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: 'https://twitter.com/vaporio'
+              linkedin: null
+            github_data:
+              stars: 7
+              license: GNU General Public License v3.0
+              description: Vapor IO's Synse Platform
+              latest_commit_date: '2019-05-29T04:00:00.000Z'
+              latest_commit_link: /vapor-ware/synse/commit/e7cf412380e552f1049b298202d4e0018df6cbbd
+              release_date: null
+              release_link: null
+              contributors_count: 3
+              contributors_link: 'https://github.com/vapor-ware/synse/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /vapor-ware/synse/commit/e99ff4a69b70ff333df64b54326150200d563b62
+              start_date: '2017-10-05T20:31:49Z'
+            membership_data:
+              member: general
+            image_data:
+              fileName: synse.svg
+              hash: vitXteXHMPRfTAeCAeJ2KQY+bTIlVKh2p30du6WHfBs=
+            best_practice_data:
+              badge: 1587
+              percentage: 97
+            twitter_data:
+              latest_tweet_date: 2019-07-01T15:12:18.000Z
       - subcategory:
         name: Provisioning
         items:
