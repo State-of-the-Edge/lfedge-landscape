@@ -21,10 +21,18 @@ landscape:
     name: Platforms
     subcategories:
       - subcategory:
-        name: CDN & Distributed Caches
-        items: []
+        name: Communication Service Provider
+        items: 
+        - item: 
+          name: Akraino
+          homepage_url: 'https://www.lfedge.org/projects/akraino/'
+          repo_url: 'https://gerrit.akraino.org'
+          logo: akraino.svg
+          project: growth
+          twitter: 'https://twitter.com/LF_Edge'
+          crunchbase: 'https://www.crunchbase.com/organization/lf-edge' 
       - subcategory:
-        name: Application Delivery Network (ADN)
+        name: CDN & Distributed Caches
         items: []
       - subcategory:
         name: Edge PaaS
@@ -67,7 +75,7 @@ landscape:
           - item:
             name: Project EVE
             homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
-            project: graduated
+            project: growth
             repo_url: 'https://github.com/lf-edge/eve'
             logo: logo-eve-wtext.svg
             twitter: 'https://twitter.com/lf_edge'
