@@ -31,7 +31,15 @@ landscape:
         items: []
       - subcategory:
         name: IoT Focused
-        items: []
+        items: 
+          - item:
+            name: EdgeX Foundry
+            homepage_url: 'https://www.edgexfoundry.org/'
+            project: graduated
+            repo_url: 'https://github.com/edgexfoundry/'
+            logo: logo-eve-wtext.svg
+            twitter: 'https://twitter.com/edgexfoundry'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
       - subcategory:
         name: Decentralized
         items: []
