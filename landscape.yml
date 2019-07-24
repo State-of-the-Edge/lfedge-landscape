@@ -21,17 +21,32 @@ landscape:
     name: Platforms
     subcategories:
       - subcategory:
-        name: CDN & Distributed Caches
-        items: []
+        name: Communication Service Provider
+        items: 
+        - item: 
+          name: Akraino
+          homepage_url: 'https://www.lfedge.org/projects/akraino/'
+          logo: akraino.svg
+          project: growth
+          twitter: 'https://twitter.com/LF_Edge'
+          crunchbase: 'https://www.crunchbase.com/organization/lf-edge' 
       - subcategory:
-        name: Application Delivery Network (ADN)
+        name: CDN & Distributed Caches
         items: []
       - subcategory:
         name: Edge PaaS
         items: []
       - subcategory:
         name: IoT Focused
-        items: []
+        items: 
+          - item:
+            name: EdgeX Foundry
+            homepage_url: 'https://www.edgexfoundry.org/'
+            project: graduated
+            repo_url: 'https://github.com/edgexfoundry/edgex-go'
+            logo: edgex-foundry.svg
+            twitter: 'https://twitter.com/edgexfoundry'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
       - subcategory:
         name: Decentralized
         items: []
@@ -67,7 +82,7 @@ landscape:
           - item:
             name: Project EVE
             homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
-            project: graduated
+            project: growth
             repo_url: 'https://github.com/lf-edge/eve'
             logo: logo-eve-wtext.svg
             twitter: 'https://twitter.com/lf_edge'
@@ -477,7 +492,7 @@ landscape:
           - item:
             name: Redis Labs
             homepage_url: 'https://redislabs.com/'
-            logo: redislabs.svg
+            logo: Redis.svg
             twitter: 'http://twitter.com/RedisLabs'
             crunchbase: 'https://www.crunchbase.com/organization/redis-labs'
           - item:
@@ -486,6 +501,12 @@ landscape:
             logo: reply.svg
             twitter: 'https://twitter.com/reply_uk'
             crunchbase: 'https://www.crunchbase.com/organization/reply'
+          - item:
+            name: SAIC Foundation
+            homepage_url: 'https://tesra.org/'
+            logo: TESRA.svg
+            twitter: 'https://twitter.com/TesraSupernet'
+            crunchbase: 'https://www.crunchbase.com/organization/saic-foundation-ltd'
           - item:
             name: section.io
             homepage_url: 'https://www.section.io/'
