@@ -43,6 +43,14 @@ relation:
           big_picture_order: 2
           big_picture_label: LF Edge Incubating
           big_picture_color: 'rgb(83, 113, 189)'
+        - id: growth
+          label: Stage 2 Growth
+          prefix: LF Edge
+          tag: Growth
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Edge Growth
+          big_picture_color: 'rgb(24,54,114)'
     - id: company
       label: LF Edge Members
       tag: Company
@@ -261,7 +269,7 @@ big_picture:
             top: 60
 test:
   header: LF Edge Interactive Landscape
-  section: Graduated LF Edge Projects
+  section: Stage 2 Growth
   logo: project-eve.svg
 update_server:
   ip: 147.75.106.211
