@@ -43,6 +43,14 @@ relation:
           big_picture_order: 2
           big_picture_label: LF Edge Incubating
           big_picture_color: 'rgb(83, 113, 189)'
+        - id: at_large
+          label: Stage 1 At Large
+          prefix: LF Edge
+          tag: At Large
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Edge At Large
+          big_picture_color: 'rgb(24,54,114)'
         - id: growth
           label: Stage 2 Growth
           prefix: LF Edge
@@ -50,6 +58,22 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: LF Edge Growth
+          big_picture_color: 'rgb(24,54,114)'
+        - id: impact
+          label: Stage 3 Impact
+          prefix: LF Edge
+          tag: Impact
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Edge Impact
+          big_picture_color: 'rgb(24,54,114)'
+        - id: emeritus
+          label: Stage 4 Emeritus
+          prefix: LF Edge
+          tag: Emeritus
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Edge Emeritus
           big_picture_color: 'rgb(24,54,114)'
     - id: company
       label: LF Edge Members
