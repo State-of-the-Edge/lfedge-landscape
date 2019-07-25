@@ -2,13 +2,16 @@ landscape:
   - category:
     name: .ORG
     subcategories:
-     - item:
-        name: Open Glossary of Edge Computing
-        homepage_url: 'https://www.lfedge.org/projects/openglossary/'
-        project: growth
-        logo: box_glossary.svg
-        twitter: 'https://twitter.com/LF_Edge'
-        crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+      - subcategory:
+        name: .ORG
+        items:
+          - item:
+            name: Open Glossary of Edge Computing
+            homepage_url: 'https://www.lfedge.org/projects/openglossary/'
+            project: growth
+            logo: box_glossary.svg
+            twitter: 'https://twitter.com/LF_Edge'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
   - category:
     name: Traffic Routing
     subcategories: []
@@ -49,13 +52,16 @@ landscape:
           - item:
             name: EdgeX Foundry
             homepage_url: 'https://www.edgexfoundry.org/'
-            project: growth
+            project: impact
             repo_url: 'https://github.com/edgexfoundry/edgex-go'
             logo: edgex-foundry.svg
             twitter: 'https://twitter.com/edgexfoundry'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
       - subcategory:
         name: Decentralized
+        items: []
+      - subcategory:
+        name: Edge Virtualization
         items: []
   - category:
     name: Infrastructure
@@ -142,13 +148,16 @@ landscape:
   - category:
     name: Other Edge Related Software
     subcategories:
-    - item:
-      name: Home Edge
-      homepage_url: 'https://www.lfedge.org/projects/homeedge/'
-      project: growth
-      logo: home-edge-400.svg
-      twitter: 'https://twitter.com/LF_Edge'
-      crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+      - subcategory:
+        name: Other
+        items:
+          - item:
+            name: Home Edge
+            homepage_url: 'https://www.lfedge.org/projects/homeedge/'
+            project: growth
+            logo: home-edge-400.svg
+            twitter: 'https://twitter.com/LF_Edge'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
   - category:
     name: LF Edge Member Company
     subcategories:
