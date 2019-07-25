@@ -3,12 +3,9 @@
     "name",
     "homepage_url",
     "project",
-    "repo_url",
     "logo",
     "twitter",
     "crunchbase",
-    "github_data",
-    "github_start_commit_data",
     "image_data",
     "member",
     "relation",
@@ -38,38 +35,162 @@
     "bestPracticeBadgeId",
     "bestPracticePercentage",
     "id",
+    "repo_url",
+    "github_data",
+    "github_start_commit_data",
     "stock_ticker",
     "yahoo_finance_data"
   ],
   [
+    "Akraino",
+    "https://www.lfedge.org/projects/akraino/",
+    "growth",
+    "akraino.svg",
+    "https://twitter.com/LF_Edge",
+    "https://www.crunchbase.com/organization/lf-edge",
+    {
+      "fileName": "akraino.svg",
+      "hash": "2u/BlwpTydqRCxW2NnKa/C69vPMwaOTAKPCO0SX1ToI="
+    },
+    "!E",
+    "growth",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "NotOpenSource",
+    "San Francisco, California",
+    {
+      "text": "this week",
+      "value": "990",
+      "original": "2019-07-24T17:34:02.000Z"
+    },
+    "LF Edge is builds an open source framework for the edge.",
+    "LF Edge",
+    {
+      "name": "LF Edge",
+      "description": "LF Edge is builds an open source framework for the edge.",
+      "homepage": "https://www.lfedge.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/lf_edge",
+      "linkedin": null,
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "Platforms / Communication Service Provider",
+    "Platforms / Communication Service Provider",
+    "Platforms",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "logos/akraino.svg",
+    "!E",
+    "!E",
+    "akraino",
+    "!E",
+    "!E",
+    "!E",
+    "!E",
+    "!E"
+  ],
+  [
+    "EdgeX Foundry",
+    "https://www.edgexfoundry.org/",
+    "graduated",
+    "edgex-foundry.svg",
+    "https://twitter.com/edgexfoundry",
+    "https://www.crunchbase.com/organization/lf-edge",
+    {
+      "fileName": "edge-x-foundry.svg",
+      "hash": "xpwRYr/YF6ltal3ppJ30T+UKl4XG9xTf79aHT4L5Cn4="
+    },
+    "!E",
+    "graduated",
+    "2017-12-01T20:13:25Z",
+    "https://github.com/edgexfoundry/edgex-go/commit/5d4f832b5efaee071ca93cc0d475a31c78b6a2fc",
+    {
+      "text": "this week",
+      "value": "990",
+      "original": "2019-07-23T00:00:00.000Z"
+    },
+    "https://github.com/edgexfoundry/edgex-go/commit/9a1996e0f0100ca36f26da262eda24085a84676e",
+    "!E",
+    "!E",
+    54,
+    "https://github.com/edgexfoundry/edgex-go/graphs/contributors",
+    395,
+    "Apache License 2.0",
+    "San Francisco, California",
+    {
+      "text": "this week",
+      "value": "990",
+      "original": "2019-07-24T17:54:02.000Z"
+    },
+    "EdgeX Golang Services Monorepo",
+    "LF Edge",
+    {
+      "name": "LF Edge",
+      "description": "LF Edge is builds an open source framework for the edge.",
+      "homepage": "https://www.lfedge.org",
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "twitter": "https://twitter.com/lf_edge",
+      "linkedin": null,
+      "numEmployeesMin": null,
+      "numEmployeesMax": null
+    },
+    "Platforms / IoT Focused",
+    "Platforms / IoT Focused",
+    "Platforms",
+    "!E",
+    "!E",
+    "!E",
+    true,
+    "logos/edge-x-foundry.svg",
+    "!E",
+    "!E",
+    "edge-x-foundry",
+    "https://github.com/edgexfoundry/edgex-go",
+    {
+      "stars": 395,
+      "license": "Apache License 2.0",
+      "description": "EdgeX Golang Services Monorepo",
+      "latest_commit_date": "2019-07-23T00:00:00.000Z",
+      "latest_commit_link": "/edgexfoundry/edgex-go/commit/9a1996e0f0100ca36f26da262eda24085a84676e",
+      "release_date": null,
+      "release_link": null,
+      "contributors_count": 54,
+      "contributors_link": "https://github.com/edgexfoundry/edgex-go/graphs/contributors"
+    },
+    {
+      "start_commit_link": "/edgexfoundry/edgex-go/commit/5d4f832b5efaee071ca93cc0d475a31c78b6a2fc",
+      "start_date": "2017-12-01T20:13:25Z"
+    },
+    "!E",
+    "!E"
+  ],
+  [
     "Project EVE",
     "https://wiki.lfedge.org/display/EVE/Project+EVE",
-    "graduated",
-    "https://github.com/lf-edge/eve",
+    "growth",
     "logo-eve-wtext.svg",
     "https://twitter.com/lf_edge",
     "https://www.crunchbase.com/organization/lf-edge",
-    {
-      "stars": 43,
-      "license": "Apache License 2.0",
-      "description": "EVE is Edge Virtualization Engine ",
-      "latest_commit_date": "2019-07-23T00:00:00.000Z",
-      "latest_commit_link": "/lf-edge/eve/commit/45505acf80ef72ba2b9defa8842cbd697000bcd8",
-      "release_date": null,
-      "release_link": null,
-      "contributors_count": 30,
-      "contributors_link": "https://github.com/lf-edge/eve/graphs/contributors"
-    },
-    {
-      "start_commit_link": "/lf-edge/eve/commit/fc05a1f8ea2dc7fa59cb13b76910409f86e3d720",
-      "start_date": "2017-05-01T21:15:36Z"
-    },
     {
       "fileName": "project-eve.svg",
       "hash": "T4gHD+ZAEnwSNPx0PNHGrtQSNOso+fpqgLktyTDdekg="
     },
     "!E",
-    "graduated",
+    "growth",
     "2017-05-01T21:15:36Z",
     "https://github.com/lf-edge/eve/commit/fc05a1f8ea2dc7fa59cb13b76910409f86e3d720",
     {
@@ -82,13 +203,13 @@
     "!E",
     30,
     "https://github.com/lf-edge/eve/graphs/contributors",
-    43,
+    45,
     "Apache License 2.0",
     "San Francisco, California",
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T16:29:38.000Z"
+      "original": "2019-07-24T17:34:02.000Z"
     },
     "EVE is Edge Virtualization Engine ",
     "LF Edge",
@@ -115,6 +236,22 @@
     "!E",
     "!E",
     "project-eve",
+    "https://github.com/lf-edge/eve",
+    {
+      "stars": 45,
+      "license": "Apache License 2.0",
+      "description": "EVE is Edge Virtualization Engine ",
+      "latest_commit_date": "2019-07-23T00:00:00.000Z",
+      "latest_commit_link": "/lf-edge/eve/commit/45505acf80ef72ba2b9defa8842cbd697000bcd8",
+      "release_date": null,
+      "release_link": null,
+      "contributors_count": 30,
+      "contributors_link": "https://github.com/lf-edge/eve/graphs/contributors"
+    },
+    {
+      "start_commit_link": "/lf-edge/eve/commit/fc05a1f8ea2dc7fa59cb13b76910409f86e3d720",
+      "start_date": "2017-05-01T21:15:36Z"
+    },
     "!E",
     "!E"
   ],
@@ -122,12 +259,9 @@
     "Aricent",
     "https://northamerica.altran.com/",
     "company",
-    "!E",
     "aricent.svg",
     "https://twitter.com/Aricent",
     "https://www.crunchbase.com/organization/aricent",
-    "!E",
-    "!E",
     {
       "fileName": "aricent.svg",
       "hash": "K7pi+eP6eW62Shl7off8M22521kbvHotrRKhBoEskVc="
@@ -178,18 +312,18 @@
     "!E",
     "aricent",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Arm",
     "https://www.arm.com/",
     "company",
-    "!E",
     "arm.svg",
     "https://twitter.com/Arm",
     "https://www.crunchbase.com/organization/arm",
-    "!E",
-    "!E",
     {
       "fileName": "arm.svg",
       "hash": "QVawBP6MFOhjSRP3wjGp3yYjDazuZjKfSiz3lhAZKog="
@@ -238,18 +372,18 @@
     "!E",
     "arm",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "AT&T",
     "https://www.att.com/",
     "company",
-    "!E",
     "att.svg",
     "https://twitter.com/ATT",
     "https://www.crunchbase.com/organization/at-t",
-    "!E",
-    "!E",
     {
       "fileName": "at-t.svg",
       "hash": "WLTEq8dCUCQJR4NIJ4UPirIdljIdVgPuNftdWMlScxc="
@@ -270,7 +404,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-24T03:47:24.000Z"
+      "original": "2019-07-25T03:07:27.000Z"
     },
     "AT&T is a telecommunications company that provides wireless communications, local exchange, and long-distance services.",
     "AT&T",
@@ -292,16 +426,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    234192814080,
+    242585534464,
     "!E",
     "!E",
     "logos/at-t.svg",
     "!E",
     "!E",
     "at-t",
+    "!E",
+    "!E",
+    "!E",
     "T",
     {
-      "market_cap": 234192814080,
+      "market_cap": 242585534464,
       "effective_ticker": "T"
     }
   ],
@@ -309,12 +446,9 @@
     "Baidu",
     "https://www.baidu.com/",
     "company",
-    "!E",
     "baidu.svg",
     "https://twitter.com/Baidu_Inc",
     "https://www.crunchbase.com/organization/baidu",
-    "!E",
-    "!E",
     {
       "fileName": "baidu.svg",
       "hash": "Uf7XBptZpmwNNo64sUfPrMDoHWVj25eNfd+mRR49lqo="
@@ -335,7 +469,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-19T16:48:17.000Z"
+      "original": "2019-07-24T14:30:52.000Z"
     },
     "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
     "Baidu",
@@ -357,16 +491,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    40300728320,
+    41989320704,
     "!E",
     "!E",
     "logos/baidu.svg",
     "!E",
     "!E",
     "baidu",
+    "!E",
+    "!E",
+    "!E",
     "BIDU",
     {
-      "market_cap": 40300728320,
+      "market_cap": 41989320704,
       "effective_ticker": "BIDU"
     }
   ],
@@ -374,12 +511,9 @@
     "Dell EMC",
     "https://www.dellemc.com/en-us/index.htm",
     "company",
-    "!E",
     "dell-emc.svg",
     "https://twitter.com/DellEMCStorage",
     "https://www.crunchbase.com/organization/dell-emc",
-    "!E",
-    "!E",
     {
       "fileName": "dell-emc.svg",
       "hash": "2vqxjbBMMQiDLif0o29fBO+STdqiYewN9pB6yKpiBwA="
@@ -400,7 +534,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-24T03:46:14.000Z"
+      "original": "2019-07-24T20:47:50.000Z"
     },
     "Dell EMC enables digital transformation with trusted solutions for the modern data center.",
     "Dell EMC",
@@ -422,7 +556,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    39851556864,
+    40397668352,
     "!E",
     "!E",
     "logos/dell-emc.svg",
@@ -430,8 +564,11 @@
     "!E",
     "dell-emc",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     {
-      "market_cap": 39851556864,
+      "market_cap": 40397668352,
       "effective_ticker": "DELL"
     }
   ],
@@ -439,12 +576,9 @@
     "Dianomic",
     "http://dianomic.com/",
     "company",
-    "!E",
     "dianomic.svg",
     "https://twitter.com/dianomicsystems",
     "https://www.crunchbase.com/organization/dianomic",
-    "!E",
-    "!E",
     {
       "fileName": "dianomic.svg",
       "hash": "coOUVmgN1LISHe6WCitDyAyJhfmujC3+IMVOp5G37lI="
@@ -489,18 +623,18 @@
     "!E",
     "dianomic",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Ericsson",
     "https://www.ericsson.com/en",
     "company",
-    "!E",
     "ericsson.svg",
     "https://twitter.com/ericsson",
     "https://www.crunchbase.com/organization/ericsson",
-    "!E",
-    "!E",
     {
       "fileName": "ericsson.svg",
       "hash": "sKaHX/i4rCKD48RUqkFbHw6dLwKNppXQjT5iwCkRILU="
@@ -521,7 +655,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T23:28:25.000Z"
+      "original": "2019-07-24T20:23:07.000Z"
     },
     "Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.",
     "Ericsson",
@@ -543,16 +677,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    29184385024,
+    28655562752,
     "!E",
     "!E",
     "logos/ericsson.svg",
     "!E",
     "!E",
     "ericsson",
+    "!E",
+    "!E",
+    "!E",
     "ERIC",
     {
-      "market_cap": 29184385024,
+      "market_cap": 28655562752,
       "effective_ticker": "ERIC"
     }
   ],
@@ -560,12 +697,9 @@
     "Fujitsu",
     "http://www.fujitsu.com/",
     "company",
-    "!E",
     "fujitsu.svg",
     "https://twitter.com/Fujitsu_Global",
     "https://www.crunchbase.com/organization/fujitsu",
-    "!E",
-    "!E",
     {
       "fileName": "fujitsu.svg",
       "hash": "L6JPJzzGJ4ly8bxtI/Re03aKdlVRAkCffFnOJvlPQJI="
@@ -586,7 +720,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T19:01:02.000Z"
+      "original": "2019-07-25T01:10:02.000Z"
     },
     "Fujitsu provides information technology and communications solutions.",
     "Fujitsu",
@@ -614,18 +748,18 @@
     "!E",
     "fujitsu",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "GE Research",
     "https://www.ge.com/reports/",
     "company",
-    "!E",
     "ge.svg",
     "https://twitter.com/geresearch",
     "https://www.crunchbase.com/organization/ge-global-research",
-    "!E",
-    "!E",
     {
       "fileName": "ge-research.svg",
       "hash": "9g+/GVJXVElRYXmvOSiuUJHFkdV9/ASS4wq02l2RwYo="
@@ -646,7 +780,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T19:03:38.000Z"
+      "original": "2019-07-25T00:42:26.000Z"
     },
     "GE Global Research owns and operates a network of innovation centers that make advancements in science and technology.",
     "GE Global Research",
@@ -667,16 +801,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    92876619776,
+    93138255872,
     "!E",
     "!E",
     "logos/ge-research.svg",
     "!E",
     "!E",
     "ge-research",
+    "!E",
+    "!E",
+    "!E",
     "GE",
     {
-      "market_cap": 92876619776,
+      "market_cap": 93138255872,
       "effective_ticker": "GE"
     }
   ],
@@ -684,12 +821,9 @@
     "HP",
     "https://www8.hp.com/us/en/home.html",
     "company",
-    "!E",
     "hp.svg",
     "https://twitter.com/HP",
     "https://www.crunchbase.com/organization/hewlett-packard",
-    "!E",
-    "!E",
     {
       "fileName": "hp.svg",
       "hash": "h+xWN5GbTVupAqw/BpZYytnP+f261w6y1w89xrelNU8="
@@ -732,16 +866,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    32581052416,
+    32778635264,
     "!E",
     "!E",
     "logos/hp.svg",
     "!E",
     "!E",
     "hp",
+    "!E",
+    "!E",
+    "!E",
     "HPQ",
     {
-      "market_cap": 32581052416,
+      "market_cap": 32778635264,
       "effective_ticker": "HPQ"
     }
   ],
@@ -749,12 +886,9 @@
     "HPE",
     "https://www.hpe.com/us/en/home.html",
     "company",
-    "!E",
     "hpe.svg",
     "https://twitter.com/HPE",
     "https://www.crunchbase.com/organization/hewlett-packard-enterprise",
-    "!E",
-    "!E",
     {
       "fileName": "hpe.svg",
       "hash": "uMAE7wlbcNQlym/YHFyFYiRcP9SjwPyg/zlendHNDNc="
@@ -775,7 +909,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T18:22:00.000Z"
+      "original": "2019-07-24T21:03:53.000Z"
     },
     "Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster.",
     "Hewlett Packard Enterprise",
@@ -797,16 +931,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    19564980224,
+    20166971392,
     "!E",
     "!E",
     "logos/hpe.svg",
     "!E",
     "!E",
     "hpe",
+    "!E",
+    "!E",
+    "!E",
     "HPE",
     {
-      "market_cap": 19564980224,
+      "market_cap": 20166971392,
       "effective_ticker": "HPE"
     }
   ],
@@ -814,12 +951,9 @@
     "Huawei",
     "https://www.huawei.com/en/",
     "company",
-    "!E",
     "huawei.svg",
     "https://twitter.com/Huawei",
     "https://www.crunchbase.com/organization/huawei",
-    "!E",
-    "!E",
     {
       "fileName": "huawei.svg",
       "hash": "LGtEuzEIh7z2ujX+q1bf/zrJUR/ZarjGneRp1qwfriI="
@@ -840,7 +974,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-24T02:00:09.000Z"
+      "original": "2019-07-25T03:05:12.000Z"
     },
     "Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.",
     "Huawei Technologies",
@@ -868,18 +1002,18 @@
     "!E",
     "huawei",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "IBM",
     "https://www.ibm.com/us-en/",
     "company",
-    "!E",
     "ibm.svg",
     "https://twitter.com/IBM",
     "https://www.crunchbase.com/organization/ibm",
-    "!E",
-    "!E",
     {
       "fileName": "ibm.svg",
       "hash": "ZjpUH4pNt5l4oDV4GctJSS85QJTidUBMfrDP2Kl4y8w="
@@ -900,7 +1034,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-24T02:30:06.000Z"
+      "original": "2019-07-24T18:46:26.000Z"
     },
     "IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.",
     "IBM",
@@ -922,16 +1056,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    133333377024,
+    133023047680,
     "!E",
     "!E",
     "logos/ibm.svg",
     "!E",
     "!E",
     "ibm",
+    "!E",
+    "!E",
+    "!E",
     "IBM",
     {
-      "market_cap": 133333377024,
+      "market_cap": 133023047680,
       "effective_ticker": "IBM"
     }
   ],
@@ -939,12 +1076,9 @@
     "Intel",
     "https://www.intel.com/content/www/us/en/homepage.html",
     "company",
-    "!E",
     "intel.svg",
     "https://twitter.com/intel",
     "https://www.crunchbase.com/organization/intel",
-    "!E",
-    "!E",
     {
       "fileName": "intel.svg",
       "hash": "Hsk0TETEt9113n9crwvh4XlWrlgUBxMo0QVYrY1nKAY="
@@ -965,7 +1099,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T14:30:29.000Z"
+      "original": "2019-07-24T17:52:36.000Z"
     },
     "Intel designs, manufactures, and sells integrated digital technology platforms worldwide.",
     "Intel",
@@ -987,16 +1121,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    231684767744,
+    236922847232,
     "!E",
     "!E",
     "logos/intel.svg",
     "!E",
     "!E",
     "intel",
+    "!E",
+    "!E",
+    "!E",
     "INTC",
     {
-      "market_cap": 231684767744,
+      "market_cap": 236922847232,
       "effective_ticker": "INTC"
     }
   ],
@@ -1004,12 +1141,9 @@
     "inwinSTACK",
     "https://www.inwinstack.com/",
     "company",
-    "!E",
     "inwinstack.svg",
     "https://twitter.com/inwinstack",
     "https://www.crunchbase.com/organization/inwinstack",
-    "!E",
-    "!E",
     {
       "fileName": "inwin-stack.svg",
       "hash": "zTZU70kr1H+jVM7jbZUVaf/56qsT8S6h6wYYc+rjoP8="
@@ -1058,18 +1192,18 @@
     "!E",
     "inwin-stack",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Juniper Networks",
     "https://www.juniper.net/us/en",
     "company",
-    "!E",
     "juniper.svg",
     "https://twitter.com/JuniperNetworks",
     "https://www.crunchbase.com/organization/juniper-networks",
-    "!E",
-    "!E",
     {
       "fileName": "juniper-networks.svg",
       "hash": "25uqgEMPCKDuMlOhKupVLIiohgAmrQkzxh9i0jrFl7g="
@@ -1090,7 +1224,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T20:16:06.000Z"
+      "original": "2019-07-24T22:01:03.000Z"
     },
     "Juniper Networks is a news network that designs, develops, and sells products and services, along with network infrastructure.",
     "Juniper Networks",
@@ -1112,16 +1246,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    9262342144,
+    9348423680,
     "!E",
     "!E",
     "logos/juniper-networks.svg",
     "!E",
     "!E",
     "juniper-networks",
+    "!E",
+    "!E",
+    "!E",
     "JNPR",
     {
-      "market_cap": 9262342144,
+      "market_cap": 9348423680,
       "effective_ticker": "JNPR"
     }
   ],
@@ -1129,12 +1266,9 @@
     "MobiledgeX",
     "https://mobiledgex.com/",
     "company",
-    "!E",
     "mobiledgex.svg",
     "https://twitter.com/mobiledgex",
     "https://www.crunchbase.com/organization/mobileedgex",
-    "!E",
-    "!E",
     {
       "fileName": "mobiledge-x.svg",
       "hash": "tSXRqLeo4FdCwBL56lkVDWHhrQcWmCJJ4asaWoS4d4E="
@@ -1183,18 +1317,18 @@
     "!E",
     "mobiledge-x",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Netsia",
     "http://www.netsia.com",
     "company",
-    "!E",
     "netsia.svg",
     "https://twitter.com/IncNetsia",
     "https://www.crunchbase.com/organization/netsia",
-    "!E",
-    "!E",
     {
       "fileName": "netsia.svg",
       "hash": "9G/gKrTJhwNRPBGdrT4iwYlAR9B2Vtw+Z43PwT+wMCs="
@@ -1243,18 +1377,18 @@
     "!E",
     "netsia",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Nokia",
     "https://www.nokia.com",
     "company",
-    "!E",
     "nokia.svg",
     "https://twitter.com/nokia",
     "https://www.crunchbase.com/organization/nokia",
-    "!E",
-    "!E",
     {
       "fileName": "nokia.svg",
       "hash": "tUQCfokmTztY1JtL0DUnJ8IaIOKqSsn9HHARZmE1Ifw="
@@ -1275,7 +1409,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T09:46:42.000Z"
+      "original": "2019-07-24T11:46:34.000Z"
     },
     "Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices, and network infrastructure.",
     "Nokia",
@@ -1297,16 +1431,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    29074788352,
+    29180493824,
     "!E",
     "!E",
     "logos/nokia.svg",
     "!E",
     "!E",
     "nokia",
+    "!E",
+    "!E",
+    "!E",
     "NOK",
     {
-      "market_cap": 29074788352,
+      "market_cap": 29180493824,
       "effective_ticker": "NOK"
     }
   ],
@@ -1314,12 +1451,9 @@
     "NTT Group",
     "http://www.ntt.co.jp/activity/en/global/",
     "company",
-    "!E",
     "ntt.svg",
     "https://twitter.com/NTTPR",
     "https://www.crunchbase.com/organization/ntt-group-a877",
-    "!E",
-    "!E",
     {
       "fileName": "ntt-group.svg",
       "hash": "ivwR24Ex8vTV9g9um5j2yuEm7P+pvOlPI739rLKUhAA="
@@ -1362,16 +1496,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    88973164544,
+    89934454784,
     "!E",
     "!E",
     "logos/ntt-group.svg",
     "!E",
     "!E",
     "ntt-group",
+    "!E",
+    "!E",
+    "!E",
     "NTTYY",
     {
-      "market_cap": 88973164544,
+      "market_cap": 89934454784,
       "effective_ticker": "NTTYY"
     }
   ],
@@ -1379,12 +1516,9 @@
     "OSIsoft",
     "https://www.osisoft.com/",
     "company",
-    "!E",
     "osisoft.svg",
     "https://twitter.com/OSIsoft",
     "https://www.crunchbase.com/organization/osisoft",
-    "!E",
-    "!E",
     {
       "fileName": "os-isoft.svg",
       "hash": "DZzeKl4g90vxIj/58lI+87Vk3uw0zLGNDghsMA5cx/c="
@@ -1405,7 +1539,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T21:45:04.000Z"
+      "original": "2019-07-24T22:00:58.000Z"
     },
     "OSIsoft is a manufacturer of application software for real-time data infrastructure solutions.",
     "OSIsoft",
@@ -1435,18 +1569,18 @@
     "!E",
     "os-isoft",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Qualcomm",
     "https://www.qualcomm.com",
     "company",
-    "!E",
     "qualcomm.svg",
     "https://twitter.com/Qualcomm",
     "https://www.crunchbase.com/organization/qualcomm",
-    "!E",
-    "!E",
     {
       "fileName": "qualcomm.svg",
       "hash": "CsNKAIhrvh3cMQRBOyDEHKJQf5JIenJdhz9cTOQDmPo="
@@ -1467,7 +1601,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T21:18:00.000Z"
+      "original": "2019-07-24T23:11:06.000Z"
     },
     "Qualcomm designs, manufactures, and markets digital wireless telecommunications products and services.",
     "Qualcomm",
@@ -1489,16 +1623,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    90107682816,
+    92235161600,
     "!E",
     "!E",
     "logos/qualcomm.svg",
     "!E",
     "!E",
     "qualcomm",
+    "!E",
+    "!E",
+    "!E",
     "QCOM",
     {
-      "market_cap": 90107682816,
+      "market_cap": 92235161600,
       "effective_ticker": "QCOM"
     }
   ],
@@ -1506,12 +1643,9 @@
     "Radisys",
     "https://www.radisys.com",
     "company",
-    "!E",
     "radisys.svg",
     "https://twitter.com/radisys",
     "https://www.crunchbase.com/organization/radisys",
-    "!E",
-    "!E",
     {
       "fileName": "radisys.svg",
       "hash": "WE8ihHANSZMdQq8tQgW+aA5QH15sJRPbgGJL/BDtTb4="
@@ -1532,7 +1666,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-22T19:12:17.000Z"
+      "original": "2019-07-24T22:08:40.000Z"
     },
     "RadiSys is a leading provider of innovative hardware and software platforms for next generation IP-based wireless, wireline and video",
     "Radisys",
@@ -1562,18 +1696,18 @@
     "!E",
     "radisys",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Red Hat",
     "https://www.redhat.com/en",
     "company",
-    "!E",
     "RedHat-new.svg",
     "https://twitter.com/redhat",
     "https://www.crunchbase.com/organization/red-hat",
-    "!E",
-    "!E",
     {
       "fileName": "red-hat.svg",
       "hash": "v40IPUMXKcSPIT67pbYDnbhbezwFX2wzOmRQ3fygxZw="
@@ -1594,7 +1728,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T20:14:19.000Z"
+      "original": "2019-07-24T20:03:50.000Z"
     },
     "Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.",
     "Red Hat",
@@ -1623,6 +1757,9 @@
     "!E",
     "!E",
     "red-hat",
+    "!E",
+    "!E",
+    "!E",
     "RHT",
     {
       "market_cap": 33429835776,
@@ -1633,12 +1770,9 @@
     "Samsung Electronics",
     "https://www.samsung.com/us/",
     "company",
-    "!E",
     "samsung.svg",
     "https://twitter.com/samsung",
     "https://www.crunchbase.com/organization/samsung-electronics",
-    "!E",
-    "!E",
     {
       "fileName": "samsung-electronics.svg",
       "hash": "w12mrnpK7KBqJ98E9LQq/vdJvtg5x86aP/7tElDuK9Y="
@@ -1681,16 +1815,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    311503240560640,
+    311681448148992,
     "!E",
     "!E",
     "logos/samsung-electronics.svg",
     "!E",
     "!E",
     "samsung-electronics",
+    "!E",
+    "!E",
+    "!E",
     "005930.KS",
     {
-      "market_cap": 311503240560640,
+      "market_cap": 311681448148992,
       "effective_ticker": "005930.KS"
     }
   ],
@@ -1698,12 +1835,9 @@
     "Seagate Technology",
     "https://www.seagate.com",
     "company",
-    "!E",
     "seagate.svg",
     "https://twitter.com/seagate",
     "https://www.crunchbase.com/organization/seagate",
-    "!E",
-    "!E",
     {
       "fileName": "seagate-technology.svg",
       "hash": "T3dBONX0dsWmjJm/2ewdbmZUnhxP4jfo6yaUgfFtohE="
@@ -1724,7 +1858,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T16:45:02.000Z"
+      "original": "2019-07-25T01:24:40.000Z"
     },
     "Seagate offers consumers and businesses with data storage solutions to create, share, and preserve digital content.",
     "Seagate Technology PLC",
@@ -1746,7 +1880,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    13213716480,
+    13545928704,
     "!E",
     "!E",
     "logos/seagate-technology.svg",
@@ -1754,8 +1888,11 @@
     "!E",
     "seagate-technology",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     {
-      "market_cap": 13213716480,
+      "market_cap": 13545928704,
       "effective_ticker": "STX"
     }
   ],
@@ -1763,12 +1900,9 @@
     "Tencent",
     "https://www.tencent.com/zh-cn/index.html",
     "company",
-    "!E",
     "tencent.svg",
     "!E",
     "https://www.crunchbase.com/organization/tencent",
-    "!E",
-    "!E",
     {
       "fileName": "tencent.svg",
       "hash": "S69ChkUFea+6ilqRx+nz2XzhI/1emDWokQpa/6AHJIw="
@@ -1807,16 +1941,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    442275463168,
+    444084387840,
     "!E",
     "!E",
     "logos/tencent.svg",
     "!E",
     "!E",
     "tencent",
+    "!E",
+    "!E",
+    "!E",
     "TCEHY",
     {
-      "market_cap": 442275463168,
+      "market_cap": 444084387840,
       "effective_ticker": "TCEHY"
     }
   ],
@@ -1824,12 +1961,9 @@
     "Wind River",
     "https://www.windriver.com",
     "company",
-    "!E",
     "windriver.svg",
     "https://twitter.com/windriver",
     "https://www.crunchbase.com/organization/wind-river",
-    "!E",
-    "!E",
     {
       "fileName": "wind-river.svg",
       "hash": "5Hw/+8tSowLqo62IpLqYCF9VQw7vFedH5p3gRNfhKH0="
@@ -1850,7 +1984,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T17:55:05.000Z"
+      "original": "2019-07-24T19:15:08.000Z"
     },
     "Wind River enables companies to develop, run and manage device software faster and more reliably at a lower cost.",
     "Wind River",
@@ -1872,7 +2006,7 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    231684767744,
+    236922847232,
     "!E",
     "!E",
     "logos/wind-river.svg",
@@ -1880,8 +2014,11 @@
     "!E",
     "wind-river",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     {
-      "market_cap": 231684767744,
+      "market_cap": 236922847232,
       "effective_ticker": "INTC"
     }
   ],
@@ -1889,12 +2026,9 @@
     "Wipro Technologies",
     "https://www.wipro.com/",
     "company",
-    "!E",
     "wipro.svg",
     "https://twitter.com/Wipro",
     "https://www.crunchbase.com/organization/wipro",
-    "!E",
-    "!E",
     {
       "fileName": "wipro-technologies.svg",
       "hash": "oVT2djrDRYf9qKwqnP5T+JcV/TsS1otYS/9701Z2xfI="
@@ -1915,7 +2049,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T18:00:12.000Z"
+      "original": "2019-07-24T22:30:09.000Z"
     },
     "Wipro Limited is a leading global information technology, consulting and business process services company.",
     "Wipro Technologies",
@@ -1937,16 +2071,19 @@
     "LF Edge Member Company / Premium",
     "LF Edge Member Company",
     "market_cap",
-    23159093248,
+    22924414976,
     "!E",
     "!E",
     "logos/wipro-technologies.svg",
     "!E",
     "!E",
     "wipro-technologies",
+    "!E",
+    "!E",
+    "!E",
     "WIT",
     {
-      "market_cap": 23159093248,
+      "market_cap": 22924414976,
       "effective_ticker": "WIT"
     }
   ],
@@ -1954,12 +2091,9 @@
     "ZEDEDA",
     "https://www.zededa.com",
     "company",
-    "!E",
     "zededa.svg",
     "https://twitter.com/zededaedge",
     "https://www.crunchbase.com/organization/zededa",
-    "!E",
-    "!E",
     {
       "fileName": "zededa.svg",
       "hash": "cRvuPr0hPaHKCb0OkjkgbcIOgdhk1BsD9fDlsosYk48="
@@ -1980,7 +2114,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T21:55:20.000Z"
+      "original": "2019-07-24T21:27:36.000Z"
     },
     "A Santa Clara, CA-based provider of edge virtualization software & solutions",
     "ZEDEDA",
@@ -2010,18 +2144,18 @@
     "!E",
     "zededa",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Alef Mobitech",
     "https://www.alefedge.com/",
     "company",
-    "!E",
     "alef.svg",
     "https://twitter.com/alefmobitech",
     "https://www.crunchbase.com/organization/alefmobitech",
-    "!E",
-    "!E",
     {
       "fileName": "alef-mobitech.svg",
       "hash": "qX3BBSfoYqN9VsTn0kCECjyF+buwBbj3hXhLywDYyBU="
@@ -2072,18 +2206,18 @@
     "!E",
     "alef-mobitech",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Beechwoods Software",
     "https://www.beechwoods.com/",
     "company",
-    "!E",
     "beechwoods.svg",
     "https://twitter.com/BeechSoft",
     "https://www.crunchbase.com/organization/beechwoods-software",
-    "!E",
-    "!E",
     {
       "fileName": "beechwoods-software.svg",
       "hash": "1NfRYui497BSnXbheih8gT1WZ7Xfx/X/xmrDhx/uDZA="
@@ -2132,18 +2266,18 @@
     "!E",
     "beechwoods-software",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "CertusNet",
     "http://www.certusnetnj.com.cn/",
     "company",
-    "!E",
     "certusnet.svg",
     "!E",
     "https://www.crunchbase.com/organization/certusnet",
-    "!E",
-    "!E",
     {
       "fileName": "certus-net.svg",
       "hash": "1RRWZgz+ilBRP1oW8dhvpa3KugM66TngQ2fl3urysIY="
@@ -2188,18 +2322,18 @@
     "!E",
     "certus-net",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "CloudPlugs",
     "https://cloudplugs.com/",
     "company",
-    "!E",
     "cloudplugs.svg",
     "https://twitter.com/CloudPlugs",
     "https://www.crunchbase.com/organization/cloudplugs",
-    "!E",
-    "!E",
     {
       "fileName": "cloud-plugs.svg",
       "hash": "t+dqd5noTngdsFHZBqP0IX3Z+2UPITBmb1WeMyKRysA="
@@ -2248,18 +2382,18 @@
     "!E",
     "cloud-plugs",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "DATA AHEAD AG",
     "https://dataahead.de/en/",
     "company",
-    "!E",
     "dataahead.svg",
     "https://twitter.com/dataahead",
     "https://www.crunchbase.com/organization/data-ahead-ag",
-    "!E",
-    "!E",
     {
       "fileName": "data-ahead-ag.svg",
       "hash": "nHGl/gjeoyzVHIQc1rJ9C/c0WsD4MvfIYGM6S3Ps2FQ="
@@ -2308,18 +2442,18 @@
     "!E",
     "data-ahead-ag",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "EMQ Technologies",
     "https://www.emqx.io/",
     "company",
-    "!E",
     "emq.svg",
     "https://twitter.com/emqtt",
     "https://www.crunchbase.com/organization/emq-technologies",
-    "!E",
-    "!E",
     {
       "fileName": "emq-technologies.svg",
       "hash": "w1OyBRLRv85FwrQHkMkN9RlaKKTPvPy1OD+Xy4tfSoo="
@@ -2368,18 +2502,18 @@
     "!E",
     "emq-technologies",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Enigmedia",
     "https://enigmedia.es",
     "company",
-    "!E",
     "enigmedia.svg",
     "https://twitter.com/_Enigmedia_",
     "https://www.crunchbase.com/organization/enigmedia",
-    "!E",
-    "!E",
     {
       "fileName": "enigmedia.svg",
       "hash": "cPb0FMZ+04LOslQIELsXDgZThQnweWJT1/oDg3XqG9E="
@@ -2430,18 +2564,18 @@
     "!E",
     "enigmedia",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "EpiSensor",
     "https://episensor.com/",
     "company",
-    "!E",
     "episensor.svg",
     "https://twitter.com/episensor",
     "https://www.crunchbase.com/organization/episensor",
-    "!E",
-    "!E",
     {
       "fileName": "epi-sensor.svg",
       "hash": "BsjfwSI231dLCtIGhtqrjFl17TnjdS93w5GN2wRjf/0="
@@ -2488,18 +2622,18 @@
     "!E",
     "epi-sensor",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "FogHorn",
     "https://www.foghorn.io/",
     "company",
-    "!E",
     "foghorn.svg",
     "https://twitter.com/FogHorn_IoT",
     "https://www.crunchbase.com/organization/foghorn",
-    "!E",
-    "!E",
     {
       "fileName": "fog-horn.svg",
       "hash": "soFQi8SsIQXyvdx+CpV6ktfhcGASPs1eRSu9VogdnV4="
@@ -2520,7 +2654,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T18:06:04.000Z"
+      "original": "2019-07-24T18:09:00.000Z"
     },
     "FogHorn is a leading developer of “edge intelligence” software for industrial and commercial IoT application solutions.",
     "FogHorn",
@@ -2550,18 +2684,18 @@
     "!E",
     "fog-horn",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "ForgeRock",
     "https://www.forgerock.com/",
     "company",
-    "!E",
     "forgerock.svg",
     "https://twitter.com/ForgeRock",
     "https://www.crunchbase.com/organization/forgerock",
-    "!E",
-    "!E",
     {
       "fileName": "forge-rock.svg",
       "hash": "6zdOPYvhO5ZjaDgBdE6EG2izvasIVpiKzYSfTmgnnks="
@@ -2582,7 +2716,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T23:42:19.000Z"
+      "original": "2019-07-25T03:04:01.000Z"
     },
     "ForgeRock digital identity management solutions transform how organizations securely interact with customers, employees, devices, and things",
     "ForgeRock",
@@ -2612,18 +2746,18 @@
     "!E",
     "forge-rock",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Foundries.io",
     "http://foundries.io/",
     "company",
-    "!E",
     "foundries.svg",
     "https://twitter.com/foundriesio",
     "https://www.crunchbase.com/organization/foundries-io",
-    "!E",
-    "!E",
     {
       "fileName": "foundries-io.svg",
       "hash": "9Ovn9HzmUQHZ3BtvN8eFCDQOERyQiRnCWR3KyaQ8V18="
@@ -2644,7 +2778,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T08:05:02.000Z"
+      "original": "2019-07-24T10:51:49.000Z"
     },
     "Foundries.io delivers secure, over-the-air updatable software platforms for embedded product development. ",
     "Foundries.io",
@@ -2672,18 +2806,18 @@
     "!E",
     "foundries-io",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Harmony Cloud",
     "http://harmonycloud.cn/",
     "company",
-    "!E",
     "harmony.svg",
     "!E",
     "https://www.crunchbase.com/organization/hangzhou-harmony-technology-co-ltd",
-    "!E",
-    "!E",
     {
       "fileName": "harmony-cloud.svg",
       "hash": "zbP5y91c4uxSjPIBFC8HjNOgRKDJt6sao29ctpF9H78="
@@ -2728,18 +2862,18 @@
     "!E",
     "harmony-cloud",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "IOTech",
     "http://www.iotechsys.com/",
     "company",
-    "!E",
     "iotech.svg",
     "https://twitter.com/iotechsystems",
     "https://www.crunchbase.com/organization/iotech-2",
-    "!E",
-    "!E",
     {
       "fileName": "io-tech.svg",
       "hash": "RGn+zyMGVv2Mz0rt5TDUQnOIMqN8+pJbTFSnsaL0PFo="
@@ -2790,18 +2924,18 @@
     "!E",
     "io-tech",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "IoTium",
     "https://www.iotium.io/",
     "company",
-    "!E",
     "iotium.svg",
     "https://twitter.com/IoTium_inc",
     "https://www.crunchbase.com/organization/iotium",
-    "!E",
-    "!E",
     {
       "fileName": "io-tium.svg",
       "hash": "sRZzwt42LpAzUpu1qAgzX2Veff5sQ+l4cD9uqDOyJyI="
@@ -2852,18 +2986,18 @@
     "!E",
     "io-tium",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "KMC Controls",
     "https://www.kmccontrols.com/",
     "company",
-    "!E",
     "kmc.svg",
     "https://twitter.com/kmccontrols",
     "https://www.crunchbase.com/organization/kmc-controls",
-    "!E",
-    "!E",
     {
       "fileName": "kmc-controls.svg",
       "hash": "RIpocl+UJLEtihEOnd8Tr89WBKTYQ52BVRqGqL4fcak="
@@ -2884,7 +3018,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T18:40:09.000Z"
+      "original": "2019-07-24T19:10:14.000Z"
     },
     "KMC Controls is an electronic manufacturing company that provides building automation and control solutions.",
     "KMC Controls",
@@ -2912,18 +3046,18 @@
     "!E",
     "kmc-controls",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Linaro",
     "https://www.linaro.org/",
     "company",
-    "!E",
     "linaro.svg",
     "https://twitter.com/linaroorg",
     "https://www.crunchbase.com/organization/linaro",
-    "!E",
-    "!E",
     {
       "fileName": "linaro.svg",
       "hash": "WNAgywu5pAa2WDzcQxgn8ZqMMlAjWT2py7Kw1qaoCOI="
@@ -2972,18 +3106,18 @@
     "!E",
     "linaro",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Mainflux",
     "https://www.mainflux.com/",
     "company",
-    "!E",
     "mainflux.svg",
     "https://twitter.com/Mainflux",
     "https://www.crunchbase.com/organization/mainflux",
-    "!E",
-    "!E",
     {
       "fileName": "mainflux.svg",
       "hash": "ScpE8j9pA3dnyYpHfvZxzf/+XXBvZ43gdUuBIc6W4hE="
@@ -3032,18 +3166,18 @@
     "!E",
     "mainflux",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Marvell Technology",
     "https://www.marvell.com/",
     "company",
-    "!E",
     "marvell-horizontal-color.svg",
     "https://twitter.com/marvellsemi",
     "https://www.crunchbase.com/organization/marvell-technology",
-    "!E",
-    "!E",
     {
       "fileName": "marvell-technology.svg",
       "hash": "OE4XCUQnKhwSZiCN5YquHN50Q3Q9KNtma6MOuXHBNMU="
@@ -3062,8 +3196,8 @@
     "NotOpenSource",
     "Santa Clara, California",
     {
-      "text": "this week",
-      "value": "990",
+      "text": "last week",
+      "value": "980",
       "original": "2019-07-17T20:18:34.000Z"
     },
     "Marvell Technology is a semiconductor company that specializes in  microprocessor architecture and digital signal processing.",
@@ -3086,7 +3220,7 @@
     "LF Edge Member Company / General",
     "LF Edge Member Company",
     "market_cap",
-    17516500992,
+    17959370752,
     "!E",
     "!E",
     "logos/marvell-technology.svg",
@@ -3094,8 +3228,11 @@
     "!E",
     "marvell-technology",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     {
-      "market_cap": 17516500992,
+      "market_cap": 17959370752,
       "effective_ticker": "MRVL"
     }
   ],
@@ -3103,12 +3240,9 @@
     "Mocana",
     "https://www.mocana.com/",
     "company",
-    "!E",
     "mocana.svg",
     "https://twitter.com/DeviceLINE",
     "https://www.crunchbase.com/organization/mocana",
-    "!E",
-    "!E",
     {
       "fileName": "mocana.svg",
       "hash": "iBYgw/Danr8SfM5MP7MV8wXulPcXttCxhRZZwP5zIiA="
@@ -3155,18 +3289,18 @@
     "!E",
     "mocana",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "NetFoundry",
     "https://netfoundry.io/",
     "company",
-    "!E",
     "netfoundry.svg",
     "https://twitter.com/netfoundry",
     "https://www.crunchbase.com/organization/netfoundry",
-    "!E",
-    "!E",
     {
       "fileName": "net-foundry.svg",
       "hash": "jZxGbjZKLiS3BbJZHqGkvfIkGiAIq4V443uwZuWnzjA="
@@ -3187,7 +3321,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T20:51:29.000Z"
+      "original": "2019-07-24T20:53:25.000Z"
     },
     "We enable services to programmatically connect across service meshes - connect users, devices & apps across any set of Internets and clouds.",
     "NetFoundry",
@@ -3215,18 +3349,18 @@
     "!E",
     "net-foundry",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "OTAinfo",
     "https://www.otainfo.com",
     "company",
-    "!E",
     "otainfo.svg",
     "!E",
     "https://www.crunchbase.com/organization/otainfo",
-    "!E",
-    "!E",
     {
       "fileName": "ot-ainfo.svg",
       "hash": "t9a1qM9H72TZyoZPVTVlThWFnUy3FWndWP8kTtvLch4="
@@ -3271,18 +3405,18 @@
     "!E",
     "ot-ainfo",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Packet",
     "https://www.packet.com",
     "company",
-    "!E",
     "packet.svg",
     "https://twitter.com/packethost",
     "https://www.crunchbase.com/organization/packet-host",
-    "!E",
-    "!E",
     {
       "fileName": "packet.svg",
       "hash": "6VjEpZPVSfg70jQhUAUK+Equ+UPktbMdeAUhx6287XI="
@@ -3333,18 +3467,18 @@
     "!E",
     "packet",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Pluribus Networks",
     "https://www.pluribusnetworks.com/",
     "company",
-    "!E",
     "pluribus.svg",
     "https://twitter.com/pluribusnet",
     "https://www.crunchbase.com/organization/pluribus-networks",
-    "!E",
-    "!E",
     {
       "fileName": "pluribus-networks.svg",
       "hash": "z8dyBfoUy8MNy0LNOfI7xjrxU0RJ455JhOAM5/TXnHk="
@@ -3365,7 +3499,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-22T20:57:54.000Z"
+      "original": "2019-07-25T01:16:29.000Z"
     },
     "Pluribus Networks is a leader in open networking and next generation software defined networking (SDN)",
     "Pluribus Networks",
@@ -3395,18 +3529,18 @@
     "!E",
     "pluribus-networks",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "RackN",
     "https://rackn.com/",
     "company",
-    "!E",
     "rackn.svg",
     "https://twitter.com/rackngo",
     "https://www.crunchbase.com/organization/rackn-inc",
-    "!E",
-    "!E",
     {
       "fileName": "rack-n.svg",
       "hash": "SuK9bqQp/NFQWgXamljh4EcVgpkv0NNiEsP2MFyyeZA="
@@ -3457,18 +3591,18 @@
     "!E",
     "rack-n",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Redis Labs",
     "https://redislabs.com/",
     "company",
-    "!E",
     "Redis.svg",
     "https://twitter.com/RedisLabs",
     "https://www.crunchbase.com/organization/redis-labs",
-    "!E",
-    "!E",
     {
       "fileName": "redis-labs.svg",
       "hash": "tgZD0CQaM9HT2rx8QNDaAK9XYDJPGbY8+R8ZzDnAKyc="
@@ -3519,18 +3653,18 @@
     "!E",
     "redis-labs",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "REPLY",
     "https://www.reply.com/en/",
     "company",
-    "!E",
     "reply.svg",
     "https://twitter.com/reply_uk",
     "https://www.crunchbase.com/organization/reply",
-    "!E",
-    "!E",
     {
       "fileName": "reply.svg",
       "hash": "8gy5HiTwUIPp5OS6A2Q9f/Hlzcf4xDaZHW+1ARlFVIY="
@@ -3551,7 +3685,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-22T07:27:48.000Z"
+      "original": "2019-07-24T10:58:29.000Z"
     },
     "Reply is specialises in the design and implementation of solutions based on new communication channels and digital media.",
     "Reply",
@@ -3579,18 +3713,18 @@
     "!E",
     "reply",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "SAIC Foundation",
     "https://tesra.org/",
     "company",
-    "!E",
     "TESRA.svg",
     "https://twitter.com/TesraSupernet",
     "https://www.crunchbase.com/organization/saic-foundation-ltd",
-    "!E",
-    "!E",
     {
       "fileName": "saic-foundation.svg",
       "hash": "fNMsfLgaPAduLyESkuLkGGKyubsU1jTqlEbvDWqTLPQ="
@@ -3611,7 +3745,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-20T01:46:36.000Z"
+      "original": "2019-07-24T09:27:30.000Z"
     },
     "SAIC Foundation is a global community organization with over 80 thousand outstanding AI developers in the field of artificial intelligence.",
     "SAIC Foundation Ltd.",
@@ -3639,18 +3773,18 @@
     "!E",
     "saic-foundation",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "section.io",
     "https://www.section.io/",
     "company",
-    "!E",
     "sectionio.svg",
     "https://twitter.com/sectionio",
     "https://www.crunchbase.com/organization/section-io",
-    "!E",
-    "!E",
     {
       "fileName": "section-io.svg",
       "hash": "ph7lYkx/dY2lUhKBH2YTpoXlVdW5trj4IeZ6tzZC/HA="
@@ -3701,18 +3835,18 @@
     "!E",
     "section-io",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Toyota",
     "http://www.toyota.com/",
     "company",
-    "!E",
     "toyota.svg",
     "https://twitter.com/Toyota",
     "https://www.crunchbase.com/organization/toyota",
-    "!E",
-    "!E",
     {
       "fileName": "toyota.svg",
       "hash": "PDNchP2R5nufF7lAxPLjlhjWegGxfCsSm6slUjJX0mg="
@@ -3733,7 +3867,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-24T00:00:11.000Z"
+      "original": "2019-07-24T22:00:13.000Z"
     },
     "Toyota is a Japanese automotive company that manufactures and markets vehicles to over 170 countries and regions.",
     "Toyota Motor Corporation",
@@ -3755,7 +3889,7 @@
     "LF Edge Member Company / General",
     "LF Edge Member Company",
     "market_cap",
-    189723951104,
+    191523979264,
     "!E",
     "!E",
     "logos/toyota.svg",
@@ -3763,8 +3897,11 @@
     "!E",
     "toyota",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     {
-      "market_cap": 189723951104,
+      "market_cap": 191523979264,
       "effective_ticker": "TM"
     }
   ],
@@ -3772,12 +3909,9 @@
     "Ubuntu",
     "https://www.ubuntu.com/",
     "company",
-    "!E",
     "ubuntu.svg",
     "https://twitter.com/ubuntu",
     "https://www.crunchbase.com/organization/canonical-ltd",
-    "!E",
-    "!E",
     {
       "fileName": "ubuntu.svg",
       "hash": "xAFYjb6TggUPWSfTqjOJWvhUGoNdtUlpHQwR6LGwSzM="
@@ -3798,7 +3932,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T21:17:13.000Z"
+      "original": "2019-07-24T18:02:54.000Z"
     },
     "Canonical is a computer software company that markets commercial support and related services for Ubuntu and related projects.",
     "Canonical",
@@ -3828,18 +3962,18 @@
     "!E",
     "ubuntu",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Vapor IO",
     "https://www.vapor.io/",
     "company",
-    "!E",
     "vaporio.svg",
     "https://twitter.com/vaporio",
     "https://www.crunchbase.com/organization/vapor-io",
-    "!E",
-    "!E",
     {
       "fileName": "vapor-io.svg",
       "hash": "UV2qdeomzMO2e+2jb/EKvYWWoJxu26leDHIfyqeJjG0="
@@ -3860,7 +3994,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-18T19:23:00.000Z"
+      "original": "2019-07-24T13:23:00.000Z"
     },
     "Edge colocation, interconnection and software-defined networking",
     "Vapor IO",
@@ -3888,18 +4022,18 @@
     "!E",
     "vapor-io",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Vitro Technology Corporation",
     "https://vitro.io/",
     "company",
-    "!E",
     "vitro.svg",
     "https://twitter.com/vitro_io",
     "https://www.crunchbase.com/organization/vitro-technology-corporation",
-    "!E",
-    "!E",
     {
       "fileName": "vitro-technology-corporation.svg",
       "hash": "X61LutohhH9fdyoqr58WIR6Hn3WIitQvhq48acHgkio="
@@ -3948,18 +4082,18 @@
     "!E",
     "vitro-technology-corporation",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Volterra",
     "https://www.ves.io/",
     "company",
-    "!E",
     "volterra.svg",
     "https://twitter.com/Volterra_",
     "https://www.crunchbase.com/organization/volterra-inc",
-    "!E",
-    "!E",
     {
       "fileName": "volterra.svg",
       "hash": "IFGHDaLer0l2E2qNz/D9ZEqh/W0D6H+VlH7Elr0Hr2A="
@@ -4010,18 +4144,18 @@
     "!E",
     "volterra",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Wanxiang Group",
     "http://www.wanxiang.com.cn/en/",
     "company",
-    "!E",
     "wanxiang.svg",
     "!E",
     "https://www.crunchbase.com/organization/wanxiang-group",
-    "!E",
-    "!E",
     {
       "fileName": "wanxiang-group.svg",
       "hash": "EcdJyYCvJAXmwBHS3zoV2LGWe7yAwmW7oHkTzWmqKis="
@@ -4066,18 +4200,18 @@
     "!E",
     "wanxiang-group",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Automotive Edge Computing Consortium",
     "https://aecc.org/",
     "company",
-    "!E",
     "aecc.svg",
     "https://twitter.com/TweetAECC",
     "https://www.crunchbase.com/organization/automotive-edge-computing-consortium",
-    "!E",
-    "!E",
     {
       "fileName": "automotive-edge-computing-consortium.svg",
       "hash": "59Hm2MX7tgaAUUgLKXv9e5146i8JhUYEuPvuusADM0Y="
@@ -4126,18 +4260,18 @@
     "!E",
     "automotive-edge-computing-consortium",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Beijing University of Posts and Telecommunications",
     "https://www.bupt.edu.cn/",
     "company",
-    "!E",
     "bupt.svg",
     "!E",
     "https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications",
-    "!E",
-    "!E",
     {
       "fileName": "beijing-university-of-posts-and-telecommunications.svg",
       "hash": "UhWZ9oJjKEwA1qNEapWgND7jS7NhakE3BLIt41Ae9uk="
@@ -4182,18 +4316,18 @@
     "!E",
     "beijing-university-of-posts-and-telecommunications",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "ETRI",
     "https://etri.re.kr/eng/main/main.etri",
     "company",
-    "!E",
     "etri.svg",
     "https://twitter.com/etrinewsmaker",
     "https://www.crunchbase.com/organization/etri",
-    "!E",
-    "!E",
     {
       "fileName": "etri.svg",
       "hash": "dfe/2fpO191REom4P+h3xy9uocXZlXdqvHqnt0xmSJI="
@@ -4238,18 +4372,18 @@
     "!E",
     "etri",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Industrial Internet Consortium",
     "https://www.iiconsortium.org/",
     "company",
-    "!E",
     "iic-liaison.svg",
     "https://twitter.com/iiconsortium",
     "https://www.crunchbase.com/organization/industrial-internet-consortium-2",
-    "!E",
-    "!E",
     {
       "fileName": "industrial-internet-consortium.svg",
       "hash": "Jdj9lZbbnizQp86FKotYvNLNzBJDSW73noI4mIeA+Wg="
@@ -4270,7 +4404,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T14:30:27.000Z"
+      "original": "2019-07-24T14:02:21.000Z"
     },
     "Industrial Internet Consortium, a non-profit, open-membership group, catalyzes, coordinates, and enables growth of the industrial internet.",
     "Industrial Internet Consortium",
@@ -4298,18 +4432,18 @@
     "!E",
     "industrial-internet-consortium",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Infrastructure Masons",
     "https://imasons.org",
     "company",
-    "!E",
     "imasons.svg",
     "https://twitter.com/inframason",
     "https://www.crunchbase.com/organization/infrastructure-masons",
-    "!E",
-    "!E",
     {
       "fileName": "infrastructure-masons.svg",
       "hash": "nlWpsBba2Yduz8Q3VfXCwfM/4domSam5aw8juwFO/30="
@@ -4330,7 +4464,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T14:58:02.000Z"
+      "original": "2019-07-24T16:24:36.000Z"
     },
     "\nInfrastructure Mason is a person entrusted with building or managing the physical and logical structures of the Digital Age.",
     "Infrastructure Masons",
@@ -4358,18 +4492,18 @@
     "!E",
     "infrastructure-masons",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "Project Haystack",
     "https://project-haystack.org",
     "company",
-    "!E",
     "haystack.svg",
     "https://twitter.com/haystackTagging",
     "https://www.crunchbase.com/organization/project-haystack",
-    "!E",
-    "!E",
     {
       "fileName": "project-haystack.svg",
       "hash": "WB9XCHL53KTaFHV8XxF/0RaHBoY/a9UoaqX9OeP4Y8A="
@@ -4418,18 +4552,18 @@
     "!E",
     "project-haystack",
     "!E",
+    "!E",
+    "!E",
+    "!E",
     "!E"
   ],
   [
     "University of New Hampshire - Interoperability Lab",
     "https://www.iol.unh.edu/",
     "company",
-    "!E",
     "unh.svg",
     "https://twitter.com/UNH_IOL",
     "https://www.crunchbase.com/organization/interoperability-laboratory",
-    "!E",
-    "!E",
     {
       "fileName": "university-of-new-hampshire-interoperability-lab.svg",
       "hash": "0FA6WeoIc61sPZgDt4coX3jxU2euh6RXLmIfBBNhW3U="
@@ -4450,7 +4584,7 @@
     {
       "text": "this week",
       "value": "990",
-      "original": "2019-07-23T18:46:15.000Z"
+      "original": "2019-07-24T20:28:44.000Z"
     },
     "IOL provides independent, broad-based interoperability and conformance testing for data, telecom and storage networking technologies.",
     "InterOperability Laboratory",
@@ -4479,6 +4613,9 @@
     "!E",
     "!E",
     "university-of-new-hampshire-interoperability-lab",
+    "!E",
+    "!E",
+    "!E",
     "!E",
     "!E"
   ]
