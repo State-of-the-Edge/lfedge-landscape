@@ -27,22 +27,6 @@ relation:
     - id: hosted
       label: LF Edge Projects
       children:
-        - id: graduated
-          label: Graduated LF Edge Projects
-          prefix: LF Edge
-          tag: Graduated
-          color: '#3570af'
-          big_picture_order: 1
-          big_picture_label: LF Edge Graduated
-          big_picture_color: 'rgb(24,54,114)'
-        - id: incubating
-          label: Incubating LF Edge Projects
-          prefix: LF Edge
-          tag: Incubating
-          color: '#00cbff'
-          big_picture_order: 2
-          big_picture_label: LF Edge Incubating
-          big_picture_color: 'rgb(83, 113, 189)'
         - id: at_large
           label: Stage 1 At Large
           prefix: LF Edge
