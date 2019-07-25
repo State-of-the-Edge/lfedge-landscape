@@ -35,7 +35,13 @@ landscape:
         items: []
       - subcategory:
         name: Edge PaaS
-        items: []
+        items:
+          - item:
+            name: Section
+            homepage_url: 'https://www.section.io/'
+            logo: sectionio.svg
+            twitter: 'https://twitter.com/sectionio'
+            crunchbase: 'https://www.crunchbase.com/organization/section-io'
       - subcategory:
         name: IoT Focused
         items:
