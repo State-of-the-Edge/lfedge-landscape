@@ -1,7 +1,14 @@
 landscape:
   - category:
     name: .ORG
-    subcategories: []
+    subcategories:
+     - item:
+        name: Open Glossary of Edge Computing
+        homepage_url: 'https://www.lfedge.org/projects/openglossary/'
+        project: growth
+        logo: box_glossary.svg
+        twitter: 'https://twitter.com/LF_Edge'
+        crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
   - category:
     name: Traffic Routing
     subcategories: []
@@ -134,7 +141,14 @@ landscape:
     subcategories: []
   - category:
     name: Other Edge Related Software
-    subcategories: []
+    subcategories:
+    - item:
+      name: Home Edge
+      homepage_url: 'https://www.lfedge.org/projects/homeedge/'
+      project: growth
+      logo: home-edge-400.svg
+      twitter: 'https://twitter.com/LF_Edge'
+      crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
   - category:
     name: LF Edge Member Company
     subcategories:
