@@ -30,6 +30,22 @@ The intent is for the Landscape to be a living document that developers, investo
 
 Please see [landscape.lfedge.org](https://landscape.lfedge.org).
 
+## Categories
+* *.Org*: Standards and collaboration groups involved in facilitating discussion by edge stakeholders of edge.
+* *Traffic Routing*: DNS and software/projects to monitor and route traffic to the correct place.
+* *Platforms*: Platforms focused on deploying, managing, and scaling custom-workloads at the edge (CDN & Distributed Caches, Application Delivery Network (ADN), Edge PaaS, IoT Focused, Decentralized)
+* *Security*: Applications and projects focused primarily on security.
+* *Networking*: Software or solutions that control the movement of packets (e.g. SD-WAN, NFV, NOS)
+* *Infrastructure*: Infrastructure as a Service tools, vendors, and platforms for edge compute (Monitoring, Provisioning, Virtualization, Physical).
+* *Hardware*: Physical gear, including assembled components (Core Silicon, Accelerators).
+* *Edge OEMs*: Original Equipment Manufacturers (OEM) building key components critical for the edge ecosystem.
+* *Wireless & Wireline*: Physical network infrastructure , protocols, & tooling focused and used at the edge (Fiber & Peering, Wireless).
+* *Real Estate / Land / Data Centers*: Companies focused on building, maintaining, and operating data centers and related critical infrastructure for the edge (Tradition, Non-Traditional, Towers & Related, Municpal Right of Way)
+* *Services / System Integrators*: Services for people integrating and deploying at the edge.  
+* *Other Edge Related Software*: Software projects /platforms common, but not specific to any of the other categories. 
+* *LF Edge Member Companies*: Member companies of LF Edge.
+
+
 ## New Entries
 
 * Projects must be open source and hosted on or mirrored to GitHub.
@@ -146,3 +162,4 @@ an extra space on the right of a section.
 
 The best way to test that layout is ok, is to visit `/landscape`, and if it looks ok, run `PORT=3000 babel-node
 tools/renderLandscape` and see the rendered png files, they are in src/images folder.
+
