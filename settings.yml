@@ -11,7 +11,7 @@ global:
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
     twitter: '@LF_Edge'
-    google_site_verification: GOaZHK1WLPDcnST1L70tMMWe3qNr_idDogl5SryoJq8
+    google_site_verification: M_GmEYdzsEnvJiIcvfj7gmczKsme1N5rd9RwRD35Y98
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
     cncf_sandbox: false
@@ -27,22 +27,38 @@ relation:
     - id: hosted
       label: LF Edge Projects
       children:
-        - id: graduated
-          label: Graduated LF Edge Projects
+        - id: at_large
+          label: Stage 1 At Large
           prefix: LF Edge
-          tag: Graduated
+          tag: At Large
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LF Edge Graduated
+          big_picture_label: LF Edge At Large
           big_picture_color: 'rgb(24,54,114)'
-        - id: incubating
-          label: Incubating LF Edge Projects
+        - id: growth
+          label: Stage 2 Growth
           prefix: LF Edge
-          tag: Incubating
-          color: '#00cbff'
-          big_picture_order: 2
-          big_picture_label: LF Edge Incubating
-          big_picture_color: 'rgb(83, 113, 189)'
+          tag: Growth
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Edge Growth
+          big_picture_color: 'rgb(24,54,114)'
+        - id: impact
+          label: Stage 3 Impact
+          prefix: LF Edge
+          tag: Impact
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Edge Impact
+          big_picture_color: 'rgb(24,54,114)'
+        - id: emeritus
+          label: Stage 4 Emeritus
+          prefix: LF Edge
+          tag: Emeritus
+          color: '#3570af'
+          big_picture_order: 1
+          big_picture_label: LF Edge Emeritus
+          big_picture_color: 'rgb(24,54,114)'
     - id: company
       label: LF Edge Members
       tag: Company
@@ -261,7 +277,7 @@ big_picture:
             top: 60
 test:
   header: LF Edge Interactive Landscape
-  section: Graduated LF Edge Projects
+  section: Stage 2 Growth
   logo: project-eve.svg
 update_server:
   ip: 147.75.106.211
