@@ -38,18 +38,6 @@ landscape:
     name: Traffic Routing
     subcategories: []
   - category:
-    name: Traffic / Delivery
-    subcategories:
-      - subcategory:
-        name: Traditional CDN's
-        items: []
-      - subcategory:
-        name: Application Delivery Networks
-        items: []
-      - subcategory:
-        name: SD-WAN
-        items: []
-  - category:
     name: Platforms
     subcategories:
       - subcategory:
@@ -85,7 +73,38 @@ landscape:
               latest_tweet_date: 2019-07-29T15:50:02.000Z
       - subcategory:
         name: CDN & Distributed Caches
-        items: []
+        items:
+          - item:
+            name: Akamai
+            homepage_url: 'https://www.akamai.com'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg'
+            twitter: 'https://twitter.com/Akamai'
+            crunchbase: 'https://www.crunchbase.com/organization/akamai-technologies'
+            crunchbase_data:
+              name: Akamai Technologies
+              description: 'Akamai® is the leading provider of cloud services for helping enterprises provide secure, high-performing user experiences on any device.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.akamai.com'
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: 'http://twitter.com/Akamai'
+              linkedin: 'https://www.linkedin.com/company/akamai-technologies'
+              ticker: AKAM
+              kind: market_cap
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 13789070336
+              effective_ticker: AKAM
+            image_data:
+              fileName: akamai.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-07-30T18:35:11.000Z
       - subcategory:
         name: Edge PaaS
         items:
