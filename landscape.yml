@@ -16,18 +16,6 @@ landscape:
     name: Traffic Routing
     subcategories: []
   - category:
-    name: Traffic / Delivery
-    subcategories:
-      - subcategory:
-        name: Traditional CDN's
-        items: []
-      - subcategory:
-        name: Application Delivery Networks
-        items: []
-      - subcategory:
-        name: SD-WAN
-        items: []
-  - category:
     name: Platforms
     subcategories:
       - subcategory:
@@ -42,7 +30,13 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
       - subcategory:
         name: CDN & Distributed Caches
-        items: []
+        items:
+          - item:
+            name: Akamai
+            homepage_url: 'https://www.akamai.com'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg'
+            twitter: 'https://twitter.com/Akamai'
+            crunchbase: 'https://www.crunchbase.com/organization/akamai-technologies'
       - subcategory:
         name: Edge PaaS
         items:
