@@ -33,7 +33,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T22:27:38.000Z
+              latest_tweet_date: 2019-07-29T15:50:02.000Z
   - category:
     name: Traffic Routing
     subcategories: []
@@ -82,13 +82,54 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T22:27:38.000Z
+              latest_tweet_date: 2019-07-29T15:50:02.000Z
       - subcategory:
         name: CDN & Distributed Caches
         items: []
       - subcategory:
         name: Edge PaaS
         items:
+          - item:
+            name: KubeEdge
+            homepage_url: 'https://kubeedge.io/'
+            repo_url: 'https://github.com/kubeedge/kubeedge'
+            logo: kube-edge.svg
+            twitter: 'https://twitter.com/kubeedge'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.cncf.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/CloudNativeFdn'
+              linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
+            github_data:
+              stars: 1396
+              license: Apache License 2.0
+              description: Kubernetes Native Edge Computing Framework (project under CNCF)
+              latest_commit_date: '2019-07-29T00:00:00.000Z'
+              latest_commit_link: /kubeedge/kubeedge/commit/6de7d78de98bf7b91ecc6e6a170dcc6d29b4210a
+              release_date: '2019-06-24T18:42:45Z'
+              release_link: 'https://github.com/kubeedge/kubeedge/releases'
+              contributors_count: 72
+              contributors_link: 'https://github.com/kubeedge/kubeedge/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /kubeedge/kubeedge/commit/316bd63786ff57353772847626f5f7df7f1e1f53
+              start_date: '2018-09-28T08:57:50Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: kube-edge.svg
+              hash: GDa2w0FpzmYakTsMBesgNIY3H4Vw/9v+RnN10sOAJUo=
+            best_practice_data:
+              badge: 3018
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2019-07-01T11:06:43.000Z
           - item:
             name: Section
             homepage_url: 'https://www.section.io/'
@@ -117,7 +158,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-25T13:07:31.000Z
+              latest_tweet_date: 2019-07-29T17:26:21.000Z
       - subcategory:
         name: IoT Focused
         items:
@@ -141,11 +182,11 @@ landscape:
               twitter: 'https://twitter.com/lf_edge'
               linkedin: null
             github_data:
-              stars: 400
+              stars: 402
               license: Apache License 2.0
               description: EdgeX Golang Services Monorepo
-              latest_commit_date: '2019-07-27T00:00:00.000Z'
-              latest_commit_link: /edgexfoundry/edgex-go/commit/96713d950a213c6137e6ca8dda055883ec8d6bed
+              latest_commit_date: '2019-07-29T00:00:00.000Z'
+              latest_commit_link: /edgexfoundry/edgex-go/commit/6c5544295dd17ddd6921994bd091c67590167427
               release_date: null
               release_link: null
               contributors_count: 54
@@ -162,12 +203,9 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-25T20:22:24.000Z
+              latest_tweet_date: 2019-07-29T18:00:11.000Z
       - subcategory:
         name: Decentralized
-        items: []
-      - subcategory:
-        name: Edge Virtualization
         items: []
   - category:
     name: Infrastructure
@@ -238,11 +276,11 @@ landscape:
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
             github_data:
-              stars: 55873
+              stars: 55932
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2019-07-29T00:00:00.000Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/c1d2ac43ee26a83fd4045353937977c120b7246b
+              latest_commit_date: '2019-07-30T00:00:00.000Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/b120bc7e33f38d655b7e3998b1efb9d321d2b66c
               release_date: '2019-07-18T12:02:02Z'
               release_link: 'https://github.com/kubernetes/kubernetes/releases'
               contributors_count: 2220
@@ -259,7 +297,7 @@ landscape:
               badge: 569
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-07-24T17:17:47.000Z
+              latest_tweet_date: 2019-07-29T14:44:34.000Z
       - subcategory:
         name: Virtualization
         items:
@@ -304,7 +342,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T22:27:38.000Z
+              latest_tweet_date: 2019-07-29T15:50:02.000Z
       - subcategory:
         name: Physical
         items: []
@@ -400,7 +438,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T22:27:38.000Z
+              latest_tweet_date: 2019-07-29T15:50:02.000Z
   - category:
     name: LF Edge Member Company
     subcategories:
@@ -487,7 +525,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 249465765888
+              market_cap: 250853703680
               effective_ticker: T
             image_data:
               fileName: at-t.svg
@@ -496,7 +534,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-29T03:16:00.000Z
+              latest_tweet_date: 2019-07-30T03:24:46.000Z
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
@@ -520,7 +558,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 39978713088
+              market_cap: 39709200384
               effective_ticker: BIDU
             image_data:
               fileName: baidu.svg
@@ -529,7 +567,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-25T16:19:02.000Z
+              latest_tweet_date: 2019-07-29T15:27:42.000Z
           - item:
             name: Dell EMC
             homepage_url: 'https://www.dellemc.com/en-us/index.htm'
@@ -552,7 +590,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 39722213376
+              market_cap: 40218025984
               effective_ticker: DELL
             image_data:
               fileName: dell-emc.svg
@@ -561,7 +599,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T21:49:01.000Z
+              latest_tweet_date: 2019-07-30T01:56:28.000Z
           - item:
             name: Dianomic
             homepage_url: 'http://dianomic.com/'
@@ -612,7 +650,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 29746259968
+              market_cap: 29713207296
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
@@ -621,7 +659,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-29T01:05:06.000Z
+              latest_tweet_date: 2019-07-30T02:03:14.000Z
           - item:
             name: Fujitsu
             homepage_url: 'http://www.fujitsu.com/'
@@ -649,7 +687,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-28T19:20:02.000Z
+              latest_tweet_date: 2019-07-29T17:20:06.000Z
           - item:
             name: GE Research
             homepage_url: 'https://www.ge.com/reports/'
@@ -672,7 +710,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 91655716864
+              market_cap: 89402318848
               effective_ticker: GE
             image_data:
               fileName: ge-research.svg
@@ -681,7 +719,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T22:10:00.000Z
+              latest_tweet_date: 2019-07-29T13:57:01.000Z
           - item:
             name: HP
             homepage_url: 'https://www8.hp.com/us/en/home.html'
@@ -705,7 +743,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 32415363072
+              market_cap: 32385236992
               effective_ticker: HPQ
             image_data:
               fileName: hp.svg
@@ -738,7 +776,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 19591763968
+              market_cap: 19631937536
               effective_ticker: HPE
             image_data:
               fileName: hpe.svg
@@ -747,7 +785,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-27T19:00:13.000Z
+              latest_tweet_date: 2019-07-29T16:40:16.000Z
           - item:
             name: Huawei
             homepage_url: 'https://www.huawei.com/en/'
@@ -774,7 +812,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-29T00:21:49.000Z
+              latest_tweet_date: 2019-07-30T02:28:24.000Z
           - item:
             name: IBM
             homepage_url: 'https://www.ibm.com/us-en/'
@@ -798,7 +836,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 134202286080
+              market_cap: 133776703488
               effective_ticker: IBM
             image_data:
               fileName: ibm.svg
@@ -807,7 +845,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T16:38:00.000Z
+              latest_tweet_date: 2019-07-30T02:25:30.000Z
           - item:
             name: Intel
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
@@ -831,7 +869,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 230968442880
+              market_cap: 235087265792
               effective_ticker: INTC
             image_data:
               fileName: intel.svg
@@ -891,7 +929,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 9186590720
+              market_cap: 9245126656
               effective_ticker: JNPR
             image_data:
               fileName: juniper-networks.svg
@@ -978,7 +1016,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 31143798784
+              market_cap: 31236139008
               effective_ticker: NOK
             image_data:
               fileName: nokia.svg
@@ -987,7 +1025,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T12:43:19.000Z
+              latest_tweet_date: 2019-07-29T11:31:11.000Z
           - item:
             name: NTT Group
             homepage_url: 'http://www.ntt.co.jp/activity/en/global/'
@@ -1011,7 +1049,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 87578148864
+              market_cap: 87018528768
               effective_ticker: NTTYY
             image_data:
               fileName: ntt-group.svg
@@ -1020,7 +1058,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-28T03:29:17.000Z
+              latest_tweet_date: 2019-07-29T09:47:44.000Z
           - item:
             name: OSIsoft
             homepage_url: 'https://www.osisoft.com/'
@@ -1049,7 +1087,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T15:01:11.000Z
+              latest_tweet_date: 2019-07-29T21:00:45.000Z
           - item:
             name: Qualcomm
             homepage_url: 'https://www.qualcomm.com'
@@ -1073,7 +1111,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 91444953088
+              market_cap: 91141029888
               effective_ticker: QCOM
             image_data:
               fileName: qualcomm.svg
@@ -1082,7 +1120,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T20:47:01.000Z
+              latest_tweet_date: 2019-07-29T22:54:52.000Z
           - item:
             name: Radisys
             homepage_url: 'https://www.radisys.com'
@@ -1111,7 +1149,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T14:42:27.000Z
+              latest_tweet_date: 2019-07-29T15:34:51.000Z
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
@@ -1144,7 +1182,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-28T19:51:04.000Z
+              latest_tweet_date: 2019-07-29T20:32:07.000Z
           - item:
             name: Samsung Electronics
             homepage_url: 'https://www.samsung.com/us/'
@@ -1168,7 +1206,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 306602146004992
+              market_cap: 309916921233408
               effective_ticker: 005930.KS
             image_data:
               fileName: samsung-electronics.svg
@@ -1177,7 +1215,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T06:05:12.000Z
+              latest_tweet_date: 2019-07-30T02:32:03.000Z
           - item:
             name: Seagate Technology
             homepage_url: 'https://www.seagate.com'
@@ -1200,7 +1238,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 13235864576
+              market_cap: 13144506368
               effective_ticker: STX
             image_data:
               fileName: seagate-technology.svg
@@ -1209,7 +1247,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T16:51:01.000Z
+              latest_tweet_date: 2019-07-30T01:30:04.000Z
           - item:
             name: Tencent
             homepage_url: 'https://www.tencent.com/zh-cn/index.html'
@@ -1233,7 +1271,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 455778467840
+              market_cap: 452527390720
               effective_ticker: TCEHY
             image_data:
               fileName: tencent.svg
@@ -1263,7 +1301,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 230968442880
+              market_cap: 235087265792
               effective_ticker: INTC
             image_data:
               fileName: wind-river.svg
@@ -1272,7 +1310,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T19:52:59.000Z
+              latest_tweet_date: 2019-07-29T19:27:38.000Z
           - item:
             name: Wipro Technologies
             homepage_url: 'https://www.wipro.com/'
@@ -1296,7 +1334,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 22954713088
+              market_cap: 22956726272
               effective_ticker: WIT
             image_data:
               fileName: wipro-technologies.svg
@@ -1305,7 +1343,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-28T14:30:10.000Z
+              latest_tweet_date: 2019-07-29T17:30:10.000Z
           - item:
             name: ZEDEDA
             homepage_url: 'https://www.zededa.com'
@@ -1334,7 +1372,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-27T00:55:28.000Z
+              latest_tweet_date: 2019-07-29T16:57:21.000Z
       - subcategory:
         name: General
         items:
@@ -1586,7 +1624,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T18:03:15.000Z
+              latest_tweet_date: 2019-07-29T18:01:04.000Z
           - item:
             name: ForgeRock
             homepage_url: 'https://www.forgerock.com/'
@@ -1615,7 +1653,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-27T15:12:02.000Z
+              latest_tweet_date: 2019-07-29T23:57:42.000Z
           - item:
             name: Foundries.io
             homepage_url: 'http://foundries.io/'
@@ -1642,7 +1680,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-24T10:51:49.000Z
+              latest_tweet_date: 2019-07-29T11:48:06.000Z
           - item:
             name: Harmony Cloud
             homepage_url: 'http://harmonycloud.cn/'
@@ -1752,7 +1790,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T16:55:10.000Z
+              latest_tweet_date: 2019-07-29T19:25:08.000Z
           - item:
             name: Linaro
             homepage_url: 'https://www.linaro.org/'
@@ -1829,7 +1867,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 18065129472
+              market_cap: 18032080896
               effective_ticker: MRVL
             image_data:
               fileName: marvell-technology.svg
@@ -1894,7 +1932,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-28T15:09:04.000Z
+              latest_tweet_date: 2019-07-29T20:46:32.000Z
           - item:
             name: OTAinfo
             homepage_url: 'https://www.otainfo.com'
@@ -1977,7 +2015,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T15:42:08.000Z
+              latest_tweet_date: 2019-07-29T16:08:41.000Z
           - item:
             name: RackN
             homepage_url: 'https://rackn.com/'
@@ -2035,7 +2073,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-27T21:57:19.000Z
+              latest_tweet_date: 2019-07-30T00:29:02.000Z
           - item:
             name: REPLY
             homepage_url: 'https://www.reply.com/en/'
@@ -2062,7 +2100,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-24T10:58:29.000Z
+              latest_tweet_date: 2019-07-29T07:00:59.000Z
           - item:
             name: SAIC Foundation
             homepage_url: 'https://tesra.org/'
@@ -2118,7 +2156,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-25T13:07:31.000Z
+              latest_tweet_date: 2019-07-29T17:26:21.000Z
           - item:
             name: Toyota
             homepage_url: 'http://www.toyota.com/'
@@ -2141,7 +2179,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 190736367616
+              market_cap: 188857352192
               effective_ticker: TM
             image_data:
               fileName: toyota.svg
@@ -2150,7 +2188,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-27T20:00:10.000Z
+              latest_tweet_date: 2019-07-29T22:13:02.000Z
           - item:
             name: Ubuntu
             homepage_url: 'https://www.ubuntu.com/'
@@ -2179,7 +2217,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-28T16:40:02.000Z
+              latest_tweet_date: 2019-07-29T20:59:34.000Z
           - item:
             name: Vapor IO
             homepage_url: 'https://www.vapor.io/'
@@ -2396,7 +2434,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T14:25:05.000Z
+              latest_tweet_date: 2019-07-29T14:30:28.000Z
           - item:
             name: Infrastructure Masons
             homepage_url: 'https://imasons.org'
@@ -2425,7 +2463,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-27T15:04:02.000Z
+              latest_tweet_date: 2019-07-29T15:37:01.000Z
           - item:
             name: Project Haystack
             homepage_url: 'https://project-haystack.org'
@@ -2481,7 +2519,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-07-26T17:08:26.000Z
+              latest_tweet_date: 2019-07-29T18:58:38.000Z
 twitter_options:
   count: 22
   since_id: '1095013375270998016'
