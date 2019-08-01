@@ -24,8 +24,8 @@ landscape:
           - item:
             name: Akraino
             homepage_url: 'https://www.lfedge.org/projects/akraino/'
-            repo_url: 'https://github.com/akraino-edge-stack/eliot'
             project: growth
+            repo_url: 'https://github.com/akraino-edge-stack/eliot'
             logo: akraino.svg
             twitter: 'https://twitter.com/LF_Edge'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
@@ -39,29 +39,29 @@ landscape:
             twitter: 'https://twitter.com/Akamai'
             crunchbase: 'https://www.crunchbase.com/organization/akamai-technologies'
           - item:
-            name: Limelight Networks
-            homepage_url: 'https://www.limelight.com'
-            logo: 'limelight.svg'
-            twitter: 'https://twitter.com/llnw'
-            crunchbase: 'https://www.crunchbase.com/organization/limelightnetworks'
-          - item:
             name: Amazon Cloudfront
             homepage_url: 'https://aws.amazon.com/cloudfront'
             logo: 'https://panoply.io/images/integration-logos/amazon%20cloudfront.svg'
             twitter: 'https://twitter.com/cloudfront'
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
+            name: Cisco SD-WAN
+            homepage_url: 'https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html'
+            logo: cisco.svg
+            twitter: 'https://twitter.com/cisco'
+            crunchbase: 'https://www.crunchbase.com/organization/cisco'
+          - item:
             name: Cloudflare
             homepage_url: 'https://www.cloudflare.com'
-            logo: 'cloudflare.svg'
+            logo: cloudflare.svg
             twitter: 'https://twitter.com/Cloudflare'
             crunchbase: 'https://www.crunchbase.com/organization/cloudflare'
           - item:
-            name: Cisco SD-WAN
-            homepage_url: 'https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html'
-            logo: 'cisco.svg'
-            twitter: 'https://twitter.com/cisco'
-            crunchbase: 'https://www.crunchbase.com/organization/cisco'
+            name: Limelight Networks
+            homepage_url: 'https://www.limelight.com'
+            logo: limelight.svg
+            twitter: 'https://twitter.com/llnw'
+            crunchbase: 'https://www.crunchbase.com/organization/limelightnetworks'
       - subcategory:
         name: Edge PaaS
         items:
