@@ -91,7 +91,14 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
       - subcategory:
         name: Decentralized
-        items: []
+        items:
+          - item:
+            name: StarlingX
+            homepage_url: 'https://www.starlingx.io'
+            repo_url: 'https://github.com/openstack/stx-tools'
+            logo: 'https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/starlingx/SVG/StarlingX_Logo_RGB_Stacked_2color.svg'
+            twitter: 'https://twitter.com/starlingx'
+            crunchbase: 'https://www.crunchbase.com/organization/openstack'
   - category:
     name: Infrastructure
     subcategories:

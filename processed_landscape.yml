@@ -362,7 +362,48 @@ landscape:
               latest_tweet_date: 2019-08-12T15:54:02.000Z
       - subcategory:
         name: Decentralized
-        items: []
+        items:
+          - item:
+            name: StarlingX
+            homepage_url: 'https://www.starlingx.io'
+            repo_url: 'https://github.com/openstack/stx-tools'
+            logo: >-
+              https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/starlingx/SVG/StarlingX_Logo_RGB_Stacked_2color.svg
+            twitter: 'https://twitter.com/starlingx'
+            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+            crunchbase_data:
+              name: OpenStack
+              description: OpenStack is the most widely used open source software for building public and private clouds.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.openstack.org'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: 'http://twitter.com/OpenStack'
+              linkedin: 'https://www.linkedin.com/company/openstack'
+            github_data:
+              stars: 9
+              license: Unknown License
+              description: StarlingX build tools
+              latest_commit_date: '2019-04-18T04:00:00.000Z'
+              latest_commit_link: /openstack/stx-tools/commit/18e5b737f11d3bbda6b5c9df15d8251f38540992
+              release_date: null
+              release_link: null
+              contributors_count: 29
+              contributors_link: 'https://github.com/openstack/stx-tools/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /openstack/stx-tools/commit/aa70def60ff2eb70b26ddb8b1e26b3cf9b21b114
+              start_date: '2018-05-20T06:08:47Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: starling-x.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-09T20:01:21.000Z
   - category:
     name: Infrastructure
     subcategories:
