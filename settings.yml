@@ -16,6 +16,8 @@ global:
   flags:
     cncf_sandbox: false
     companies: LF Edge Member Company
+    hide_license_for_categories:
+      - .ORG
 twitter:
   search: landscape.lfedge.org
   url: 'https://landscape.lfedge.org'
