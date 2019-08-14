@@ -6,6 +6,18 @@ landscape:
         name: .ORG
         items:
           - item:
+            name: Cloud Native Computing Foundation
+            homepage_url: 'https://www.cncf.io/'
+            logo: 'https://github.com/cncf/artwork/blob/master/other/cncf/stacked/color/cncf-stacked-color.svg'
+            twitter: 'https://twitter.com/cloudnativefdn'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Open Compute Project Foundation
+            homepage_url: 'https://www.opencompute.org/'
+            logo: 'https://www.zutacore.com/images/events/open-compute-logo.svg'
+            twitter: 'http://twitter.com/Opencomputeprj'
+            crunchbase: 'https://www.crunchbase.com/organization/open-compute-project-foundation'
+          - item:
             name: Open Glossary of Edge Computing
             homepage_url: 'https://www.lfedge.org/projects/openglossary/'
             project: growth
@@ -20,21 +32,10 @@ landscape:
             twitter: 'https://twitter.com/open19in'
             crunchbase: 'https://www.crunchbase.com/organization/open19-foundation'
           - item:
-            name: Open Compute Project Foundation
-            homepage_url: 'https://www.opencompute.org/'
-            logo: 'https://www.zutacore.com/images/events/open-compute-logo.svg'
-            twitter: 'http://twitter.com/Opencomputeprj'
-            crunchbase: 'https://www.crunchbase.com/organization/open-compute-project-foundation'
-          - item:
-            name: Cloud Native Computing Foundation
-            homepage_url: 'https://www.cncf.io/'
-            logo: 'https://github.com/cncf/artwork/blob/master/other/cncf/stacked/color/cncf-stacked-color.svg'
-            twitter: 'https://twitter.com/cloudnativefdn'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-          - item:
             name: OpenStack
             homepage_url: 'https://www.openstack.org/'
-            logo: 'https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/2016R/OpenStack-Logo-Vertical.svg'
+            logo: >-
+              https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/2016R/OpenStack-Logo-Vertical.svg
             twitter: 'https://twitter.com/OpenStack'
             crunchbase: 'https://www.crunchbase.com/organization/openstack'
   - category:
@@ -65,7 +66,9 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/akamai-technologies'
           - item:
             name: Amazon Cloudfront
-            description: Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment.
+            description: >-
+              Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers
+              globally with low latency, high transfer speeds, all within a developer-friendly environment.
             homepage_url: 'https://aws.amazon.com/cloudfront'
             logo: 'https://panoply.io/images/integration-logos/amazon%20cloudfront.svg'
             twitter: 'https://twitter.com/cloudfront'
@@ -91,7 +94,7 @@ landscape:
           - item:
             name: Stackpath
             homepage_url: 'https://www.stackpath.com/'
-            logo: 'stackpath.svg'
+            logo: stackpath.svg
             twitter: 'https://twitter.com/StackPath'
             crunchbase: 'https://www.crunchbase.com/organization/stackpath'
       - subcategory:
@@ -128,7 +131,8 @@ landscape:
             name: StarlingX
             homepage_url: 'https://www.starlingx.io'
             repo_url: 'https://github.com/openstack/stx-tools'
-            logo: 'https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/starlingx/SVG/StarlingX_Logo_RGB_Stacked_2color.svg'
+            logo: >-
+              https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/starlingx/SVG/StarlingX_Logo_RGB_Stacked_2color.svg
             twitter: 'https://twitter.com/starlingx'
             crunchbase: 'https://www.crunchbase.com/organization/openstack'
   - category:
