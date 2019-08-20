@@ -40,7 +40,16 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/openstack'
   - category:
     name: Traffic Routing
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Traffic Routing
+        items:
+          - item:
+            name: NS1
+            homepage_url: 'https://my.nsone.net'
+            logo: ns1.svg
+            twitter: 'https://twitter.com/NS1'
+            crunchbase: 'https://www.crunchbase.com/organization/ns1'
   - category:
     name: Platforms
     subcategories:
@@ -170,6 +179,15 @@ landscape:
             twitter: 'https://twitter.com/lf_edge'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
       - subcategory:
+        name: IAAS
+        items:
+          - item:
+            name: Google Cloud
+            homepage_url: 'https://twitter.com/googlecloud'
+            logo: google_cloud.svg
+            twitter: 'https://twitter.com/googlecloud'
+            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
+      - subcategory:
         name: Physical
         items: []
   - category:
@@ -183,22 +201,47 @@ landscape:
     subcategories:
       - subcategory:
         name: Core Silicon (CPU / PLC)
-        items: []
+        items:
+          - item:
+            name: AMD
+            homepage_url: 'https://www.amd.com/'
+            logo: amd.svg
+            twitter: 'https://twitter.com/AMD'
+            crunchbase: 'https://www.crunchbase.com/organization/amd'
+          - item:
+            name: Intel
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            stock_ticker: INTC
+            logo: intel.svg
+            twitter: 'http://twitter.com/intel'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
-        items: []
+        items:
+          - item:
+            name: Nvidia
+            homepage_url: 'https://www.nvidia.com/'
+            logo: nvidia.svg
+            twitter: 'https://twitter.com/nvidia'
+            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
   - category:
     name: Edge OEMs
     subcategories:
       - subcategory:
         name: Fiber & Peering (PoE)
         items: []
-      - subcategory:
-        name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
-        items: []
   - category:
     name: Wireless & Wireline
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: "Wireless"
+        items:
+          - item:
+            name: Verizon
+            homepage_url: 'https://www.verizonwireless.com/'
+            logo: verizon.svg
+            twitter: 'https://twitter.com/verizon'
+            crunchbase: 'https://www.crunchbase.com/organization/verizon'
   - category:
     name: Real Estate / Land
     subcategories:
@@ -325,7 +368,7 @@ landscape:
             twitter: 'https://twitter.com/IBM'
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
-            name: Intel
+            name: Intel (member)
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
             stock_ticker: INTC
             logo: intel.svg
