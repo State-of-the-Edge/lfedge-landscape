@@ -158,7 +158,39 @@ landscape:
               latest_tweet_date: 2019-08-18T23:31:22.000Z
   - category:
     name: Traffic Routing
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Traffic Routing
+        items:
+          - item:
+            name: NS1
+            homepage_url: 'https://my.nsone.net'
+            logo: ns1.svg
+            twitter: 'https://twitter.com/NS1'
+            crunchbase: 'https://www.crunchbase.com/organization/ns1'
+            crunchbase_data:
+              name: NS1
+              description: 'NS1 delivers precision control over internet traffic. '
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://ns1.com/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/ns1'
+              linkedin: 'https://www.linkedin.com/company/3189558/'
+              kind: funding
+              funding: 45350000
+            membership_data:
+              member: false
+            image_data:
+              fileName: ns1.svg
+              hash: JKj3r6Q2VNTR/vKxyQd/s4QzyEG6XRnUyNYc4sYAnns=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-20T16:03:02.000Z
   - category:
     name: Platforms
     subcategories:
@@ -695,6 +727,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-08-17T15:11:01.000Z
       - subcategory:
+        name: IAAS
+        items:
+          - item:
+            name: Google Cloud
+            homepage_url: 'https://twitter.com/googlecloud'
+            logo: google_cloud.svg
+            twitter: 'https://twitter.com/googlecloud'
+            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
+            crunchbase_data:
+              name: Google Cloud Platform
+              description: Google Cloud Platform is a tool suite for app developers.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://cloud.google.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/googlecloud'
+              linkedin: 'https://www.linkedin.com/company/google-cloud'
+              ticker: GOOG
+              kind: market_cap
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 826674511872
+              effective_ticker: GOOG
+            image_data:
+              fileName: google-cloud.svg
+              hash: WhZM7EeBZfOGZHeV7X1fyi0p2wy7Rz6DooibhIuhfG4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-20T13:39:39.000Z
+      - subcategory:
         name: Physical
         items: []
   - category:
@@ -708,22 +775,151 @@ landscape:
     subcategories:
       - subcategory:
         name: Core Silicon (CPU / PLC)
-        items: []
+        items:
+          - item:
+            name: AMD
+            homepage_url: 'https://www.amd.com/'
+            logo: amd.svg
+            twitter: 'https://twitter.com/AMD'
+            crunchbase: 'https://www.crunchbase.com/organization/amd'
+            crunchbase_data:
+              name: AMD
+              description: 'Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.amd.com'
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/amd'
+              linkedin: 'https://www.linkedin.com/company/amd'
+              ticker: AMD
+              kind: market_cap
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 33793169408
+              effective_ticker: AMD
+            image_data:
+              fileName: amd.svg
+              hash: R9sdRoTb9FghdyXDPK87++vsThdmBSAu0lrhuruGAgY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-20T01:48:09.000Z
+          - item:
+            name: Intel
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            stock_ticker: INTC
+            logo: intel.svg
+            twitter: 'http://twitter.com/intel'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+            crunchbase_data:
+              name: Intel
+              description: 'Intel designs, manufactures, and sells integrated digital technology platforms worldwide.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.intel.com/'
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/intel'
+              linkedin: 'https://www.linkedin.com/company/intel-corporation'
+              ticker: INTC
+              kind: market_cap
+            membership_data:
+              member: premier
+            yahoo_finance_data:
+              market_cap: 205994999808
+              effective_ticker: INTC
+            image_data:
+              fileName: intel.svg
+              hash: 4ADLps5d9QDPfED3hIHT2Icl46Bqc5uOfiXdoSHKVEU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-18T05:04:40.000Z
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
-        items: []
+        items:
+          - item:
+            name: Nvidia
+            homepage_url: 'https://www.nvidia.com/'
+            logo: nvidia.svg
+            twitter: 'https://twitter.com/nvidia'
+            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+            crunchbase_data:
+              name: NVIDIA
+              description: 'NVIDIA manufactures integrated circuits for use in motherboard chip-sets, graphic processing units, and game consoles.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://www.nvidia.com'
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/nvidia'
+              linkedin: 'https://www.linkedin.com/company/3608'
+              ticker: NVDA
+              kind: market_cap
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 102293733376
+              effective_ticker: NVDA
+            image_data:
+              fileName: nvidia.svg
+              hash: oexU5oK5XAIo8KWriaM6PznvG6ByYNQhXO2+kRZn/vw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-19T17:34:33.000Z
   - category:
     name: Edge OEMs
     subcategories:
       - subcategory:
         name: Fiber & Peering (PoE)
         items: []
-      - subcategory:
-        name: Wireless (WIFI/3G/LTE/4G/5G/IoT/CBRS)
-        items: []
   - category:
     name: Wireless & Wireline
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Wireless
+        items:
+          - item:
+            name: Verizon
+            homepage_url: 'https://www.verizonwireless.com/'
+            logo: verizon.svg
+            twitter: 'https://twitter.com/verizon'
+            crunchbase: 'https://www.crunchbase.com/organization/verizon'
+            crunchbase_data:
+              name: Verizon Communications
+              description: Verizon Communications is a broadband and telecommunications company that provides information and entertainment services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.verizon.com/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'https://twitter.com/verizon'
+              linkedin: 'https://www.linkedin.com/company/verizon'
+              ticker: VZ
+              kind: market_cap
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 234538942464
+              effective_ticker: VZ
+            image_data:
+              fileName: verizon.svg
+              hash: 9eK/yFJ5X8y4SMTSBzIEPvp+6ursmSLXlPmwZfVNg6o=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-20T16:07:30.000Z
   - category:
     name: Real Estate / Land
     subcategories:
@@ -1201,7 +1397,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-08-19T04:58:25.000Z
           - item:
-            name: Intel
+            name: Intel (member)
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
             stock_ticker: INTC
             logo: intel.svg
@@ -1226,8 +1422,8 @@ landscape:
               market_cap: 205994999808
               effective_ticker: INTC
             image_data:
-              fileName: intel.svg
-              hash: Hsk0TETEt9113n9crwvh4XlWrlgUBxMo0QVYrY1nKAY=
+              fileName: intel-member.svg
+              hash: 4ADLps5d9QDPfED3hIHT2Icl46Bqc5uOfiXdoSHKVEU=
             best_practice_data:
               badge: false
               percentage: null
