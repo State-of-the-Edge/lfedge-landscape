@@ -250,7 +250,13 @@ landscape:
         items: []
       - subcategory:
         name: Non Traditional
-        items: []
+        items:
+          - item:
+            name: Vapor IO
+            homepage_url: 'https://www.vapor.io/'
+            logo: vaporio.svg
+            twitter: 'https://twitter.com/vaporio'
+            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
       - subcategory:
         name: Towers
         items: []
@@ -259,7 +265,17 @@ landscape:
         items: []
   - category:
     name: Services / System Integrators
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Services / System Integrators
+        items:
+          - item:
+            name: HPE
+            homepage_url: 'https://www.hpe.com/us/en/home.html'
+            stock_ticker: HPE
+            logo: hpe.svg
+            twitter: 'https://twitter.com/HPE'
+            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard-enterprise'
   - category:
     name: Other Edge Related Software
     subcategories:
@@ -348,7 +364,7 @@ landscape:
             twitter: 'https://twitter.com/HP'
             crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard'
           - item:
-            name: HPE
+            name: HPE (member)
             homepage_url: 'https://www.hpe.com/us/en/home.html'
             stock_ticker: HPE
             logo: hpe.svg
@@ -668,7 +684,7 @@ landscape:
             twitter: 'https://twitter.com/ubuntu'
             crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
           - item:
-            name: Vapor IO
+            name: Vapor IO (member)
             homepage_url: 'https://www.vapor.io/'
             logo: vaporio.svg
             twitter: 'https://twitter.com/vaporio'
