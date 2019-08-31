@@ -5,6 +5,7 @@ global:
   website: 'https://landscape.lfedge.org'
   short_domain: l.lfedge.org
   company_url: 'https://lfedge.org'
+  membership: LF Edge Member Company
   email: info@lfedge.org
   meta:
     title: LF Edge Landscape
@@ -72,17 +73,17 @@ relation:
       label: Non-LF Edge Member Products/Projects
       url: 'no'
 membership:
-  premier:
+  Premium:
     name: LF Edge
     label: Premier Member
     funding: Premier
-  general:
+  General:
     name: LF Edge
     label: Member
     funding: General
-  associate:
+  Associate:
     name: LF Edge
-    label: Member
+    label: Associate
     funding: Associate
   'false':
     funding: 'No'
