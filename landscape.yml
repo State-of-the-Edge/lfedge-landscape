@@ -189,7 +189,14 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
       - subcategory:
         name: Physical
-        items: []
+        items:
+          - item:
+            name: Digital Rebar
+            homepage_url: 'https://rebar.digital'
+            repo_url: 'https://github.com/digitalrebar/provision'
+            logo: logo-digitalrebar.svg
+            twitter: 'https://twitter.com/digitalrebar'
+            crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
   - category:
     name: Security
     subcategories: []
