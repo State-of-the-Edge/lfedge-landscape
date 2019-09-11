@@ -171,6 +171,13 @@ landscape:
         name: Virtualization
         items:
           - item:
+            name: Kata Containers
+            homepage_url: 'https://katacontainers.io/'
+            repo_url: 'https://github.com/kata-containers/runtime'
+            logo: 'https://landscape.cncf.io/logos/kata-containers.svg'
+            twitter: 'https://twitter.com/KataContainers'
+            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+          - item:
             name: Project EVE
             homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
             project: growth
@@ -178,13 +185,6 @@ landscape:
             logo: logo-eve-wtext.svg
             twitter: 'https://twitter.com/lf_edge'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
-          - item:
-            name: Kata Containers
-            homepage_url: 'https://katacontainers.io/'
-            repo_url: 'https://github.com/kata-containers/runtime'
-            logo: 'https://landscape.cncf.io/logos/kata-containers.svg'
-            twitter: 'https://twitter.com/KataContainers'
-            crunchbase: 'https://www.crunchbase.com/organization/openstack'
       - subcategory:
         name: IAAS
         items:
@@ -734,7 +734,7 @@ landscape:
             homepage_url: 'https://www.zenlayer.com/'
             logo: zenlayer.svg
             twitter: 'https://twitter.com/zenlayer'
-            crunchbase: 'https://www.crunchbase.com/organization/zenlayer'            
+            crunchbase: 'https://www.crunchbase.com/organization/zenlayer'
       - subcategory:
         name: Associate
         items:
