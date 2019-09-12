@@ -23,16 +23,15 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/rethinkdb'
-                - 'https://www.crunchbase.com/organization/kubernetes'
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             image_data:
               fileName: cloud-native-computing-foundation.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:46:00.000Z
+              latest_tweet_date: 2019-09-12T02:48:24.000Z
           - item:
             name: Open Compute Project Foundation
             homepage_url: 'https://www.opencompute.org/'
@@ -50,7 +49,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Opencomputeprj'
               linkedin: 'https://www.linkedin.com/groups/4152886/profile'
-              acquisited: []
+              parents: []
             image_data:
               fileName: open-compute-project-foundation.svg
             best_practice_data:
@@ -77,7 +76,8 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/lf_edge'
               linkedin: null
-              acquisited: []
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             github_data:
               stars: 66
               license: Creative Commons Attribution Share Alike 4.0 International
@@ -100,7 +100,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T22:00:07.000Z
+              latest_tweet_date: 2019-09-11T20:30:03.000Z
           - item:
             name: Open19 Foundation
             homepage_url: 'https://www.open19.org/'
@@ -118,7 +118,7 @@ landscape:
               country: United States
               twitter: null
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: open19-foundation.svg
               hash: 9F7/bkRyBN/MuzONvvzyKj8dBRCEmcu6gUTgCuFsp6I=
@@ -145,14 +145,14 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/OpenStack'
               linkedin: 'https://www.linkedin.com/company/openstack'
-              acquisited: []
+              parents: []
             image_data:
               fileName: open-stack.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T00:14:18.000Z
+              latest_tweet_date: 2019-09-12T04:00:27.000Z
   - category:
     name: Traffic Routing
     subcategories:
@@ -176,7 +176,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/ns1'
               linkedin: 'https://www.linkedin.com/company/3189558/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 45350000
             image_data:
@@ -186,7 +186,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:17:50.000Z
+              latest_tweet_date: 2019-09-12T00:24:01.000Z
   - category:
     name: Platforms
     subcategories:
@@ -212,7 +212,8 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/lf_edge'
               linkedin: null
-              acquisited: []
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             github_data:
               stars: 0
               license: Unknown License
@@ -231,7 +232,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T22:00:07.000Z
+              latest_tweet_date: 2019-09-11T20:30:03.000Z
       - subcategory:
         name: CDN & Distributed Caches
         items:
@@ -252,37 +253,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Akamai'
               linkedin: 'https://www.linkedin.com/company/akamai-technologies'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/exceda'
-                - 'https://www.crunchbase.com/organization/janrain'
-                - 'https://www.crunchbase.com/organization/xerocole-inc'
-                - 'https://www.crunchbase.com/organization/nominum'
-                - 'https://www.crunchbase.com/organization/soasta'
-                - 'https://www.crunchbase.com/organization/cyberfend'
-                - 'https://www.crunchbase.com/organization/soha-systems'
-                - 'https://www.crunchbase.com/organization/concord-systems'
-                - 'https://www.crunchbase.com/organization/bloxx'
-                - 'https://www.crunchbase.com/organization/octoshape'
-                - 'https://www.crunchbase.com/organization/prolexic'
-                - 'https://www.crunchbase.com/organization/velocius-networks'
-                - 'https://www.crunchbase.com/organization/verivue'
-                - 'https://www.crunchbase.com/organization/fastsoft'
-                - 'https://www.crunchbase.com/organization/blaze-io'
-                - 'https://www.crunchbase.com/organization/cotendo'
-                - 'https://www.crunchbase.com/organization/velocitude'
-                - 'https://www.crunchbase.com/organization/acerno'
-                - 'https://www.crunchbase.com/organization/red-swoosh'
-                - 'https://www.crunchbase.com/organization/netli'
-                - 'https://www.crunchbase.com/organization/streaming-media-corporation'
-                - 'https://www.crunchbase.com/organization/nine-systems-corp'
-                - 'https://www.crunchbase.com/organization/speedera-networks'
-                - 'https://www.crunchbase.com/organization/calltheshots-inc'
-                - 'https://www.crunchbase.com/organization/intervu'
-                - 'https://www.crunchbase.com/organization/network24-communications'
+              parents: []
               ticker: AKAM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14605130752
+              market_cap: 14682214400
               effective_ticker: AKAM
             image_data:
               fileName: akamai.svg
@@ -290,7 +265,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:05:17.000Z
+              latest_tweet_date: 2019-09-11T20:15:18.000Z
           - item:
             name: Amazon Cloudfront
             description: >-
@@ -311,17 +286,12 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/awscloud'
               linkedin: 'https://www.linkedin.com/company/amazon-web-services/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/tso-logic'
-                - 'https://www.crunchbase.com/organization/sqrrl'
-                - 'https://www.crunchbase.com/organization/do'
-                - 'https://www.crunchbase.com/organization/thinkbox-software'
-                - 'https://www.crunchbase.com/organization/nice-3'
-                - 'https://www.crunchbase.com/organization/appthwack'
+              parents:
+                - 'https://www.crunchbase.com/organization/amazon'
               ticker: AMZN
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 872442167296
+              market_cap: 879829712896
               effective_ticker: AMZN
             image_data:
               fileName: amazon-cloudfront.svg
@@ -347,111 +317,11 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/cisco'
               linkedin: 'https://www.linkedin.com/company/cisco'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/cloudcherry'
-                - 'https://www.crunchbase.com/organization/workfit'
-                - 'https://www.crunchbase.com/organization/acacia-communications'
-                - 'https://www.crunchbase.com/organization/sentryo'
-                - 'https://www.crunchbase.com/organization/singularity-networks'
-                - 'https://www.crunchbase.com/organization/luxtera'
-                - 'https://www.crunchbase.com/organization/ensoft-ltd'
-                - 'https://www.crunchbase.com/organization/duo-security'
-                - 'https://www.crunchbase.com/organization/july-systems'
-                - 'https://www.crunchbase.com/organization/accompany'
-                - 'https://www.crunchbase.com/organization/skyport-systems'
-                - 'https://www.crunchbase.com/organization/batch-ly'
-                - 'https://www.crunchbase.com/organization/broadsoft'
-                - 'https://www.crunchbase.com/organization/perspica'
-                - 'https://www.crunchbase.com/organization/springpath-inc'
-                - 'https://www.crunchbase.com/organization/observable-networks'
-                - 'https://www.crunchbase.com/organization/mindmeld'
-                - 'https://www.crunchbase.com/organization/viptela'
-                - 'https://www.crunchbase.com/organization/appdynamics'
-                - 'https://www.crunchbase.com/organization/worklife'
-                - 'https://www.crunchbase.com/organization/containerx'
-                - 'https://www.crunchbase.com/organization/cloudlock'
-                - 'https://www.crunchbase.com/organization/synata'
-                - 'https://www.crunchbase.com/organization/leaba-semiconductor'
-                - 'https://www.crunchbase.com/organization/cliqr-technologies'
-                - 'https://www.crunchbase.com/organization/jasper-wireless'
-                - 'https://www.crunchbase.com/organization/acano'
-                - 'https://www.crunchbase.com/organization/1-mainstream'
-                - 'https://www.crunchbase.com/organization/lancope'
-                - 'https://www.crunchbase.com/organization/parstream'
-                - 'https://www.crunchbase.com/organization/pawaa-software'
-                - 'https://www.crunchbase.com/organization/portcullis'
-                - 'https://www.crunchbase.com/organization/maintenancenet'
-                - 'https://www.crunchbase.com/organization/opendns'
-                - 'https://www.crunchbase.com/organization/piston-cloud-computing'
-                - 'https://www.crunchbase.com/organization/tropo'
-                - 'https://www.crunchbase.com/organization/embrane'
-                - 'https://www.crunchbase.com/organization/ksr'
-                - 'https://www.crunchbase.com/organization/memoir-systems'
-                - 'https://www.crunchbase.com/organization/metacloud'
-                - 'https://www.crunchbase.com/organization/assemblage'
-                - 'https://www.crunchbase.com/organization/tail-f-systems'
-                - 'https://www.crunchbase.com/organization/threatgrid'
-                - 'https://www.crunchbase.com/organization/collaborate-com'
-                - 'https://www.crunchbase.com/organization/insieme'
-                - 'https://www.crunchbase.com/organization/pioneer-sourcefire'
-                - 'https://www.crunchbase.com/organization/whiptail'
-                - 'https://www.crunchbase.com/organization/sourcefire'
-                - 'https://www.crunchbase.com/organization/composite-software-inc'
-                - 'https://www.crunchbase.com/organization/joulex'
-                - 'https://www.crunchbase.com/organization/ubiquisys'
-                - 'https://www.crunchbase.com/organization/solvedirect-service-management'
-                - 'https://www.crunchbase.com/organization/cognitive-security'
-                - 'https://www.crunchbase.com/organization/intucell'
-                - 'https://www.crunchbase.com/organization/broadhop'
-                - 'https://www.crunchbase.com/organization/cariden-technologies'
-                - 'https://www.crunchbase.com/organization/meraki'
-                - 'https://www.crunchbase.com/organization/cloupia'
-                - 'https://www.crunchbase.com/organization/vcider'
-                - 'https://www.crunchbase.com/organization/thinksmart-technologies'
-                - 'https://www.crunchbase.com/organization/virtuata'
-                - 'https://www.crunchbase.com/organization/truviso'
-                - 'https://www.crunchbase.com/organization/clearaccess'
-                - 'https://www.crunchbase.com/organization/nds-group-2'
-                - 'https://www.crunchbase.com/organization/nds'
-                - 'https://www.crunchbase.com/organization/lightwire'
-                - 'https://www.crunchbase.com/organization/bni-video'
-                - 'https://www.crunchbase.com/organization/versly'
-                - 'https://www.crunchbase.com/organization/axiom-systems'
-                - 'https://www.crunchbase.com/organization/axioss'
-                - 'https://www.crunchbase.com/organization/newscale'
-                - 'https://www.crunchbase.com/organization/pari-networks'
-                - 'https://www.crunchbase.com/organization/inlet-technologies'
-                - 'https://www.crunchbase.com/organization/linesider-technologies'
-                - 'https://www.crunchbase.com/organization/arch-rock-corporationarch-rock-corporation'
-                - 'https://www.crunchbase.com/organization/extend-media'
-                - 'https://www.crunchbase.com/organization/coreoptics'
-                - 'https://www.crunchbase.com/organization/moto-development-group'
-                - 'https://www.crunchbase.com/organization/rohati-systems'
-                - 'https://www.crunchbase.com/organization/starent-networks'
-                - 'https://www.crunchbase.com/organization/dvn'
-                - 'https://www.crunchbase.com/organization/scansafe'
-                - 'https://www.crunchbase.com/organization/tandberg'
-                - 'https://www.crunchbase.com/organization/tidal-software'
-                - 'https://www.crunchbase.com/organization/pure-digital-technologies'
-                - 'https://www.crunchbase.com/organization/richards-zeta-building-intelligence'
-                - 'https://www.crunchbase.com/organization/jabber'
-                - 'https://www.crunchbase.com/organization/postpath'
-                - 'https://www.crunchbase.com/organization/pure-networks'
-                - 'https://www.crunchbase.com/organization/divitech-a-s'
-                - 'https://www.crunchbase.com/organization/fast-data-technology'
-                - 'https://www.crunchbase.com/organization/nuova-systems'
-                - 'https://www.crunchbase.com/organization/securent'
-                - 'https://www.crunchbase.com/organization/navini-networks'
-                - 'https://www.crunchbase.com/organization/latigent'
-                - 'https://www.crunchbase.com/organization/cognio'
-                - 'https://www.crunchbase.com/organization/broadware-technologies'
-                - 'https://www.crunchbase.com/organization/spans-logic'
-                - 'https://www.crunchbase.com/organization/webex'
-                - 'https://www.crunchbase.com/organization/neopath-networks'
+              parents: []
               ticker: CSCO
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 202979934208
+              market_cap: 212391854080
               effective_ticker: CSCO
             image_data:
               fileName: cisco-sd-wan.svg
@@ -459,7 +329,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T23:08:31.000Z
+              latest_tweet_date: 2019-09-12T03:08:00.000Z
           - item:
             name: Cloudflare
             homepage_url: 'https://www.cloudflare.com'
@@ -491,7 +361,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T03:03:00.000Z
+              latest_tweet_date: 2019-09-12T00:11:02.000Z
           - item:
             name: Limelight Networks
             homepage_url: 'https://www.limelight.com'
@@ -509,15 +379,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/llnw'
               linkedin: 'https://www.linkedin.com/company/limelight-networks'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/fasterweb'
-                - 'https://www.crunchbase.com/organization/clickability'
-                - 'https://www.crunchbase.com/organization/delve-networks'
-                - 'https://www.crunchbase.com/organization/kiptronic'
+              parents: []
               ticker: LLNW
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 309308384
+              market_cap: 306051328
               effective_ticker: LLNW
             image_data:
               fileName: limelight-networks.svg
@@ -526,7 +392,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T12:57:45.000Z
+              latest_tweet_date: 2019-09-11T14:05:22.000Z
           - item:
             name: Stackpath
             homepage_url: 'https://www.stackpath.com/'
@@ -544,13 +410,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/stackpath'
               linkedin: 'https://www.linkedin.com/company/stackpath?trk=extra_biz_viewers_viewed'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/server-density'
-                - 'https://www.crunchbase.com/organization/highwinds'
-                - 'https://www.crunchbase.com/organization/fireblade'
-                - 'https://www.crunchbase.com/organization/staminus'
-                - 'https://www.crunchbase.com/organization/maxcdn-enterprise'
-                - 'https://www.crunchbase.com/organization/cloak-2'
+              parents: []
               kind: funding
               funding: 180000000
             image_data:
@@ -560,7 +420,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-09T21:38:42.000Z
+              latest_tweet_date: 2019-09-11T17:29:25.000Z
       - subcategory:
         name: Edge PaaS
         items:
@@ -582,15 +442,14 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/rethinkdb'
-                - 'https://www.crunchbase.com/organization/kubernetes'
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             github_data:
-              stars: 1541
+              stars: 1544
               license: Apache License 2.0
               description: Kubernetes Native Edge Computing Framework (project under CNCF)
-              latest_commit_date: '2019-09-09T00:00:00.000Z'
-              latest_commit_link: /kubeedge/kubeedge/commit/37d48af49fd7233ea71b28de8d5ccd8d0824534f
+              latest_commit_date: '2019-09-11T00:00:00.000Z'
+              latest_commit_link: /kubeedge/kubeedge/commit/da3d27e14ca009d8f9aff7a09e4d5afec1c76f24
               release_date: '2019-06-24T18:42:45Z'
               release_link: 'https://github.com/kubeedge/kubeedge/releases'
               contributors_count: 78
@@ -623,7 +482,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/sectionio'
               linkedin: 'https://www.linkedin.com/company/section_io/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 6224992
             image_data:
@@ -656,7 +515,8 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/lf_edge'
               linkedin: null
-              acquisited: []
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             github_data:
               stars: 425
               license: Apache License 2.0
@@ -698,7 +558,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/OpenStack'
               linkedin: 'https://www.linkedin.com/company/openstack'
-              acquisited: []
+              parents: []
             github_data:
               stars: 9
               license: Unknown License
@@ -716,7 +576,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:00:28.000Z
+              latest_tweet_date: 2019-09-11T20:01:24.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -741,7 +601,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/vaporio'
               linkedin: null
-              acquisited: []
+              parents: []
             github_data:
               stars: 8
               license: GNU General Public License v3.0
@@ -760,7 +620,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T00:24:30.000Z
+              latest_tweet_date: 2019-09-11T18:44:22.000Z
       - subcategory:
         name: Provisioning
         items:
@@ -782,18 +642,17 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/rethinkdb'
-                - 'https://www.crunchbase.com/organization/kubernetes'
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             github_data:
-              stars: 57707
+              stars: 57739
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2019-09-11T00:00:00.000Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/e60fd899e46ccdf01d1f9183f101aaeca0295173
+              latest_commit_date: '2019-09-12T00:00:00.000Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/17246b8026cebac663866e02a0fa6cdc0f766c90
               release_date: '2019-09-10T19:31:46Z'
               release_link: 'https://github.com/kubernetes/kubernetes/releases'
-              contributors_count: 2266
+              contributors_count: 2277
               contributors_link: 'https://github.com/kubernetes/kubernetes/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
@@ -805,7 +664,7 @@ landscape:
               badge: 569
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-09-10T19:45:10.000Z
+              latest_tweet_date: 2019-09-11T20:37:36.000Z
       - subcategory:
         name: Virtualization
         items:
@@ -827,13 +686,13 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/OpenStack'
               linkedin: 'https://www.linkedin.com/company/openstack'
-              acquisited: []
+              parents: []
             github_data:
-              stars: 1415
+              stars: 1416
               license: Apache License 2.0
               description: Kata Containers runtime
-              latest_commit_date: '2019-09-10T00:00:00.000Z'
-              latest_commit_link: /kata-containers/runtime/commit/571ede536ba5cc99bf1a41c680c7e55152adf69a
+              latest_commit_date: '2019-09-11T00:00:00.000Z'
+              latest_commit_link: /kata-containers/runtime/commit/39864c37ff0b3149f69da86ec7827df201422b8c
               release_date: '2019-09-09T19:34:45Z'
               release_link: 'https://github.com/kata-containers/runtime/releases'
               contributors_count: 58
@@ -847,7 +706,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:00:52.000Z
+              latest_tweet_date: 2019-09-11T20:01:07.000Z
           - item:
             name: Project EVE
             homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
@@ -867,13 +726,14 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/lf_edge'
               linkedin: null
-              acquisited: []
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             github_data:
               stars: 51
               license: Apache License 2.0
               description: 'EVE is Edge Virtualization Engine '
               latest_commit_date: '2019-09-11T00:00:00.000Z'
-              latest_commit_link: /lf-edge/eve/commit/d0d89c993997aeb73e37daf7917fe48d6e5fb6b9
+              latest_commit_link: /lf-edge/eve/commit/06013b68e5c64b73ea504c7431a950cb93db2861
               release_date: '2019-07-29T03:43:17Z'
               release_link: 'https://github.com/lf-edge/eve/releases'
               contributors_count: 32
@@ -888,7 +748,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T22:00:07.000Z
+              latest_tweet_date: 2019-09-11T20:30:03.000Z
       - subcategory:
         name: IAAS
         items:
@@ -909,12 +769,13 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/googlecloud'
               linkedin: 'https://www.linkedin.com/company/google-cloud'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/bitium'
+              parents:
+                - 'https://www.crunchbase.com/organization/google'
+                - 'https://www.crunchbase.com/organization/alphabet'
               ticker: GOOG
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 824667668480
+              market_cap: 834357166080
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud.svg
@@ -923,7 +784,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T07:21:53.000Z
+              latest_tweet_date: 2019-09-12T05:49:06.000Z
       - subcategory:
         name: Physical
         items: []
@@ -956,16 +817,11 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/amd'
               linkedin: 'https://www.linkedin.com/company/amd'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/nitero'
-                - 'https://www.crunchbase.com/organization/hialgo'
-                - 'https://www.crunchbase.com/organization/seamicro'
-                - 'https://www.crunchbase.com/organization/ati-technologies'
-                - 'https://www.crunchbase.com/organization/alchemy-semiconductor'
+              parents: []
               ticker: AMD
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33771745280
+              market_cap: 32774686720
               effective_ticker: AMD
             image_data:
               fileName: amd.svg
@@ -974,7 +830,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T16:32:51.000Z
+              latest_tweet_date: 2019-09-12T00:30:00.000Z
           - item:
             name: Intel
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
@@ -993,106 +849,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/intel'
               linkedin: 'https://www.linkedin.com/company/intel-corporation'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/barefoot-networks'
-                - 'https://www.crunchbase.com/organization/omnitek'
-                - 'https://www.crunchbase.com/organization/ineda-systems'
-                - 'https://www.crunchbase.com/organization/netspeed-systems'
-                - 'https://www.crunchbase.com/organization/vertex-ai'
-                - 'https://www.crunchbase.com/organization/easic'
-                - 'https://www.crunchbase.com/organization/mobileye-vision-technologies'
-                - 'https://www.crunchbase.com/organization/voke'
-                - 'https://www.crunchbase.com/organization/mavinci-gmbh'
-                - 'https://www.crunchbase.com/organization/soft-machines'
-                - 'https://www.crunchbase.com/organization/movidius'
-                - 'https://www.crunchbase.com/organization/nervana-systems'
-                - 'https://www.crunchbase.com/organization/itseez'
-                - 'https://www.crunchbase.com/organization/yogitech'
-                - 'https://www.crunchbase.com/organization/replay-technologies'
-                - 'https://www.crunchbase.com/organization/ascending-technologies'
-                - 'https://www.crunchbase.com/organization/saffron-technology'
-                - 'https://www.crunchbase.com/organization/docea-power'
-                - 'https://www.crunchbase.com/organization/recon-instruments'
-                - 'https://www.crunchbase.com/organization/altera'
-                - 'https://www.crunchbase.com/organization/lemoptix'
-                - 'https://www.crunchbase.com/organization/lantiq'
-                - 'https://www.crunchbase.com/organization/composyt-light-labs'
-                - 'https://www.crunchbase.com/organization/passwordbox'
-                - 'https://www.crunchbase.com/organization/lsi-corporation'
-                - 'https://www.crunchbase.com/organization/basis-science'
-                - 'https://www.crunchbase.com/organization/appmobi'
-                - 'https://www.crunchbase.com/organization/hacker-league'
-                - 'https://www.crunchbase.com/organization/kno'
-                - 'https://www.crunchbase.com/organization/sensory-networks'
-                - 'https://www.crunchbase.com/organization/indisys'
-                - 'https://www.crunchbase.com/organization/xtreme-insights'
-                - 'https://www.crunchbase.com/organization/omek-interactive'
-                - 'https://www.crunchbase.com/organization/aepona'
-                - 'https://www.crunchbase.com/organization/mashery'
-                - 'https://www.crunchbase.com/organization/ziilabs'
-                - 'https://www.crunchbase.com/organization/whamcloud'
-                - 'https://www.crunchbase.com/organization/idesia'
-                - 'https://www.crunchbase.com/organization/olaworks'
-                - 'https://www.crunchbase.com/organization/telmap'
-                - 'https://www.crunchbase.com/organization/cofluent-design'
-                - 'https://www.crunchbase.com/organization/fulcrum-microsystems'
-                - 'https://www.crunchbase.com/organization/siport'
-                - 'https://www.crunchbase.com/organization/nordic-edge'
-                - 'https://www.crunchbase.com/organization/silicon-hive'
-                - 'https://www.crunchbase.com/organization/sysdsoft'
-                - 'https://www.crunchbase.com/organization/cognovision'
-                - 'https://www.crunchbase.com/organization/mcafee'
-                - 'https://www.crunchbase.com/organization/infineon'
-                - 'https://www.crunchbase.com/organization/rapidmind'
-                - 'https://www.crunchbase.com/organization/cilk'
-                - 'https://www.crunchbase.com/organization/cilk-arts'
-                - 'https://www.crunchbase.com/organization/wind-river'
-                - 'https://www.crunchbase.com/organization/swiftfoot-graphics-ab'
-                - 'https://www.crunchbase.com/organization/net-effect-systems'
-                - 'https://www.crunchbase.com/organization/neteffect-corp'
-                - 'https://www.crunchbase.com/organization/opened-hand'
-                - 'https://www.crunchbase.com/organization/havok'
-                - 'https://www.crunchbase.com/organization/conformative-systems'
-                - 'https://www.crunchbase.com/organization/sarvega'
-                - 'https://www.crunchbase.com/organization/oplus-technologies'
-                - 'https://www.crunchbase.com/organization/envara'
-                - 'https://www.crunchbase.com/organization/mobilian'
-                - 'https://www.crunchbase.com/organization/acirro'
-                - 'https://www.crunchbase.com/organization/west-bay-semiconductor'
-                - 'https://www.crunchbase.com/organization/scale-eight'
-                - 'https://www.crunchbase.com/organization/iospan-wireless'
-                - 'https://www.crunchbase.com/organization/sparkolor-corporation'
-                - 'https://www.crunchbase.com/organization/lightlogic'
-                - 'https://www.crunchbase.com/organization/cognet-2'
-                - 'https://www.crunchbase.com/organization/icp-vortex-computersysteme'
-                - 'https://www.crunchbase.com/organization/cad-ul'
-                - 'https://www.crunchbase.com/organization/vxtel'
-                - 'https://www.crunchbase.com/organization/xircom'
-                - 'https://www.crunchbase.com/organization/ziatech'
-                - 'https://www.crunchbase.com/organization/datakinetics'
-                - 'https://www.crunchbase.com/organization/ford-microelectronics'
-                - 'https://www.crunchbase.com/organization/picazo-communications'
-                - 'https://www.crunchbase.com/organization/kuck-associates'
-                - 'https://www.crunchbase.com/organization/basis-communications'
-                - 'https://www.crunchbase.com/organization/giga'
-                - 'https://www.crunchbase.com/organization/voice-technologies'
-                - 'https://www.crunchbase.com/organization/thinkit-technologies'
-                - 'https://www.crunchbase.com/organization/ambient-technologies'
-                - 'https://www.crunchbase.com/organization/parity-software-development'
-                - 'https://www.crunchbase.com/organization/ipivot'
-                - 'https://www.crunchbase.com/organization/xlnt'
-                - 'https://www.crunchbase.com/organization/netboost'
-                - 'https://www.crunchbase.com/organization/softcom-microsystems'
-                - 'https://www.crunchbase.com/organization/level-one-communications'
-                - 'https://www.crunchbase.com/organization/icat'
-                - 'https://www.crunchbase.com/organization/shiva-corporation'
-                - 'https://www.crunchbase.com/organization/corollary'
-                - 'https://www.crunchbase.com/organization/dayna-communications'
-                - 'https://www.crunchbase.com/organization/chips-and-technologies'
+              parents: []
               ticker: INTC
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 210962841600
+              market_cap: 233859710976
               effective_ticker: INTC
             image_data:
               fileName: intel.svg
@@ -1101,7 +862,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T21:59:00.000Z
+              latest_tweet_date: 2019-09-11T22:35:08.000Z
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
         items:
@@ -1122,25 +883,11 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/nvidia'
               linkedin: 'https://www.linkedin.com/company/3608'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/mellanox-technologies'
-                - 'https://www.crunchbase.com/organization/transgaming'
-                - 'https://www.crunchbase.com/organization/pgi-2'
-                - 'https://www.crunchbase.com/organization/icera'
-                - 'https://www.crunchbase.com/organization/rayscale'
-                - 'https://www.crunchbase.com/organization/ageia-technologies'
-                - 'https://www.crunchbase.com/organization/mental-images'
-                - 'https://www.crunchbase.com/organization/portalplayer'
-                - 'https://www.crunchbase.com/organization/hybrid-graphics'
-                - 'https://www.crunchbase.com/organization/uli-electronics'
-                - 'https://www.crunchbase.com/organization/iready'
-                - 'https://www.crunchbase.com/organization/mediaq-inc'
-                - 'https://www.crunchbase.com/organization/exluna'
-                - 'https://www.crunchbase.com/organization/3dfx-interactive'
+              parents: []
               ticker: NVDA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 104600363008
+              market_cap: 112256974848
               effective_ticker: NVDA
             image_data:
               fileName: nvidia.svg
@@ -1149,7 +896,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T17:28:00.000Z
+              latest_tweet_date: 2019-09-11T15:25:01.000Z
   - category:
     name: Edge OEMs
     subcategories:
@@ -1173,47 +920,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/zayogroup'
               linkedin: 'https://www.linkedin.com/company/zayo-group'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/neutral-path-communications'
-                - 'https://www.crunchbase.com/organization/optic-zoo-networks'
-                - 'https://www.crunchbase.com/organization/spread-networks'
-                - 'https://www.crunchbase.com/organization/electric-lightwave-2'
-                - 'https://www.crunchbase.com/organization/clearview-international'
-                - 'https://www.crunchbase.com/organization/mts-allstream'
-                - 'https://www.crunchbase.com/organization/viatel'
-                - 'https://www.crunchbase.com/organization/latisys'
-                - 'https://www.crunchbase.com/organization/geo-networks'
-                - 'https://www.crunchbase.com/organization/neo-telecoms'
-                - 'https://www.crunchbase.com/organization/fiberlink-llc'
-                - 'https://www.crunchbase.com/organization/access-communications'
-                - 'https://www.crunchbase.com/organization/core-nap'
-                - 'https://www.crunchbase.com/organization/litecast'
-                - 'https://www.crunchbase.com/organization/first-telecom-services'
-                - 'https://www.crunchbase.com/organization/uscarrier-telecom'
-                - 'https://www.crunchbase.com/organization/fibergate'
-                - 'https://www.crunchbase.com/organization/arialink'
-                - 'https://www.crunchbase.com/organization/abovenet'
-                - 'https://www.crunchbase.com/organization/marquisnet'
-                - 'https://www.crunchbase.com/organization/360networks'
-                - 'https://www.crunchbase.com/organization/dolphini-networks'
-                - 'https://www.crunchbase.com/organization/american-fiber-systems'
-                - 'https://www.crunchbase.com/organization/agl-networks'
-                - 'https://www.crunchbase.com/organization/fibernet'
-                - 'https://www.crunchbase.com/organization/northwest-telephone-inc'
-                - 'https://www.crunchbase.com/organization/adesta-assets'
-                - 'https://www.crunchbase.com/organization/columbia-fiber-solutions'
-                - 'https://www.crunchbase.com/organization/centurytel-markets'
-                - 'https://www.crunchbase.com/organization/citynet-holdings-assets'
-                - 'https://www.crunchbase.com/organization/citynet-fiber-networks'
-                - 'https://www.crunchbase.com/organization/onvoy'
-                - 'https://www.crunchbase.com/organization/voicepipe'
-                - 'https://www.crunchbase.com/organization/memphis-networx'
-                - 'https://www.crunchbase.com/organization/indiana-fiber-works'
-                - 'https://www.crunchbase.com/organization/ppl-telecom'
+              parents: []
               ticker: ZAYO
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7945380864
+              market_cap: 8002464768
               effective_ticker: ZAYO
             image_data:
               fileName: zayo.svg
@@ -1222,7 +933,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T17:24:02.000Z
+              latest_tweet_date: 2019-09-11T18:45:48.000Z
   - category:
     name: Wireless & Wireline
     subcategories:
@@ -1246,39 +957,11 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/verizon'
               linkedin: 'https://www.linkedin.com/company/verizon'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/protectwise'
-                - 'https://www.crunchbase.com/organization/vidder'
-                - 'https://www.crunchbase.com/organization/moment-3'
-                - 'https://www.crunchbase.com/organization/niddel'
-                - 'https://www.crunchbase.com/organization/wideopenwest-fiber-optic-network'
-                - 'https://www.crunchbase.com/organization/straight-path-communications'
-                - 'https://www.crunchbase.com/organization/lqd-wifi'
-                - 'https://www.crunchbase.com/organization/vessel-2'
-                - 'https://www.crunchbase.com/organization/sensity-systems'
-                - 'https://www.crunchbase.com/organization/fleetmatics'
-                - 'https://www.crunchbase.com/organization/yahoo'
-                - 'https://www.crunchbase.com/organization/telogis'
-                - 'https://www.crunchbase.com/organization/complex'
-                - 'https://www.crunchbase.com/organization/volicon'
-                - 'https://www.crunchbase.com/organization/xo-communications'
-                - 'https://www.crunchbase.com/organization/aol'
-                - 'https://www.crunchbase.com/organization/go90'
-                - 'https://www.crunchbase.com/organization/edgecast'
-                - 'https://www.crunchbase.com/organization/uplynk'
-                - 'https://www.crunchbase.com/organization/hughes-telematics'
-                - 'https://www.crunchbase.com/organization/cloudswitch'
-                - 'https://www.crunchbase.com/organization/terremark-worldwide'
-                - 'https://www.crunchbase.com/organization/alltel'
-                - 'https://www.crunchbase.com/organization/inceptor'
-                - 'https://www.crunchbase.com/organization/qwest-wireless-spectrum-network-assets'
-                - 'https://www.crunchbase.com/organization/mci'
-                - 'https://www.crunchbase.com/organization/verizon-avenue-dba-verizon-enhanced-communities'
-                - 'https://www.crunchbase.com/organization/gte'
+              parents: []
               ticker: VZ
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 243183304704
+              market_cap: 248683249664
               effective_ticker: VZ
             image_data:
               fileName: verizon.svg
@@ -1308,44 +991,11 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/comcast'
               linkedin: 'https://www.linkedin.com/company/comcast/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/deep-blue-communications'
-                - 'https://www.crunchbase.com/organization/bluvector'
-                - 'https://www.crunchbase.com/organization/sky'
-                - 'https://www.crunchbase.com/organization/wilco-electronic-systems-cable-tv-business'
-                - 'https://www.crunchbase.com/organization/stringify'
-                - 'https://www.crunchbase.com/organization/watchwith'
-                - 'https://www.crunchbase.com/organization/icontrol'
-                - 'https://www.crunchbase.com/organization/onetwosee'
-                - 'https://www.crunchbase.com/organization/contingent-network-services'
-                - 'https://www.crunchbase.com/organization/this-technology'
-                - 'https://www.crunchbase.com/organization/visible-world'
-                - 'https://www.crunchbase.com/organization/powercloud-systems'
-                - 'https://www.crunchbase.com/organization/freewheel'
-                - 'https://www.crunchbase.com/organization/time-warner-cable'
-                - 'https://www.crunchbase.com/organization/nbcuniversal'
-                - 'https://www.crunchbase.com/organization/the700level-com'
-                - 'https://www.crunchbase.com/organization/new-global-telecom'
-                - 'https://www.crunchbase.com/organization/radiance'
-                - 'https://www.crunchbase.com/organization/dailycandy'
-                - 'https://www.crunchbase.com/organization/plaxo'
-                - 'https://www.crunchbase.com/organization/vehix'
-                - 'https://www.crunchbase.com/organization/buddytv'
-                - 'https://www.crunchbase.com/organization/fandango'
-                - 'https://www.crunchbase.com/organization/patriot-media-and-communications'
-                - 'https://www.crunchbase.com/organization/adelphia-communications'
-                - 'https://www.crunchbase.com/organization/theplatform'
-                - 'https://www.crunchbase.com/organization/techtv'
-                - 'https://www.crunchbase.com/organization/mediaone'
-                - 'https://www.crunchbase.com/organization/lenfest-communications'
-                - 'https://www.crunchbase.com/organization/jones-intercable'
-                - 'https://www.crunchbase.com/organization/greater-philadelphia-cablevision'
-                - 'https://www.crunchbase.com/organization/american-cellular-network-corporation'
-                - 'https://www.crunchbase.com/organization/comcast-sports-ventures'
+              parents: []
               ticker: CMCSA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 201594863616
+              market_cap: 210887557120
               effective_ticker: CMCSA
             image_data:
               fileName: comcast.svg
@@ -1354,7 +1004,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T06:12:57.000Z
+              latest_tweet_date: 2019-09-12T01:54:15.000Z
   - category:
     name: Real Estate / Land
     subcategories:
@@ -1381,7 +1031,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/vaporio'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: vapor-io.svg
               hash: UV2qdeomzMO2e+2jb/EKvYWWoJxu26leDHIfyqeJjG0=
@@ -1389,7 +1039,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T00:24:30.000Z
+              latest_tweet_date: 2019-09-11T18:44:22.000Z
       - subcategory:
         name: Towers
         items: []
@@ -1420,23 +1070,11 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/hpe'
               linkedin: 'https://www.linkedin.com/company/hewlett-packard-enterprise'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/mapr-technologies'
-                - 'https://www.crunchbase.com/organization/cray'
-                - 'https://www.crunchbase.com/organization/bluedata-software'
-                - 'https://www.crunchbase.com/organization/plexxi'
-                - 'https://www.crunchbase.com/organization/redpixie'
-                - 'https://www.crunchbase.com/organization/cloud-technology-partners'
-                - 'https://www.crunchbase.com/organization/nimble-storage'
-                - 'https://www.crunchbase.com/organization/niara-inc'
-                - 'https://www.crunchbase.com/organization/cloud-cruiser'
-                - 'https://www.crunchbase.com/organization/simplivity'
-                - 'https://www.crunchbase.com/organization/sgi'
-                - 'https://www.crunchbase.com/organization/trilead'
+              parents: []
               ticker: HPE
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18687305728
+              market_cap: 18378215424
               effective_ticker: HPE
             image_data:
               fileName: hpe.svg
@@ -1445,7 +1083,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:21:08.000Z
+              latest_tweet_date: 2019-09-11T14:00:14.000Z
   - category:
     name: Other Edge Related Software
     subcategories:
@@ -1471,7 +1109,8 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/lf_edge'
               linkedin: null
-              acquisited: []
+              parents:
+                - 'https://www.crunchbase.com/organization/the-linux-foundation'
             github_data:
               stars: 4
               license: Apache License 2.0
@@ -1492,7 +1131,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T22:00:07.000Z
+              latest_tweet_date: 2019-09-11T20:30:03.000Z
   - category:
     name: LF Edge Member Company
     subcategories:
@@ -1516,32 +1155,11 @@ landscape:
               country: France
               twitter: 'http://twitter.com/Altran'
               linkedin: 'https://www.linkedin.com/company/3124'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/aricent'
-                - 'https://www.crunchbase.com/organization/global-edge-software'
-                - 'https://www.crunchbase.com/organization/next-ingegneria-dei-sistemi'
-                - 'https://www.crunchbase.com/organization/information-risk-management'
-                - 'https://www.crunchbase.com/organization/titan-engineering'
-                - 'https://www.crunchbase.com/organization/pricol-technologies'
-                - 'https://www.crunchbase.com/organization/swell-a-s'
-                - 'https://www.crunchbase.com/organization/lohika'
-                - 'https://www.crunchbase.com/organization/tessella'
-                - 'https://www.crunchbase.com/organization/oxo-sas'
-                - 'https://www.crunchbase.com/organization/nspyre'
-                - 'https://www.crunchbase.com/organization/altran-concept-tech-gmbh'
-                - 'https://www.crunchbase.com/organization/tass-bv'
-                - 'https://www.crunchbase.com/organization/foliage'
-                - 'https://www.crunchbase.com/organization/scalae-ab'
-                - 'https://www.crunchbase.com/organization/sentaca-communications'
-                - 'https://www.crunchbase.com/organization/aircad-sas'
-                - 'https://www.crunchbase.com/organization/industriehansa-consulting-engineering-gmbh'
-                - 'https://www.crunchbase.com/organization/citi-technologies-sa'
-                - 'https://www.crunchbase.com/organization/igeam-srl'
-                - 'https://www.crunchbase.com/organization/city-consultants-ltd'
+              parents: []
               ticker: ALT
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 33426800
+              market_cap: 33743600
               effective_ticker: ALT
             image_data:
               fileName: altran.svg
@@ -1550,7 +1168,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T15:16:00.000Z
+              latest_tweet_date: 2019-09-11T13:05:13.000Z
           - item:
             name: Arm
             homepage_url: 'https://www.arm.com/'
@@ -1569,26 +1187,7 @@ landscape:
               country: United Kingdom
               twitter: 'https://twitter.com/Arm'
               linkedin: 'https://www.linkedin.com/company/arm'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/treasure-data'
-                - 'https://www.crunchbase.com/organization/stream-technologies'
-                - 'https://www.crunchbase.com/organization/simulity'
-                - 'https://www.crunchbase.com/organization/nextg-com'
-                - 'https://www.crunchbase.com/organization/mistbase'
-                - 'https://www.crunchbase.com/organization/allinea-software'
-                - 'https://www.crunchbase.com/organization/apical-ltd'
-                - 'https://www.crunchbase.com/organization/carbon-design-systems'
-                - 'https://www.crunchbase.com/organization/sansa-security'
-                - 'https://www.crunchbase.com/organization/wicentric'
-                - 'https://www.crunchbase.com/organization/sunrise-micro-devices'
-                - 'https://www.crunchbase.com/organization/offspark'
-                - 'https://www.crunchbase.com/organization/duolog-technologies'
-                - 'https://www.crunchbase.com/organization/geomerics'
-                - 'https://www.crunchbase.com/organization/sensinode'
-                - 'https://www.crunchbase.com/organization/prolific'
-                - 'https://www.crunchbase.com/organization/obsidian-software'
-                - 'https://www.crunchbase.com/organization/artisan-components'
-                - 'https://www.crunchbase.com/organization/axys-design'
+              parents: []
             image_data:
               fileName: arm.svg
               hash: QVawBP6MFOhjSRP3wjGp3yYjDazuZjKfSiz3lhAZKog=
@@ -1596,7 +1195,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T17:17:30.000Z
+              latest_tweet_date: 2019-09-09T19:00:32.000Z
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
@@ -1615,43 +1214,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/ATT'
               linkedin: 'https://www.linkedin.com/company/at&t'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/alienvault'
-                - 'https://www.crunchbase.com/organization/appnexus'
-                - 'https://www.crunchbase.com/organization/vyatta'
-                - 'https://www.crunchbase.com/organization/fibertower'
-                - 'https://www.crunchbase.com/organization/invidi-technologies'
-                - 'https://www.crunchbase.com/organization/timewarner'
-                - 'https://www.crunchbase.com/organization/quickplay-media'
-                - 'https://www.crunchbase.com/organization/carrier-iq'
-                - 'https://www.crunchbase.com/organization/directv'
-                - 'https://www.crunchbase.com/organization/nextel-mexico'
-                - 'https://www.crunchbase.com/organization/iusacell'
-                - 'https://www.crunchbase.com/organization/alltel'
-                - 'https://www.crunchbase.com/organization/leap-wireless'
-                - 'https://www.crunchbase.com/organization/nextwave-wireless'
-                - 'https://www.crunchbase.com/organization/superclick-networks'
-                - 'https://www.crunchbase.com/organization/xanboo'
-                - 'https://www.crunchbase.com/organization/centennial-communications-corp'
-                - 'https://www.crunchbase.com/organization/plusmo'
-                - 'https://www.crunchbase.com/organization/sterling-commerce'
-                - 'https://www.crunchbase.com/organization/getfon'
-                - 'https://www.crunchbase.com/organization/wayport'
-                - 'https://www.crunchbase.com/organization/edge-wireless'
-                - 'https://www.crunchbase.com/organization/ingenio'
-                - 'https://www.crunchbase.com/organization/dobson-communications'
-                - 'https://www.crunchbase.com/organization/interwise'
-                - 'https://www.crunchbase.com/organization/infreeda'
-                - 'https://www.crunchbase.com/organization/usinternetworking-inc'
-                - 'https://www.crunchbase.com/organization/bellsouth'
-                - 'https://www.crunchbase.com/organization/prodigy-communications'
-                - 'https://www.crunchbase.com/organization/tele-communications-inc'
-                - 'https://www.crunchbase.com/organization/alascom'
-                - 'https://www.crunchbase.com/organization/mccaw-cellular-communications'
+              parents: []
               ticker: T
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 267097620480
+              market_cap: 283073183744
               effective_ticker: T
             image_data:
               fileName: at-t.svg
@@ -1660,7 +1227,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T04:57:39.000Z
+              latest_tweet_date: 2019-09-12T04:45:31.000Z
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
@@ -1679,21 +1246,11 @@ landscape:
               country: China
               twitter: 'https://twitter.com/BaiduResearch'
               linkedin: 'https://www.linkedin.com/company/baidu-inc'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/kitt-ai'
-                - 'https://www.crunchbase.com/organization/xperception'
-                - 'https://www.crunchbase.com/organization/raven-tech'
-                - 'https://www.crunchbase.com/organization/anquanbao'
-                - 'https://www.crunchbase.com/organization/peixe-urbano'
-                - 'https://www.crunchbase.com/organization/beijing-huanxiang-zongheng-chinese-literature'
-                - 'https://www.crunchbase.com/organization/91-boyuan-wireles'
-                - 'https://www.crunchbase.com/organization/pps'
-                - 'https://www.crunchbase.com/organization/trustgo'
-                - 'https://www.crunchbase.com/organization/hao123-com'
+              parents: []
               ticker: BIDU
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 36412018688
+              market_cap: 38963396608
               effective_ticker: BIDU
             image_data:
               fileName: baidu.svg
@@ -1702,7 +1259,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T16:00:31.000Z
+              latest_tweet_date: 2019-09-11T18:14:04.000Z
           - item:
             name: Dell EMC
             homepage_url: 'https://www.dellemc.com/en-us/index.htm'
@@ -1720,11 +1277,12 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/dellemc'
               linkedin: 'https://www.linkedin.com/company-beta/1128'
-              acquisited: []
+              parents:
+                - 'https://www.crunchbase.com/organization/dell'
               ticker: DELL
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 38498738176
+              market_cap: 39736586240
               effective_ticker: DELL
             image_data:
               fileName: dell-emc.svg
@@ -1733,7 +1291,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T18:34:00.000Z
+              latest_tweet_date: 2019-09-11T19:12:25.000Z
           - item:
             name: Dianomic
             homepage_url: 'http://dianomic.com/'
@@ -1751,7 +1309,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/dianomicsystems'
               linkedin: 'https://www.linkedin.com/company/18276796/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: dianomic.svg
               hash: coOUVmgN1LISHe6WCitDyAyJhfmujC3+IMVOp5G37lI=
@@ -1778,46 +1336,12 @@ landscape:
               country: Sweden
               twitter: 'https://twitter.com/ericsson'
               linkedin: 'https://www.linkedin.com/company/1060'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/cenx'
-                - 'https://www.crunchbase.com/organization/allolio-konrad'
-                - 'https://www.crunchbase.com/organization/ericpol'
-                - 'https://www.crunchbase.com/organization/nodeprime'
-                - 'https://www.crunchbase.com/organization/fyi-television'
-                - 'https://www.crunchbase.com/organization/envivio'
-                - 'https://www.crunchbase.com/organization/timelessmind'
-                - 'https://www.crunchbase.com/organization/sentilla'
-                - 'https://www.crunchbase.com/organization/ambient-corporation'
-                - 'https://www.crunchbase.com/organization/geoss'
-                - 'https://www.crunchbase.com/organization/apcera'
-                - 'https://www.crunchbase.com/organization/fabrix-systems'
-                - 'https://www.crunchbase.com/organization/metratech'
-                - 'https://www.crunchbase.com/organization/azuki'
-                - 'https://www.crunchbase.com/organization/airvana-evdo-business'
-                - 'https://www.crunchbase.com/organization/microsoft-mediaroom'
-                - 'https://www.crunchbase.com/organization/red-bee-media'
-                - 'https://www.crunchbase.com/organization/conceptwave-software'
-                - 'https://www.crunchbase.com/organization/aspex-semiconductor'
-                - 'https://www.crunchbase.com/organization/belair-networks'
-                - 'https://www.crunchbase.com/organization/technicolor-broadcast-services'
-                - 'https://www.crunchbase.com/organization/iconectiv'
-                - 'https://www.crunchbase.com/organization/optimi-corporation'
-                - 'https://www.crunchbase.com/organization/pride-spa'
-                - 'https://www.crunchbase.com/organization/drutt-corporation'
-                - 'https://www.crunchbase.com/organization/lhs-ag'
-                - 'https://www.crunchbase.com/organization/tandberg-television'
-                - 'https://www.crunchbase.com/organization/entrisphere'
-                - 'https://www.crunchbase.com/organization/redback-networks'
-                - 'https://www.crunchbase.com/organization/marconi-corporation-plc'
-                - 'https://www.crunchbase.com/organization/axxessit-as'
-                - 'https://www.crunchbase.com/organization/teleca'
-                - 'https://www.crunchbase.com/organization/netspira-networks'
-                - 'https://www.crunchbase.com/organization/ericsson-amplified-technologies'
-                - 'https://www.crunchbase.com/organization/advanced-computer-communications'
+              parents:
+                - 'https://www.crunchbase.com/organization/investor-ab'
               ticker: ERIC
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26041880576
+              market_cap: 26540273664
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
@@ -1826,7 +1350,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T10:05:14.000Z
+              latest_tweet_date: 2019-09-11T19:01:08.000Z
           - item:
             name: Fujitsu
             homepage_url: 'https://www.fujitsu.com/'
@@ -1845,25 +1369,7 @@ landscape:
               country: Japan
               twitter: 'http://twitter.com/Fujitsu_Global'
               linkedin: 'https://www.linkedin.com/company/1374'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/symfoni-esm'
-                - 'https://www.crunchbase.com/organization/truenet-communications'
-                - 'https://www.crunchbase.com/organization/usharesoft'
-                - 'https://www.crunchbase.com/organization/act-applied-card-technologies'
-                - 'https://www.crunchbase.com/organization/globeranger'
-                - 'https://www.crunchbase.com/organization/runmyprocess'
-                - 'https://www.crunchbase.com/organization/pfu-limited'
-                - 'https://www.crunchbase.com/organization/kaz-group'
-                - 'https://www.crunchbase.com/organization/intelec-geomatique'
-                - 'https://www.crunchbase.com/organization/mandator'
-                - 'https://www.crunchbase.com/organization/promaintech-novaxa'
-                - 'https://www.crunchbase.com/organization/infinity-solutions'
-                - 'https://www.crunchbase.com/organization/okere-2'
-                - 'https://www.crunchbase.com/organization/fujitsu-tds-gmbh'
-                - 'https://www.crunchbase.com/organization/icl'
-                - 'https://www.crunchbase.com/organization/fujitsu-glovia'
-                - 'https://www.crunchbase.com/organization/nexion'
-                - 'https://www.crunchbase.com/organization/amdahl-corporation'
+              parents: []
             image_data:
               fileName: fujitsu.svg
               hash: L6JPJzzGJ4ly8bxtI/Re03aKdlVRAkCffFnOJvlPQJI=
@@ -1871,7 +1377,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T09:15:02.000Z
+              latest_tweet_date: 2019-09-11T21:30:09.000Z
           - item:
             name: GE Research
             homepage_url: 'https://www.ge.com/reports/'
@@ -1890,10 +1396,10 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/geresearch'
               linkedin: 'https://www.linkedin.com/company/geglobalresearch'
-              acquisited: []
+              parents: []
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 73444745216
+              market_cap: 81685372928
               effective_ticker: GE
             image_data:
               fileName: ge-research.svg
@@ -1902,7 +1408,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T14:04:33.000Z
+              latest_tweet_date: 2019-09-11T19:46:10.000Z
           - item:
             name: HP
             homepage_url: 'https://www8.hp.com/us/en/home.html'
@@ -1921,111 +1427,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/HP'
               linkedin: 'https://www.linkedin.com/company/hp/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/apogee-corp'
-                - 'https://www.crunchbase.com/organization/samsung-printer'
-                - 'https://www.crunchbase.com/organization/david-vision-systems'
-                - 'https://www.crunchbase.com/organization/aruba-networks'
-                - 'https://www.crunchbase.com/organization/voltage-security'
-                - 'https://www.crunchbase.com/organization/eucalyptus-systems-inc'
-                - 'https://www.crunchbase.com/organization/shunra-software'
-                - 'https://www.crunchbase.com/organization/hiflex-software'
-                - 'https://www.crunchbase.com/organization/autonomy'
-                - 'https://www.crunchbase.com/organization/vertica-systems'
-                - 'https://www.crunchbase.com/organization/arcsight-inc'
-                - 'https://www.crunchbase.com/organization/3par'
-                - 'https://www.crunchbase.com/organization/stratavia'
-                - 'https://www.crunchbase.com/organization/fortify-software'
-                - 'https://www.crunchbase.com/organization/palm'
-                - 'https://www.crunchbase.com/organization/melodeo'
-                - 'https://www.crunchbase.com/organization/3com'
-                - 'https://www.crunchbase.com/organization/ibrix'
-                - 'https://www.crunchbase.com/organization/excelleratehro'
-                - 'https://www.crunchbase.com/organization/lefthand-networks'
-                - 'https://www.crunchbase.com/organization/colubris'
-                - 'https://www.crunchbase.com/organization/eds'
-                - 'https://www.crunchbase.com/organization/tower-software'
-                - 'https://www.crunchbase.com/organization/exstream-software'
-                - 'https://www.crunchbase.com/organization/nur-macroprinters'
-                - 'https://www.crunchbase.com/organization/eyp-mission-critical-facilities'
-                - 'https://www.crunchbase.com/organization/opelin'
-                - 'https://www.crunchbase.com/organization/atos-origin-middle-east-group'
-                - 'https://www.crunchbase.com/organization/neoware'
-                - 'https://www.crunchbase.com/organization/macdermid-colorspan'
-                - 'https://www.crunchbase.com/organization/opsware'
-                - 'https://www.crunchbase.com/organization/spi-dynamics'
-                - 'https://www.crunchbase.com/organization/logoworks'
-                - 'https://www.crunchbase.com/organization/arteis'
-                - 'https://www.crunchbase.com/organization/tabblo'
-                - 'https://www.crunchbase.com/organization/polyserve'
-                - 'https://www.crunchbase.com/organization/bristol-technology'
-                - 'https://www.crunchbase.com/organization/bitfone-corporation'
-                - 'https://www.crunchbase.com/organization/knightsbridge-solutions'
-                - 'https://www.crunchbase.com/organization/voodoopc'
-                - 'https://www.crunchbase.com/organization/mercury-interactive'
-                - 'https://www.crunchbase.com/organization/the-technology-partners'
-                - 'https://www.crunchbase.com/organization/silverwire-holding'
-                - 'https://www.crunchbase.com/organization/outerbay-technologies'
-                - 'https://www.crunchbase.com/organization/pixaco'
-                - 'https://www.crunchbase.com/organization/trustgenix'
-                - 'https://www.crunchbase.com/organization/rlx-technologies'
-                - 'https://www.crunchbase.com/organization/appiq'
-                - 'https://www.crunchbase.com/organization/peregrine-systems'
-                - 'https://www.crunchbase.com/organization/cgnz'
-                - 'https://www.crunchbase.com/organization/scitex-vision'
-                - 'https://www.crunchbase.com/organization/scitex'
-                - 'https://www.crunchbase.com/organization/snapfish'
-                - 'https://www.crunchbase.com/organization/synstar'
-                - 'https://www.crunchbase.com/organization/manageone'
-                - 'https://www.crunchbase.com/organization/cec-europe-service-management'
-                - 'https://www.crunchbase.com/organization/novadigm'
-                - 'https://www.crunchbase.com/organization/trulogica'
-                - 'https://www.crunchbase.com/organization/triaton'
-                - 'https://www.crunchbase.com/organization/consera-software'
-                - 'https://www.crunchbase.com/organization/persist-technologies'
-                - 'https://www.crunchbase.com/organization/talking-blocks'
-                - 'https://www.crunchbase.com/organization/extreme-logic'
-                - 'https://www.crunchbase.com/organization/pipebeach'
-                - 'https://www.crunchbase.com/organization/storageapps'
-                - 'https://www.crunchbase.com/organization/indigo-4'
-                - 'https://www.crunchbase.com/organization/arti-media'
-                - 'https://www.crunchbase.com/organization/compaq'
-                - 'https://www.crunchbase.com/organization/trinagy'
-                - 'https://www.crunchbase.com/organization/bluestone-software'
-                - 'https://www.crunchbase.com/organization/qosnetics'
-                - 'https://www.crunchbase.com/organization/security-force-software'
-                - 'https://www.crunchbase.com/organization/dazel'
-                - 'https://www.crunchbase.com/organization/telegra'
-                - 'https://www.crunchbase.com/organization/transoft-networks'
-                - 'https://www.crunchbase.com/organization/open-skies'
-                - 'https://www.crunchbase.com/organization/scope-communications'
-                - 'https://www.crunchbase.com/organization/heartstream'
-                - 'https://www.crunchbase.com/organization/optimization-systems'
-                - 'https://www.crunchbase.com/organization/nuview-managex'
-                - 'https://www.crunchbase.com/organization/prolin'
-                - 'https://www.crunchbase.com/organization/verifone'
-                - 'https://www.crunchbase.com/organization/vital-technology-pte-ltd'
-                - 'https://www.crunchbase.com/organization/trellis-software-controls'
-                - 'https://www.crunchbase.com/organization/division'
-                - 'https://www.crunchbase.com/organization/elseware'
-                - 'https://www.crunchbase.com/organization/convex-computer'
-                - 'https://www.crunchbase.com/organization/versatest'
-                - 'https://www.crunchbase.com/organization/calan'
-                - 'https://www.crunchbase.com/organization/bt-d-technologies'
-                - 'https://www.crunchbase.com/organization/eesof'
-                - 'https://www.crunchbase.com/organization/metrix-network-systems'
-                - 'https://www.crunchbase.com/organization/four-pi-systems'
-                - 'https://www.crunchbase.com/organization/colorado-memory-systems'
-                - 'https://www.crunchbase.com/organization/abb-cade'
-                - 'https://www.crunchbase.com/organization/avantek'
-                - 'https://www.crunchbase.com/organization/applied-optoelectronic-tech'
-                - 'https://www.crunchbase.com/organization/apollo-computer'
-                - 'https://www.crunchbase.com/organization/eon-systems'
-                - 'https://www.crunchbase.com/organization/f-m-scientific-corporation'
+              parents: []
               ticker: HPQ
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 26948139008
+              market_cap: 28245204992
               effective_ticker: HPQ
             image_data:
               fileName: hp.svg
@@ -2053,23 +1459,11 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/hpe'
               linkedin: 'https://www.linkedin.com/company/hewlett-packard-enterprise'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/mapr-technologies'
-                - 'https://www.crunchbase.com/organization/cray'
-                - 'https://www.crunchbase.com/organization/bluedata-software'
-                - 'https://www.crunchbase.com/organization/plexxi'
-                - 'https://www.crunchbase.com/organization/redpixie'
-                - 'https://www.crunchbase.com/organization/cloud-technology-partners'
-                - 'https://www.crunchbase.com/organization/nimble-storage'
-                - 'https://www.crunchbase.com/organization/niara-inc'
-                - 'https://www.crunchbase.com/organization/cloud-cruiser'
-                - 'https://www.crunchbase.com/organization/simplivity'
-                - 'https://www.crunchbase.com/organization/sgi'
-                - 'https://www.crunchbase.com/organization/trilead'
+              parents: []
               ticker: HPE
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 18687305728
+              market_cap: 18378215424
               effective_ticker: HPE
             image_data:
               fileName: hpe-member.svg
@@ -2078,7 +1472,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:21:08.000Z
+              latest_tweet_date: 2019-09-11T14:00:14.000Z
           - item:
             name: Huawei
             homepage_url: 'https://www.huawei.com/en/'
@@ -2096,16 +1490,7 @@ landscape:
               country: China
               twitter: 'https://twitter.com/Huawei'
               linkedin: 'https://www.linkedin.com/company/huawei/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/vocord'
-                - 'https://www.crunchbase.com/organization/vokord-telekom-zao'
-                - 'https://www.crunchbase.com/organization/greensql'
-                - 'https://www.crunchbase.com/organization/toga-networks'
-                - 'https://www.crunchbase.com/organization/neul'
-                - 'https://www.crunchbase.com/organization/centre-for-integrated-photonics'
-                - 'https://www.crunchbase.com/organization/huawei-symantec-technologies'
-                - 'https://www.crunchbase.com/organization/3leaf'
-                - 'https://www.crunchbase.com/organization/harbour-networks-holdings'
+              parents: []
             image_data:
               fileName: huawei.svg
               hash: LGtEuzEIh7z2ujX+q1bf/zrJUR/ZarjGneRp1qwfriI=
@@ -2113,7 +1498,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T10:53:06.000Z
+              latest_tweet_date: 2019-09-12T06:00:00.000Z
           - item:
             name: IBM
             homepage_url: 'https://www.ibm.com/us-en/'
@@ -2132,111 +1517,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/IBM'
               linkedin: 'https://www.linkedin.com/company/ibm/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/t-systems-mainframe-services-business'
-                - 'https://www.crunchbase.com/organization/red-hat'
-                - 'https://www.crunchbase.com/organization/oniqua-inc'
-                - 'https://www.crunchbase.com/organization/armanta'
-                - 'https://www.crunchbase.com/organization/vivant-2'
-                - 'https://www.crunchbase.com/organization/cloudigo'
-                - 'https://www.crunchbase.com/organization/verizon-cloud-services'
-                - 'https://www.crunchbase.com/organization/agile-3-solutions'
-                - 'https://www.crunchbase.com/organization/expert-personal-shopper-xps'
-                - 'https://www.crunchbase.com/organization/sanovi-technologies'
-                - 'https://www.crunchbase.com/organization/promontory-financial-group'
-                - 'https://www.crunchbase.com/organization/ezsource'
-                - 'https://www.crunchbase.com/organization/bluewolf'
-                - 'https://www.crunchbase.com/organization/optevia'
-                - 'https://www.crunchbase.com/organization/co3-systems'
-                - 'https://www.crunchbase.com/organization/truven-health-analytics'
-                - 'https://www.crunchbase.com/organization/ecx-io'
-                - 'https://www.crunchbase.com/organization/aperto'
-                - 'https://www.crunchbase.com/organization/resource-ammirati'
-                - 'https://www.crunchbase.com/organization/ustream'
-                - 'https://www.crunchbase.com/organization/iris-analytics'
-                - 'https://www.crunchbase.com/organization/clearleap'
-                - 'https://www.crunchbase.com/organization/gravitant'
-                - 'https://www.crunchbase.com/organization/the-weather-company'
-                - 'https://www.crunchbase.com/organization/cleversafe'
-                - 'https://www.crunchbase.com/organization/meteorix'
-                - 'https://www.crunchbase.com/organization/strongloop'
-                - 'https://www.crunchbase.com/organization/merge-healthcare'
-                - 'https://www.crunchbase.com/organization/mongohq'
-                - 'https://www.crunchbase.com/organization/blue-box-group'
-                - 'https://www.crunchbase.com/organization/phytel'
-                - 'https://www.crunchbase.com/organization/explorys'
-                - 'https://www.crunchbase.com/organization/blekko'
-                - 'https://www.crunchbase.com/organization/alchemyapi'
-                - 'https://www.crunchbase.com/organization/crossideas-5'
-                - 'https://www.crunchbase.com/organization/cognea'
-                - 'https://www.crunchbase.com/organization/silverpop'
-                - 'https://www.crunchbase.com/organization/cloudant'
-                - 'https://www.crunchbase.com/organization/aspera'
-                - 'https://www.crunchbase.com/organization/fiberlink-communications-corp'
-                - 'https://www.crunchbase.com/organization/the-now-factory'
-                - 'https://www.crunchbase.com/organization/xtify'
-                - 'https://www.crunchbase.com/organization/daeja-image-systems'
-                - 'https://www.crunchbase.com/organization/trusteer'
-                - 'https://www.crunchbase.com/organization/csl-international'
-                - 'https://www.crunchbase.com/organization/softlayer'
-                - 'https://www.crunchbase.com/organization/urbancode'
-                - 'https://www.crunchbase.com/organization/star-analytics'
-                - 'https://www.crunchbase.com/organization/storediq'
-                - 'https://www.crunchbase.com/organization/butterfly-software'
-                - 'https://www.crunchbase.com/organization/kenexa'
-                - 'https://www.crunchbase.com/organization/texas-memory-systems'
-                - 'https://www.crunchbase.com/organization/cibecs'
-                - 'https://www.crunchbase.com/organization/tealeaf'
-                - 'https://www.crunchbase.com/organization/vivsimo'
-                - 'https://www.crunchbase.com/organization/varicent-software'
-                - 'https://www.crunchbase.com/organization/worklight'
-                - 'https://www.crunchbase.com/organization/green-hat'
-                - 'https://www.crunchbase.com/organization/cúram-software'
-                - 'https://www.crunchbase.com/organization/emptoris'
-                - 'https://www.crunchbase.com/organization/demandtec'
-                - 'https://www.crunchbase.com/organization/platform-computing'
-                - 'https://www.crunchbase.com/organization/q1-labs'
-                - 'https://www.crunchbase.com/organization/algorithmics'
-                - 'https://www.crunchbase.com/organization/i2'
-                - 'https://www.crunchbase.com/organization/tririga'
-                - 'https://www.crunchbase.com/organization/clarity-systems'
-                - 'https://www.crunchbase.com/organization/pss-systems'
-                - 'https://www.crunchbase.com/organization/blade-network-technologies'
-                - 'https://www.crunchbase.com/organization/netezza'
-                - 'https://www.crunchbase.com/organization/openpages'
-                - 'https://www.crunchbase.com/organization/unica'
-                - 'https://www.crunchbase.com/organization/datacap'
-                - 'https://www.crunchbase.com/organization/bigfix'
-                - 'https://www.crunchbase.com/organization/coremetrics'
-                - 'https://www.crunchbase.com/organization/storwize'
-                - 'https://www.crunchbase.com/organization/sterling-commerce'
-                - 'https://www.crunchbase.com/organization/castiron-systems'
-                - 'https://www.crunchbase.com/organization/intelliden'
-                - 'https://www.crunchbase.com/organization/initiate-systems'
-                - 'https://www.crunchbase.com/organization/national-interest-security-company'
-                - 'https://www.crunchbase.com/organization/lombardi-software'
-                - 'https://www.crunchbase.com/organization/guardium'
-                - 'https://www.crunchbase.com/organization/redpill-solutions'
-                - 'https://www.crunchbase.com/organization/ounce-labs'
-                - 'https://www.crunchbase.com/organization/spss'
-                - 'https://www.crunchbase.com/organization/exeros'
-                - 'https://www.crunchbase.com/organization/outblaze'
-                - 'https://www.crunchbase.com/organization/transitive'
-                - 'https://www.crunchbase.com/organization/ilog'
-                - 'https://www.crunchbase.com/organization/platform-solutions'
-                - 'https://www.crunchbase.com/organization/infodyne-corporation'
-                - 'https://www.crunchbase.com/organization/diligent-board-member-services'
-                - 'https://www.crunchbase.com/organization/filesx'
-                - 'https://www.crunchbase.com/organization/encentuate'
-                - 'https://www.crunchbase.com/organization/cognos'
-                - 'https://www.crunchbase.com/organization/aptsoft'
-                - 'https://www.crunchbase.com/organization/net-integration-technologies'
-                - 'https://www.crunchbase.com/organization/xiv'
-                - 'https://www.crunchbase.com/organization/solid-information-technology'
+              parents: []
               ticker: IBM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 122125426688
+              market_cap: 127211659264
               effective_ticker: IBM
             image_data:
               fileName: ibm.svg
@@ -2245,7 +1530,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T08:01:55.000Z
+              latest_tweet_date: 2019-09-12T05:56:23.000Z
           - item:
             name: Intel (member)
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
@@ -2264,106 +1549,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/intel'
               linkedin: 'https://www.linkedin.com/company/intel-corporation'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/barefoot-networks'
-                - 'https://www.crunchbase.com/organization/omnitek'
-                - 'https://www.crunchbase.com/organization/ineda-systems'
-                - 'https://www.crunchbase.com/organization/netspeed-systems'
-                - 'https://www.crunchbase.com/organization/vertex-ai'
-                - 'https://www.crunchbase.com/organization/easic'
-                - 'https://www.crunchbase.com/organization/mobileye-vision-technologies'
-                - 'https://www.crunchbase.com/organization/voke'
-                - 'https://www.crunchbase.com/organization/mavinci-gmbh'
-                - 'https://www.crunchbase.com/organization/soft-machines'
-                - 'https://www.crunchbase.com/organization/movidius'
-                - 'https://www.crunchbase.com/organization/nervana-systems'
-                - 'https://www.crunchbase.com/organization/itseez'
-                - 'https://www.crunchbase.com/organization/yogitech'
-                - 'https://www.crunchbase.com/organization/replay-technologies'
-                - 'https://www.crunchbase.com/organization/ascending-technologies'
-                - 'https://www.crunchbase.com/organization/saffron-technology'
-                - 'https://www.crunchbase.com/organization/docea-power'
-                - 'https://www.crunchbase.com/organization/recon-instruments'
-                - 'https://www.crunchbase.com/organization/altera'
-                - 'https://www.crunchbase.com/organization/lemoptix'
-                - 'https://www.crunchbase.com/organization/lantiq'
-                - 'https://www.crunchbase.com/organization/composyt-light-labs'
-                - 'https://www.crunchbase.com/organization/passwordbox'
-                - 'https://www.crunchbase.com/organization/lsi-corporation'
-                - 'https://www.crunchbase.com/organization/basis-science'
-                - 'https://www.crunchbase.com/organization/appmobi'
-                - 'https://www.crunchbase.com/organization/hacker-league'
-                - 'https://www.crunchbase.com/organization/kno'
-                - 'https://www.crunchbase.com/organization/sensory-networks'
-                - 'https://www.crunchbase.com/organization/indisys'
-                - 'https://www.crunchbase.com/organization/xtreme-insights'
-                - 'https://www.crunchbase.com/organization/omek-interactive'
-                - 'https://www.crunchbase.com/organization/aepona'
-                - 'https://www.crunchbase.com/organization/mashery'
-                - 'https://www.crunchbase.com/organization/ziilabs'
-                - 'https://www.crunchbase.com/organization/whamcloud'
-                - 'https://www.crunchbase.com/organization/idesia'
-                - 'https://www.crunchbase.com/organization/olaworks'
-                - 'https://www.crunchbase.com/organization/telmap'
-                - 'https://www.crunchbase.com/organization/cofluent-design'
-                - 'https://www.crunchbase.com/organization/fulcrum-microsystems'
-                - 'https://www.crunchbase.com/organization/siport'
-                - 'https://www.crunchbase.com/organization/nordic-edge'
-                - 'https://www.crunchbase.com/organization/silicon-hive'
-                - 'https://www.crunchbase.com/organization/sysdsoft'
-                - 'https://www.crunchbase.com/organization/cognovision'
-                - 'https://www.crunchbase.com/organization/mcafee'
-                - 'https://www.crunchbase.com/organization/infineon'
-                - 'https://www.crunchbase.com/organization/rapidmind'
-                - 'https://www.crunchbase.com/organization/cilk'
-                - 'https://www.crunchbase.com/organization/cilk-arts'
-                - 'https://www.crunchbase.com/organization/wind-river'
-                - 'https://www.crunchbase.com/organization/swiftfoot-graphics-ab'
-                - 'https://www.crunchbase.com/organization/net-effect-systems'
-                - 'https://www.crunchbase.com/organization/neteffect-corp'
-                - 'https://www.crunchbase.com/organization/opened-hand'
-                - 'https://www.crunchbase.com/organization/havok'
-                - 'https://www.crunchbase.com/organization/conformative-systems'
-                - 'https://www.crunchbase.com/organization/sarvega'
-                - 'https://www.crunchbase.com/organization/oplus-technologies'
-                - 'https://www.crunchbase.com/organization/envara'
-                - 'https://www.crunchbase.com/organization/mobilian'
-                - 'https://www.crunchbase.com/organization/acirro'
-                - 'https://www.crunchbase.com/organization/west-bay-semiconductor'
-                - 'https://www.crunchbase.com/organization/scale-eight'
-                - 'https://www.crunchbase.com/organization/iospan-wireless'
-                - 'https://www.crunchbase.com/organization/sparkolor-corporation'
-                - 'https://www.crunchbase.com/organization/lightlogic'
-                - 'https://www.crunchbase.com/organization/cognet-2'
-                - 'https://www.crunchbase.com/organization/icp-vortex-computersysteme'
-                - 'https://www.crunchbase.com/organization/cad-ul'
-                - 'https://www.crunchbase.com/organization/vxtel'
-                - 'https://www.crunchbase.com/organization/xircom'
-                - 'https://www.crunchbase.com/organization/ziatech'
-                - 'https://www.crunchbase.com/organization/datakinetics'
-                - 'https://www.crunchbase.com/organization/ford-microelectronics'
-                - 'https://www.crunchbase.com/organization/picazo-communications'
-                - 'https://www.crunchbase.com/organization/kuck-associates'
-                - 'https://www.crunchbase.com/organization/basis-communications'
-                - 'https://www.crunchbase.com/organization/giga'
-                - 'https://www.crunchbase.com/organization/voice-technologies'
-                - 'https://www.crunchbase.com/organization/thinkit-technologies'
-                - 'https://www.crunchbase.com/organization/ambient-technologies'
-                - 'https://www.crunchbase.com/organization/parity-software-development'
-                - 'https://www.crunchbase.com/organization/ipivot'
-                - 'https://www.crunchbase.com/organization/xlnt'
-                - 'https://www.crunchbase.com/organization/netboost'
-                - 'https://www.crunchbase.com/organization/softcom-microsystems'
-                - 'https://www.crunchbase.com/organization/level-one-communications'
-                - 'https://www.crunchbase.com/organization/icat'
-                - 'https://www.crunchbase.com/organization/shiva-corporation'
-                - 'https://www.crunchbase.com/organization/corollary'
-                - 'https://www.crunchbase.com/organization/dayna-communications'
-                - 'https://www.crunchbase.com/organization/chips-and-technologies'
+              parents: []
               ticker: INTC
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 210962841600
+              market_cap: 233859710976
               effective_ticker: INTC
             image_data:
               fileName: intel-member.svg
@@ -2372,7 +1562,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T21:59:00.000Z
+              latest_tweet_date: 2019-09-11T22:35:08.000Z
           - item:
             name: inwinSTACK
             homepage_url: 'https://www.inwinstack.com/'
@@ -2390,7 +1580,7 @@ landscape:
               country: Taiwan
               twitter: 'https://twitter.com/inwinstack'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: inwin-stack.svg
               hash: zTZU70kr1H+jVM7jbZUVaf/56qsT8S6h6wYYc+rjoP8=
@@ -2417,38 +1607,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/JuniperNetworks'
               linkedin: 'https://www.linkedin.com/company/juniper-networks'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/mist-systems'
-                - 'https://www.crunchbase.com/organization/htbase'
-                - 'https://www.crunchbase.com/organization/cyphort'
-                - 'https://www.crunchbase.com/organization/appformix'
-                - 'https://www.crunchbase.com/organization/aurrion'
-                - 'https://www.crunchbase.com/organization/bti-systems'
-                - 'https://www.crunchbase.com/organization/wandl'
-                - 'https://www.crunchbase.com/organization/webscreen-technology'
-                - 'https://www.crunchbase.com/organization/contrail-systems'
-                - 'https://www.crunchbase.com/organization/mykonos-software'
-                - 'https://www.crunchbase.com/organization/brilliant-telecom'
-                - 'https://www.crunchbase.com/organization/altor-networks'
-                - 'https://www.crunchbase.com/organization/acinion'
-                - 'https://www.crunchbase.com/organization/trapeze-networks'
-                - 'https://www.crunchbase.com/organization/smobile-systems'
-                - 'https://www.crunchbase.com/organization/nokeena'
-                - 'https://www.crunchbase.com/organization/funk-software'
-                - 'https://www.crunchbase.com/organization/acorn-packet-solutions'
-                - 'https://www.crunchbase.com/organization/peribit-networks'
-                - 'https://www.crunchbase.com/organization/redline-networks'
-                - 'https://www.crunchbase.com/organization/kagoor-networks'
-                - 'https://www.crunchbase.com/organization/netscreen-technologies'
-                - 'https://www.crunchbase.com/organization/unisphere-networks'
-                - 'https://www.crunchbase.com/organization/pacific-broadband'
-                - 'https://www.crunchbase.com/organization/micro-magic'
-                - 'https://www.crunchbase.com/organization/pacific-advantage-ltd'
-                - 'https://www.crunchbase.com/organization/layer-five'
+              parents: []
               ticker: JNPR
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8172467200
+              market_cap: 8165798400
               effective_ticker: JNPR
             image_data:
               fileName: juniper-networks.svg
@@ -2457,7 +1620,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T18:20:49.000Z
+              latest_tweet_date: 2019-09-11T22:10:06.000Z
           - item:
             name: MobiledgeX
             homepage_url: 'https://mobiledgex.com/'
@@ -2475,7 +1638,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/mobiledgex'
               linkedin: 'https://www.linkedin.com/company/mobiledgex/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: mobiledge-x.svg
               hash: tSXRqLeo4FdCwBL56lkVDWHhrQcWmCJJ4asaWoS4d4E=
@@ -2483,7 +1646,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-09T17:21:46.000Z
+              latest_tweet_date: 2019-09-11T15:22:19.000Z
           - item:
             name: Netsia
             homepage_url: 'https://www.netsia.com/'
@@ -2501,7 +1664,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/IncNetsia'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: netsia.svg
               hash: 9G/gKrTJhwNRPBGdrT4iwYlAR9B2Vtw+Z43PwT+wMCs=
@@ -2509,7 +1672,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-09T12:20:32.000Z
+              latest_tweet_date: 2019-09-11T14:41:22.000Z
           - item:
             name: Nokia
             homepage_url: 'https://www.nokia.com'
@@ -2528,62 +1691,11 @@ landscape:
               country: Finland
               twitter: 'http://twitter.com/nokia'
               linkedin: 'https://www.linkedin.com/company/nokia'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/space-time-insight'
-                - 'https://www.crunchbase.com/organization/coco-communications-corp-'
-                - 'https://www.crunchbase.com/organization/comptel'
-                - 'https://www.crunchbase.com/organization/deepfield'
-                - 'https://www.crunchbase.com/organization/etadevices'
-                - 'https://www.crunchbase.com/organization/gainspeed'
-                - 'https://www.crunchbase.com/organization/withings'
-                - 'https://www.crunchbase.com/organization/nakina-systems'
-                - 'https://www.crunchbase.com/organization/alcatel-lucent'
-                - 'https://www.crunchbase.com/organization/sac-wireless'
-                - 'https://www.crunchbase.com/organization/mesaplexx'
-                - 'https://www.crunchbase.com/organization/tripboard'
-                - 'https://www.crunchbase.com/organization/earthmine'
-                - 'https://www.crunchbase.com/organization/scalado'
-                - 'https://www.crunchbase.com/organization/smarterphone'
-                - 'https://www.crunchbase.com/organization/iris-telecom'
-                - 'https://www.crunchbase.com/organization/motally'
-                - 'https://www.crunchbase.com/organization/motorola-wireless'
-                - 'https://www.crunchbase.com/organization/metacarta'
-                - 'https://www.crunchbase.com/organization/novarra'
-                - 'https://www.crunchbase.com/organization/dopplr'
-                - 'https://www.crunchbase.com/organization/cellity'
-                - 'https://www.crunchbase.com/organization/bit-side'
-                - 'https://www.crunchbase.com/organization/oz-communications'
-                - 'https://www.crunchbase.com/organization/navteq'
-                - 'https://www.crunchbase.com/organization/symbian-software-ltd'
-                - 'https://www.crunchbase.com/organization/plazes'
-                - 'https://www.crunchbase.com/organization/trolltech-2'
-                - 'https://www.crunchbase.com/organization/qt-software'
-                - 'https://www.crunchbase.com/organization/avvenu'
-                - 'https://www.crunchbase.com/organization/atrica'
-                - 'https://www.crunchbase.com/organization/vivento-technical-services'
-                - 'https://www.crunchbase.com/organization/enpocket'
-                - 'https://www.crunchbase.com/organization/twango'
-                - 'https://www.crunchbase.com/organization/pixto'
-                - 'https://www.crunchbase.com/organization/loudeye'
-                - 'https://www.crunchbase.com/organization/intellisync'
-                - 'https://www.crunchbase.com/organization/eizel-technologies'
-                - 'https://www.crunchbase.com/organization/amber-networks'
-                - 'https://www.crunchbase.com/organization/ramp-networks'
-                - 'https://www.crunchbase.com/organization/discoverycom'
-                - 'https://www.crunchbase.com/organization/network-alchemy'
-                - 'https://www.crunchbase.com/organization/teamware-security-software-business'
-                - 'https://www.crunchbase.com/organization/telekol-corporation'
-                - 'https://www.crunchbase.com/organization/rooftop-communications-llc'
-                - 'https://www.crunchbase.com/organization/intalk-corp'
-                - 'https://www.crunchbase.com/organization/diamond-lane-communications'
-                - 'https://www.crunchbase.com/organization/vienna-systems-corporation'
-                - 'https://www.crunchbase.com/organization/ne-products'
-                - 'https://www.crunchbase.com/organization/user-interface-design'
-                - 'https://www.crunchbase.com/organization/ipsilon-networks'
+              parents: []
               ticker: NOKIA
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 27860688896
+              market_cap: 28217278464
               effective_ticker: NOK
             image_data:
               fileName: nokia.svg
@@ -2592,7 +1704,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T08:23:17.000Z
+              latest_tweet_date: 2019-09-12T06:03:27.000Z
           - item:
             name: NTT Group
             homepage_url: 'https://www.ntt.co.jp/activity/en/global/'
@@ -2611,13 +1723,11 @@ landscape:
               country: Japan
               twitter: 'https://twitter.com/NTTPR/'
               linkedin: 'https://www.linkedin.com/company/ntt-nippon-telegraph-and-telephone-corporation'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/solutionary'
-                - 'https://www.crunchbase.com/organization/verio'
+              parents: []
               ticker: '9432'
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 90659299328
+              market_cap: 89685827584
               effective_ticker: NTTYY
             image_data:
               fileName: ntt-group.svg
@@ -2626,7 +1736,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T09:13:33.000Z
+              latest_tweet_date: 2019-09-12T03:28:38.000Z
           - item:
             name: OSIsoft
             homepage_url: 'https://www.osisoft.com/'
@@ -2644,8 +1754,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/OSIsoft'
               linkedin: 'https://www.linkedin.com/company/osisoft'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/sequencia'
+              parents: []
               kind: funding
               funding: 139500000
             image_data:
@@ -2655,7 +1764,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T22:15:06.000Z
+              latest_tweet_date: 2019-09-11T22:00:58.000Z
           - item:
             name: Qualcomm
             homepage_url: 'https://www.qualcomm.com'
@@ -2674,57 +1783,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/Qualcomm'
               linkedin: 'https://www.linkedin.com/company/2017'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/scyfer'
-                - 'https://www.crunchbase.com/organization/innopath'
-                - 'https://www.crunchbase.com/organization/capsule-tech'
-                - 'https://www.crunchbase.com/organization/csr'
-                - 'https://www.crunchbase.com/organization/stonestreet-one'
-                - 'https://www.crunchbase.com/organization/euvision-technologies'
-                - 'https://www.crunchbase.com/organization/encore-career-institute'
-                - 'https://www.crunchbase.com/organization/wilocity'
-                - 'https://www.crunchbase.com/organization/black-sand-technologies'
-                - 'https://www.crunchbase.com/organization/summit-microelectronics'
-                - 'https://www.crunchbase.com/organization/kooaba'
-                - 'https://www.crunchbase.com/organization/arteris'
-                - 'https://www.crunchbase.com/organization/orbnetworks'
-                - 'https://www.crunchbase.com/organization/ultra-scan-corporation'
-                - 'https://www.crunchbase.com/organization/designart-networks'
-                - 'https://www.crunchbase.com/organization/fatskunk'
-                - 'https://www.crunchbase.com/organization/ubicom'
-                - 'https://www.crunchbase.com/organization/pixtronix'
-                - 'https://www.crunchbase.com/organization/haloipt'
-                - 'https://www.crunchbase.com/organization/bigfoot-networking'
-                - 'https://www.crunchbase.com/organization/rapid-bridge'
-                - 'https://www.crunchbase.com/organization/sylectus'
-                - 'https://www.crunchbase.com/organization/qualcomm-atheros'
-                - 'https://www.crunchbase.com/organization/sandbridge-technologies'
-                - 'https://www.crunchbase.com/organization/iskoot'
-                - 'https://www.crunchbase.com/organization/tapioca-mobile'
-                - 'https://www.crunchbase.com/organization/digital-fountain'
-                - 'https://www.crunchbase.com/organization/bitboys-oy'
-                - 'https://www.crunchbase.com/organization/amd'
-                - 'https://www.crunchbase.com/organization/xiam'
-                - 'https://www.crunchbase.com/organization/softmax'
-                - 'https://www.crunchbase.com/organization/firethorn'
-                - 'https://www.crunchbase.com/organization/telecis'
-                - 'https://www.crunchbase.com/organization/airgo'
-                - 'https://www.crunchbase.com/organization/nphase'
-                - 'https://www.crunchbase.com/organization/qualphone'
-                - 'https://www.crunchbase.com/organization/berkna-wireless'
-                - 'https://www.crunchbase.com/organization/elata'
-                - 'https://www.crunchbase.com/organization/flarion-technologies'
-                - 'https://www.crunchbase.com/organization/trigenix'
-                - 'https://www.crunchbase.com/organization/spike-technologies'
-                - 'https://www.crunchbase.com/organization/iridigm-display-corporation'
-                - 'https://www.crunchbase.com/organization/fleetadvisor'
-                - 'https://www.crunchbase.com/organization/within-technology'
-                - 'https://www.crunchbase.com/organization/snaptrack'
-                - 'https://www.crunchbase.com/organization/now-software'
+              parents: []
               ticker: QCOM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 95684599808
+              market_cap: 97131241472
               effective_ticker: QCOM
             image_data:
               fileName: qualcomm.svg
@@ -2733,7 +1796,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T22:14:27.000Z
+              latest_tweet_date: 2019-09-11T23:02:52.000Z
           - item:
             name: Radisys
             homepage_url: 'https://www.radisys.com'
@@ -2814,7 +1877,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:00:08.000Z
+              latest_tweet_date: 2019-09-11T21:07:01.000Z
           - item:
             name: Samsung Electronics
             homepage_url: 'https://www.samsung.com/us/'
@@ -2833,47 +1896,11 @@ landscape:
               country: South Korea
               twitter: 'https://twitter.com/samsung'
               linkedin: 'https://www.linkedin.com/company/samsung-electronics/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/corephotonics'
-                - 'https://www.crunchbase.com/organization/zhilabs'
-                - 'https://www.crunchbase.com/organization/kngine'
-                - 'https://www.crunchbase.com/organization/fluenty-inc'
-                - 'https://www.crunchbase.com/organization/innoetics'
-                - 'https://www.crunchbase.com/organization/vrb'
-                - 'https://www.crunchbase.com/organization/melaud'
-                - 'https://www.crunchbase.com/organization/perch-2'
-                - 'https://www.crunchbase.com/organization/qd-vision'
-                - 'https://www.crunchbase.com/organization/newnet-communication-technologies'
-                - 'https://www.crunchbase.com/organization/harman-international'
-                - 'https://www.crunchbase.com/organization/tachyon-2'
-                - 'https://www.crunchbase.com/organization/viv-labs'
-                - 'https://www.crunchbase.com/organization/dacor'
-                - 'https://www.crunchbase.com/organization/bloom-digital-platforms'
-                - 'https://www.crunchbase.com/organization/joyent'
-                - 'https://www.crunchbase.com/organization/yesco-electronics'
-                - 'https://www.crunchbase.com/organization/looppay'
-                - 'https://www.crunchbase.com/organization/simpress-a-subsidiary-of-samsung-electronics-co-ltd'
-                - 'https://www.crunchbase.com/organization/proximal-data'
-                - 'https://www.crunchbase.com/organization/printeron'
-                - 'https://www.crunchbase.com/organization/smartthings'
-                - 'https://www.crunchbase.com/organization/shelby-tv'
-                - 'https://www.crunchbase.com/organization/novaled'
-                - 'https://www.crunchbase.com/organization/boxee'
-                - 'https://www.crunchbase.com/organization/movl'
-                - 'https://www.crunchbase.com/organization/neurologica'
-                - 'https://www.crunchbase.com/organization/nvelo'
-                - 'https://www.crunchbase.com/organization/nanoradio'
-                - 'https://www.crunchbase.com/organization/mspot'
-                - 'https://www.crunchbase.com/organization/zigzag-software'
-                - 'https://www.crunchbase.com/organization/nexus-dx'
-                - 'https://www.crunchbase.com/organization/grandis'
-                - 'https://www.crunchbase.com/organization/liquavista'
-                - 'https://www.crunchbase.com/organization/clairvoyante-inc'
-                - 'https://www.crunchbase.com/organization/genoa-color-technologies'
+              parents: []
               ticker: 005930
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 295125053865984
+              market_cap: 294497015562240
               effective_ticker: 005930.KS
             image_data:
               fileName: samsung-electronics.svg
@@ -2882,7 +1909,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T02:09:58.000Z
+              latest_tweet_date: 2019-09-12T01:00:00.000Z
           - item:
             name: Seagate Technology
             homepage_url: 'https://www.seagate.com/cn/zh'
@@ -2900,26 +1927,11 @@ landscape:
               country: India
               twitter: 'http://twitter.com/Seagate'
               linkedin: 'https://www.linkedin.com/company/seagate-technology'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/lyve-minds'
-                - 'https://www.crunchbase.com/organization/dot-hill-systems'
-                - 'https://www.crunchbase.com/organization/evault'
-                - 'https://www.crunchbase.com/organization/sandforce'
-                - 'https://www.crunchbase.com/organization/xyratex'
-                - 'https://www.crunchbase.com/organization/lacie'
-                - 'https://www.crunchbase.com/organization/samsung-hard-disk-drive-business'
-                - 'https://www.crunchbase.com/organization/metalincs'
-                - 'https://www.crunchbase.com/organization/maxtor'
-                - 'https://www.crunchbase.com/organization/actionfront-data-recovery'
-                - 'https://www.crunchbase.com/organization/mirra'
-                - 'https://www.crunchbase.com/organization/x-io'
-                - 'https://www.crunchbase.com/organization/quinta-corporation'
-                - 'https://www.crunchbase.com/organization/archive-corp'
-                - 'https://www.crunchbase.com/organization/conner-peripherals'
+              parents: []
               ticker: STX
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13757030400
+              market_cap: 15122626560
               effective_ticker: STX
             image_data:
               fileName: seagate-technology.svg
@@ -2928,7 +1940,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T16:13:01.000Z
+              latest_tweet_date: 2019-09-11T20:25:47.000Z
           - item:
             name: Tencent
             homepage_url: 'https://www.tencent.com/zh-cn/index.html'
@@ -2947,24 +1959,11 @@ landscape:
               country: China
               twitter: 'https://twitter.com/tencentglobal'
               linkedin: 'https://www.linkedin.com/company/166328/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/sharkmob'
-                - 'https://www.crunchbase.com/organization/cat-cake'
-                - 'https://www.crunchbase.com/organization/grinding-gear-games'
-                - 'https://www.crunchbase.com/organization/sanook-thailand'
-                - 'https://www.crunchbase.com/organization/china-music-corp'
-                - 'https://www.crunchbase.com/organization/supercell'
-                - 'https://www.crunchbase.com/organization/miniclip'
-                - 'https://www.crunchbase.com/organization/cloudary'
-                - 'https://www.crunchbase.com/organization/linktech-navi'
-                - 'https://www.crunchbase.com/organization/zam'
-                - 'https://www.crunchbase.com/organization/riot-games'
-                - 'https://www.crunchbase.com/organization/comsenz'
-                - 'https://www.crunchbase.com/organization/shenzhen-domain-networks'
+              parents: []
               ticker: '0700'
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 391661584384
+              market_cap: 402663768064
               effective_ticker: TCEHY
             image_data:
               fileName: tencent.svg
@@ -2989,12 +1988,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/WindRiver'
               linkedin: 'https://www.linkedin.com/company/wind-river'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/arynga'
-                - 'https://www.crunchbase.com/organization/virtutech'
-                - 'https://www.crunchbase.com/organization/tilcon-software-ltd'
-                - 'https://www.crunchbase.com/organization/rapidlogic'
-                - 'https://www.crunchbase.com/organization/audesi-technologies'
+              parents: []
             image_data:
               fileName: wind-river.svg
               hash: 5Hw/+8tSowLqo62IpLqYCF9VQw7vFedH5p3gRNfhKH0=
@@ -3002,7 +1996,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T23:00:10.000Z
+              latest_tweet_date: 2019-09-12T02:07:05.000Z
           - item:
             name: Wipro Technologies
             homepage_url: 'https://www.wipro.com/'
@@ -3021,33 +2015,11 @@ landscape:
               country: India
               twitter: 'http://twitter.com/Wipro'
               linkedin: 'https://www.linkedin.com/company/wipro'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/international-technegroup'
-                - 'https://www.crunchbase.com/organization/splash-corporation'
-                - 'https://www.crunchbase.com/organization/infoserver'
-                - 'https://www.crunchbase.com/organization/appirio'
-                - 'https://www.crunchbase.com/organization/healthplan-services'
-                - 'https://www.crunchbase.com/organization/viteos-group'
-                - 'https://www.crunchbase.com/organization/cellent-ag'
-                - 'https://www.crunchbase.com/organization/atco-i-tek'
-                - 'https://www.crunchbase.com/organization/opus-capital-markets-consultants'
-                - 'https://www.crunchbase.com/organization/promax-application-group'
-                - 'https://www.crunchbase.com/organization/global-oil-and-gas-information-technology-services-business'
-                - 'https://www.crunchbase.com/organization/citi-technology-services'
-                - 'https://www.crunchbase.com/organization/gallagher-financial-systems'
-                - 'https://www.crunchbase.com/organization/wipro-techno-centre-singapore-pte-ltd'
-                - 'https://www.crunchbase.com/organization/infocrossing'
-                - 'https://www.crunchbase.com/organization/unza'
-                - 'https://www.crunchbase.com/organization/saraware-oy'
-                - 'https://www.crunchbase.com/organization/quantech-global-services'
-                - 'https://www.crunchbase.com/organization/cmango-inc'
-                - 'https://www.crunchbase.com/organization/mpact-technology-services'
-                - 'https://www.crunchbase.com/organization/mpower-software-services'
-                - 'https://www.crunchbase.com/organization/newlogic-technologies-ag'
+              parents: []
               ticker: WIPRO
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21262233600
+              market_cap: 20736837632
               effective_ticker: WIT
             image_data:
               fileName: wipro-technologies.svg
@@ -3056,7 +2028,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T04:40:26.000Z
+              latest_tweet_date: 2019-09-11T20:00:18.000Z
           - item:
             name: ZEDEDA
             homepage_url: 'https://zededa.com/'
@@ -3074,7 +2046,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/ZEDEDAEdge'
               linkedin: 'https://www.linkedin.com/company/zededa/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 18984000
             image_data:
@@ -3084,7 +2056,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T03:47:24.000Z
+              latest_tweet_date: 2019-09-11T21:09:33.000Z
       - subcategory:
         name: General
         items:
@@ -3105,7 +2077,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/alefedgeNYC'
               linkedin: 'https://www.linkedin.com/company/alefedge/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 25000000
             image_data:
@@ -3133,7 +2105,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/BeechSoft'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: beechwoods-software.svg
               hash: 1NfRYui497BSnXbheih8gT1WZ7Xfx/X/xmrDhx/uDZA=
@@ -3159,7 +2131,7 @@ landscape:
               country: China
               twitter: null
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: certus-net.svg
               hash: 1RRWZgz+ilBRP1oW8dhvpa3KugM66TngQ2fl3urysIY=
@@ -3183,7 +2155,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/CloudPlugs'
               linkedin: 'https://www.linkedin.com/company/cloudplugs'
-              acquisited: []
+              parents: []
             image_data:
               fileName: cloud-plugs.svg
               hash: t+dqd5noTngdsFHZBqP0IX3Z+2UPITBmb1WeMyKRysA=
@@ -3209,7 +2181,7 @@ landscape:
               country: Germany
               twitter: 'https://twitter.com/dataahead'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: data-ahead-ag.svg
               hash: nHGl/gjeoyzVHIQc1rJ9C/c0WsD4MvfIYGM6S3Ps2FQ=
@@ -3235,7 +2207,7 @@ landscape:
               country: China
               twitter: 'https://twitter.com/emqtt'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: emq-technologies.svg
               hash: w1OyBRLRv85FwrQHkMkN9RlaKKTPvPy1OD+Xy4tfSoo=
@@ -3261,7 +2233,7 @@ landscape:
               country: Spain
               twitter: 'http://twitter.com/_Enigmedia_'
               linkedin: 'https://www.linkedin.com/company/enigmedia'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 4677332
             image_data:
@@ -3289,7 +2261,7 @@ landscape:
               country: Ireland
               twitter: 'http://twitter.com/episensor'
               linkedin: 'https://www.linkedin.com/company/episensor'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 3279885
             image_data:
@@ -3317,7 +2289,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/FogHorn_IoT'
               linkedin: 'https://www.linkedin.com/company/foghorn-systems'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 47500000
             image_data:
@@ -3327,7 +2299,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T18:00:59.000Z
+              latest_tweet_date: 2019-09-11T18:05:24.000Z
           - item:
             name: ForgeRock
             homepage_url: 'https://www.forgerock.com/'
@@ -3345,7 +2317,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/ForgeRock'
               linkedin: 'https://www.linkedin.com/company/forgerock'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 140165000
             image_data:
@@ -3355,7 +2327,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T10:29:01.000Z
+              latest_tweet_date: 2019-09-12T00:40:00.000Z
           - item:
             name: Foundries.io
             homepage_url: 'http://foundries.io/'
@@ -3373,7 +2345,7 @@ landscape:
               country: United Kingdom
               twitter: 'https://twitter.com/foundriesio'
               linkedin: 'https://www.linkedin.com/company/foundriesio/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: foundries-io.svg
               hash: 9Ovn9HzmUQHZ3BtvN8eFCDQOERyQiRnCWR3KyaQ8V18=
@@ -3381,7 +2353,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T08:00:08.000Z
+              latest_tweet_date: 2019-09-11T13:29:54.000Z
           - item:
             name: Harmony Cloud
             homepage_url: 'http://harmonycloud.cn/'
@@ -3399,7 +2371,7 @@ landscape:
               country: China
               twitter: null
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: harmony-cloud.svg
               hash: zbP5y91c4uxSjPIBFC8HjNOgRKDJt6sao29ctpF9H78=
@@ -3423,7 +2395,7 @@ landscape:
               country: United Kingdom
               twitter: 'https://twitter.com/iotechsystems'
               linkedin: 'https://www.linkedin.com/in/iotech-systems-86b623141/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 2500000
             image_data:
@@ -3451,7 +2423,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/IoTium_inc'
               linkedin: 'https://www.linkedin.com/company/iotium'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 21990000
             image_data:
@@ -3479,7 +2451,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/kmccontrols'
               linkedin: 'https://www.linkedin.com/company/kmc-controls'
-              acquisited: []
+              parents: []
             image_data:
               fileName: kmc-controls.svg
               hash: RIpocl+UJLEtihEOnd8Tr89WBKTYQ52BVRqGqL4fcak=
@@ -3487,7 +2459,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T19:23:11.000Z
+              latest_tweet_date: 2019-09-11T19:21:46.000Z
           - item:
             name: Linaro
             homepage_url: 'https://www.linaro.org/'
@@ -3505,7 +2477,7 @@ landscape:
               country: United Kingdom
               twitter: 'http://twitter.com/linaroorg'
               linkedin: 'https://www.linkedin.com/company/1026961'
-              acquisited: []
+              parents: []
             image_data:
               fileName: linaro.svg
               hash: WNAgywu5pAa2WDzcQxgn8ZqMMlAjWT2py7Kw1qaoCOI=
@@ -3513,7 +2485,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T09:58:31.000Z
+              latest_tweet_date: 2019-09-11T20:01:09.000Z
           - item:
             name: Mainflux
             homepage_url: 'https://www.mainflux.com/'
@@ -3531,7 +2503,7 @@ landscape:
               country: Croatia
               twitter: 'https://twitter.com/Mainflux'
               linkedin: 'https://www.linkedin.com/company/mainflux/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: mainflux.svg
               hash: ScpE8j9pA3dnyYpHfvZxzf/+XXBvZ43gdUuBIc6W4hE=
@@ -3557,22 +2529,11 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/marvellsemi'
               linkedin: 'https://www.linkedin.com/company-beta/3772/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/avera-semiconductor'
-                - 'https://www.crunchbase.com/organization/aquantia'
-                - 'https://www.crunchbase.com/organization/cavium-networks'
-                - 'https://www.crunchbase.com/organization/xelerated'
-                - 'https://www.crunchbase.com/organization/diseno-de-sistemas-en-silicio-s-a'
-                - 'https://www.crunchbase.com/organization/iamba-networks'
-                - 'https://www.crunchbase.com/organization/picomobile-networks'
-                - 'https://www.crunchbase.com/organization/avago-printer-asics'
-                - 'https://www.crunchbase.com/organization/marvell-software-solutions-israel'
-                - 'https://www.crunchbase.com/organization/syskonnect-gmbh'
-                - 'https://www.crunchbase.com/organization/galileo-technology'
+              parents: []
               ticker: MRVL
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 15812305920
+              market_cap: 16597734400
               effective_ticker: MRVL
             image_data:
               fileName: marvell-technology.svg
@@ -3581,7 +2542,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-08-29T22:12:16.000Z
+              latest_tweet_date: 2019-09-11T23:44:41.000Z
           - item:
             name: Mocana
             homepage_url: 'https://www.mocana.com/'
@@ -3599,8 +2560,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/DeviceLINE'
               linkedin: 'https://www.linkedin.com/company/mocana-corporation'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/mimas-technologies'
+              parents: []
               kind: funding
               funding: 95737075
             image_data:
@@ -3628,7 +2588,7 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/netfoundry'
               linkedin: 'https://www.linkedin.com/company/netfoundry'
-              acquisited: []
+              parents: []
             image_data:
               fileName: net-foundry.svg
               hash: jZxGbjZKLiS3BbJZHqGkvfIkGiAIq4V443uwZuWnzjA=
@@ -3636,7 +2596,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T20:48:40.000Z
+              latest_tweet_date: 2019-09-11T20:51:01.000Z
           - item:
             name: OTAinfo
             homepage_url: 'https://www.otainfo.com'
@@ -3654,7 +2614,7 @@ landscape:
               country: United States
               twitter: null
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: ot-ainfo.svg
               hash: t9a1qM9H72TZyoZPVTVlThWFnUy3FWndWP8kTtvLch4=
@@ -3678,7 +2638,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/packethost'
               linkedin: 'https://www.linkedin.com/company/packet-host'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 36567845
             image_data:
@@ -3688,7 +2648,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T22:41:42.000Z
+              latest_tweet_date: 2019-09-11T20:53:34.000Z
           - item:
             name: Pluribus Networks
             homepage_url: 'https://www.pluribusnetworks.com/'
@@ -3706,7 +2666,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/pluribusnet'
               linkedin: 'https://www.linkedin.com/company/pluribus-networks'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 116000000
             image_data:
@@ -3725,7 +2685,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
             crunchbase_data:
               name: RackN
-              description: RackN provides open hybrid automation for SRE & DevOps teams to scale infrastructure.
+              description: RackN provides self-manged physical layer data center automation
               num_employees_min: 1
               num_employees_max: 10
               homepage: 'http://www.rackn.com'
@@ -3734,7 +2694,7 @@ landscape:
               country: United States
               twitter: 'https://www.twitter.com/rackngo'
               linkedin: 'https://www.linkedin.com/company/rackn/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 800000
             image_data:
@@ -3762,9 +2722,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/RedisLabs'
               linkedin: 'https://www.linkedin.com/company/redis-labs-inc'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/rdbtools'
-                - 'https://www.crunchbase.com/organization/redis-weekly'
+              parents: []
               kind: funding
               funding: 146600000
             image_data:
@@ -3774,7 +2732,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T05:07:37.000Z
+              latest_tweet_date: 2019-09-11T18:07:02.000Z
           - item:
             name: REPLY
             homepage_url: 'https://www.reply.com/en/'
@@ -3792,9 +2750,7 @@ landscape:
               country: Italy
               twitter: 'https://twitter.com/reply_uk'
               linkedin: 'https://www.linkedin.com/company/reply'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/elbkind'
-                - 'https://www.crunchbase.com/organization/solidsoft'
+              parents: []
             image_data:
               fileName: reply.svg
               hash: 8gy5HiTwUIPp5OS6A2Q9f/Hlzcf4xDaZHW+1ARlFVIY=
@@ -3820,7 +2776,7 @@ landscape:
               country: China
               twitter: 'https://twitter.com/TesraSupernet'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: saic-foundation.svg
               hash: fNMsfLgaPAduLyESkuLkGGKyubsU1jTqlEbvDWqTLPQ=
@@ -3846,7 +2802,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/sectionio'
               linkedin: 'https://www.linkedin.com/company/section_io/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 6224992
             image_data:
@@ -3874,8 +2830,7 @@ landscape:
               country: China
               twitter: 'https://twitter.com/thundersoft_cn'
               linkedin: 'https://www.linkedin.com/company/thundersoft'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/rightware-oy'
+              parents: []
               kind: funding
               funding: 15436405
             image_data:
@@ -3903,14 +2858,11 @@ landscape:
               country: Japan
               twitter: 'https://twitter.com/ToyotaMotorCorp'
               linkedin: 'https://www.linkedin.com/company/toyota-global/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/daihatsu'
-                - 'https://www.crunchbase.com/organization/cascade-corporation'
-                - 'https://www.crunchbase.com/organization/hino-ottawa-gatineau'
+              parents: []
               ticker: TM
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 189165830144
+              market_cap: 193008304128
               effective_ticker: TM
             image_data:
               fileName: toyota.svg
@@ -3919,7 +2871,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T00:00:09.000Z
+              latest_tweet_date: 2019-09-11T21:36:09.000Z
           - item:
             name: Ubuntu
             homepage_url: 'https://ubuntu.com/'
@@ -3937,7 +2889,7 @@ landscape:
               country: United Kingdom
               twitter: 'http://twitter.com/Canonical'
               linkedin: 'https://www.linkedin.com/company/canonical-ltd-/'
-              acquisited: []
+              parents: []
               kind: funding
               funding: 12800000
             image_data:
@@ -3947,7 +2899,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T10:01:04.000Z
+              latest_tweet_date: 2019-09-11T18:04:34.000Z
           - item:
             name: Vapor IO (member)
             homepage_url: 'https://www.vapor.io/'
@@ -3965,7 +2917,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/vaporio'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: vapor-io-member.svg
               hash: UV2qdeomzMO2e+2jb/EKvYWWoJxu26leDHIfyqeJjG0=
@@ -3973,7 +2925,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T00:24:30.000Z
+              latest_tweet_date: 2019-09-11T18:44:22.000Z
           - item:
             name: Vitro Technology Corporation
             homepage_url: 'https://vitro.io/'
@@ -3991,7 +2943,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/vitro_io'
               linkedin: 'https://www.linkedin.com/company/10049314/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: vitro-technology-corporation.svg
               hash: X61LutohhH9fdyoqr58WIR6Hn3WIitQvhq48acHgkio=
@@ -4017,7 +2969,7 @@ landscape:
               country: United States
               twitter: null
               linkedin: null
-              acquisited: []
+              parents: []
               kind: funding
               funding: 25000000
             image_data:
@@ -4045,7 +2997,7 @@ landscape:
               country: China
               twitter: null
               linkedin: 'https://www.linkedin.com/company/wanxiang-group-corporation/about/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: wanxiang-group.svg
               hash: EcdJyYCvJAXmwBHS3zoV2LGWe7yAwmW7oHkTzWmqKis=
@@ -4069,9 +3021,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/zenlayer'
               linkedin: 'https://www.linkedin.com/company/zenlayer/'
-              acquisited:
-                - 'https://www.crunchbase.com/organization/daho-networks'
-                - 'https://www.crunchbase.com/organization/c3-networks'
+              parents: []
               kind: funding
               funding: 40000000
             image_data:
@@ -4081,7 +3031,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T18:06:44.000Z
+              latest_tweet_date: 2019-09-11T21:38:29.000Z
       - subcategory:
         name: Associate
         items:
@@ -4102,7 +3052,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/TweetAECC'
               linkedin: 'https://www.linkedin.com/company/automotive-edge-computing-consortium/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: automotive-edge-computing-consortium.svg
               hash: 59Hm2MX7tgaAUUgLKXv9e5146i8JhUYEuPvuusADM0Y=
@@ -4110,7 +3060,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-09T17:18:03.000Z
+              latest_tweet_date: 2019-09-11T16:00:11.000Z
           - item:
             name: Beijing University of Posts and Telecommunications
             homepage_url: 'https://www.bupt.edu.cn/'
@@ -4128,7 +3078,7 @@ landscape:
               country: China
               twitter: null
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: beijing-university-of-posts-and-telecommunications.svg
               hash: UhWZ9oJjKEwA1qNEapWgND7jS7NhakE3BLIt41Ae9uk=
@@ -4152,7 +3102,7 @@ landscape:
               country: South Korea
               twitter: 'https://www.twitter.com/etrinewsmaker'
               linkedin: 'https://www.linkedin.com/company-beta/163704/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: etri.svg
               hash: dfe/2fpO191REom4P+h3xy9uocXZlXdqvHqnt0xmSJI=
@@ -4178,7 +3128,7 @@ landscape:
               country: United States
               twitter: 'http://twitter.com/iiconsortium'
               linkedin: 'https://www.linkedin.com/company-beta/5380050'
-              acquisited: []
+              parents: []
             image_data:
               fileName: industrial-internet-consortium.svg
               hash: Jdj9lZbbnizQp86FKotYvNLNzBJDSW73noI4mIeA+Wg=
@@ -4186,7 +3136,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-11T04:05:55.000Z
+              latest_tweet_date: 2019-09-11T16:45:08.000Z
           - item:
             name: Infrastructure Masons
             homepage_url: 'https://imasons.org'
@@ -4206,7 +3156,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/inframason'
               linkedin: null
-              acquisited: []
+              parents: []
             image_data:
               fileName: infrastructure-masons.svg
               hash: nlWpsBba2Yduz8Q3VfXCwfM/4domSam5aw8juwFO/30=
@@ -4232,7 +3182,7 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/haystackTagging'
               linkedin: 'https://www.linkedin.com/company/project-haystack.org/'
-              acquisited: []
+              parents: []
             image_data:
               fileName: project-haystack.svg
               hash: WB9XCHL53KTaFHV8XxF/0RaHBoY/a9UoaqX9OeP4Y8A=
@@ -4258,7 +3208,8 @@ landscape:
               country: United States
               twitter: 'https://twitter.com/UNH_IOL'
               linkedin: 'https://www.linkedin.com/company/unh-interoperability-lab/'
-              acquisited: []
+              parents:
+                - 'https://www.crunchbase.com/organization/university-of-new-hampshire'
               kind: funding
               funding: 360000
             image_data:
@@ -4268,7 +3219,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-09-10T13:43:28.000Z
+              latest_tweet_date: 2019-09-11T13:08:13.000Z
 twitter_options:
   count: 22
   since_id: '1095013375270998016'
