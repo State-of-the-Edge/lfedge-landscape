@@ -77,19 +77,23 @@ membership:
     name: LF Edge
     label: Premier Member
     funding: Premier
+    is_large: true
   General:
     name: LF Edge
     label: Member
     funding: General
+    is_large: true
   Associate:
     name: LF Edge
     label: Associate
     funding: Associate
+    is_large: true
   linux_foundation:
     name: LF
     label: Project
     funding: Linux Foundation
     crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
+    is_large: true
   'false':
     funding: 'No'
 home:
