@@ -202,7 +202,16 @@ landscape:
     subcategories: []
   - category:
     name: Networking
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Networking
+        items:
+          - item:
+            name: ZTE
+            homepage_url: 'https://www.zte.com.cn/global/'
+            logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
+            twitter: 'https://twitter.com/ZTEPress'
+            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
   - category:
     name: Hardware
     subcategories:
