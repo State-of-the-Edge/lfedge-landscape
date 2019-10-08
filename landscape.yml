@@ -779,12 +779,6 @@ landscape:
             twitter: 'https://www.twitter.com/etrinewsmaker'
             crunchbase: 'https://www.crunchbase.com/organization/etri'
           - item:
-            name: Industrial Internet Consortium
-            homepage_url: 'https://www.iiconsortium.org/'
-            logo: iic-liaison.svg
-            twitter: 'https://twitter.com/iiconsortium'
-            crunchbase: 'https://www.crunchbase.com/organization/industrial-internet-consortium-2'
-          - item:
             name: Infrastructure Masons
             homepage_url: 'https://imasons.org'
             logo: imasons.svg
@@ -808,3 +802,12 @@ landscape:
             logo: unh.svg
             twitter: 'https://twitter.com/UNH_IOL'
             crunchbase: 'https://www.crunchbase.com/organization/interoperability-laboratory'
+      - subcategory:
+        name: Liaison
+        items:
+          - item:
+            name: Industrial Internet Consortium
+            homepage_url: 'https://www.iiconsortium.org/'
+            logo: iic-liaison.svg
+            twitter: 'https://twitter.com/iiconsortium'
+            crunchbase: 'https://www.crunchbase.com/organization/industrial-internet-consortium-2'
