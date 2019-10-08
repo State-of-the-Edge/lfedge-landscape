@@ -78,7 +78,7 @@ landscape:
             description: >-
               Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers
               globally with low latency, high transfer speeds, all within a developer-friendly environment.
-            homepage_url: 'https://aws.amazon.com/cloudfront'
+            homepage_url: 'https://aws.amazon.com/cloudfront/'
             logo: 'https://panoply.io/images/integration-logos/amazon%20cloudfront.svg'
             twitter: 'https://twitter.com/cloudfront'
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
@@ -111,7 +111,7 @@ landscape:
         items:
           - item:
             name: KubeEdge
-            homepage_url: 'https://kubeedge.io/'
+            homepage_url: 'https://kubeedge.io/en'
             repo_url: 'https://github.com/kubeedge/kubeedge'
             logo: kube-edge.svg
             twitter: 'https://twitter.com/kubeedge'
@@ -171,6 +171,13 @@ landscape:
         name: Virtualization
         items:
           - item:
+            name: Kata Containers
+            homepage_url: 'https://katacontainers.io/'
+            repo_url: 'https://github.com/kata-containers/runtime'
+            logo: 'https://landscape.cncf.io/logos/kata-containers.svg'
+            twitter: 'https://twitter.com/KataContainers'
+            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+          - item:
             name: Project EVE
             homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
             project: growth
@@ -195,7 +202,16 @@ landscape:
     subcategories: []
   - category:
     name: Networking
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Networking
+        items:
+          - item:
+            name: ZTE
+            homepage_url: 'https://www.zte.com.cn/global/'
+            logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
+            twitter: 'https://twitter.com/ZTEPress'
+            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
   - category:
     name: Hardware
     subcategories:
@@ -220,7 +236,7 @@ landscape:
         items:
           - item:
             name: Nvidia
-            homepage_url: 'https://www.nvidia.com/'
+            homepage_url: 'https://www.nvidia.com/en-us/'
             logo: nvidia.svg
             twitter: 'https://twitter.com/nvidia'
             crunchbase: 'https://www.crunchbase.com/organization/nvidia'
@@ -229,12 +245,18 @@ landscape:
     subcategories:
       - subcategory:
         name: Fiber & Peering (PoE)
-        items: []
+        items:
+          - item:
+            name: Zayo
+            homepage_url: 'https://www.zayo.com/'
+            logo: zayo.svg
+            twitter: 'https://twitter.com/ZayoGroup'
+            crunchbase: 'https://www.crunchbase.com/organization/zayo-group'
   - category:
     name: Wireless & Wireline
     subcategories:
       - subcategory:
-        name: "Wireless"
+        name: Wireless
         items:
           - item:
             name: Verizon
@@ -242,6 +264,15 @@ landscape:
             logo: verizon.svg
             twitter: 'https://twitter.com/verizon'
             crunchbase: 'https://www.crunchbase.com/organization/verizon'
+      - subcategory:
+        name: Wireline
+        items:
+          - item:
+            name: Comcast
+            homepage_url: 'https://www.xfinity.com/'
+            logo: comcast.svg
+            twitter: 'https://twitter.com/comcast'
+            crunchbase: 'https://www.crunchbase.com/organization/comcast'
   - category:
     name: Real Estate / Land
     subcategories:
@@ -250,7 +281,13 @@ landscape:
         items: []
       - subcategory:
         name: Non Traditional
-        items: []
+        items:
+          - item:
+            name: Vapor IO
+            homepage_url: 'https://www.vapor.io/'
+            logo: vaporio.svg
+            twitter: 'https://twitter.com/vaporio'
+            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
       - subcategory:
         name: Towers
         items: []
@@ -259,7 +296,17 @@ landscape:
         items: []
   - category:
     name: Services / System Integrators
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Services / System Integrators
+        items:
+          - item:
+            name: HPE
+            homepage_url: 'https://www.hpe.com/us/en/home.html'
+            stock_ticker: HPE
+            logo: hpe.svg
+            twitter: 'https://twitter.com/HPE'
+            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard-enterprise'
   - category:
     name: Other Edge Related Software
     subcategories:
@@ -328,7 +375,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/ericsson'
           - item:
             name: Fujitsu
-            homepage_url: 'http://www.fujitsu.com/'
+            homepage_url: 'https://www.fujitsu.com/'
             stock_ticker: null
             logo: fujitsu.svg
             twitter: 'https://twitter.com/Fujitsu_Global'
@@ -348,7 +395,7 @@ landscape:
             twitter: 'https://twitter.com/HP'
             crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard'
           - item:
-            name: HPE
+            name: HPE (member)
             homepage_url: 'https://www.hpe.com/us/en/home.html'
             stock_ticker: HPE
             logo: hpe.svg
@@ -382,7 +429,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/inwinstack'
           - item:
             name: Juniper Networks
-            homepage_url: 'https://www.juniper.net/us/en'
+            homepage_url: 'https://www.juniper.net/us/en/'
             stock_ticker: JNPR
             logo: juniper.svg
             twitter: 'https://twitter.com/JuniperNetworks'
@@ -395,7 +442,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/mobileedgex'
           - item:
             name: Netsia
-            homepage_url: 'http://www.netsia.com'
+            homepage_url: 'https://www.netsia.com/'
             logo: netsia.svg
             twitter: 'https://twitter.com/IncNetsia'
             crunchbase: 'https://www.crunchbase.com/organization/netsia'
@@ -408,7 +455,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/nokia'
           - item:
             name: NTT Group
-            homepage_url: 'http://www.ntt.co.jp/activity/en/global/'
+            homepage_url: 'https://www.ntt.co.jp/activity/en/global/'
             stock_ticker: NTTYY
             logo: ntt.svg
             twitter: 'https://twitter.com/NTTPR'
@@ -448,7 +495,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/samsung-electronics'
           - item:
             name: Seagate Technology
-            homepage_url: 'https://www.seagate.com'
+            homepage_url: 'https://www.seagate.com/cn/zh'
             logo: seagate.svg
             twitter: 'https://twitter.com/seagate'
             crunchbase: 'https://www.crunchbase.com/organization/seagate'
@@ -474,7 +521,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/wipro'
           - item:
             name: ZEDEDA
-            homepage_url: 'https://www.zededa.com'
+            homepage_url: 'https://zededa.com/'
             logo: zededa.svg
             twitter: 'https://twitter.com/zededaedge'
             crunchbase: 'https://www.crunchbase.com/organization/zededa'
@@ -499,6 +546,12 @@ landscape:
             logo: certusnet.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/certusnet'
+          - item:
+            name: Cloudbrink
+            homepage_url: 'https://cloudbrink.io/'
+            logo: cloudbrink.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/cloudbrink-inc'
           - item:
             name: CloudPlugs
             homepage_url: 'https://cloudplugs.com/'
@@ -651,24 +704,24 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/section-io'
           - item:
             name: Thunder Software
-            homepage_url: 'http://www.thundersoft.com/'
+            homepage_url: 'https://www.thundersoft.com/'
             logo: thundersoft.svg
             twitter: 'https://twitter.com/thundersoft_cn'
             crunchbase: 'https://www.crunchbase.com/organization/thundersoft-company-limited'
           - item:
             name: Toyota
-            homepage_url: 'http://www.toyota.com/'
+            homepage_url: 'https://www.toyota.com/'
             logo: toyota.svg
             twitter: 'https://twitter.com/Toyota'
             crunchbase: 'https://www.crunchbase.com/organization/toyota'
           - item:
             name: Ubuntu
-            homepage_url: 'https://www.ubuntu.com/'
+            homepage_url: 'https://ubuntu.com/'
             logo: ubuntu.svg
             twitter: 'https://twitter.com/ubuntu'
             crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
           - item:
-            name: Vapor IO
+            name: Vapor IO (member)
             homepage_url: 'https://www.vapor.io/'
             logo: vaporio.svg
             twitter: 'https://twitter.com/vaporio'
@@ -691,6 +744,12 @@ landscape:
             logo: wanxiang.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/wanxiang-group'
+          - item:
+            name: Zenlayer
+            homepage_url: 'https://www.zenlayer.com/'
+            logo: zenlayer.svg
+            twitter: 'https://twitter.com/zenlayer'
+            crunchbase: 'https://www.crunchbase.com/organization/zenlayer'
       - subcategory:
         name: Associate
         items:
@@ -724,6 +783,12 @@ landscape:
             logo: imasons.svg
             twitter: 'https://twitter.com/inframason'
             crunchbase: 'https://www.crunchbase.com/organization/infrastructure-masons'
+          - item:
+            name: IOTA Foundation
+            homepage_url: 'https://www.iota.org/'
+            logo: IOTA.svg
+            twitter: 'https://twitter.com/iotatoken'
+            crunchbase: 'https://www.crunchbase.com/organization/iota-foundation'
           - item:
             name: Project Haystack
             homepage_url: 'https://project-haystack.org'
