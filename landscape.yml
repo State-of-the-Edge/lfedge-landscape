@@ -206,7 +206,16 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
   - category:
     name: Security
-    subcategories: []
+    subcategories:
+      - subcategory:
+        name: Security
+        items:
+          - item:
+            name: Xage Security
+            homepage_url: 'https://xage.com/'
+            logo: 'xage_security.svg'
+            twitter: 'https://twitter.com/xageinc'
+            crunchbase: 'https://www.crunchbase.com/organization/xage-security'
   - category:
     name: Networking
     subcategories:
