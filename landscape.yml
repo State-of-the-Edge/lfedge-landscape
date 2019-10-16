@@ -213,7 +213,7 @@ landscape:
           - item:
             name: Xage Security
             homepage_url: 'https://xage.com/'
-            logo: 'xage_security.svg'
+            logo: xage_security.svg
             twitter: 'https://twitter.com/xageinc'
             crunchbase: 'https://www.crunchbase.com/organization/xage-security'
   - category:
@@ -223,16 +223,16 @@ landscape:
         name: Networking
         items:
           - item:
+            name: VMWare NSX
+            homepage_url: 'https://www.vmware.com/products/nsx.html'
+            logo: 'https://landscape.cncf.io/logos/v-mware-nsx.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+          - item:
             name: ZTE
             homepage_url: 'https://www.zte.com.cn/global/'
             logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
             twitter: 'https://twitter.com/ZTEPress'
             crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
-            name: VMWare NSX
-            homepage_url: 'https://www.vmware.com/products/nsx.html'
-            logo: 'https://landscape.cncf.io/logos/v-mware-nsx.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vmware'  
   - category:
     name: Hardware
     subcategories:
@@ -349,16 +349,16 @@ landscape:
             twitter: 'https://twitter.com/LF_Edge'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
           - item:
+            name: StorageOS
+            homepage_url: 'https://storageos.com/'
+            logo: 'https://landscape.cncf.io/logos/storage-os-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/storageos'
+          - item:
             name: Yocto Project
             homepage_url: 'https://www.yoctoproject.org/'
             logo: logo_yocto.svg
             twitter: 'https://twitter.com/yoctoproject'
             crunchbase: 'https://www.crunchbase.com/organization/yocto-project'
-          - item:
-            name: StorageOS
-            homepage_url: 'https://storageos.com/'
-            logo: 'https://landscape.cncf.io/logos/storage-os-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/storageos'
   - category:
     name: LF Edge Member Company
     subcategories:
