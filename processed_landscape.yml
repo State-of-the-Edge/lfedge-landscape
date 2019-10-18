@@ -897,36 +897,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-18T01:17:07.000Z
           - item:
-            name: VMWare NSX
-            homepage_url: 'https://www.vmware.com/products/nsx.html'
-            logo: 'https://landscape.cncf.io/logos/v-mware-nsx.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vmware'
-            crunchbase_data:
-              name: VMware
-              description: VMware is a software company providing cloud and virtualization services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.vmware.com'
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/VMware'
-              linkedin: 'https://www.linkedin.com/company/vmware'
-              parents:
-                - 'https://www.crunchbase.com/organization/emc'
-              ticker: VMW
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 62144753664
-              effective_ticker: VMW
-            image_data:
-              fileName: vm-ware-nsx.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-18T01:17:07.000Z
-          - item:
             name: ZTE
             homepage_url: 'https://www.zte.com.cn/global/'
             logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
@@ -1346,32 +1316,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-17T18:02:24.000Z
-          - item:
-            name: StorageOS
-            homepage_url: 'https://storageos.com/'
-            logo: 'https://landscape.cncf.io/logos/storage-os-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/storageos'
-            crunchbase_data:
-              name: StorageOS
-              description: StorageOS is a software-based distributed storage platform designed to provider persistent container storage.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://storageos.com'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'https://twitter.com/Storage_OS'
-              linkedin: 'https://www.linkedin.com/company/storageos'
-              parents: []
-              kind: funding
-              funding: 10000000
-            image_data:
-              fileName: storage-os.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-17T06:08:00.000Z
           - item:
             name: StorageOS
             homepage_url: 'https://storageos.com/'
