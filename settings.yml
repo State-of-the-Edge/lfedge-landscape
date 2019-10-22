@@ -84,23 +84,19 @@ membership:
     name: LF Edge
     label: Member
     funding: General
-    is_large: true
   Associate:
     name: LF Edge
     label: Associate
     funding: Associate
-    is_large: true
   Liaison:
     name: LF Edge
     label: Liaison
     funding: Liaison
-    is_large: true
   linux_foundation:
     name: LF
     label: Project
     funding: Linux Foundation
     crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
-    is_large: true
   'false':
     funding: 'No'
 home:
@@ -135,10 +131,10 @@ big_picture:
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 2250
-      height: 1000
+      height: 1050
     fullscreen_size:
       width: 2250
-      height: 1000
+      height: 1050
     elements:
       - type: HorizontalCategory
         category: .ORG
@@ -250,9 +246,9 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: LF Edge Member Company
-        rows: 10
+        rows: 12
         width: 2200
-        height: 350
+        height: 400
         top: 580
         left: 0
         color: 'rgb(124, 200, 182)'
