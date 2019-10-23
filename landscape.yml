@@ -133,6 +133,11 @@ landscape:
             repo_url: 'https://github.com/WildernessLabs/Meadow.Foundation'
             logo: 'https://www.wildernesslabs.co/assets/svg/meadow-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/wilderness-labs'
+          - item:
+            name: IBM Watson IoT
+            homepage_url: 'https://www.ibm.com/cloud/watson-iot-platform'
+            logo: 'ibm_watson_iot.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ibm-watson'
       - subcategory:
         name: Decentralized
         items:
@@ -183,6 +188,12 @@ landscape:
             repo_url: 'https://github.com/lf-edge/eve'
             logo: logo-eve-wtext.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+          - item:
+            name: Docker CE
+            homepage_url: 'https://www.docker.com/products/container-runtime'
+            repo_url: 'https://github.com/docker/docker-ce'
+            logo: docker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/docker'
       - subcategory:
         name: IAAS
         items:
@@ -201,6 +212,11 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/digital-rebar.svg'
             twitter: 'https://twitter.com/digitalrebar'
             crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
+          - item:
+            name: Project Volutus
+            homepage_url: 'www.vapor.io'
+            logo: 'volutus.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
   - category:
     name: Security
     subcategories:
@@ -355,6 +371,22 @@ landscape:
             homepage_url: 'https://www.ztsystems.com'
             logo: zt-systems.svg
             crunchbase: 'https://www.crunchbase.com/organization/zt-systems'
+          - item:
+            name: VyOS
+            homepage_url: 'https://vyos.io/'
+            logo: vyos.svg
+            repo_url: 'https://github.com/vyos/vyos-build'
+            crunchbase: 'https://www.crunchbase.com/organization/vyos'
+          - item:
+            name: Wiwynn
+            homepage_url: 'http://www.wiwynn.com/'
+            logo: 'https://www.nvidia.com/content/dam/logos/wiwynn-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/wiwynn'
+          - item:
+            name: Xnor.ai
+            homepage_url: 'https://www.xnor.ai/'
+            logo: xnorai.svg
+            crunchbase: 'https://www.crunchbase.com/organization/xnor-ai'
   - category:
     name: LF Edge Member Company
     subcategories:
