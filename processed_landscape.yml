@@ -567,6 +567,37 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-18T15:19:36.000Z
+          - item:
+            name: IBM Watson IoT
+            homepage_url: 'https://www.ibm.com/cloud/watson-iot-platform'
+            logo: ibm_watson_iot.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm-watson'
+            crunchbase_data:
+              name: IBM Watson
+              description: IBM Watson is a cognitive system enabling a new partnership between people and computers.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.ibm.com/watson/'
+              city: Armonk
+              region: New York
+              country: United States
+              twitter: 'https://twitter.com/IBMWatson'
+              linkedin: 'https://www.linkedin.com/company/ibm-watson'
+              parents:
+                - 'https://www.crunchbase.com/organization/ibm'
+              ticker: IBM
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 118574374912
+              effective_ticker: IBM
+            image_data:
+              fileName: ibm-watson-io-t.svg
+              hash: vBEhb1sBy0oAMXk5y4VZ2Rhw3F+nprbaUo4Se3hdpZg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-22T18:54:30.000Z
       - subcategory:
         name: Decentralized
         items:
@@ -778,6 +809,47 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-22T22:13:07.000Z
+          - item:
+            name: Docker CE
+            homepage_url: 'https://www.docker.com/products/container-runtime'
+            repo_url: 'https://github.com/docker/docker-ce'
+            logo: docker.svg
+            crunchbase: 'https://www.crunchbase.com/organization/docker'
+            crunchbase_data:
+              name: Docker
+              description: 'Docker develops an open platform for building, shipping, and running distributed applications.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://www.docker.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/docker'
+              linkedin: 'https://www.linkedin.com/company/docker'
+              parents: []
+              kind: funding
+              funding: 272855439
+            github_data:
+              stars: 3453
+              license: Unknown License
+              description: Docker CE
+              latest_commit_date: '2019-10-22T17:29:36Z'
+              latest_commit_link: /docker/docker-ce/commit/6d1e64f40569cf42e2f684690d1e2f5cff9546d1
+              release_date: '2019-10-18T17:46:27Z'
+              release_link: 'https://github.com/docker/docker-ce/releases'
+              contributors_count: 1995
+              contributors_link: 'https://github.com/docker/docker-ce/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /docker/docker-ce/commit/5c70746915d4589a692cbe50a43cf619ed0b7152
+              start_date: '2013-01-19T00:13:39Z'
+            image_data:
+              fileName: docker-ce.svg
+              hash: PIEHyAgFYU/VdOVpx0BeovqNmqHbQLB7o+hYgMZio/Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-22T22:18:56.000Z
       - subcategory:
         name: IAAS
         items:
@@ -855,6 +927,31 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-22T17:29:39.000Z
+          - item:
+            name: Project Volutus
+            homepage_url: www.vapor.io
+            logo: volutus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
+            crunchbase_data:
+              name: Vapor IO
+              description: 'Edge colocation, interconnection and software-defined networking'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.vapor.io/'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: 'https://twitter.com/vaporio'
+              linkedin: null
+              parents: []
+            image_data:
+              fileName: project-volutus.svg
+              hash: OkuLjI4DCHoN7pioy/xMxt7MXlxzWEXqNBZf8rIgWIs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-21T22:53:00.000Z
   - category:
     name: Security
     subcategories:
@@ -1412,6 +1509,92 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-10T15:08:23.000Z
+          - item:
+            name: VyOS
+            homepage_url: 'https://vyos.io/'
+            logo: vyos.svg
+            repo_url: 'https://github.com/vyos/vyos-build'
+            crunchbase: 'https://www.crunchbase.com/organization/vyos'
+            crunchbase_data:
+              name: VyOS
+              description: 'VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://vyos.io/'
+              city: Barcelona
+              region: Catalonia
+              country: Spain
+              twitter: 'https://twitter.com/vyos_dev'
+              linkedin: null
+              parents: []
+            github_data:
+              stars: 114
+              license: GNU General Public License v2.0
+              description: Top level build scripts for VyOS > 1.2.0
+              latest_commit_date: '2019-10-13T17:01:44Z'
+              latest_commit_link: /vyos/vyos-build/commit/25bb74bc51f7ee36b8da834b8cb1ecc1aa1e5ea9
+              contributors_count: 22
+              contributors_link: 'https://github.com/vyos/vyos-build/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /vyos/vyos-build/commit/8e71eae3a2323aacd12e4a484dfd3773c9d7cf03
+              start_date: '2015-12-16T21:02:03Z'
+            image_data:
+              fileName: vy-os.svg
+              hash: CQzi8Pgp8NLOXJLsK1fqMKdaXGoMomyJgdMwiHYKKWQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-21T15:31:43.000Z
+          - item:
+            name: Wiwynn
+            homepage_url: 'http://www.wiwynn.com/'
+            logo: 'https://www.nvidia.com/content/dam/logos/wiwynn-logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/wiwynn'
+            crunchbase_data:
+              name: Wiwynn
+              description: Wistron Corporation is a global leader for various product categories including servers and storage.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.wiwynn.com'
+              city: Taipei
+              region: T'ai-pei
+              country: Taiwan
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/wiwynn'
+              parents: []
+            image_data:
+              fileName: wiwynn.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Xnor.ai
+            homepage_url: 'https://www.xnor.ai/'
+            logo: xnorai.svg
+            crunchbase: 'https://www.crunchbase.com/organization/xnor-ai'
+            crunchbase_data:
+              name: Xnor.ai
+              description: 'Xnor.ai''s technology runs deep learning models efficiently ​on edge devices such as phones, IoT devices, cameras, drones, and embedded CPUs.'
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://xnor.ai'
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: 'https://twitter.com/xnor_ai'
+              linkedin: 'https://www.linkedin.com/company/xnor-ai/'
+              parents: []
+              kind: funding
+              funding: 14600000
+            image_data:
+              fileName: xnor-ai.svg
+              hash: vKuOdZq043bDsarwN8d7j+6HlIBySbz7udhOQjSmHQo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-21T17:24:34.000Z
   - category:
     name: LF Edge Member Company
     subcategories:
