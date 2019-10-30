@@ -240,6 +240,12 @@ landscape:
         name: Networking
         items:
           - item:
+            name: Riverbed
+            homepage_url: 'https://www.riverbed.com/'
+            stock_ticker: null
+            logo: 'https://landscape.cncf.io/logos/riverbed.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/riverbed-technology'
+          - item:
             name: VMWare NSX
             homepage_url: 'https://www.vmware.com/products/nsx.html'
             logo: 'https://landscape.cncf.io/logos/v-mware-nsx.svg'
@@ -249,12 +255,6 @@ landscape:
             homepage_url: 'https://www.zte.com.cn/global/'
             logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
             crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
-            name: Riverbed
-            homepage_url: 'https://www.riverbed.com/'
-            logo: 'https://landscape.cncf.io/logos/riverbed.svg'
-            stock_ticker: null
-            crunchbase: 'https://www.crunchbase.com/organization/riverbed-technology'
   - category:
     name: Hardware
     subcategories:
