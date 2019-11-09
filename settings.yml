@@ -17,7 +17,6 @@ global:
     google_site_verification: M_GmEYdzsEnvJiIcvfj7gmczKsme1N5rd9RwRD35Y98
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
-    cncf_sandbox: false
     companies: LF Edge Member Company
     hide_license_for_categories:
       - .ORG
@@ -128,7 +127,6 @@ big_picture:
     name: Landscape
     title: LF Edge Landscape
     fullscreen_header: See the interactive landscape at l.lfedge.org
-    method: getGroupedItemsForCncfBigPicture
     size:
       width: 2250
       height: 1050
