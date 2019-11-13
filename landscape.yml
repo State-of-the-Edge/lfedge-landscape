@@ -117,15 +117,15 @@ landscape:
             twitter: 'https://twitter.com/kubeedge'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
-            name: Section
-            homepage_url: 'https://www.section.io/'
-            logo: sectionio.svg
-            crunchbase: 'https://www.crunchbase.com/organization/section-io'
-          - item:
             name: Rafay Systems
             homepage_url: 'https://rafay.co/'
             logo: 'https://landscape.cncf.io/logos/rafay-systems-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/rafay-systems-inc'
+          - item:
+            name: Section
+            homepage_url: 'https://www.section.io/'
+            logo: sectionio.svg
+            crunchbase: 'https://www.crunchbase.com/organization/section-io'
       - subcategory:
         name: IoT Focused
         items:
@@ -208,20 +208,30 @@ landscape:
         name: IAAS
         items:
           - item:
-            name: Google Cloud
-            homepage_url: 'https://twitter.com/googlecloud'
-            logo: google_cloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
+            name: Alibaba Cloud
+            homepage_url: 'https://us.alibabacloud.com/'
+            logo: 'https://landscape.cncf.io/logos/alibaba-cloud-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
           - item:
             name: Amazon Web Services
             homepage_url: 'https://aws.amazon.com/'
             logo: 'https://landscape.cncf.io/logos/amazon-web-services-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
-            name: Alibaba Cloud
-            homepage_url: 'https://us.alibabacloud.com/'
-            logo: 'https://landscape.cncf.io/logos/alibaba-cloud-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
+            name: DigitalOcean
+            homepage_url: 'https://www.digitalocean.com/'
+            logo: 'https://landscape.cncf.io/logos/digital-ocean-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/digitalocean'
+          - item:
+            name: Google Cloud
+            homepage_url: 'https://twitter.com/googlecloud'
+            logo: google_cloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
+          - item:
+            name: IBM Cloud
+            homepage_url: 'https://www.ibm.com/cloud/private'
+            logo: 'https://landscape.cncf.io/logos/ibm-cloud-private.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: Joyent
             homepage_url: 'https://www.joyent.com/'
@@ -233,16 +243,6 @@ landscape:
             stock_ticker: null
             logo: 'https://landscape.cncf.io/logos/rackspace-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/rackspace'
-          - item:
-            name: DigitalOcean
-            homepage_url: 'https://www.digitalocean.com/'
-            logo: 'https://landscape.cncf.io/logos/digital-ocean-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/digitalocean'
-          - item:
-            name: IBM Cloud
-            homepage_url: 'https://www.ibm.com/cloud/private'
-            logo: 'https://landscape.cncf.io/logos/ibm-cloud-private.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
       - subcategory:
         name: Physical
         items:
