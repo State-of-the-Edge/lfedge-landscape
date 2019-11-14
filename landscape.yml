@@ -175,6 +175,12 @@ landscape:
         name: Provisioning
         items:
           - item:
+            name: Foreman
+            homepage_url: 'https://theforeman.org/'
+            repo_url: 'https://github.com/theforeman/foreman'
+            logo: 'https://landscape.cncf.io/logos/foreman.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/foreman'
+          - item:
             name: Kubernetes
             homepage_url: 'https://kubernetes.io/'
             repo_url: 'https://github.com/kubernetes/kubernetes'
@@ -187,12 +193,6 @@ landscape:
             repo_url: 'https://github.com/maas/maas'
             logo: 'https://landscape.cncf.io/logos/maas.svg'
             crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
-          - item:
-            name: Foreman
-            homepage_url: 'https://theforeman.org/'
-            repo_url: 'https://github.com/theforeman/foreman'
-            logo: 'https://landscape.cncf.io/logos/foreman.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/foreman'
       - subcategory:
         name: Virtualization
         items:
@@ -277,15 +277,15 @@ landscape:
         name: Security
         items:
           - item:
-            name: Xage Security
-            homepage_url: 'https://xage.com/'
-            logo: xage_security.svg
-            crunchbase: 'https://www.crunchbase.com/organization/xage-security'
-          - item:
             name: Aporeto
             homepage_url: 'https://www.aporeto.com/'
             logo: 'https://landscape.cncf.io/logos/aporeto-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/aporeto'
+          - item:
+            name: Xage Security
+            homepage_url: 'https://xage.com/'
+            logo: xage_security.svg
+            crunchbase: 'https://www.crunchbase.com/organization/xage-security'
   - category:
     name: Networking
     subcategories:
