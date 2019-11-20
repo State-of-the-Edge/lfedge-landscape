@@ -175,6 +175,13 @@ landscape:
         name: Provisioning
         items:
           - item:
+            name: Apache Mesos
+            homepage_url: 'https://mesos.apache.org/'
+            repo_url: 'https://github.com/apache/mesos'
+            logo: 'https://landscape.cncf.io/logos/apache-mesos.svg'
+            twitter: 'https://twitter.com/ApacheMesos'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
             name: Foreman
             homepage_url: 'https://theforeman.org/'
             repo_url: 'https://github.com/theforeman/foreman'
@@ -188,12 +195,6 @@ landscape:
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
           - item:
-            name: MAAS
-            homepage_url: 'https://maas.io/'
-            repo_url: 'https://github.com/maas/maas'
-            logo: 'https://landscape.cncf.io/logos/maas.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
-          - item:
             name: LinuxKit
             homepage_url: 'https://github.com/linuxkit/linuxkit'
             repo_url: 'https://github.com/linuxkit/linuxkit'
@@ -201,12 +202,11 @@ landscape:
             twitter: 'https://twitter.com/moby'
             crunchbase: 'https://www.crunchbase.com/organization/docker'
           - item:
-            name: Apache Mesos
-            homepage_url: 'https://mesos.apache.org/'
-            repo_url: 'https://github.com/apache/mesos'
-            logo: 'https://landscape.cncf.io/logos/apache-mesos.svg'
-            twitter: 'https://twitter.com/ApacheMesos'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            name: MAAS
+            homepage_url: 'https://maas.io/'
+            repo_url: 'https://github.com/maas/maas'
+            logo: 'https://landscape.cncf.io/logos/maas.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
       - subcategory:
         name: Virtualization
         items:
@@ -307,6 +307,18 @@ landscape:
         name: Networking
         items:
           - item:
+            name: Nuage Networks
+            homepage_url: 'https://www.nuagenetworks.net/'
+            logo: 'https://landscape.cncf.io/logos/nuage-networks.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/nuage-networks'
+          - item:
+            name: Project Calico
+            homepage_url: 'https://www.projectcalico.org/'
+            repo_url: 'https://github.com/projectcalico/calico'
+            logo: 'https://landscape.cncf.io/logos/project-calico.svg'
+            twitter: 'https://twitter.com/projectcalico'
+            crunchbase: 'https://www.crunchbase.com/organization/tigera'
+          - item:
             name: Riverbed
             homepage_url: 'https://www.riverbed.com/'
             stock_ticker: null
@@ -322,18 +334,6 @@ landscape:
             homepage_url: 'https://www.zte.com.cn/global/'
             logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
             crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
-            name: Project Calico
-            homepage_url: 'https://www.projectcalico.org/'
-            repo_url: 'https://github.com/projectcalico/calico'
-            logo: 'https://landscape.cncf.io/logos/project-calico.svg'
-            twitter: 'https://twitter.com/projectcalico'
-            crunchbase: 'https://www.crunchbase.com/organization/tigera'
-          - item:
-            name: Nuage Networks
-            homepage_url: 'https://www.nuagenetworks.net/'
-            logo: 'https://landscape.cncf.io/logos/nuage-networks.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/nuage-networks'
   - category:
     name: Hardware
     subcategories:
