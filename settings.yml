@@ -137,8 +137,8 @@ big_picture:
       - type: HorizontalCategory
         category: .ORG
         rows: 3
-        width: 350
-        height: 200
+        width: 450
+        height: 160
         top: 0
         left: 0
         color: 'rgb(78,171,207)'
@@ -146,27 +146,27 @@ big_picture:
       - type: HorizontalCategory
         category: Traffic Routing
         rows: 3
-        width: 545
-        height: 200
+        width: 245
+        height: 160
         top: 0
-        left: 370
+        left: 470
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
         category: Platforms
         rows: 3
-        width: 1260
-        height: 200
+        width: 1470
+        height: 160
         top: 0
-        left: 940
+        left: 730
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
         category: Security
         rows: 3
         width: 250
-        height: 160
-        top: 220
+        height: 200
+        top: 180
         left: 410
         color: 'rgb(74, 131, 104)'
         fit_width: true
@@ -174,8 +174,8 @@ big_picture:
         category: Networking
         rows: 3
         width: 250
-        height: 160
-        top: 220
+        height: 200
+        top: 180
         left: 670
         color: 'rgb(74, 131, 104)'
         fit_width: true
@@ -183,8 +183,8 @@ big_picture:
         category: Infrastructure
         rows: 3
         width: 880
-        height: 160
-        top: 220
+        height: 200
+        top: 180
         left: 930
         color: 'rgb(74, 131, 104)'
         fit_width: true
@@ -192,15 +192,15 @@ big_picture:
         category: Other Edge Related Software
         rows: 3
         width: 380
-        height: 160
-        top: 220
+        height: 200
+        top: 180
         left: 1820
         color: 'rgb(64, 131, 104)'
         fit_width: true
       - type: HorizontalCategory
         category: Hardware
         rows: 3
-        width: 260
+        width: 460
         height: 160
         top: 400
         left: 0
@@ -209,10 +209,10 @@ big_picture:
       - type: HorizontalCategory
         category: Edge OEMs
         rows: 3
-        width: 460
+        width: 260
         height: 160
         top: 400
-        left: 280
+        left: 470
         color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
@@ -221,7 +221,7 @@ big_picture:
         width: 460
         height: 160
         top: 400
-        left: 750
+        left: 740
         color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
@@ -253,21 +253,21 @@ big_picture:
         fit_width: true
       - type: LandscapeInfo
         width: 390
-        height: 160
-        top: 220
+        height: 200
+        top: 180
         left: 5
         children:
           - type: text
             text: >
               The intent is for the Landscape to be a living document that developers, investors, vendors, researchers and others can use as a resource on the
               landscape of edge computing.
-            top: 20
+            top: 35
             left: 100
-            right: 120
+            right: 140
             font_size: 10
           - type: image
             image: qr.svg
-            top: 15
+            top: 35
             left: 5
             width: 90
             height: 90
@@ -280,12 +280,12 @@ big_picture:
             image: left-logo.svg
             width: 110
             right: 5
-            top: 20
+            top: 40
           - type: image
             image: right-logo.svg
             width: 109
-            right: 5
-            top: 60
+            right: 10
+            top: 80
 test:
   header: LF Edge Interactive Landscape
   section: Stage 2 Growth
