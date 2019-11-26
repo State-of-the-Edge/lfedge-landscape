@@ -467,6 +467,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-22T09:36:26.000Z
+          - item:
+            name: Google Cloud CDN
+            homepage_url: 'https://cloud.google.com/cdn/'
+            logo: 'https://landscape.cncf.io/logos/google-cloud-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that specializes in Internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
+              ticker: GOOG
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 905573236736
+              effective_ticker: GOOG
+            image_data:
+              fileName: google-cloud-cdn.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-26T21:45:34.000Z
       - subcategory:
         name: Edge PaaS
         items:
