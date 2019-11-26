@@ -1961,6 +1961,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-21T01:37:43.000Z
+          - item:
+            name: Pluribus Networks
+            homepage_url: 'https://www.pluribusnetworks.com'
+            logo: pluribus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pluribus-networks'
+            crunchbase_data:
+              name: Pluribus Networks
+              description: Pluribus Networks is a leader in open networking and next generation software defined networking (SDN)
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://pluribusnetworks.com'
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/pluribusnet'
+              linkedin: 'https://www.linkedin.com/company/pluribus-networks'
+              parents: []
+              kind: funding
+              funding: 116000000
+            image_data:
+              fileName: pluribus-networks.svg
+              hash: z8dyBfoUy8MNy0LNOfI7xjrxU0RJ455JhOAM5/TXnHk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-25T20:01:37.000Z
   - category:
     name: Hardware
     subcategories:
@@ -2053,6 +2080,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-26T20:02:03.000Z
+          - item:
+            name: NXP
+            homepage_url: 'https://www.nxp.com/'
+            logo: nxp.svg
+            crunchbase: 'https://www.crunchbase.com/organization/nxp-semiconductors'
+            crunchbase_data:
+              name: NXP Semiconductors
+              description: NXP Semiconductors produces secure connectivity solutions for embedded applications
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.nxp.com'
+              city: Eindhoven
+              region: Noord-Brabant
+              country: The Netherlands
+              twitter: 'http://twitter.com/NXP'
+              linkedin: 'https://www.linkedin.com/company/nxp-semiconductors'
+              parents: []
+              ticker: NXPI
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 32601233408
+              effective_ticker: NXPI
+            image_data:
+              fileName: nxp.svg
+              hash: yHSbdiClMV43KiGlJQ/w+C1wp13W6OXtvtDR/9jyQyY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-11-26T18:01:51.000Z
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
         items:
@@ -2116,6 +2173,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-26T04:47:16.000Z
+          - item:
+            name: Netronome Systems
+            homepage_url: 'https://www.netronome.com/'
+            logo: netronome.svg
+            crunchbase: 'https://www.crunchbase.com/organization/netronome-systems'
+            crunchbase_data:
+              name: Netronome Systems
+              description: Netronome develops highly programmable semiconductor products used for intelligent flow processing in network and communications devices.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.netronome.com'
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/Netronome'
+              linkedin: 'https://www.linkedin.com/company/netronome'
+              parents: []
+              kind: funding
+              funding: 73197633
+            image_data:
+              fileName: netronome-systems.svg
+              hash: nuYzWDaeb92NQbZeNduC6mPtimTyqWlk8aLN945g3AQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-27T19:02:07.000Z
   - category:
     name: Edge OEMs
     subcategories:
@@ -4076,7 +4160,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-11-25T19:09:11.000Z
           - item:
-            name: Pluribus Networks
+            name: Pluribus Networks (member)
             homepage_url: 'https://www.pluribusnetworks.com/'
             logo: pluribus.svg
             crunchbase: 'https://www.crunchbase.com/organization/pluribus-networks'
@@ -4095,7 +4179,7 @@ landscape:
               kind: funding
               funding: 116000000
             image_data:
-              fileName: pluribus-networks.svg
+              fileName: pluribus-networks-member.svg
               hash: z8dyBfoUy8MNy0LNOfI7xjrxU0RJ455JhOAM5/TXnHk=
             best_practice_data:
               badge: false
