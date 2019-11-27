@@ -96,6 +96,11 @@ landscape:
             twitter: 'https://twitter.com/Cloudflare'
             crunchbase: 'https://www.crunchbase.com/organization/cloudflare'
           - item:
+            name: Google Cloud CDN
+            homepage_url: 'https://cloud.google.com/cdn/'
+            logo: 'https://landscape.cncf.io/logos/google-cloud-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: Limelight Networks
             homepage_url: 'https://www.limelight.com'
             logo: limelight.svg
@@ -106,11 +111,6 @@ landscape:
             logo: stackpath.svg
             twitter: 'https://twitter.com/StackPath'
             crunchbase: 'https://www.crunchbase.com/organization/stackpath'
-          - item:
-            name: Google Cloud CDN
-            homepage_url: 'https://cloud.google.com/cdn/'
-            logo: 'https://landscape.cncf.io/logos/google-cloud-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: Edge PaaS
         items:
@@ -192,6 +192,11 @@ landscape:
             twitter: 'https://twitter.com/ApacheMesos'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Dianomic System Inc
+            homepage_url: 'https://dianomic.com'
+            logo: dianomic.svg
+            crunchbase: 'https://www.crunchbase.com/organization/dianomic'
+          - item:
             name: Foreman
             homepage_url: 'https://theforeman.org/'
             repo_url: 'https://github.com/theforeman/foreman'
@@ -217,11 +222,6 @@ landscape:
             repo_url: 'https://github.com/maas/maas'
             logo: 'https://landscape.cncf.io/logos/maas.svg'
             crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
-          - item:
-            name: Dianomic System Inc
-            homepage_url: 'https://dianomic.com'
-            logo: dianomic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dianomic'
       - subcategory:
         name: Virtualization
         items:
@@ -327,6 +327,11 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/nuage-networks.svg'
             crunchbase: 'https://www.crunchbase.com/organization/nuage-networks'
           - item:
+            name: Pluribus Networks
+            homepage_url: 'https://www.pluribusnetworks.com'
+            logo: pluribus.svg
+            crunchbase: 'https://www.crunchbase.com/organization/pluribus-networks'
+          - item:
             name: Project Calico
             homepage_url: 'https://www.projectcalico.org/'
             repo_url: 'https://github.com/projectcalico/calico'
@@ -349,11 +354,6 @@ landscape:
             homepage_url: 'https://www.zte.com.cn/global/'
             logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
             crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
-            name: Pluribus Networks
-            homepage_url: 'https://www.pluribusnetworks.com'
-            logo: pluribus.svg
-            crunchbase: 'https://www.crunchbase.com/organization/pluribus-networks'
   - category:
     name: Hardware
     subcategories:
@@ -372,18 +372,23 @@ landscape:
             logo: intel.svg
             crunchbase: 'https://www.crunchbase.com/organization/intel'
           - item:
-            name: RISC-V
-            homepage_url: 'https://riscv.org/'
-            logo: RISCV.svg
-            crunchbase: 'https://www.crunchbase.com/organization/risc-v'
-          - item:
             name: NXP
             homepage_url: 'https://www.nxp.com/'
             logo: nxp.svg
             crunchbase: 'https://www.crunchbase.com/organization/nxp-semiconductors'
+          - item:
+            name: RISC-V
+            homepage_url: 'https://riscv.org/'
+            logo: RISCV.svg
+            crunchbase: 'https://www.crunchbase.com/organization/risc-v'
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
         items:
+          - item:
+            name: Netronome Systems
+            homepage_url: 'https://www.netronome.com/'
+            logo: netronome.svg
+            crunchbase: 'https://www.crunchbase.com/organization/netronome-systems'
           - item:
             name: Nvidia
             homepage_url: 'https://www.nvidia.com/en-us/'
@@ -394,11 +399,6 @@ landscape:
             homepage_url: 'https://www.xilinx.com'
             logo: xilinx.svg
             crunchbase: 'https://www.crunchbase.com/organization/xilinx'
-          - item:
-            name: Netronome Systems
-            homepage_url: 'https://www.netronome.com/'
-            logo: netronome.svg
-            crunchbase: 'https://www.crunchbase.com/organization/netronome-systems'
   - category:
     name: Edge OEMs
     subcategories:
@@ -477,10 +477,26 @@ landscape:
             twitter: 'https://twitter.com/LF_Edge'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
           - item:
+            name: Inspur Group
+            homepage_url: 'http://en.inspur.com'
+            logo: 'https://landscape.cncf.io/logos/inspur-member.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/inspur-group'
+          - item:
+            name: Lenovo
+            homepage_url: 'https://www.lenovo.com/us/en/'
+            stock_ticker: null
+            logo: lenovo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lenovo'
+          - item:
             name: Portworx
             homepage_url: 'https://portworx.com/'
             logo: 'https://landscape.cncf.io/logos/portworx.svg'
             crunchbase: 'https://www.crunchbase.com/organization/portworx'
+          - item:
+            name: QCT
+            homepage_url: 'https://qct.io/'
+            logo: qct.svg
+            crunchbase: 'https://www.crunchbase.com/organization/qct'
           - item:
             name: StorageOS
             homepage_url: 'https://storageos.com/'
@@ -512,22 +528,6 @@ landscape:
             homepage_url: 'https://www.ztsystems.com'
             logo: zt-systems.svg
             crunchbase: 'https://www.crunchbase.com/organization/zt-systems'
-          - item:
-            name: QCT
-            homepage_url: 'https://qct.io/'
-            logo: qct.svg
-            crunchbase: 'https://www.crunchbase.com/organization/qct'
-          - item:
-            name: Lenovo
-            homepage_url: 'https://www.lenovo.com/us/en/'
-            logo: lenovo.svg
-            stock_ticker: null
-            crunchbase: 'https://www.crunchbase.com/organization/lenovo'
-          - item:
-            name: Inspur Group
-            homepage_url: 'http://en.inspur.com'
-            logo: 'https://landscape.cncf.io/logos/inspur-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/inspur-group'
   - category:
     name: LF Edge Member Company
     subcategories:
