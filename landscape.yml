@@ -165,10 +165,18 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/wilderness-labs'
           - item:
             name: Fledge
+            project: growth
             homepage_url: 'https://www.lfedge.org/projects/fledge'
             repo_url: 'https://github.com/fledge-iot/fledge'
             logo: fledge.svg
             crunchbase: 'https://www.crunchbase.com/organization/fledge-0f11'
+          - item:
+            name: Baetyl
+            homepage_url: 'https://github.com/baetyl/baetyl'
+            project: at_large
+            repo_url: 'https://github.com/baetyl/baetyl'
+            logo: 'https://github.com/lf-edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/baetyl'
       - subcategory:
         name: Decentralized
         items:
@@ -976,4 +984,4 @@ landscape:
             homepage_url: 'https://www.iiconsortium.org/'
             logo: iic-liaison.svg
             crunchbase: 'https://www.crunchbase.com/organization/industrial-internet-consortium-2'
-            
+
