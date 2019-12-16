@@ -1,3 +1,4 @@
+# THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
     name: .ORG
@@ -808,6 +809,123 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-12-14T02:26:59.000Z
+          - item:
+            name: Fledge
+            project: growth
+            homepage_url: 'https://www.lfedge.org/projects/fledge'
+            repo_url: 'https://github.com/fledge-iot/fledge'
+            logo: fledge.svg
+            crunchbase: 'https://www.crunchbase.com/organization/fledge-0f11'
+            crunchbase_data:
+              name: Fledge
+              description: 'Fledge - a Linux Foundation IIoT project connecting all machine data to any destination(s), enabling advanced sensor to cloud applications.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.lfedge.org/projects/fledge'
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: Python
+                  value: 2715155
+                  color: '#3572A5'
+                - name: C++
+                  value: 2485936
+                  color: '#f34b7d'
+                - name: Shell
+                  value: 203637
+                  color: '#89e051'
+                - name: CMake
+                  value: 55249
+                - name: TSQL
+                  value: 41446
+                - name: Makefile
+                  value: 20667
+                  color: '#427819'
+                - name: C
+                  value: 2078
+                  color: '#555555'
+              contributions: >-
+                75;26;13;64;57;43;71;86;37;67;28;78;31;68;45;59;45;40;46;21;40;43;36;25;14;29;44;28;23;10;29;22;30;15;18;30;19;59;33;2;33;28;16;38;36;4;30;15;18;5;0;1
+              firstWeek: 2018-12-23Z
+              stars: 1
+              license: Apache License 2.0
+              description: null
+              latest_commit_date: '2019-12-11T16:02:18Z'
+              latest_commit_link: /fledge-iot/fledge/commit/32c2d879f9dd80c60dcd2133d60dcdca29976388
+              contributors_count: 27
+              contributors_link: 'https://github.com/fledge-iot/fledge/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /fledge-iot/fledge/commit/b75c8c7efc77c581f4a8bf565226893c19d25ae8
+              start_date: '2017-04-20T16:35:28Z'
+            image_data:
+              fileName: fledge.svg
+              hash: zQMpCY7mu25jc+opd+Rm5e7qF07+2Cl5vMEMa0z+jrM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Baetyl
+            homepage_url: 'https://github.com/baetyl/baetyl'
+            project: at_large
+            repo_url: 'https://github.com/baetyl/baetyl'
+            logo: 'https://github.com/lf-edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/baetyl'
+            crunchbase_data:
+              name: Baetyl
+              description: 'Open edge computing framework of Linux Foundation Edge that extends cloud computing, data and service seamlessly to edge devices'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Shanghai
+              region: Shanghai
+              country: China
+              twitter: null
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 570899
+                  color: '#00ADD8'
+                - name: Python
+                  value: 40605
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 23689
+                  color: '#427819'
+                - name: JavaScript
+                  value: 23285
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 7877
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 2903
+                  color: '#384d54'
+              contributions: 15;57;27;34;14;8;5;9;36;20;6;4;11;8;13;27;8;4;9;1;22;4;0;3;4;5;8;4;8;2;13;9;7;7;4;9;12;7;18;46;11;1;16;6;6;10;1;2;5;1;0;1
+              firstWeek: 2018-12-23Z
+              stars: 1228
+              license: Apache License 2.0
+              description: 'Extend cloud computing, data and service seamlessly to edge devices.'
+              latest_commit_date: '2019-12-11T13:30:35Z'
+              latest_commit_link: /baetyl/baetyl/commit/372604a3f356b5c3deb930730acbf36626883b86
+              release_date: '2019-10-31T10:21:48Z'
+              release_link: 'https://github.com/baetyl/baetyl/releases'
+              contributors_count: 16
+              contributors_link: 'https://github.com/baetyl/baetyl/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /baetyl/baetyl/commit/2d56b5c58ef5cf923bd8e441c1e7b9c2924c4324
+              start_date: '2018-09-11T09:31:23Z'
+            image_data:
+              fileName: baetyl.svg
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Decentralized
         items:
@@ -4138,6 +4256,29 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-12-13T08:05:00.000Z
+          - item:
+            name: High Peak Data
+            homepage_url: 'https://highpeakdata.com/'
+            logo: highpeakdata.svg
+            crunchbase: 'https://www.crunchbase.com/organization/high-peak-data'
+            crunchbase_data:
+              name: High Peak Data
+              description: Innovative and secure decentralized data fabric software for Edge/IoT Computing!
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://highpeakdata.com/'
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/high-peak-data'
+              parents: []
+            image_data:
+              fileName: high-peak-data.svg
+              hash: vkDM+mvM2BrPmN7luqm14u9/Eym08kzBemWR0vzyZY8=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: IOTech
             homepage_url: 'http://www.iotechsys.com/'
