@@ -145,6 +145,13 @@ landscape:
         name: IoT Focused
         items:
           - item:
+            name: Baetyl
+            homepage_url: 'https://github.com/baetyl/baetyl'
+            project: at_large
+            repo_url: 'https://github.com/baetyl/baetyl'
+            logo: 'https://github.com/lf-edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/baetyl'
+          - item:
             name: EdgeX Foundry
             homepage_url: 'https://www.edgexfoundry.org/'
             project: impact
@@ -152,6 +159,13 @@ landscape:
             logo: edgex-foundry.svg
             twitter: 'https://twitter.com/edgexfoundry'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+          - item:
+            name: Fledge
+            homepage_url: 'https://www.lfedge.org/projects/fledge'
+            project: growth
+            repo_url: 'https://github.com/fledge-iot/fledge'
+            logo: fledge.svg
+            crunchbase: 'https://www.crunchbase.com/organization/fledge-0f11'
           - item:
             name: IBM Watson IoT
             homepage_url: 'https://www.ibm.com/cloud/watson-iot-platform'
@@ -163,20 +177,6 @@ landscape:
             repo_url: 'https://github.com/WildernessLabs/Meadow.Foundation'
             logo: 'https://www.wildernesslabs.co/assets/svg/logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/wilderness-labs'
-          - item:
-            name: Fledge
-            project: growth
-            homepage_url: 'https://www.lfedge.org/projects/fledge'
-            repo_url: 'https://github.com/fledge-iot/fledge'
-            logo: fledge.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fledge-0f11'
-          - item:
-            name: Baetyl
-            homepage_url: 'https://github.com/baetyl/baetyl'
-            project: at_large
-            repo_url: 'https://github.com/baetyl/baetyl'
-            logo: 'https://github.com/lf-edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/baetyl'
       - subcategory:
         name: Decentralized
         items:
