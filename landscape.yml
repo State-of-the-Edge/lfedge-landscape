@@ -487,7 +487,12 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
       - subcategory:
         name: Towers
-        items: []
+        items:
+          - item:
+            name: Vertical Bridge
+            homepage_url: 'https://www.verticalbridge.com/'
+            logo: vertical-bridge.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vertical-bridge-holdings'
       - subcategory:
         name: Municipal Right of Way (Easements)
         items: []
