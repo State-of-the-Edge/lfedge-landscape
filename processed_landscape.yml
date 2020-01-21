@@ -2511,7 +2511,7 @@ landscape:
     name: Edge OEMs
     subcategories:
       - subcategory:
-        name: Fiber & Peering (PoE)
+        name: Edge OEMs
         items:
           - item:
             name: Zayo
@@ -2544,6 +2544,30 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-01-16T18:57:17.000Z
+          - item:
+            name: Vertiv
+            homepage_url: 'https://www.vertiv.com/en-us/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Vertiv_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/vertiv'
+            crunchbase_data:
+              name: Vertiv
+              description: 'Vertiv designs, builds and services critical infrastructure that enables vital applications for data centers, communication networks.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.Vertiv.com'
+              city: Columbus
+              region: Ohio
+              country: United States
+              twitter: 'https://twitter.com/VertivCo_HQ'
+              linkedin: 'https://www.linkedin.com/company/Vertiv/'
+              parents: []
+            image_data:
+              fileName: vertiv.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-02-20T15:21:54.000Z
   - category:
     name: Wireless & Wireline
     subcategories:
