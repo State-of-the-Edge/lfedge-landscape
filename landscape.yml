@@ -53,6 +53,12 @@ landscape:
         name: Traffic Routing
         items:
           - item:
+            name: VyOS
+            homepage_url: 'https://vyos.io/'
+            repo_url: 'https://github.com/vyos/vyos-build'
+            logo: vyos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vyos'
+          - item:
             name: NS1
             homepage_url: 'https://my.nsone.net'
             logo: ns1.svg
@@ -537,12 +543,6 @@ landscape:
             homepage_url: 'https://storageos.com/'
             logo: 'https://landscape.cncf.io/logos/storage-os-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/storageos'
-          - item:
-            name: VyOS
-            homepage_url: 'https://vyos.io/'
-            repo_url: 'https://github.com/vyos/vyos-build'
-            logo: vyos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vyos'
           - item:
             name: Wiwynn
             homepage_url: 'http://www.wiwynn.com/'

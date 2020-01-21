@@ -211,6 +211,61 @@ landscape:
         name: Traffic Routing
         items:
           - item:
+            name: VyOS
+            homepage_url: 'https://vyos.io/'
+            repo_url: 'https://github.com/vyos/vyos-build'
+            logo: vyos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vyos'
+            crunchbase_data:
+              name: VyOS
+              description: 'VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://vyos.io/'
+              city: Barcelona
+              region: Catalonia
+              country: Spain
+              twitter: 'https://twitter.com/vyos_dev'
+              linkedin: 'https://linkedin.com/company/vyos'
+              parents: []
+            github_data:
+              languages:
+                - name: Shell
+                  value: 63041
+                  color: '#89e051'
+                - name: Python
+                  value: 62030
+                  color: '#3572A5'
+                - name: Dockerfile
+                  value: 26655
+                  color: '#384d54'
+                - name: Makefile
+                  value: 7754
+                  color: '#427819'
+                - name: Ruby
+                  value: 410
+                  color: '#701516'
+              contributions: 31;14;2;2;2;4;2;1;4;22;4;6;10;26;28;8;1;7;9;1;2;11;2;3;1;7;2;3;3;7;2;0;3;12;10;8;10;7;3;3;1;13;4;2;13;4;6;11;31;7;3;1
+              firstWeek: 2019-01-27Z
+              stars: 246
+              license: GNU General Public License v2.0
+              description: Top level build scripts for VyOS > 1.2.0
+              latest_commit_date: '2020-01-19T17:50:27Z'
+              latest_commit_link: /vyos/vyos-build/commit/0b67e14b62fee0d4ab3d2d621828000701758767
+              contributors_count: 22
+              contributors_link: 'https://github.com/vyos/vyos-build/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /vyos/vyos-build/commit/8e71eae3a2323aacd12e4a484dfd3773c9d7cf03
+              start_date: '2015-12-16T21:02:03Z'
+            image_data:
+              fileName: vy-os.svg
+              hash: CQzi8Pgp8NLOXJLsK1fqMKdaXGoMomyJgdMwiHYKKWQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-01-15T17:39:19.000Z
+          - item:
             name: NS1
             homepage_url: 'https://my.nsone.net'
             logo: ns1.svg
@@ -2888,61 +2943,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-01-15T16:10:36.000Z
-          - item:
-            name: VyOS
-            homepage_url: 'https://vyos.io/'
-            repo_url: 'https://github.com/vyos/vyos-build'
-            logo: vyos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vyos'
-            crunchbase_data:
-              name: VyOS
-              description: 'VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://vyos.io/'
-              city: Barcelona
-              region: Catalonia
-              country: Spain
-              twitter: 'https://twitter.com/vyos_dev'
-              linkedin: 'https://linkedin.com/company/vyos'
-              parents: []
-            github_data:
-              languages:
-                - name: Shell
-                  value: 63041
-                  color: '#89e051'
-                - name: Python
-                  value: 62030
-                  color: '#3572A5'
-                - name: Dockerfile
-                  value: 26655
-                  color: '#384d54'
-                - name: Makefile
-                  value: 7754
-                  color: '#427819'
-                - name: Ruby
-                  value: 410
-                  color: '#701516'
-              contributions: 31;14;2;2;2;4;2;1;4;22;4;6;10;26;28;8;1;7;9;1;2;11;2;3;1;7;2;3;3;7;2;0;3;12;10;8;10;7;3;3;1;13;4;2;13;4;6;11;31;7;3;1
-              firstWeek: 2019-01-27Z
-              stars: 246
-              license: GNU General Public License v2.0
-              description: Top level build scripts for VyOS > 1.2.0
-              latest_commit_date: '2020-01-19T17:50:27Z'
-              latest_commit_link: /vyos/vyos-build/commit/0b67e14b62fee0d4ab3d2d621828000701758767
-              contributors_count: 22
-              contributors_link: 'https://github.com/vyos/vyos-build/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /vyos/vyos-build/commit/8e71eae3a2323aacd12e4a484dfd3773c9d7cf03
-              start_date: '2015-12-16T21:02:03Z'
-            image_data:
-              fileName: vy-os.svg
-              hash: CQzi8Pgp8NLOXJLsK1fqMKdaXGoMomyJgdMwiHYKKWQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-01-15T17:39:19.000Z
           - item:
             name: Wiwynn
             homepage_url: 'http://www.wiwynn.com/'
