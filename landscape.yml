@@ -53,17 +53,17 @@ landscape:
         name: Traffic Routing
         items:
           - item:
-            name: VyOS
-            homepage_url: 'https://vyos.io/'
-            repo_url: 'https://github.com/vyos/vyos-build'
-            logo: vyos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vyos'
-          - item:
             name: NS1
             homepage_url: 'https://my.nsone.net'
             logo: ns1.svg
             twitter: 'https://twitter.com/NS1'
             crunchbase: 'https://www.crunchbase.com/organization/ns1'
+          - item:
+            name: VyOS
+            homepage_url: 'https://vyos.io/'
+            repo_url: 'https://github.com/vyos/vyos-build'
+            logo: vyos.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vyos'
   - category:
     name: Platforms
     subcategories:
@@ -437,16 +437,16 @@ landscape:
         name: Edge OEMs
         items:
           - item:
+            name: Vertiv
+            homepage_url: 'https://www.vertiv.com/en-us/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Vertiv_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/vertiv'
+          - item:
             name: Zayo
             homepage_url: 'https://www.zayo.com/'
             logo: zayo.svg
             twitter: 'https://twitter.com/ZayoGroup'
             crunchbase: 'https://www.crunchbase.com/organization/zayo-group'
-          - item:
-            name: Vertiv
-            homepage_url: 'https://www.vertiv.com/en-us/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Vertiv_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vertiv'
   - category:
     name: Wireless & Wireline
     subcategories:
