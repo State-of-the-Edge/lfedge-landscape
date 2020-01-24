@@ -2709,7 +2709,32 @@ landscape:
               latest_tweet_date: 2020-01-24T02:23:00.000Z
       - subcategory:
         name: Towers
-        items: []
+        items:
+          - item:
+            name: Vertical Bridge
+            homepage_url: 'https://www.verticalbridge.com/'
+            logo: vertical-bridge.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vertical-bridge-holdings'
+            crunchbase_data:
+              name: Vertical Bridge Holdings
+              description: Vertical Bridge (VB) is a private owner and manager of wireless communication infrastructure in the United States.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.verticalbridge.com/'
+              city: Boca Raton
+              region: Florida
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/vertical-bridge'
+              parents: []
+              kind: funding
+              funding: 500000000
+            image_data:
+              fileName: vertical-bridge.svg
+              hash: WuLDTFf2Mhb4M27VMXEp8e4DU408ojdzkdXgZqD+JRo=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Municipal Right of Way (Easements)
         items: []
