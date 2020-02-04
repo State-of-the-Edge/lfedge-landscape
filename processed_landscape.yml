@@ -2676,7 +2676,38 @@ landscape:
     subcategories:
       - subcategory:
         name: Traditional
-        items: []
+        items:
+          - item:
+            name: Telxius
+            homepage_url: 'https://telxius.com/'
+            logo: telxius.svg
+            crunchbase: 'https://www.crunchbase.com/organization/telxius'
+            crunchbase_data:
+              name: Telxius
+              description: Telxius is a telecom infrastructure service provider in Europe and the Americas
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'https://telxius.com'
+              city: Madrid
+              region: Madrid
+              country: Spain
+              twitter: 'https://twitter.com/telxius'
+              linkedin: 'https://www.linkedin.com/company/telxius'
+              parents:
+                - 'https://www.crunchbase.com/organization/telefonica'
+              ticker: TEF
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 34937278464
+              effective_ticker: TEF
+            image_data:
+              fileName: telxius.svg
+              hash: MWrUsSppYRDahF/s3CwBxLwfwS8xlMjfSmkhmTnaaRI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-01-24T08:48:36.000Z
       - subcategory:
         name: Non Traditional
         items:

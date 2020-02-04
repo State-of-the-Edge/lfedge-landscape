@@ -476,7 +476,12 @@ landscape:
     subcategories:
       - subcategory:
         name: Traditional
-        items: []
+        items:
+          - item:
+            name: Telxius
+            homepage_url: 'https://telxius.com/'
+            logo: telxius.svg
+            crunchbase: 'https://www.crunchbase.com/organization/telxius'
       - subcategory:
         name: Non Traditional
         items:
