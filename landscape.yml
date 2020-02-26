@@ -398,6 +398,11 @@ landscape:
             twitter: 'https://twitter.com/AMD'
             crunchbase: 'https://www.crunchbase.com/organization/amd'
           - item:
+            name: ASRock Rack
+            homepage_url: 'https://www.asrockrack.com/'
+            logo: 'https://www.hpc-ags.com/modules/common/images/logo_ags_asrockrack.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/asrock-rack'
+          - item:
             name: Intel
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
             logo: intel.svg
@@ -412,14 +417,14 @@ landscape:
             homepage_url: 'https://riscv.org/'
             logo: RISCV.svg
             crunchbase: 'https://www.crunchbase.com/organization/risc-v'
-          - item:
-            name: ASRock Rack
-            homepage_url: 'https://www.asrockrack.com/'
-            logo: 'https://www.hpc-ags.com/modules/common/images/logo_ags_asrockrack.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/asrock-rack'
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
         items:
+          - item:
+            name: Graphcore
+            homepage_url: 'https://www.graphcore.ai/'
+            logo: 'https://en.wikichip.org/w/images/e/ed/graphcore_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/graphcore'
           - item:
             name: Netronome Systems
             homepage_url: 'https://www.netronome.com/'
@@ -435,11 +440,6 @@ landscape:
             homepage_url: 'https://www.xilinx.com'
             logo: xilinx.svg
             crunchbase: 'https://www.crunchbase.com/organization/xilinx'
-          - item:
-            name: Graphcore
-            homepage_url: 'https://www.graphcore.ai/'
-            logo: 'https://en.wikichip.org/w/images/e/ed/graphcore_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/graphcore'
   - category:
     name: Edge OEMs
     subcategories:
