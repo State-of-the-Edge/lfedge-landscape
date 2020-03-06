@@ -247,6 +247,13 @@ landscape:
             repo_url: 'https://github.com/maas/maas'
             logo: 'https://landscape.cncf.io/logos/maas.svg'
             crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
+          - item:
+            name: Digital Rebar
+            homepage_url: 'https://rebar.digital'
+            repo_url: 'https://github.com/digitalrebar/provision'
+            logo: 'https://landscape.cncf.io/logos/digital-rebar.svg'
+            twitter: 'https://twitter.com/digitalrebar'
+            crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
       - subcategory:
         name: Virtualization
         items:
@@ -319,17 +326,15 @@ landscape:
         name: Physical
         items:
           - item:
-            name: Digital Rebar
-            homepage_url: 'https://rebar.digital'
-            repo_url: 'https://github.com/digitalrebar/provision'
-            logo: 'https://landscape.cncf.io/logos/digital-rebar.svg'
-            twitter: 'https://twitter.com/digitalrebar'
-            crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
-          - item:
             name: Project Volutus
-            homepage_url: www.vapor.io
+            homepage_url: 'https://www.vapor.io'
             logo: volutus.svg
             crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
+          - item:
+            name: Tripp Lite
+            homepage_url: 'https://www.tripplite.com'
+            logo: tripplite.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tripp-lite'
   - category:
     name: Security
     subcategories:
