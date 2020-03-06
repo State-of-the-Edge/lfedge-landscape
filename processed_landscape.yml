@@ -2736,6 +2736,67 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-05T21:35:00.000Z
+          - item:
+            name: Digital Rebar
+            homepage_url: 'https://rebar.digital'
+            repo_url: 'https://github.com/digitalrebar/provision'
+            logo: 'https://landscape.cncf.io/logos/digital-rebar.svg'
+            twitter: 'https://twitter.com/digitalrebar'
+            crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
+            crunchbase_data:
+              name: RackN
+              description: RackN provides self-manged physical layer data center automation
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.rackn.com'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: 'https://www.twitter.com/rackngo'
+              linkedin: 'https://www.linkedin.com/company/rackn/'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 800000
+            github_data:
+              languages:
+                - name: Go
+                  value: 616671
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 61398
+                  color: '#89e051'
+                - name: Python
+                  value: 30699
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 8296
+                  color: '#427819'
+                - name: HTML
+                  value: 1286
+                  color: '#e34c26'
+                - name: Dockerfile
+                  value: 1280
+                  color: '#384d54'
+              contributions: 11;22;9;22;5;10;10;9;15;5;5;5;20;11;16;29;7;10;14;6;11;57;53;13;31;6;4;10;16;7;1;5;8;7;1;9;9;19;8;6;8;8;5;8;7;0;14;21;6;9;6;5
+              firstWeek: 2019-03-10Z
+              stars: 86
+              license: Other
+              description: API bindings and clients supporting RackN Digital Rebar data center provisioning and workflow system.
+              latest_commit_date: '2020-03-03T18:14:12Z'
+              latest_commit_link: /digitalrebar/provision/commit/ecc159d906206660f55cdac6a8704e1f47a7efb1
+              contributors_count: 21
+              contributors_link: 'https://github.com/digitalrebar/provision/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /digitalrebar/provision/commit/317f954bdb794c8754aff69659c830220a71d9fe
+              start_date: '2017-02-08T15:46:53Z'
+            image_data:
+              fileName: digital-rebar.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-02-26T15:27:12.000Z
       - subcategory:
         name: Virtualization
         items:
@@ -3668,69 +3729,8 @@ landscape:
         name: Physical
         items:
           - item:
-            name: Digital Rebar
-            homepage_url: 'https://rebar.digital'
-            repo_url: 'https://github.com/digitalrebar/provision'
-            logo: 'https://landscape.cncf.io/logos/digital-rebar.svg'
-            twitter: 'https://twitter.com/digitalrebar'
-            crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
-            crunchbase_data:
-              name: RackN
-              description: RackN provides self-manged physical layer data center automation
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.rackn.com'
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: 'https://www.twitter.com/rackngo'
-              linkedin: 'https://www.linkedin.com/company/rackn/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 800000
-            github_data:
-              languages:
-                - name: Go
-                  value: 616671
-                  color: '#00ADD8'
-                - name: Shell
-                  value: 61398
-                  color: '#89e051'
-                - name: Python
-                  value: 30699
-                  color: '#3572A5'
-                - name: Makefile
-                  value: 8296
-                  color: '#427819'
-                - name: HTML
-                  value: 1286
-                  color: '#e34c26'
-                - name: Dockerfile
-                  value: 1280
-                  color: '#384d54'
-              contributions: 11;22;9;22;5;10;10;9;15;5;5;5;20;11;16;29;7;10;14;6;11;57;53;13;31;6;4;10;16;7;1;5;8;7;1;9;9;19;8;6;8;8;5;8;7;0;14;21;6;9;6;5
-              firstWeek: 2019-03-10Z
-              stars: 86
-              license: Other
-              description: API bindings and clients supporting RackN Digital Rebar data center provisioning and workflow system.
-              latest_commit_date: '2020-03-03T18:14:12Z'
-              latest_commit_link: /digitalrebar/provision/commit/ecc159d906206660f55cdac6a8704e1f47a7efb1
-              contributors_count: 21
-              contributors_link: 'https://github.com/digitalrebar/provision/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /digitalrebar/provision/commit/317f954bdb794c8754aff69659c830220a71d9fe
-              start_date: '2017-02-08T15:46:53Z'
-            image_data:
-              fileName: digital-rebar.svg
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-02-26T15:27:12.000Z
-          - item:
             name: Project Volutus
-            homepage_url: www.vapor.io
+            homepage_url: 'https://www.vapor.io'
             logo: volutus.svg
             crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
             crunchbase_data:
@@ -3756,6 +3756,31 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-06T02:23:02.000Z
+          - item:
+            name: Tripp Lite
+            homepage_url: 'https://www.tripplite.com'
+            logo: tripplite.svg
+            crunchbase: 'https://www.crunchbase.com/organization/tripp-lite'
+            crunchbase_data:
+              name: Tripp Lite
+              description: 'Tripp Lite develops power protection and connectivity solutions for home-based applications, SMBs, data centers, and more.'
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://www.tripplite.com'
+              city: Chicago
+              region: Illinois
+              country: United States
+              twitter: 'http://twitter.com/TrippLite'
+              linkedin: 'https://www.linkedin.com/company/tripp-lite'
+              parents: []
+            image_data:
+              fileName: tripp-lite.svg
+              hash: 6tv1+jq3l5MixG0IKm+kF/7OOZGAvE2gmdQ7idh2zlA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-02-26T16:46:22.000Z
   - category:
     name: Security
     subcategories:
