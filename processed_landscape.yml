@@ -2560,6 +2560,62 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: KubeOne
+            homepage_url: 'https://kubeone.io'
+            repo_url: 'https://github.com/kubermatic/kubeone'
+            logo: 'https://github.com/cncf/landscape/blob/master/hosted_logos/kubeone.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/loodse-gmbh'
+            crunchbase_data:
+              name: Loodse
+              description: Loodse develops software that makes it easy to deploy and manage multiple container clusters in any organization.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://loodse.com/en/'
+              city: Hamburg
+              region: Hamburg
+              country: Germany
+              twitter: 'https://www.twitter.com/loodse'
+              linkedin: 'https://www.linkedin.com/company/loodse/'
+              parents: []
+            github_data:
+              languages:
+                - name: Go
+                  value: 737788
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 13697
+                  color: '#89e051'
+                - name: Python
+                  value: 10392
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 2249
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 1808
+                  color: '#384d54'
+              contributions: 7;14;10;9;1;6;3;9;13;10;20;6;6;5;6;1;1;9;5;4;1;9;12;1;4;9;3;8;3;1;0;6;4;4;4;1;0;1;2;0;0;1;6;5;6;1;8;1;4;3;7;3
+              firstWeek: 2019-04-28Z
+              stars: 487
+              license: Apache License 2.0
+              description: A lifecycle management tool for Highly-Available Kubernetes clusters
+              latest_commit_date: '2020-04-16T23:01:51Z'
+              latest_commit_link: /kubermatic/kubeone/commit/943928d29810b2551c120e1dd55e26351a2edc0c
+              release_date: '2020-04-08T09:34:24Z'
+              release_link: 'https://github.com/kubermatic/kubeone/releases'
+              contributors_count: 27
+              contributors_link: 'https://github.com/kubermatic/kubeone/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /kubermatic/kubeone/commit/fb502df476b05bdc0bd8523b9ad09ebd08f04980
+              start_date: '2018-11-03T10:59:34Z'
+            image_data:
+              fileName: kube-one.svg
+            best_practice_data:
+              badge: 2934
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2020-04-20T12:01:31.000Z
+          - item:
             name: Kubernetes
             homepage_url: 'https://kubernetes.io/'
             repo_url: 'https://github.com/kubernetes/kubernetes'
