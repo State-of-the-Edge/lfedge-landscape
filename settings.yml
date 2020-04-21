@@ -101,8 +101,10 @@ membership:
 home:
   header: >
     <h1>LF Edge Interactive Landscape</h1> The LF Edge landscape (<a target="_blank" href="images/landscape.png">png</a>,  <a target="_blank"
-    href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
-    on the same open source code.
+    href="images/landscape.pdf">pdf</a>) is dynamically generated from a community supported Github account. It is modeled after the <a
+    href="http://landscape.cncf.io">CNCF landscape</a> and based on the same open source code.<br /><br />  If you would like to contribute, please open a <a
+    target="_blank" href="https://github.com/State-of-the-Edge/lfedge-landscape">pull request</a> with projects in the  edge ecosystem. Please note all images
+    submitted must be true SVG files, include a url to the company's site, and a crunchbase link.
   footer: null
 ads:
   - url: 'https://www.lfedge.org/projects/stateoftheedge/'
