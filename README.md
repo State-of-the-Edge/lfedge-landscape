@@ -2,7 +2,7 @@
 
 # Linux Foundation Edge Landscape
 
-![LFEdge Landscape Logo](https://github.com/lf-edge/lfedge-landscape/blob/master/images/left-logo.svg)
+![LFEdge Landscape Logo](https://github.com/State-of-the-Edge/lfedge-landscape/blob/master/images/left-logo.svg)
 
 - [LF Edge Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
