@@ -264,33 +264,33 @@ big_picture:
             text: >
               The intent is for the Landscape to be a living document that developers, investors, vendors, researchers and others can use as a resource on the
               landscape of edge computing.
-            top: 35
+            top: 16
             left: 100
             right: 140
             font_size: 10
           - type: image
             image: qr.svg
-            top: 35
+            top: 10
             left: 5
             width: 90
             height: 90
             title: QR Code
           - type: title
-            title: landscape.lfedge.org
-            top: 104
-            left: 19
-            font_size: 12
+            title: l.lfedge.org
+            top: 96
+            left: 15
+            font_size: 13
           - type: image
             image: left-logo.svg
             width: 110
-            right: 5
-            top: 20
+            right: 15
+            top: 19
             title: Landscape Logo
           - type: image
             image: right-logo.svg
             width: 109
-            right: 10
-            top: 80
+            right: 16
+            top: 65
             title: LF Edge Logo
 test:
   header: LF Edge Interactive Landscape
