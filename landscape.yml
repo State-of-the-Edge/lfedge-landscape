@@ -353,11 +353,6 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/aporeto-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/aporeto'
           - item:
-            name: Xage Security
-            homepage_url: 'https://xage.com/'
-            logo: xage_security.svg
-            crunchbase: 'https://www.crunchbase.com/organization/xage-security'
-          - item:
             name: Imperva
             homepage_url: 'https://www.imperva.com/'
             logo: imperva.svg
@@ -367,6 +362,11 @@ landscape:
             homepage_url: 'https://www.perimeterx.com/'
             logo: perimeterx.svg
             crunchbase: 'https://www.crunchbase.com/organization/perimeterx-inc-'
+          - item:
+            name: Xage Security
+            homepage_url: 'https://xage.com/'
+            logo: xage_security.svg
+            crunchbase: 'https://www.crunchbase.com/organization/xage-security'
   - category:
     name: Networking
     subcategories:
@@ -647,7 +647,6 @@ landscape:
             name: Dell Technologies
             homepage_url: 'https://www.delltechnologies.com/en-us/index.htm'
             logo: delltech.svg
-            twitter: 'https://twitter.com/DellTech'
             crunchbase: 'https://www.crunchbase.com/organization/dell-technologies'
           - item:
             name: Dianomic
