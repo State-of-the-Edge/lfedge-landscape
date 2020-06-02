@@ -130,12 +130,6 @@ big_picture:
     name: Landscape
     title: LF Edge Landscape
     fullscreen_header: See the interactive landscape at landscape.lfedge.org
-    size:
-      width: 2250
-      height: 1050
-    fullscreen_size:
-      width: 2250
-      height: 1050
     elements:
       - type: HorizontalCategory
         category: .ORG
@@ -258,7 +252,7 @@ big_picture:
         width: 390
         height: 200
         top: 180
-        left: 5
+        left: 0
         children:
           - type: text
             text: >
