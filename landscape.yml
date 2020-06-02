@@ -17,6 +17,11 @@ landscape:
             logo: 'https://www.zutacore.com/images/events/open-compute-logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/open-compute-project-foundation'
           - item:
+            name: Open Edge Computing Initiative
+            homepage_url: 'https://www.openedgecomputing.org/'
+            logo: openEdgeComputingInitative.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-edge-computing-initiative'
+          - item:
             name: Open Glossary of Edge Computing
             homepage_url: 'https://www.lfedge.org/projects/openglossary/'
             project: growth
@@ -46,11 +51,6 @@ landscape:
             homepage_url: 'https://www.zephyrproject.org/'
             logo: zephyr.svg
             crunchbase: 'https://www.crunchbase.com/organization/zephy-project'
-          - item:
-            name: Open Edge Computing Initiative
-            homepage_url: 'https://www.openedgecomputing.org/'
-            logo: openEdgeComputingInitative.svg
-            crunchbase: 'https://www.crunchbase.com/organization/open-edge-computing-initiative'
   - category:
     name: Traffic Routing
     subcategories:
@@ -161,7 +161,7 @@ landscape:
             project: at_large
             repo_url: 'https://github.com/baetyl/baetyl'
             logo: 'https://github.com/State-of-the-Edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/baetyl'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
           - item:
             name: EdgeX Foundry
             homepage_url: 'https://www.edgexfoundry.org/'
@@ -176,7 +176,7 @@ landscape:
             project: at_large
             repo_url: 'https://github.com/fledge-iot/fledge'
             logo: fledge.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fledge-0f11'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
           - item:
             name: IBM Watson IoT
             homepage_url: 'https://www.ibm.com/cloud/watson-iot-platform'
@@ -291,8 +291,8 @@ landscape:
             name: Project EVE
             homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
             project: growth
-            repo_url: 'https://github.com/State-of-the-Edge/eve'
-            logo: 'https://github.com/State-of-the-Edge/artwork/blob/master/project-eve/icon/color/eve-icon-color.svg'
+            repo_url: 'https://github.com/lf-edge/eve'
+            logo: 'https://raw.githubusercontent.com/lf-edge/artwork/master/project-eve/icon/color/eve-icon-color.svg'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
       - subcategory:
         name: IAAS
@@ -300,6 +300,7 @@ landscape:
           - item:
             name: Alibaba Cloud
             homepage_url: 'https://us.alibabacloud.com/'
+            stock_ticker: BABA
             logo: 'https://landscape.cncf.io/logos/alibaba-cloud-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
           - item:
@@ -363,6 +364,12 @@ landscape:
             logo: imperva.svg
             crunchbase: 'https://www.crunchbase.com/organization/imperva'
           - item:
+            name: Intel Secure Device Onboard
+            homepage_url: 'https://secure-device-onboard.github.io/docs/'
+            repo_url: 'https://github.com/secure-device-onboard/iot-platform-sdk'
+            logo: intel-sdo.svg
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
             name: PerimeterX
             homepage_url: 'https://www.perimeterx.com/'
             logo: perimeterx.svg
@@ -372,12 +379,6 @@ landscape:
             homepage_url: 'https://xage.com/'
             logo: xage_security.svg
             crunchbase: 'https://www.crunchbase.com/organization/xage-security'
-          - item:
-            name: Intel Secure Device Onboard
-            homepage_url: 'https://secure-device-onboard.github.io/docs/'
-            repo_url: 'https://github.com/secure-device-onboard/iot-platform-sdk'
-            logo: intel-sdo.svg
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
   - category:
     name: Networking
     subcategories:
@@ -408,6 +409,11 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/riverbed.svg'
             crunchbase: 'https://www.crunchbase.com/organization/riverbed-technology'
           - item:
+            name: T-Mobile
+            homepage_url: 'https://www.t-mobile.com/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/42/T-Mobile-Logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/t-mobile'
+          - item:
             name: VMWare NSX
             homepage_url: 'https://www.vmware.com/products/nsx.html'
             logo: 'https://landscape.cncf.io/logos/v-mware-nsx.svg'
@@ -415,13 +421,9 @@ landscape:
           - item:
             name: ZTE
             homepage_url: 'https://www.zte.com.cn/global/'
+            stock_ticker: 0763.HK
             logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
             crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
-            name: T-Mobile
-            homepage_url: 'https://www.t-mobile.com/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/42/T-Mobile-Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/t-mobile'
   - category:
     name: Hardware
     subcategories:
@@ -484,6 +486,11 @@ landscape:
         name: Edge OEMs
         items:
           - item:
+            name: Supermicro
+            homepage_url: 'https://www.supermicro.com/en/'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Super_Micro_Computer_Logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/super-micro-computer'
+          - item:
             name: Vertiv
             homepage_url: 'https://www.vertiv.com/en-us/'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Vertiv_logo.svg'
@@ -494,11 +501,6 @@ landscape:
             logo: zayo.svg
             twitter: 'https://twitter.com/ZayoGroup'
             crunchbase: 'https://www.crunchbase.com/organization/zayo-group'
-          - item:
-            name: Supermicro
-            homepage_url: 'https://www.supermicro.com/en/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Super_Micro_Computer_Logo.svg' 
-            crunchbase: 'https://www.crunchbase.com/organization/super-micro-computer'
   - category:
     name: Wireless & Wireline
     subcategories:
@@ -580,13 +582,14 @@ landscape:
             name: Home Edge
             homepage_url: 'https://www.lfedge.org/projects/homeedge/'
             project: growth
-            repo_url: 'https://github.com/State-of-the-Edge/edge-home-orchestration-go'
+            repo_url: 'https://github.com/lf-edge/edge-home-orchestration-go'
             logo: home-edge-400.svg
             twitter: 'https://twitter.com/LF_Edge'
             crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
           - item:
             name: Inspur Group
             homepage_url: 'http://en.inspur.com'
+            stock_ticker: 0596.HK
             logo: 'https://landscape.cncf.io/logos/inspur-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/inspur-group'
           - item:
@@ -619,6 +622,7 @@ landscape:
             name: Xnor.ai
             homepage_url: 'https://www.xnor.ai/'
             logo: 'https://greywhayle.com//img/company_logos/1565676751_313435.svg'
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/xnor-ai'
           - item:
             name: Yocto Project
@@ -773,11 +777,13 @@ landscape:
           - item:
             name: Radisys
             homepage_url: 'https://www.radisys.com'
+            stock_ticker: RELIANCE.NS
             logo: radisys.svg
             crunchbase: 'https://www.crunchbase.com/organization/radisys'
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
+            stock_ticker: IBM
             logo: RedHat-new.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
@@ -824,7 +830,7 @@ landscape:
             name: Alef Mobitech
             homepage_url: 'https://www.alefedge.com/'
             logo: alef.svg
-            twitter: 'https://twitter.com/alefmobitech'
+            twitter: 'https://twitter.com/alefedgenyc'
             crunchbase: 'https://www.crunchbase.com/organization/alefmobitech'
           - item:
             name: Beechwoods Software
@@ -956,7 +962,9 @@ landscape:
           - item:
             name: Thunder Software
             homepage_url: 'https://www.thundersoft.com/'
+            stock_ticker: 300496.SZ
             logo: thundersoft.svg
+            twitter: 'https://twitter.com/ThunderSoft_Ltd'
             crunchbase: 'https://www.crunchbase.com/organization/thundersoft-company-limited'
           - item:
             name: Toyota
