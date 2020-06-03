@@ -2022,20 +2022,21 @@ landscape:
             project: at_large
             repo_url: 'https://github.com/baetyl/baetyl'
             logo: 'https://github.com/State-of-the-Edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/baetyl'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
-              name: Baetyl
-              description: 'Open edge computing framework of Linux Foundation Edge that extends cloud computing, data and service seamlessly to edge devices'
+              name: LF Edge
+              description: LF Edge is builds an open source framework for the edge.
               num_employees_min: null
               num_employees_max: null
-              homepage: null
-              city: Shanghai
-              region: Shanghai
-              country: China
-              twitter: null
+              homepage: 'https://www.lfedge.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/lf_edge'
               linkedin: null
               acquisitions: []
-              parents: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
             github_data:
               languages:
@@ -2067,6 +2068,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T14:00:17.000Z
           - item:
             name: EdgeX Foundry
             homepage_url: 'https://www.edgexfoundry.org/'
@@ -2138,20 +2141,21 @@ landscape:
             project: at_large
             repo_url: 'https://github.com/fledge-iot/fledge'
             logo: fledge.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fledge-0f11'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
             crunchbase_data:
-              name: Fledge
-              description: 'Fledge - a Linux Foundation IIoT project connecting all machine data to any destination(s), enabling advanced sensor to cloud applications.'
+              name: LF Edge
+              description: LF Edge is builds an open source framework for the edge.
               num_employees_min: null
               num_employees_max: null
-              homepage: 'https://www.lfedge.org/projects/fledge'
-              city: Menlo Park
+              homepage: 'https://www.lfedge.org'
+              city: San Francisco
               region: California
               country: United States
-              twitter: null
+              twitter: 'https://twitter.com/lf_edge'
               linkedin: null
               acquisitions: []
-              parents: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
             github_data:
               languages:
@@ -2194,6 +2198,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-01T14:00:17.000Z
           - item:
             name: IBM Watson IoT
             homepage_url: 'https://www.ibm.com/cloud/watson-iot-platform'
@@ -2251,7 +2257,7 @@ landscape:
               kind: funding
             github_data:
               languages:
-                - name: 'C#'
+                - name: C#
                   value: 1681959
                   color: '#178600'
                 - name: Shell
@@ -3935,6 +3941,132 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-28T16:03:50.000Z
+          - item:
+            name: APC
+            homepage_url: 'https://www.apc.com/us/en/'
+            logo: apc.svg
+            crunchbase: 'https://www.crunchbase.com/organization/schneider-electric'
+            crunchbase_data:
+              name: Schneider Electric
+              description: Schneider Electric is a company that creates products that help people conserve energy.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.schneider-electric.com'
+              city: Rueil-malmaison
+              region: Ile-de-France
+              country: France
+              twitter: 'http://twitter.com/SchneiderElec'
+              linkedin: 'https://www.linkedin.com/company/schneider-electric'
+              acquisitions:
+                - date: '1988-01-01'
+                  acquiree: Télémécanique
+                - date: '1990-01-01'
+                  acquiree: Federal Pioneer Ltd
+                - date: '1991-05-24'
+                  acquiree: Schneider Electric USA
+                - date: '2000-01-01'
+                  acquiree: Crouzet Automation
+                - date: '2000-01-01'
+                  acquiree: Nu-Lec Industries Pty Ltd
+                - date: '2003-06-01'
+                  acquiree: T.A.C.
+                - date: '2003-12-22'
+                  acquiree: MGE UPS Systems
+                - date: '2003-12-31'
+                  acquiree: Digital Electronics Corp
+                - date: '2004-01-01'
+                  acquiree: Clipsal Australia
+                - date: '2004-03-23'
+                  acquiree: Kavlico Corp.
+                  price: 156000000
+                - date: '2005-04-13'
+                  acquiree: Power Measurement
+                - date: '2005-07-22'
+                  acquiree: BEI Technologies
+                  price: 562000000
+                - date: '2006-01-06'
+                  acquiree: Citect Corp Ltd
+                - date: '2006-02-28'
+                  acquiree: 'AEM, S.A.'
+                - date: '2006-04-30'
+                  acquiree: Ova G. Bargellini
+                - date: '2006-05-31'
+                  acquiree: Merten GmbH & Co. KG
+                - date: '2007-01-17'
+                  acquiree: American Power Conversion
+                - date: '2007-10-01'
+                  acquiree: Pelco
+                - date: '2009-06-08'
+                  acquiree: Schneider Electric Conzerv India
+                - date: '2009-08-06'
+                  acquiree: Meher Capacitors Private Ltd
+                - date: '2010-04-13'
+                  acquiree: SCADAgroup
+                - date: '2010-12-13'
+                  acquiree: D5X
+                - date: '2010-12-13'
+                  acquiree: Vizelia
+                - date: '2011-03-24'
+                  acquiree: Summit Energy
+                  price: 268000000
+                - date: '2011-04-01'
+                  acquiree: Digilink
+                  price: 113062515
+                - date: '2011-04-04'
+                  acquiree: Lee Technologies
+                - date: '2011-05-01'
+                  acquiree: Luminous Power Technologies
+                - date: '2011-06-01'
+                  acquiree: Telvent Git
+                  price: 2000000000
+                - date: '2011-06-15'
+                  acquiree: Viconics Technologies
+                - date: '2011-08-09'
+                  acquiree: 7-Technologies
+                - date: '2011-11-23'
+                  acquiree: Schneider Electric President Systems
+                - date: '2011-12-01'
+                  acquiree: Viridity Software
+                - date: '2012-05-16'
+                  acquiree: M&C Energy Group
+                - date: '2012-09-01'
+                  acquiree: Schneider Electric Software Australia Pty Ltd
+                - date: '2013-01-24'
+                  acquiree: SCL Elements
+                - date: '2014-01-17'
+                  acquiree: Invensys
+                  price: 5584151521
+                - date: '2014-01-28'
+                  acquiree: AST Modular S.L.
+                - date: '2014-09-01'
+                  acquiree: InStep Software
+                - date: '2016-10-31'
+                  acquiree: MaxEAM
+                - date: '2017-01-19'
+                  acquiree: Renewable Choice Energy
+                - date: '2017-02-02'
+                  acquiree: MWPowerLab
+                - date: '2017-06-30'
+                  acquiree: nxtControl
+                - date: '2017-07-27'
+                  acquiree: Asco Power
+                - date: '2017-11-08'
+                  acquiree: IGE+XAO Group
+                  price: 218454285
+                - date: '2020-02-13'
+                  acquiree: RIB Software
+              parents: []
+              funding: 1600000
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: apc.svg
+              hash: EEehgO57iKjhv2bfm+fPBnlwhMuTF5RQFqrKzOiQdEo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T20:00:01.000Z
   - category:
     name: Security
     subcategories:
@@ -8173,109 +8305,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-01-04T02:46:12.000Z
           - item:
-            name: Juniper Networks
-            homepage_url: 'https://www.juniper.net/us/en/'
-            logo: juniper.svg
-            crunchbase: 'https://www.crunchbase.com/organization/juniper-networks'
-            crunchbase_data:
-              name: Juniper Networks
-              description: 'Juniper Networks is a news network that designs, develops, and sells products and services, along with network infrastructure.'
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'http://www.juniper.net'
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/JuniperNetworks'
-              linkedin: 'https://www.linkedin.com/company/juniper-networks'
-              acquisitions:
-                - date: '1999-11-15'
-                  acquiree: Layer Five
-                  price: 19000000
-                - date: '2000-01-18'
-                  acquiree: Pacific Advantage Ltd.
-                  price: 4000000
-                - date: '2001-12-11'
-                  acquiree: Micro Magic
-                  price: 260000000
-                - date: '2001-12-14'
-                  acquiree: Pacific Broadband Communications
-                  price: 200000000
-                - date: '2002-07-01'
-                  acquiree: Unisphere Networks
-                  price: 740000000
-                - date: '2004-02-10'
-                  acquiree: NetScreen Technologies
-                  price: 3400000000
-                - date: '2005-03-29'
-                  acquiree: Kagoor Networks
-                - date: '2005-05-05'
-                  acquiree: Redline Networks
-                  price: 132000000
-                - date: '2005-07-01'
-                  acquiree: Peribit Networks
-                  price: 337000000
-                - date: '2005-10-25'
-                  acquiree: Acorn Packet Solutions
-                  price: 8700000
-                - date: '2005-11-14'
-                  acquiree: Funk Software
-                  price: 122000000
-                - date: '2010-04-08'
-                  acquiree: Ankeena Networks
-                  price: 100000000
-                - date: '2010-07-27'
-                  acquiree: SMobile Systems
-                  price: 70000000
-                - date: '2010-11-16'
-                  acquiree: Trapeze Networks
-                  price: 152000000
-                - date: '2010-11-18'
-                  acquiree: Blackwave
-                - date: '2010-12-06'
-                  acquiree: Altor Networks
-                - date: '2011-02-21'
-                  acquiree: Brilliant Telecommunications
-                  price: 4500000
-                - date: '2012-02-22'
-                  acquiree: Mykonos Software
-                - date: '2012-12-13'
-                  acquiree: Contrail Systems
-                  price: 176000000
-                - date: '2013-02-08'
-                  acquiree: Webscreen Technology
-                - date: '2013-12-16'
-                  acquiree: WANDL
-                - date: '2016-04-04'
-                  acquiree: BTI Systems
-                - date: '2016-08-02'
-                  acquiree: 'Aurrion, Inc.'
-                - date: '2016-12-01'
-                  acquiree: AppFormix
-                - date: '2017-08-31'
-                  acquiree: Cyphort
-                - date: '2018-11-29'
-                  acquiree: HTBASE
-                - date: '2019-03-05'
-                  acquiree: Mist Systems
-                  price: 405000000
-              parents: []
-              ticker: JNPR
-              funding: 18847898
-              stockExchange: nyse
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 8045227008
-              effective_ticker: JNPR
-            image_data:
-              fileName: juniper-networks.svg
-              hash: 25uqgEMPCKDuMlOhKupVLIiohgAmrQkzxh9i0jrFl7g=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-06-02T00:31:06.000Z
-          - item:
             name: MobiledgeX
             homepage_url: 'https://mobiledgex.com/'
             logo: mobiledgex.svg
@@ -9571,6 +9600,109 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-29T15:50:29.000Z
+          - item:
+            name: Juniper Networks
+            homepage_url: 'https://www.juniper.net/us/en/'
+            logo: juniper.svg
+            crunchbase: 'https://www.crunchbase.com/organization/juniper-networks'
+            crunchbase_data:
+              name: Juniper Networks
+              description: 'Juniper Networks is a news network that designs, develops, and sells products and services, along with network infrastructure.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://www.juniper.net'
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/JuniperNetworks'
+              linkedin: 'https://www.linkedin.com/company/juniper-networks'
+              acquisitions:
+                - date: '1999-11-15'
+                  acquiree: Layer Five
+                  price: 19000000
+                - date: '2000-01-18'
+                  acquiree: Pacific Advantage Ltd.
+                  price: 4000000
+                - date: '2001-12-11'
+                  acquiree: Micro Magic
+                  price: 260000000
+                - date: '2001-12-14'
+                  acquiree: Pacific Broadband Communications
+                  price: 200000000
+                - date: '2002-07-01'
+                  acquiree: Unisphere Networks
+                  price: 740000000
+                - date: '2004-02-10'
+                  acquiree: NetScreen Technologies
+                  price: 3400000000
+                - date: '2005-03-29'
+                  acquiree: Kagoor Networks
+                - date: '2005-05-05'
+                  acquiree: Redline Networks
+                  price: 132000000
+                - date: '2005-07-01'
+                  acquiree: Peribit Networks
+                  price: 337000000
+                - date: '2005-10-25'
+                  acquiree: Acorn Packet Solutions
+                  price: 8700000
+                - date: '2005-11-14'
+                  acquiree: Funk Software
+                  price: 122000000
+                - date: '2010-04-08'
+                  acquiree: Ankeena Networks
+                  price: 100000000
+                - date: '2010-07-27'
+                  acquiree: SMobile Systems
+                  price: 70000000
+                - date: '2010-11-16'
+                  acquiree: Trapeze Networks
+                  price: 152000000
+                - date: '2010-11-18'
+                  acquiree: Blackwave
+                - date: '2010-12-06'
+                  acquiree: Altor Networks
+                - date: '2011-02-21'
+                  acquiree: Brilliant Telecommunications
+                  price: 4500000
+                - date: '2012-02-22'
+                  acquiree: Mykonos Software
+                - date: '2012-12-13'
+                  acquiree: Contrail Systems
+                  price: 176000000
+                - date: '2013-02-08'
+                  acquiree: Webscreen Technology
+                - date: '2013-12-16'
+                  acquiree: WANDL
+                - date: '2016-04-04'
+                  acquiree: BTI Systems
+                - date: '2016-08-02'
+                  acquiree: 'Aurrion, Inc.'
+                - date: '2016-12-01'
+                  acquiree: AppFormix
+                - date: '2017-08-31'
+                  acquiree: Cyphort
+                - date: '2018-11-29'
+                  acquiree: HTBASE
+                - date: '2019-03-05'
+                  acquiree: Mist Systems
+                  price: 405000000
+              parents: []
+              ticker: JNPR
+              funding: 18847898
+              stockExchange: nyse
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 8045227008
+              effective_ticker: JNPR
+            image_data:
+              fileName: juniper-networks.svg
+              hash: 25uqgEMPCKDuMlOhKupVLIiohgAmrQkzxh9i0jrFl7g=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-06-02T00:31:06.000Z
           - item:
             name: Kaloom
             homepage_url: 'https://www.kaloom.com/'
