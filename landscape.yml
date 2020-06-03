@@ -338,6 +338,11 @@ landscape:
         name: Physical
         items:
           - item:
+            name: APC
+            homepage_url: 'https://www.apc.com/us/en/'
+            logo: apc.svg
+            crunchbase: 'https://www.crunchbase.com/organization/schneider-electric'
+          - item:
             name: Project Volutus
             homepage_url: 'https://www.vapor.io'
             logo: volutus.svg
@@ -347,11 +352,6 @@ landscape:
             homepage_url: 'https://www.tripplite.com'
             logo: tripplite.svg
             crunchbase: 'https://www.crunchbase.com/organization/tripp-lite'
-          - item:
-            name: APC
-            homepage_url: 'https://www.apc.com/us/en/'
-            logo: apc.svg
-            crunchbase: 'https://www.crunchbase.com/organization/schneider-electric'
   - category:
     name: Security
     subcategories:
