@@ -128,9 +128,6 @@ landscape:
               release_link: 'https://github.com/State-of-the-Edge/glossary/releases'
               contributors_count: 8
               contributors_link: 'https://github.com/State-of-the-Edge/glossary/graphs/contributors'
-            repos:
-              - url: 'https://github.com/State-of-the-Edge/glossary'
-                stars: 103
             github_start_commit_data:
               start_commit_link: /lf-edge/glossary/commit/94da828cf86671fc7d8fd16002cabe1faee065e9
               start_date: '2018-06-08T15:38:41Z'
@@ -333,9 +330,6 @@ landscape:
               latest_commit_link: /vyos/vyos-build/commit/49ca3d22e874497d05c46eb54a0380c90411419e
               contributors_count: 26
               contributors_link: 'https://github.com/vyos/vyos-build/graphs/contributors'
-            repos:
-              - url: 'https://github.com/vyos/vyos-build'
-                stars: 346
             github_start_commit_data:
               start_commit_link: /vyos/vyos-build/commit/8e71eae3a2323aacd12e4a484dfd3773c9d7cf03
               start_date: '2015-12-16T21:02:03Z'
@@ -411,9 +405,6 @@ landscape:
               latest_commit_link: /akraino-edge-stack/eliot/commit/7d9494640272f23b5358f11e6e8faebb1a57240a
               contributors_count: 2
               contributors_link: 'https://github.com/akraino-edge-stack/eliot/graphs/contributors'
-            repos:
-              - url: 'https://github.com/akraino-edge-stack/eliot'
-                stars: 0
             github_start_commit_data:
               start_commit_link: /akraino-edge-stack/eliot/commit/1c3e0d723e5889b6e46aee1eb3afd682eece79a5
               start_date: '2019-01-31T02:04:52Z'
@@ -1954,9 +1945,6 @@ landscape:
               release_link: 'https://github.com/kubeedge/kubeedge/releases'
               contributors_count: 124
               contributors_link: 'https://github.com/kubeedge/kubeedge/graphs/contributors'
-            repos:
-              - url: 'https://github.com/kubeedge/kubeedge'
-                stars: 2617
             github_start_commit_data:
               start_commit_link: /kubeedge/kubeedge/commit/316bd63786ff57353772847626f5f7df7f1e1f53
               start_date: '2018-09-28T08:57:50Z'
@@ -2026,7 +2014,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-06-24T12:35:40.000Z
           - item:
-            name: VMWare Tanzu Grid
+            name: VMWare Tanzu Kubernetes Grid (TKG)
             homepage_url: 'https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html'
             logo: 'https://landscape.cncf.io/logos/v-mware-tanzu-kubernetes-grid.svg'
             crunchbase: 'https://www.crunchbase.com/organization/vmware'
@@ -2153,7 +2141,7 @@ landscape:
               market_cap: 63272357888
               effective_ticker: VMW
             image_data:
-              fileName: vm-ware-tanzu-grid.svg
+              fileName: vm-ware-tanzu-kubernetes-grid-tkg.svg
             best_practice_data:
               badge: false
               percentage: null
@@ -2206,9 +2194,6 @@ landscape:
               release_link: 'https://github.com/baetyl/baetyl/releases'
               contributors_count: 18
               contributors_link: 'https://github.com/baetyl/baetyl/graphs/contributors'
-            repos:
-              - url: 'https://github.com/baetyl/baetyl'
-                stars: 1334
             github_start_commit_data:
               start_commit_link: /baetyl/baetyl/commit/2d56b5c58ef5cf923bd8e441c1e7b9c2924c4324
               start_date: '2018-09-11T09:31:23Z'
@@ -2273,9 +2258,6 @@ landscape:
               latest_commit_link: /edgexfoundry/edgex-go/commit/9d13cddecb9d92c0b408a3045c11e71073ea4da5
               contributors_count: 69
               contributors_link: 'https://github.com/edgexfoundry/edgex-go/graphs/contributors'
-            repos:
-              - url: 'https://github.com/edgexfoundry/edgex-go'
-                stars: 611
             github_start_commit_data:
               start_commit_link: /edgexfoundry/edgex-go/commit/5d4f832b5efaee071ca93cc0d475a31c78b6a2fc
               start_date: '2017-12-01T20:13:25Z'
@@ -2341,9 +2323,6 @@ landscape:
               release_link: 'https://github.com/fledge-iot/fledge/releases'
               contributors_count: 29
               contributors_link: 'https://github.com/fledge-iot/fledge/graphs/contributors'
-            repos:
-              - url: 'https://github.com/fledge-iot/fledge'
-                stars: 9
             github_start_commit_data:
               start_commit_link: /fledge-iot/fledge/commit/b75c8c7efc77c581f4a8bf565226893c19d25ae8
               start_date: '2017-04-20T16:35:28Z'
@@ -2412,7 +2391,7 @@ landscape:
               kind: funding
             github_data:
               languages:
-                - name: C#
+                - name: 'C#'
                   value: 1689844
                   color: '#178600'
                 - name: Shell
@@ -2432,9 +2411,6 @@ landscape:
               release_link: 'https://github.com/WildernessLabs/Meadow.Foundation/releases'
               contributors_count: 13
               contributors_link: 'https://github.com/WildernessLabs/Meadow.Foundation/graphs/contributors'
-            repos:
-              - url: 'https://github.com/WildernessLabs/Meadow.Foundation'
-                stars: 63
             github_start_commit_data:
               start_commit_link: /WildernessLabs/Meadow.Foundation/commit/1a3d264f877517bb40c6d7a7b6b52ae540614771
               start_date: '2018-10-31T21:54:07Z'
@@ -2481,9 +2457,6 @@ landscape:
               latest_commit_link: /openstack-archive/stx-tools/commit/11997b26555bdd790ad172eb0ebce9c35fdc161c
               contributors_count: 29
               contributors_link: 'https://github.com/openstack-archive/stx-tools/graphs/contributors'
-            repos:
-              - url: 'https://github.com/openstack-archive/stx-tools'
-                stars: 8
             github_start_commit_data:
               start_commit_link: /openstack/stx-tools/commit/aa70def60ff2eb70b26ddb8b1e26b3cf9b21b114
               start_date: '2018-05-20T06:08:47Z'
@@ -2533,9 +2506,6 @@ landscape:
               latest_commit_link: /vapor-ware/synse/commit/f55366b07909a59a4e586a74b4e43f4950c46966
               contributors_count: 3
               contributors_link: 'https://github.com/vapor-ware/synse/graphs/contributors'
-            repos:
-              - url: 'https://github.com/vapor-ware/synse'
-                stars: 10
             github_start_commit_data:
               start_commit_link: /vapor-ware/synse/commit/e99ff4a69b70ff333df64b54326150200d563b62
               start_date: '2017-10-05T20:31:49Z'
@@ -2625,9 +2595,6 @@ landscape:
               latest_commit_link: /apache/mesos/commit/dc87f8ca427876060afc4033424050de1058d769
               contributors_count: 300
               contributors_link: 'https://github.com/apache/mesos/graphs/contributors'
-            repos:
-              - url: 'https://github.com/apache/mesos'
-                stars: 4525
             github_start_commit_data:
               start_commit_link: /apache/mesos/commit/54a6a53e5fc378aa13e75f6686202b3d427684da
               start_date: '2011-04-27T06:59:39Z'
@@ -2717,9 +2684,6 @@ landscape:
               latest_commit_link: /digitalrebar/provision/commit/dfe6b7668873548c239a298002b194b9c0f19e91
               contributors_count: 23
               contributors_link: 'https://github.com/digitalrebar/provision/graphs/contributors'
-            repos:
-              - url: 'https://github.com/digitalrebar/provision'
-                stars: 103
             github_start_commit_data:
               start_commit_link: /digitalrebar/provision/commit/317f954bdb794c8754aff69659c830220a71d9fe
               start_date: '2017-02-08T15:46:53Z'
@@ -2786,9 +2750,6 @@ landscape:
               latest_commit_link: /theforeman/foreman/commit/ef4c1ba86541be63859e5eccfef4d784d3aac6f8
               contributors_count: 307
               contributors_link: 'https://github.com/theforeman/foreman/graphs/contributors'
-            repos:
-              - url: 'https://github.com/theforeman/foreman'
-                stars: 1829
             github_start_commit_data:
               start_commit_link: /theforeman/foreman/commit/5563217a427f3786affdfb1c9e4584f04c0303e7
               start_date: '2009-07-13T08:55:23Z'
@@ -2845,9 +2806,6 @@ landscape:
               release_link: 'https://github.com/kubermatic/kubeone/releases'
               contributors_count: 29
               contributors_link: 'https://github.com/kubermatic/kubeone/graphs/contributors'
-            repos:
-              - url: 'https://github.com/kubermatic/kubeone'
-                stars: 559
             github_start_commit_data:
               start_commit_link: /kubermatic/kubeone/commit/fb502df476b05bdc0bd8523b9ad09ebd08f04980
               start_date: '2018-11-03T10:59:34Z'
@@ -2863,7 +2821,6 @@ landscape:
             homepage_url: 'https://www.kubermatic.com/products/kubermatic/'
             repo_url: 'https://github.com/kubermatic/kubermatic'
             logo: 'https://github.com/cncf/landscape/blob/master/cached_logos/kubermatic-kubernetes-platform.svg'
-            twitter: 'https://twitter.com/kubermatic'
             crunchbase: 'https://www.crunchbase.com/organization/loodse-gmbh'
             crunchbase_data:
               name: Kubermatic
@@ -2910,9 +2867,6 @@ landscape:
               release_link: 'https://github.com/kubermatic/kubermatic/releases'
               contributors_count: 51
               contributors_link: 'https://github.com/kubermatic/kubermatic/graphs/contributors'
-            repos:
-              - url: 'https://github.com/kubermatic/kubermatic'
-                stars: 339
             github_start_commit_data:
               start_commit_link: /kubermatic/kubermatic/commit/f953c4f4f1d293eaae5e80149767005f20878971
               start_date: '2016-01-30T20:49:44Z'
@@ -2999,9 +2953,6 @@ landscape:
               release_link: 'https://github.com/kubernetes/kubernetes/releases'
               contributors_count: 2587
               contributors_link: 'https://github.com/kubernetes/kubernetes/graphs/contributors'
-            repos:
-              - url: 'https://github.com/kubernetes/kubernetes'
-                stars: 67546
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -3097,9 +3048,6 @@ landscape:
               release_link: 'https://github.com/linuxkit/linuxkit/releases'
               contributors_count: 132
               contributors_link: 'https://github.com/linuxkit/linuxkit/graphs/contributors'
-            repos:
-              - url: 'https://github.com/linuxkit/linuxkit'
-                stars: 6330
             github_start_commit_data:
               start_commit_link: /linuxkit/linuxkit/commit/0fa1e68dc65c5f484ce9c2851b5efa2c8617d4f9
               start_date: '2015-11-26T15:17:40Z'
@@ -3166,9 +3114,6 @@ landscape:
               latest_commit_link: /maas/maas/commit/9a733f0e76afa7df7c921398722754b1b6a97ab1
               contributors_count: 53
               contributors_link: 'https://github.com/maas/maas/graphs/contributors'
-            repos:
-              - url: 'https://github.com/maas/maas'
-                stars: 126
             github_start_commit_data:
               start_commit_link: /maas/maas/commit/6fd9157bb077a6ce54a33812cecd6049eed98551
               start_date: '2012-01-16T08:33:18Z'
@@ -3255,9 +3200,6 @@ landscape:
               release_link: 'https://github.com/docker/docker-ce/releases'
               contributors_count: 2028
               contributors_link: 'https://github.com/docker/docker-ce/graphs/contributors'
-            repos:
-              - url: 'https://github.com/docker/docker-ce'
-                stars: 4468
             github_start_commit_data:
               start_commit_link: /docker/docker-ce/commit/5c70746915d4589a692cbe50a43cf619ed0b7152
               start_date: '2013-01-19T00:13:39Z'
@@ -3313,9 +3255,6 @@ landscape:
               release_link: 'https://github.com/kata-containers/runtime/releases'
               contributors_count: 78
               contributors_link: 'https://github.com/kata-containers/runtime/graphs/contributors'
-            repos:
-              - url: 'https://github.com/kata-containers/runtime'
-                stars: 1945
             github_start_commit_data:
               start_commit_link: /kata-containers/runtime/commit/53901abe10027ded041a97edea7d99648b957548
               start_date: '2017-11-21T09:03:45Z'
@@ -3390,9 +3329,6 @@ landscape:
               release_link: 'https://github.com/projectacrn/acrn-hypervisor/releases'
               contributors_count: 118
               contributors_link: 'https://github.com/projectacrn/acrn-hypervisor/graphs/contributors'
-            repos:
-              - url: 'https://github.com/projectacrn/acrn-hypervisor'
-                stars: 549
             github_start_commit_data:
               start_commit_link: /projectacrn/acrn-hypervisor/commit/981dd9ac889be9f3723471188e9f97741750f280
               start_date: '2018-03-05T21:51:03Z'
@@ -3469,9 +3405,6 @@ landscape:
               release_link: 'https://github.com/lf-edge/eve/releases'
               contributors_count: 43
               contributors_link: 'https://github.com/lf-edge/eve/graphs/contributors'
-            repos:
-              - url: 'https://github.com/lf-edge/eve'
-                stars: 153
             github_start_commit_data:
               start_commit_link: /lf-edge/eve/commit/fc05a1f8ea2dc7fa59cb13b76910409f86e3d720
               start_date: '2017-05-01T21:15:36Z'
@@ -4666,9 +4599,6 @@ landscape:
               latest_commit_link: /secure-device-onboard/iot-platform-sdk/commit/9fa0c64233a48cb4d53175d029621b1ccbaf4ae2
               contributors_count: 2
               contributors_link: 'https://github.com/secure-device-onboard/iot-platform-sdk/graphs/contributors'
-            repos:
-              - url: 'https://github.com/secure-device-onboard/iot-platform-sdk'
-                stars: 1
             github_start_commit_data:
               start_commit_link: /secure-device-onboard/iot-platform-sdk/commit/cf7dd598961ff6bd1e0549a4a68ee6997f5c79dd
               start_date: '2020-02-12T09:20:40Z'
@@ -4869,9 +4799,6 @@ landscape:
               release_link: 'https://github.com/projectcalico/calico/releases'
               contributors_count: 140
               contributors_link: 'https://github.com/projectcalico/calico/graphs/contributors'
-            repos:
-              - url: 'https://github.com/projectcalico/calico'
-                stars: 1849
             github_start_commit_data:
               start_commit_link: /projectcalico/calico/commit/8e3d75dd58a2d93eddfdf53baad931004d7fb783
               start_date: '2016-07-21T15:45:54Z'
@@ -6474,9 +6401,6 @@ landscape:
               release_link: 'https://github.com/lf-edge/edge-home-orchestration-go/releases'
               contributors_count: 12
               contributors_link: 'https://github.com/lf-edge/edge-home-orchestration-go/graphs/contributors'
-            repos:
-              - url: 'https://github.com/lf-edge/edge-home-orchestration-go'
-                stars: 14
             github_start_commit_data:
               start_commit_link: /lf-edge/edge-home-orchestration-go/commit/0be53551594b304ec3f8a8b52facad514fedbd80
               start_date: '2019-06-26T11:11:44Z'
@@ -10925,4 +10849,3 @@ landscape:
               latest_tweet_date: 2020-06-29T15:52:28.000Z
 twitter_options:
   count: 0
-updated_at: 2020-06-30T02:18:23.240Z
