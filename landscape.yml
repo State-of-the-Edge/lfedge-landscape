@@ -527,15 +527,15 @@ landscape:
         name: Wireless
         items:
           - item:
-            name: Verizon
-            homepage_url: 'https://www.verizonwireless.com/'
-            logo: verizon.svg
-            crunchbase: 'https://www.crunchbase.com/organization/verizon'
-          - item:
             name: Telefonica
             homepage_url: 'https://www.telefonica.com/en/home'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Telefonica-Europe-Logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/telefonica'
+          - item:
+            name: Verizon
+            homepage_url: 'https://www.verizonwireless.com/'
+            logo: verizon.svg
+            crunchbase: 'https://www.crunchbase.com/organization/verizon'
       - subcategory:
         name: Wireline
         items:
@@ -629,7 +629,6 @@ landscape:
             name: ObjectBox
             homepage_url: 'https://objectbox.io/'
             logo: objectbox.svg
-            twitter: 'https://twitter.com/objectbox_io'
             crunchbase: 'https://www.crunchbase.com/organization/objectbox'
           - item:
             name: Portworx
