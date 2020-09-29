@@ -58,6 +58,8 @@ If you think your project should be included, please open a pull request to add 
 
 Netlify will generate a staging server for you to preview your updates. Please check that the logo and information appear correctly and then add `LGTM` to the pull request confirming your review and requesting a merge.
 
+Detailed instructions can be found in this guide: [Adding a New Landscape Entry (Web Interface)](https://wiki.lfedge.org/pages/viewpage.action?pageId=12730420)
+
 ## Logos
 
 The following rules will produce the most readable and attractive logos:
@@ -162,4 +164,7 @@ an extra space on the right of a section.
 
 The best way to test that layout is ok, is to visit `/landscape`, and if it looks ok, run `PORT=3000 babel-node
 tools/renderLandscape` and see the rendered png files, they are in src/images folder.
+
+## Additional Resources
+[State of the Edge Wiki](https://wiki.lfedge.org/display/GLOSSARY/State+of+the+Edge)
 
