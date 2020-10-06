@@ -336,6 +336,11 @@ landscape:
             logo: 'https://landscape.cncf.io/logos/digital-ocean-member.svg'
             crunchbase: 'https://www.crunchbase.com/organization/digitalocean'
           - item:
+            name: Equinix Metal
+            homepage_url: 'https://metal.equinix.com/'
+            logo: equinixmetal.svg
+            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
+          - item:
             name: Google Cloud
             homepage_url: 'https://twitter.com/googlecloud'
             logo: google_cloud.svg
@@ -360,11 +365,6 @@ landscape:
             homepage_url: 'https://www.oracle.com/cloud/'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/oracle'
-          - item:
-            name: Packet
-            homepage_url: 'https://www.packet.com/'
-            logo: 'https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/packet.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
           - item:
             name: Rackspace Kubernetes-as-a-Service
             homepage_url: 'https://www.rackspace.com/managed-kubernetes'
@@ -923,6 +923,12 @@ landscape:
             logo: emq.svg
             crunchbase: 'https://www.crunchbase.com/organization/emq-technologies'
           - item:
+            name: Equinix Metal (member)
+            homepage_url: 'https://metal.equinix.com/'
+            logo: equinixmetal.svg
+            twitter: 'https://twitter.com/EquinixMetal'
+            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
+          - item:
             name: Federated Wireless
             homepage_url: 'https://federatedwireless.com/'
             logo: federatedwireless.svg
@@ -992,11 +998,6 @@ landscape:
             homepage_url: 'https://www.ori.co/'
             logo: ori.svg
             crunchbase: 'https://www.crunchbase.com/organization/ori-8629'
-          - item:
-            name: Packet (member)
-            homepage_url: 'https://www.packet.com'
-            logo: 'https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/packet.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
           - item:
             name: RackN
             homepage_url: 'https://rackn.com/'
