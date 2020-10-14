@@ -8,7 +8,7 @@
 
 ## Install on Linux
 1. `git clone https://github.com/State-of-the-Edge/lfedge-landscape.git`
-2. Please follow [this script](https://github.com/cncf/landscapeapp/blob/master/update_server/setup.template) to install correct versions of `nodejs` and other packages on Linux.
+2. Please follow [this script](https://github.com/cncf/landscapeapp/blob/master/update_server/setup.bash) to install correct versions of `nodejs` and other packages on Linux.
 
 ## Local development
 1. `git pull`
