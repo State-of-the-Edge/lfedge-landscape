@@ -6782,6 +6782,55 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-12-03T21:00:17.000Z
           - item:
+            name: Charter Communications
+            homepage_url: 'https://www.spectrum.com'
+            logo: charter.svg
+            crunchbase: 'https://www.crunchbase.com/organization/charter-communications'
+            crunchbase_data:
+              name: Charter Communications
+              description: American telecommunications and mass media company that offers its services to consumers and businesses under the branding of Spectrum.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://charter.com/'
+              city: Stamford
+              region: Connecticut
+              country: United States
+              twitter: 'https://twitter.com/getspectrum'
+              linkedin: 'https://www.linkedin.com/company/charter-communications/'
+              acquisitions:
+                - date: '1999-03-23'
+                  acquiree: Helicon Cable
+                - date: '1999-04-23'
+                  acquiree: Renaissance Media Group
+                - date: '2002-01-02'
+                  acquiree: Fanch Communications
+                - date: '2002-01-02'
+                  acquiree: Vista Broadband Communications
+                - date: '2015-03-31'
+                  acquiree: Bright House Networks
+                  price: 10000000000
+                - date: '2015-05-26'
+                  acquiree: Spectrum
+                  price: 56000000000
+                - date: '2016-04-04'
+                  acquiree: Clearview Networks
+              parents: []
+              ticker: CHTR
+              funding: 6462513431
+              stockExchange: nasdaq
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 128735502336
+              effective_ticker: CHTR
+            image_data:
+              fileName: charter-communications.svg
+              hash: XXJibVKn8SVWmZZ3gLIv5v3US8EQtWdolkbDFT62Sc4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-12-03T22:28:57.000Z
+          - item:
             name: Comcast
             homepage_url: 'https://www.xfinity.com/'
             logo: comcast.svg
@@ -8189,21 +8238,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-12-04T02:37:44.000Z
           - item:
-            name: Charter Communications
+            name: Charter Communications (member)
             homepage_url: 'https://www.spectrum.com'
             logo: charter.svg
             crunchbase: 'https://www.crunchbase.com/organization/charter-communications'
             crunchbase_data:
-              name: Dream Home Improvement LLC
-              description: 'Dream Home development LLC is a reputable, highly rated company with a indefinite location in the heart of Cape Cod, MA.'
+              name: Charter Communications
+              description: American telecommunications and mass media company that offers its services to consumers and businesses under the branding of Spectrum.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'https://www.dreamhomeimprovement.com/'
+              homepage: 'http://charter.com/'
               city: Stamford
               region: Connecticut
               country: United States
-              twitter: null
-              linkedin: null
+              twitter: 'https://twitter.com/getspectrum'
+              linkedin: 'https://www.linkedin.com/company/charter-communications/'
               acquisitions:
                 - date: '1999-03-23'
                   acquiree: Helicon Cable
@@ -8227,14 +8276,16 @@ landscape:
               stockExchange: nasdaq
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 134064160768
+              market_cap: 128735502336
               effective_ticker: CHTR
             image_data:
-              fileName: charter-communications.svg
+              fileName: charter-communications-member.svg
               hash: XXJibVKn8SVWmZZ3gLIv5v3US8EQtWdolkbDFT62Sc4=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-12-03T22:28:57.000Z
           - item:
             name: Dell Technologies
             homepage_url: 'https://www.delltechnologies.com/en-us/index.htm'
