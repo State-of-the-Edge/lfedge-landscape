@@ -318,7 +318,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/project-acrn'
           - item:
             name: Project EVE
-            homepage_url: 'https://wiki.lfedge.org/display/EVE/Project+EVE'
+            homepage_url: 'https://wiki.lfedge.org/display/EVE/EVE'
             project: growth
             repo_url: 'https://github.com/lf-edge/eve'
             logo: 'https://raw.githubusercontent.com/lf-edge/artwork/master/project-eve/icon/color/eve-icon-color.svg'
@@ -752,6 +752,7 @@ landscape:
           - item:
             name: Altran
             homepage_url: 'https://northamerica.altran.com/'
+            stock_ticker: null
             logo: altran.svg
             twitter: 'http://twitter.com/altran'
             crunchbase: 'https://www.crunchbase.com/organization/altran'
@@ -827,16 +828,6 @@ landscape:
             logo: intel-new.svg
             crunchbase: 'https://www.crunchbase.com/organization/intel'
           - item:
-            name: inwinSTACK
-            homepage_url: 'https://www.inwinstack.com/'
-            logo: inwinstack.svg
-            crunchbase: 'https://www.crunchbase.com/organization/inwinstack'
-          - item:
-            name: MobiledgeX
-            homepage_url: 'https://mobiledgex.com/'
-            logo: mobiledgex.svg
-            crunchbase: 'https://www.crunchbase.com/organization/mobileedgex'
-          - item:
             name: Nokia
             homepage_url: 'https://www.nokia.com'
             stock_ticker: NOK
@@ -870,12 +861,6 @@ landscape:
             logo: samsung.svg
             crunchbase: 'https://www.crunchbase.com/organization/samsung-electronics'
           - item:
-            name: Seagate Technology
-            homepage_url: 'https://www.seagate.com/cn/zh'
-            logo: seagate.svg
-            twitter: 'https://twitter.com/seagate'
-            crunchbase: 'https://www.crunchbase.com/organization/seagate'
-          - item:
             name: Tencent
             homepage_url: 'https://www.tencent.com/zh-cn/index.html'
             logo: tencent.svg
@@ -907,7 +892,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/beechwoods-software'
           - item:
             name: CertusNet
-            homepage_url: 'http://www.certusnetnj.com.cn/'
+            homepage_url: 'http://www.certusnet.com.cn/'
             logo: certusnet.svg
             crunchbase: 'https://www.crunchbase.com/organization/certusnet'
           - item:
@@ -925,12 +910,6 @@ landscape:
             homepage_url: 'https://www.emqx.io/'
             logo: emq.svg
             crunchbase: 'https://www.crunchbase.com/organization/emq-technologies'
-          - item:
-            name: Equinix Metal (member)
-            homepage_url: 'https://metal.equinix.com/'
-            logo: equinixmetal.svg
-            twitter: 'https://twitter.com/EquinixMetal'
-            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
           - item:
             name: Federated Wireless
             homepage_url: 'https://federatedwireless.com/'
@@ -956,11 +935,6 @@ landscape:
             homepage_url: 'https://www.hcltech.com/'
             logo: HCL.svg
             crunchbase: 'https://www.crunchbase.com/organization/hcl-technologies'
-          - item:
-            name: High Peak Data
-            homepage_url: 'https://highpeakdata.com/'
-            logo: highpeakdata.svg
-            crunchbase: 'https://www.crunchbase.com/organization/high-peak-data'
           - item:
             name: IOTech
             homepage_url: 'https://www.iotechsys.com'
@@ -992,10 +966,10 @@ landscape:
             logo: marvell-horizontal-color.svg
             crunchbase: 'https://www.crunchbase.com/organization/marvell-technology'
           - item:
-            name: Mocana
-            homepage_url: 'https://www.mocana.com/'
-            logo: mocana.svg
-            crunchbase: 'https://www.crunchbase.com/organization/mocana'
+            name: MobiledgeX
+            homepage_url: 'https://mobiledgex.com/'
+            logo: mobiledgex.svg
+            crunchbase: 'https://www.crunchbase.com/organization/mobileedgex'
           - item:
             name: NetFoundry
             homepage_url: 'https://netfoundry.io/'
@@ -1016,11 +990,6 @@ landscape:
             homepage_url: 'https://www.qualcomm.com'
             logo: qualcomm.svg
             crunchbase: 'https://www.crunchbase.com/organization/qualcomm'
-          - item:
-            name: RackN
-            homepage_url: 'https://rackn.com/'
-            logo: rackn.svg
-            crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
           - item:
             name: Redis Labs
             homepage_url: 'https://redislabs.com/'
