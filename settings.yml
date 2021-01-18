@@ -2,17 +2,17 @@ global:
   name: LF Edge Interactive Landscape
   short_name: LFEdge
   repo: State-of-the-Edge/lfedge-landscape
-  website: 'https://landscape.lfedge.org'
+  website: https://landscape.lfedge.org
   short_domain: landscape.lfedge.org
-  company_url: 'https://lfedge.org'
+  company_url: https://lfedge.org
   membership: LF Edge Member Company
   email: info@lfedge.org
-  self: 'https://www.crunchbase.com/organization/lf-edge'
+  self: https://www.crunchbase.com/organization/lf-edge
   slack_channel: T08PSQ7BQ/BGD9421N1/ulrQcJybIpqYVe4DnQheBncS
   meta:
     title: LF Edge Landscape
     fb_admin: alex.contini.94
-    description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
+    description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
     twitter: '@LF_Edge'
     google_site_verification: M_GmEYdzsEnvJiIcvfj7gmczKsme1N5rd9RwRD35Y98
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
@@ -22,7 +22,7 @@ global:
       - .ORG
 twitter:
   search: landscape.lfedge.org
-  url: 'https://landscape.lfedge.org'
+  url: https://landscape.lfedge.org
   text: LF Edge Landscape from @LF_Edge
 relation:
   label: LF Edge Relation
@@ -38,7 +38,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: LF Edge At Large
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: rgb(24,54,114)
         - id: growth
           label: Stage 2 Growth
           prefix: LF Edge
@@ -46,7 +46,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: LF Edge Growth
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: rgb(24,54,114)
         - id: impact
           label: Stage 3 Impact
           prefix: LF Edge
@@ -54,7 +54,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: LF Edge Impact
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: rgb(24,54,114)
         - id: emeritus
           label: Stage 4 Emeritus
           prefix: LF Edge
@@ -62,7 +62,7 @@ relation:
           color: '#3570af'
           big_picture_order: 1
           big_picture_label: LF Edge Emeritus
-          big_picture_color: 'rgb(24,54,114)'
+          big_picture_color: rgb(24,54,114)
     - id: company
       label: LF Edge Members
       tag: Company
@@ -95,7 +95,7 @@ membership:
     name: LF
     label: Project
     funding: Linux Foundation
-    crunchbase_and_children: 'https://www.crunchbase.com/organization/linux-foundation'
+    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
   'false':
     funding: 'No'
 home:
@@ -107,7 +107,7 @@ home:
     submitted must be true SVG files, include a URL to the company's site, and a Crunchbase link.
   footer: null
 ads:
-  - url: 'https://stateoftheedge.com/reports/state-of-the-edge-2020/'
+  - url: https://stateoftheedge.com/reports/state-of-the-edge-2020/
     image: /images/state_of_edge_2020.png
     title: State of the Edge 2020
 presets:
@@ -138,7 +138,7 @@ big_picture:
         height: 160
         top: 0
         left: 0
-        color: 'rgb(87,43,10)'
+        color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
         category: Traffic Routing
@@ -147,7 +147,7 @@ big_picture:
         height: 160
         top: 0
         left: 470
-        color: 'rgb(103,66,18)'
+        color: rgb(103,66,18)
         fit_width: true
       - type: HorizontalCategory
         category: Platforms
@@ -156,7 +156,7 @@ big_picture:
         height: 160
         top: 0
         left: 730
-        color: 'rgb(193,83,21)'
+        color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
         category: Security
@@ -165,7 +165,7 @@ big_picture:
         height: 200
         top: 180
         left: 410
-        color: 'rgb(220,55,57)'
+        color: rgb(220,55,57)
         fit_width: true
       - type: HorizontalCategory
         category: Networking
@@ -174,7 +174,7 @@ big_picture:
         height: 200
         top: 180
         left: 670
-        color: 'rgb(171,19,20)'
+        color: rgb(171,19,20)
         fit_width: true
       - type: HorizontalCategory
         category: Infrastructure
@@ -183,7 +183,7 @@ big_picture:
         height: 200
         top: 180
         left: 930
-        color: 'rgb(111,12,52)'
+        color: rgb(111,12,52)
         fit_width: true
       - type: HorizontalCategory
         category: Other Edge Related Software
@@ -192,7 +192,7 @@ big_picture:
         height: 200
         top: 180
         left: 1820
-        color: 'rgb(179,60,133)'
+        color: rgb(179,60,133)
         fit_width: true
       - type: HorizontalCategory
         category: Hardware
@@ -201,7 +201,7 @@ big_picture:
         height: 160
         top: 400
         left: 0
-        color: 'rgb(171,61,221)'
+        color: rgb(171,61,221)
         fit_width: true
       - type: HorizontalCategory
         category: Edge OEMs
@@ -210,7 +210,7 @@ big_picture:
         height: 160
         top: 400
         left: 470
-        color: 'rgb(80,106,224)'
+        color: rgb(80,106,224)
         fit_width: true
       - type: HorizontalCategory
         category: Wireless & Wireline
@@ -219,7 +219,7 @@ big_picture:
         height: 160
         top: 400
         left: 740
-        color: 'rgb(37,81,209)'
+        color: rgb(37,81,209)
         fit_width: true
       - type: HorizontalCategory
         category: Real Estate / Land
@@ -228,7 +228,7 @@ big_picture:
         height: 160
         top: 400
         left: 1220
-        color: 'rgb(19,105,73)'
+        color: rgb(19,105,73)
         fit_width: true
       - type: HorizontalCategory
         category: Services / System Integrators
@@ -237,7 +237,7 @@ big_picture:
         height: 160
         top: 400
         left: 1690
-        color: 'rgb(79,121,13)'
+        color: rgb(79,121,13)
         fit_width: true
       - type: HorizontalCategory
         category: LF Edge Member Company
@@ -246,7 +246,7 @@ big_picture:
         height: 350
         top: 580
         left: 0
-        color: 'rgb(126,115,14)'
+        color: rgb(126,115,14)
         fit_width: true
       - type: LandscapeInfo
         width: 390

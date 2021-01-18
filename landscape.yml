@@ -7,56 +7,56 @@ landscape:
         items:
           - item:
             name: Cloud Native Computing Foundation
-            homepage_url: 'https://www.cncf.io/'
-            logo: 'https://github.com/cncf/artwork/blob/master/other/cncf/stacked/color/cncf-stacked-color.svg'
-            twitter: 'https://twitter.com/cloudnativefdn'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+            homepage_url: https://www.cncf.io/
+            logo: https://github.com/cncf/artwork/blob/master/other/cncf/stacked/color/cncf-stacked-color.svg
+            twitter: https://twitter.com/cloudnativefdn
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Open Compute Project Foundation
-            homepage_url: 'https://www.opencompute.org/'
-            logo: 'https://www.zutacore.com/images/events/open-compute-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/open-compute-project-foundation'
+            homepage_url: https://www.opencompute.org/
+            logo: https://www.zutacore.com/images/events/open-compute-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/open-compute-project-foundation
           - item:
             name: Open Edge Computing Initiative
-            homepage_url: 'https://www.openedgecomputing.org/'
+            homepage_url: https://www.openedgecomputing.org/
             logo: openEdgeComputingInitative.svg
-            crunchbase: 'https://www.crunchbase.com/organization/open-edge-computing-initiative'
+            crunchbase: https://www.crunchbase.com/organization/open-edge-computing-initiative
           - item:
             name: Open Glossary of Edge Computing
-            homepage_url: 'https://www.lfedge.org/openglossary'
+            homepage_url: https://www.lfedge.org/openglossary
             project: growth
-            repo_url: 'https://github.com/State-of-the-Edge/glossary'
-            logo: 'https://raw.githubusercontent.com/lf-edge/artwork/master/stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.svg'
-            twitter: 'https://twitter.com/LF_Edge'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            repo_url: https://github.com/State-of-the-Edge/glossary
+            logo: https://raw.githubusercontent.com/lf-edge/artwork/master/stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.svg
+            twitter: https://twitter.com/LF_Edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Open Infrastructure Foundation
-            homepage_url: 'https://www.openstack.org/'
+            homepage_url: https://www.openstack.org/
             logo: OIF.svg
-            twitter: 'https://twitter.com/openinfradev'
-            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+            twitter: https://twitter.com/openinfradev
+            crunchbase: https://www.crunchbase.com/organization/openstack
           - item:
             name: Open-IX
-            homepage_url: 'https://open-ix.org/en/'
+            homepage_url: https://open-ix.org/en/
             logo: open-ix.svg
-            twitter: 'https://twitter.com/OpenIX'
-            crunchbase: 'https://www.crunchbase.com/organization/open-ix'
+            twitter: https://twitter.com/OpenIX
+            crunchbase: https://www.crunchbase.com/organization/open-ix
           - item:
             name: Open19 Foundation
-            homepage_url: 'https://www.open19.org/'
+            homepage_url: https://www.open19.org/
             logo: open19.svg
-            twitter: 'https://twitter.com/open19in'
-            crunchbase: 'https://www.crunchbase.com/organization/open19-foundation'
+            twitter: https://twitter.com/open19in
+            crunchbase: https://www.crunchbase.com/organization/open19-foundation
           - item:
             name: Wireless Infrastructure Association
-            homepage_url: 'https://wia.org/'
+            homepage_url: https://wia.org/
             logo: wia.svg
-            crunchbase: 'https://www.crunchbase.com/organization/the-wireless-infrastructure-association'
+            crunchbase: https://www.crunchbase.com/organization/the-wireless-infrastructure-association
           - item:
             name: Zephyr Project
-            homepage_url: 'https://www.zephyrproject.org/'
+            homepage_url: https://www.zephyrproject.org/
             logo: zephyr.svg
-            crunchbase: 'https://www.crunchbase.com/organization/zephy-project'
+            crunchbase: https://www.crunchbase.com/organization/zephy-project
   - category:
     name: Traffic Routing
     subcategories:
@@ -65,16 +65,16 @@ landscape:
         items:
           - item:
             name: NS1
-            homepage_url: 'https://my.nsone.net'
+            homepage_url: https://my.nsone.net
             logo: ns1.svg
-            twitter: 'https://twitter.com/NS1'
-            crunchbase: 'https://www.crunchbase.com/organization/ns1'
+            twitter: https://twitter.com/NS1
+            crunchbase: https://www.crunchbase.com/organization/ns1
           - item:
             name: VyOS
-            homepage_url: 'https://vyos.io/'
-            repo_url: 'https://github.com/vyos/vyos-build'
+            homepage_url: https://vyos.io/
+            repo_url: https://github.com/vyos/vyos-build
             logo: vyos.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vyos'
+            crunchbase: https://www.crunchbase.com/organization/vyos
   - category:
     name: Platforms
     subcategories:
@@ -83,139 +83,139 @@ landscape:
         items:
           - item:
             name: Akraino
-            homepage_url: 'https://www.lfedge.org/projects/akraino'
+            homepage_url: https://www.lfedge.org/projects/akraino
             project: impact
-            repo_url: 'https://github.com/akraino-edge-stack/eliot'
+            repo_url: https://github.com/akraino-edge-stack/eliot
             logo: akraino-new.svg
-            twitter: 'https://twitter.com/LF_Edge'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            twitter: https://twitter.com/LF_Edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
       - subcategory:
         name: CDN & Distributed Caches
         items:
           - item:
             name: Akamai
-            homepage_url: 'https://www.akamai.com'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/akamai-technologies'
+            homepage_url: https://www.akamai.com
+            logo: https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/akamai-technologies
           - item:
             name: Amazon Cloudfront
             description: >-
               Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers
               globally with low latency, high transfer speeds, all within a developer-friendly environment.
-            homepage_url: 'https://aws.amazon.com/cloudfront/'
-            logo: 'https://panoply.io/images/integration-logos/amazon%20cloudfront.svg'
-            twitter: 'https://twitter.com/cloudfront'
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            homepage_url: https://aws.amazon.com/cloudfront/
+            logo: https://panoply.io/images/integration-logos/amazon%20cloudfront.svg
+            twitter: https://twitter.com/cloudfront
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: Cisco SD-WAN
-            homepage_url: 'https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html'
-            logo: 'https://landscape.cncf.io/logos/cisco-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/cisco'
+            homepage_url: https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html
+            logo: https://landscape.cncf.io/logos/cisco-member.svg
+            crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
             name: Cloudflare
-            homepage_url: 'https://www.cloudflare.com'
+            homepage_url: https://www.cloudflare.com
             logo: cloudflare.svg
-            twitter: 'https://twitter.com/Cloudflare'
-            crunchbase: 'https://www.crunchbase.com/organization/cloudflare'
+            twitter: https://twitter.com/Cloudflare
+            crunchbase: https://www.crunchbase.com/organization/cloudflare
           - item:
             name: Google Cloud CDN
-            homepage_url: 'https://cloud.google.com/cdn/'
-            logo: 'https://landscape.cncf.io/logos/google-cloud-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/google'
+            homepage_url: https://cloud.google.com/cdn/
+            logo: https://landscape.cncf.io/logos/google-cloud-member.svg
+            crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Limelight Networks
-            homepage_url: 'https://www.limelight.com'
+            homepage_url: https://www.limelight.com
             logo: limelight.svg
-            crunchbase: 'https://www.crunchbase.com/organization/limelightnetworks'
+            crunchbase: https://www.crunchbase.com/organization/limelightnetworks
           - item:
             name: Stackpath
-            homepage_url: 'https://www.stackpath.com/'
+            homepage_url: https://www.stackpath.com/
             logo: stackpath.svg
-            twitter: 'https://twitter.com/StackPath'
-            crunchbase: 'https://www.crunchbase.com/organization/stackpath'
+            twitter: https://twitter.com/StackPath
+            crunchbase: https://www.crunchbase.com/organization/stackpath
       - subcategory:
         name: Edge PaaS
         items:
           - item:
             name: AlefEdge
-            homepage_url: 'https://www.alefedge.com'
+            homepage_url: https://www.alefedge.com
             logo: alef.svg
-            crunchbase: 'https://www.crunchbase.com/organization/alefedge'
+            crunchbase: https://www.crunchbase.com/organization/alefedge
           - item:
             name: Azion
-            homepage_url: 'https://www.azion.com/en/'
+            homepage_url: https://www.azion.com/en/
             logo: azion.svg
-            twitter: 'https://twitter.com/azion'
-            crunchbase: 'https://www.crunchbase.com/organization/azion-technologies'
+            twitter: https://twitter.com/azion
+            crunchbase: https://www.crunchbase.com/organization/azion-technologies
           - item:
             name: KubeEdge
-            homepage_url: 'https://kubeedge.io/en'
-            repo_url: 'https://github.com/kubeedge/kubeedge'
+            homepage_url: https://kubeedge.io/en
+            repo_url: https://github.com/kubeedge/kubeedge
             logo: kube-edge.svg
-            twitter: 'https://twitter.com/kubeedge'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+            twitter: https://twitter.com/kubeedge
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Rafay Systems
-            homepage_url: 'https://rafay.co/'
-            logo: 'https://landscape.cncf.io/logos/rafay-systems-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/rafay-systems-inc'
+            homepage_url: https://rafay.co/
+            logo: https://landscape.cncf.io/logos/rafay-systems-member.svg
+            crunchbase: https://www.crunchbase.com/organization/rafay-systems-inc
           - item:
             name: Section
-            homepage_url: 'https://www.section.io/'
+            homepage_url: https://www.section.io/
             logo: sectionio.svg
-            crunchbase: 'https://www.crunchbase.com/organization/section-io'
+            crunchbase: https://www.crunchbase.com/organization/section-io
           - item:
             name: VMWare Tanzu Kubernetes Grid (TKG)
-            homepage_url: 'https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html'
-            logo: 'https://landscape.cncf.io/logos/v-mware-tanzu-kubernetes-grid.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+            homepage_url: https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html
+            logo: https://landscape.cncf.io/logos/v-mware-tanzu-kubernetes-grid.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
       - subcategory:
         name: IoT Focused
         items:
           - item:
             name: Baetyl
-            homepage_url: 'https://github.com/baetyl/baetyl'
+            homepage_url: https://github.com/baetyl/baetyl
             project: at_large
-            repo_url: 'https://github.com/baetyl/baetyl'
-            logo: 'https://github.com/State-of-the-Edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            repo_url: https://github.com/baetyl/baetyl
+            logo: https://github.com/State-of-the-Edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: EdgeX Foundry
-            homepage_url: 'https://www.edgexfoundry.org/'
+            homepage_url: https://www.edgexfoundry.org/
             project: impact
-            repo_url: 'https://github.com/edgexfoundry/edgex-go'
+            repo_url: https://github.com/edgexfoundry/edgex-go
             logo: edgex-foundry.svg
-            twitter: 'https://twitter.com/edgexfoundry'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            twitter: https://twitter.com/edgexfoundry
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Fledge
-            homepage_url: 'https://www.lfedge.org/projects/fledge'
+            homepage_url: https://www.lfedge.org/projects/fledge
             project: growth
-            repo_url: 'https://github.com/fledge-iot/fledge'
+            repo_url: https://github.com/fledge-iot/fledge
             logo: fledge.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: IBM Watson IoT
-            homepage_url: 'https://www.ibm.com/cloud/watson-iot-platform'
+            homepage_url: https://www.ibm.com/cloud/watson-iot-platform
             logo: ibm_watson_iot.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm-watson'
+            crunchbase: https://www.crunchbase.com/organization/ibm-watson
           - item:
             name: Wilderness Labs
-            homepage_url: 'https://www.wildernesslabs.co'
-            repo_url: 'https://github.com/WildernessLabs/Meadow.Foundation'
-            logo: 'https://www.wildernesslabs.co/assets/svg/logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/wilderness-labs'
+            homepage_url: https://www.wildernesslabs.co
+            repo_url: https://github.com/WildernessLabs/Meadow.Foundation
+            logo: https://www.wildernesslabs.co/assets/svg/logo.svg
+            crunchbase: https://www.crunchbase.com/organization/wilderness-labs
       - subcategory:
         name: Decentralized
         items:
           - item:
             name: StarlingX
-            homepage_url: 'https://www.starlingx.io'
-            repo_url: 'https://github.com/openstack-archive/stx-tools'
+            homepage_url: https://www.starlingx.io
+            repo_url: https://github.com/openstack-archive/stx-tools
             logo: >-
               https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/starlingx/SVG/StarlingX_Logo_RGB_Stacked_2color.svg
-            twitter: 'https://twitter.com/starlingx'
-            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+            twitter: https://twitter.com/starlingx
+            crunchbase: https://www.crunchbase.com/organization/openstack
   - category:
     name: Infrastructure
     subcategories:
@@ -224,182 +224,182 @@ landscape:
         items:
           - item:
             name: Synse
-            homepage_url: 'https://www.vapor.io/synse/'
-            repo_url: 'https://github.com/vapor-ware/synse'
+            homepage_url: https://www.vapor.io/synse/
+            repo_url: https://github.com/vapor-ware/synse
             logo: synse-logo.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
+            crunchbase: https://www.crunchbase.com/organization/vapor-io
       - subcategory:
         name: Provisioning
         items:
           - item:
             name: Apache Mesos
-            homepage_url: 'https://mesos.apache.org/'
-            repo_url: 'https://github.com/apache/mesos'
-            logo: 'https://landscape.cncf.io/logos/apache-mesos.svg'
-            twitter: 'https://twitter.com/ApacheMesos'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            homepage_url: https://mesos.apache.org/
+            repo_url: https://github.com/apache/mesos
+            logo: https://landscape.cncf.io/logos/apache-mesos.svg
+            twitter: https://twitter.com/ApacheMesos
+            crunchbase: https://www.crunchbase.com/organization/apache
           - item:
             name: Dianomic System Inc
-            homepage_url: 'https://dianomic.com'
+            homepage_url: https://dianomic.com
             logo: dianomic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dianomic'
+            crunchbase: https://www.crunchbase.com/organization/dianomic
           - item:
             name: Digital Rebar
-            homepage_url: 'https://rebar.digital'
-            repo_url: 'https://github.com/digitalrebar/provision'
-            logo: 'https://landscape.cncf.io/logos/digital-rebar.svg'
-            twitter: 'https://twitter.com/digitalrebar'
-            crunchbase: 'https://www.crunchbase.com/organization/rackn-inc'
+            homepage_url: https://rebar.digital
+            repo_url: https://github.com/digitalrebar/provision
+            logo: https://landscape.cncf.io/logos/digital-rebar.svg
+            twitter: https://twitter.com/digitalrebar
+            crunchbase: https://www.crunchbase.com/organization/rackn-inc
           - item:
             name: Foreman
-            homepage_url: 'https://theforeman.org/'
-            repo_url: 'https://github.com/theforeman/foreman'
-            logo: 'https://landscape.cncf.io/logos/foreman.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/foreman'
+            homepage_url: https://theforeman.org/
+            repo_url: https://github.com/theforeman/foreman
+            logo: https://landscape.cncf.io/logos/foreman.svg
+            crunchbase: https://www.crunchbase.com/organization/foreman
           - item:
             name: Kubermatic KubeOne
-            homepage_url: 'https://www.kubermatic.com/products/kubeone'
-            repo_url: 'https://github.com/kubermatic/kubeone'
-            logo: 'https://github.com/cncf/landscape/blob/master/hosted_logos/kubeone.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/loodse-gmbh'
+            homepage_url: https://www.kubermatic.com/products/kubeone
+            repo_url: https://github.com/kubermatic/kubeone
+            logo: https://github.com/cncf/landscape/blob/master/hosted_logos/kubeone.svg
+            crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
           - item:
             name: Kubermatic Kubernetes Platform
-            homepage_url: 'https://www.kubermatic.com/products/kubermatic/'
-            repo_url: 'https://github.com/kubermatic/kubermatic'
-            logo: 'https://github.com/cncf/landscape/blob/master/cached_logos/kubermatic-kubernetes-platform.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/loodse-gmbh'
+            homepage_url: https://www.kubermatic.com/products/kubermatic/
+            repo_url: https://github.com/kubermatic/kubermatic
+            logo: https://github.com/cncf/landscape/blob/master/cached_logos/kubermatic-kubernetes-platform.svg
+            crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
           - item:
             name: Kubernetes
-            homepage_url: 'https://kubernetes.io/'
-            repo_url: 'https://github.com/kubernetes/kubernetes'
+            homepage_url: https://kubernetes.io/
+            repo_url: https://github.com/kubernetes/kubernetes
             logo: kubernetes.svg
-            twitter: 'https://twitter.com/kubernetesio'
-            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+            twitter: https://twitter.com/kubernetesio
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: LinuxKit
-            homepage_url: 'https://github.com/linuxkit/linuxkit'
-            repo_url: 'https://github.com/linuxkit/linuxkit'
-            logo: 'https://landscape.cncf.io/logos/linux-kit.svg'
-            twitter: 'https://twitter.com/moby'
-            crunchbase: 'https://www.crunchbase.com/organization/docker'
+            homepage_url: https://github.com/linuxkit/linuxkit
+            repo_url: https://github.com/linuxkit/linuxkit
+            logo: https://landscape.cncf.io/logos/linux-kit.svg
+            twitter: https://twitter.com/moby
+            crunchbase: https://www.crunchbase.com/organization/docker
           - item:
             name: MAAS
-            homepage_url: 'https://maas.io/'
-            repo_url: 'https://github.com/maas/maas'
-            logo: 'https://landscape.cncf.io/logos/maas.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
+            homepage_url: https://maas.io/
+            repo_url: https://github.com/maas/maas
+            logo: https://landscape.cncf.io/logos/maas.svg
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
             name: OpenNebula
-            homepage_url: 'https://opennebula.io'
-            repo_url: 'https://github.com/OpenNebula/one'
+            homepage_url: https://opennebula.io
+            repo_url: https://github.com/OpenNebula/one
             logo: OpenNebula.svg
-            crunchbase: 'https://www.crunchbase.com/organization/opennebula'
+            crunchbase: https://www.crunchbase.com/organization/opennebula
       - subcategory:
         name: Virtualization
         items:
           - item:
             name: Docker CE
-            homepage_url: 'https://www.docker.com/products/container-runtime'
-            repo_url: 'https://github.com/docker/docker-ce'
+            homepage_url: https://www.docker.com/products/container-runtime
+            repo_url: https://github.com/docker/docker-ce
             logo: docker.svg
-            crunchbase: 'https://www.crunchbase.com/organization/docker'
+            crunchbase: https://www.crunchbase.com/organization/docker
           - item:
             name: Kata Containers
-            homepage_url: 'https://katacontainers.io/'
-            repo_url: 'https://github.com/kata-containers/runtime'
-            logo: 'https://landscape.cncf.io/logos/kata-containers.svg'
-            twitter: 'https://twitter.com/KataContainers'
-            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+            homepage_url: https://katacontainers.io/
+            repo_url: https://github.com/kata-containers/runtime
+            logo: https://landscape.cncf.io/logos/kata-containers.svg
+            twitter: https://twitter.com/KataContainers
+            crunchbase: https://www.crunchbase.com/organization/openstack
           - item:
             name: Project ACRN
-            homepage_url: 'https://projectacrn.org'
-            repo_url: 'https://github.com/projectacrn/acrn-hypervisor'
+            homepage_url: https://projectacrn.org
+            repo_url: https://github.com/projectacrn/acrn-hypervisor
             logo: acrn.svg
-            crunchbase: 'https://www.crunchbase.com/organization/project-acrn'
+            crunchbase: https://www.crunchbase.com/organization/project-acrn
           - item:
             name: Project EVE
-            homepage_url: 'https://wiki.lfedge.org/display/EVE/EVE'
+            homepage_url: https://wiki.lfedge.org/display/EVE/EVE
             project: growth
-            repo_url: 'https://github.com/lf-edge/eve'
-            logo: 'https://raw.githubusercontent.com/lf-edge/artwork/master/project-eve/icon/color/eve-icon-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            repo_url: https://github.com/lf-edge/eve
+            logo: https://raw.githubusercontent.com/lf-edge/artwork/master/project-eve/icon/color/eve-icon-color.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
       - subcategory:
         name: IAAS
         items:
           - item:
             name: Alibaba Cloud
-            homepage_url: 'https://us.alibabacloud.com/'
-            logo: 'https://landscape.cncf.io/logos/alibaba-cloud-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
+            homepage_url: https://us.alibabacloud.com/
+            logo: https://landscape.cncf.io/logos/alibaba-cloud-member.svg
+            crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
             name: Amazon Web Services
-            homepage_url: 'https://aws.amazon.com/'
-            logo: 'https://landscape.cncf.io/logos/amazon-web-services-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+            homepage_url: https://aws.amazon.com/
+            logo: https://landscape.cncf.io/logos/amazon-web-services-member.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: DigitalOcean
-            homepage_url: 'https://www.digitalocean.com/'
-            logo: 'https://landscape.cncf.io/logos/digital-ocean-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/digitalocean'
+            homepage_url: https://www.digitalocean.com/
+            logo: https://landscape.cncf.io/logos/digital-ocean-member.svg
+            crunchbase: https://www.crunchbase.com/organization/digitalocean
           - item:
             name: Equinix Metal
-            homepage_url: 'https://metal.equinix.com/'
+            homepage_url: https://metal.equinix.com/
             logo: equinixmetal.svg
-            twitter: 'https://twitter.com/EquinixMetal'
-            crunchbase: 'https://www.crunchbase.com/organization/packet-host'
+            twitter: https://twitter.com/EquinixMetal
+            crunchbase: https://www.crunchbase.com/organization/packet-host
           - item:
             name: Google Cloud
-            homepage_url: 'https://twitter.com/googlecloud'
+            homepage_url: https://twitter.com/googlecloud
             logo: google_cloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/google-cloud-platform'
+            crunchbase: https://www.crunchbase.com/organization/google-cloud-platform
           - item:
             name: Hivelocity
-            homepage_url: 'https://www.hivelocity.net/'
+            homepage_url: https://www.hivelocity.net/
             logo: hivelocity.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hivelocity-ventures-corporation'
+            crunchbase: https://www.crunchbase.com/organization/hivelocity-ventures-corporation
           - item:
             name: IBM Cloud
-            homepage_url: 'https://www.ibm.com/cloud/learn/introduction-to-private-cloud'
-            logo: 'https://landscape.cncf.io/logos/ibm-cloud-private.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            homepage_url: https://www.ibm.com/cloud/learn/introduction-to-private-cloud
+            logo: https://landscape.cncf.io/logos/ibm-cloud-private.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Joyent
-            homepage_url: 'https://www.joyent.com/'
-            logo: 'https://landscape.cncf.io/logos/joyent-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/joyent'
+            homepage_url: https://www.joyent.com/
+            logo: https://landscape.cncf.io/logos/joyent-member.svg
+            crunchbase: https://www.crunchbase.com/organization/joyent
           - item:
             name: Oracle Cloud
-            homepage_url: 'https://www.oracle.com/cloud/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/oracle'
+            homepage_url: https://www.oracle.com/cloud/
+            logo: https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
             name: Rackspace Kubernetes-as-a-Service
-            homepage_url: 'https://www.rackspace.com/cloud/kubernetes'
-            logo: 'https://landscape.cncf.io/logos/rackspace-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/rackspace'
+            homepage_url: https://www.rackspace.com/cloud/kubernetes
+            logo: https://landscape.cncf.io/logos/rackspace-member.svg
+            crunchbase: https://www.crunchbase.com/organization/rackspace
       - subcategory:
         name: Physical
         items:
           - item:
             name: APC
-            homepage_url: 'https://www.apc.com/us/en/'
+            homepage_url: https://www.apc.com/us/en/
             logo: apc.svg
-            crunchbase: 'https://www.crunchbase.com/organization/schneider-electric'
+            crunchbase: https://www.crunchbase.com/organization/schneider-electric
           - item:
             name: Project Volutus
-            homepage_url: 'https://www.vapor.io'
+            homepage_url: https://www.vapor.io
             logo: volutus.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
+            crunchbase: https://www.crunchbase.com/organization/vapor-io
           - item:
             name: Schneider Electric
-            homepage_url: 'https://www.se.com/ww/en'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/9/95/Schneider_Electric_2007.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/schneider-electric'
+            homepage_url: https://www.se.com/ww/en
+            logo: https://upload.wikimedia.org/wikipedia/commons/9/95/Schneider_Electric_2007.svg
+            crunchbase: https://www.crunchbase.com/organization/schneider-electric
           - item:
             name: Tripp Lite
-            homepage_url: 'https://www.tripplite.com'
+            homepage_url: https://www.tripplite.com
             logo: tripplite.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tripp-lite'
+            crunchbase: https://www.crunchbase.com/organization/tripp-lite
   - category:
     name: Security
     subcategories:
@@ -408,31 +408,31 @@ landscape:
         items:
           - item:
             name: Aporeto
-            homepage_url: 'https://www.paloaltonetworks.com'
-            logo: 'https://landscape.cncf.io/logos/aporeto-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/aporeto'
+            homepage_url: https://www.paloaltonetworks.com
+            logo: https://landscape.cncf.io/logos/aporeto-member.svg
+            crunchbase: https://www.crunchbase.com/organization/aporeto
           - item:
             name: Imperva
-            homepage_url: 'https://www.imperva.com/'
+            homepage_url: https://www.imperva.com/
             logo: imperva.svg
-            crunchbase: 'https://www.crunchbase.com/organization/imperva'
+            crunchbase: https://www.crunchbase.com/organization/imperva
           - item:
             name: PerimeterX
-            homepage_url: 'https://www.perimeterx.com/'
+            homepage_url: https://www.perimeterx.com/
             logo: perimeterx.svg
-            crunchbase: 'https://www.crunchbase.com/organization/perimeterx-inc-'
+            crunchbase: https://www.crunchbase.com/organization/perimeterx-inc-
           - item:
             name: Secure Device Onboard
-            homepage_url: 'https://secure-device-onboard.github.io/docs/'
+            homepage_url: https://secure-device-onboard.github.io/docs/
             project: at_large
-            repo_url: 'https://github.com/secure-device-onboard/iot-platform-sdk'
-            logo: 'https://raw.githubusercontent.com/lf-edge/artwork/master/securedeviceonboard/horizontal/color/securedeviceonboard-horizontal-color.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            repo_url: https://github.com/secure-device-onboard/iot-platform-sdk
+            logo: https://raw.githubusercontent.com/lf-edge/artwork/master/securedeviceonboard/horizontal/color/securedeviceonboard-horizontal-color.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Xage Security
-            homepage_url: 'https://xage.com/'
+            homepage_url: https://xage.com/
             logo: xage_security.svg
-            crunchbase: 'https://www.crunchbase.com/organization/xage-security'
+            crunchbase: https://www.crunchbase.com/organization/xage-security
   - category:
     name: Networking
     subcategories:
@@ -441,46 +441,46 @@ landscape:
         items:
           - item:
             name: Nuage Networks
-            homepage_url: 'https://www.nuagenetworks.net/'
-            logo: 'https://landscape.cncf.io/logos/nuage-networks.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/nuage-networks'
+            homepage_url: https://www.nuagenetworks.net/
+            logo: https://landscape.cncf.io/logos/nuage-networks.svg
+            crunchbase: https://www.crunchbase.com/organization/nuage-networks
           - item:
             name: Pluribus Networks
-            homepage_url: 'https://www.pluribusnetworks.com'
+            homepage_url: https://www.pluribusnetworks.com
             logo: pluribus.svg
-            crunchbase: 'https://www.crunchbase.com/organization/pluribus-networks'
+            crunchbase: https://www.crunchbase.com/organization/pluribus-networks
           - item:
             name: Project Calico
-            homepage_url: 'https://www.projectcalico.org/'
-            repo_url: 'https://github.com/projectcalico/calico'
-            logo: 'https://landscape.cncf.io/logos/project-calico.svg'
-            twitter: 'https://twitter.com/projectcalico'
-            crunchbase: 'https://www.crunchbase.com/organization/tigera'
+            homepage_url: https://www.projectcalico.org/
+            repo_url: https://github.com/projectcalico/calico
+            logo: https://landscape.cncf.io/logos/project-calico.svg
+            twitter: https://twitter.com/projectcalico
+            crunchbase: https://www.crunchbase.com/organization/tigera
           - item:
             name: Riverbed
-            homepage_url: 'https://www.riverbed.com/'
-            logo: 'https://landscape.cncf.io/logos/riverbed.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/riverbed-technology'
+            homepage_url: https://www.riverbed.com/
+            logo: https://landscape.cncf.io/logos/riverbed.svg
+            crunchbase: https://www.crunchbase.com/organization/riverbed-technology
           - item:
             name: Silver Peak
-            homepage_url: 'https://www.silver-peak.com/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/5/54/Silver_Peak_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/silver-peak'
+            homepage_url: https://www.silver-peak.com/
+            logo: https://upload.wikimedia.org/wikipedia/commons/5/54/Silver_Peak_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/silver-peak
           - item:
             name: T-Mobile
-            homepage_url: 'https://www.t-mobile.com/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/42/T-Mobile-Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/t-mobile'
+            homepage_url: https://www.t-mobile.com/
+            logo: https://upload.wikimedia.org/wikipedia/commons/4/42/T-Mobile-Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
           - item:
             name: VMWare NSX
-            homepage_url: 'https://www.vmware.com/products/nsx.html'
-            logo: 'https://landscape.cncf.io/logos/v-mware-nsx.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+            homepage_url: https://www.vmware.com/products/nsx.html
+            logo: https://landscape.cncf.io/logos/v-mware-nsx.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: ZTE
-            homepage_url: 'https://www.zte.com.cn/global/404'
-            logo: 'https://landscape.cncf.io/logos/zte-kcsp.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
+            homepage_url: https://www.zte.com.cn/global/404
+            logo: https://landscape.cncf.io/logos/zte-kcsp.svg
+            crunchbase: https://www.crunchbase.com/organization/zte-corporation
   - category:
     name: Hardware
     subcategories:
@@ -489,58 +489,58 @@ landscape:
         items:
           - item:
             name: AMD
-            homepage_url: 'https://www.amd.com/en'
+            homepage_url: https://www.amd.com/en
             logo: amd.svg
-            twitter: 'https://twitter.com/AMD'
-            crunchbase: 'https://www.crunchbase.com/organization/amd'
+            twitter: https://twitter.com/AMD
+            crunchbase: https://www.crunchbase.com/organization/amd
           - item:
             name: ASRock Rack
-            homepage_url: 'https://www.asrockrack.com/'
-            logo: 'https://www.hpc-ags.com/modules/common/images/logo_ags_asrockrack.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/asrock-rack'
+            homepage_url: https://www.asrockrack.com/
+            logo: https://www.hpc-ags.com/modules/common/images/logo_ags_asrockrack.svg
+            crunchbase: https://www.crunchbase.com/organization/asrock-rack
           - item:
             name: Intel
-            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            homepage_url: https://www.intel.com/content/www/us/en/homepage.html
             logo: intel-new.svg
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
+            crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: Micron Technology
-            homepage_url: 'https://www.micron.com/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/9/9b/Micron_Technology_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/micron-technology'
+            homepage_url: https://www.micron.com/
+            logo: https://upload.wikimedia.org/wikipedia/commons/9/9b/Micron_Technology_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/micron-technology
           - item:
             name: NXP
-            homepage_url: 'https://www.nxp.com/'
+            homepage_url: https://www.nxp.com/
             logo: nxp.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nxp-semiconductors'
+            crunchbase: https://www.crunchbase.com/organization/nxp-semiconductors
           - item:
             name: RISC-V
-            homepage_url: 'https://riscv.org/'
+            homepage_url: https://riscv.org/
             logo: RISCV.svg
-            crunchbase: 'https://www.crunchbase.com/organization/risc-v'
+            crunchbase: https://www.crunchbase.com/organization/risc-v
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
         items:
           - item:
             name: Graphcore
-            homepage_url: 'https://www.graphcore.ai/'
-            logo: 'https://en.wikichip.org/w/images/e/ed/graphcore_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/graphcore'
+            homepage_url: https://www.graphcore.ai/
+            logo: https://en.wikichip.org/w/images/e/ed/graphcore_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/graphcore
           - item:
             name: Netronome Systems
-            homepage_url: 'https://www.netronome.com/'
+            homepage_url: https://www.netronome.com/
             logo: netronome.svg
-            crunchbase: 'https://www.crunchbase.com/organization/netronome-systems'
+            crunchbase: https://www.crunchbase.com/organization/netronome-systems
           - item:
             name: Nvidia
-            homepage_url: 'https://www.nvidia.com/en-us/'
+            homepage_url: https://www.nvidia.com/en-us/
             logo: nvidia.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+            crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: Xilinx
-            homepage_url: 'https://www.xilinx.com'
+            homepage_url: https://www.xilinx.com
             logo: xilinx.svg
-            crunchbase: 'https://www.crunchbase.com/organization/xilinx'
+            crunchbase: https://www.crunchbase.com/organization/xilinx
   - category:
     name: Edge OEMs
     subcategories:
@@ -549,20 +549,20 @@ landscape:
         items:
           - item:
             name: Supermicro
-            homepage_url: 'https://www.supermicro.com/en/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Super_Micro_Computer_Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/super-micro-computer'
+            homepage_url: https://www.supermicro.com/en/
+            logo: https://upload.wikimedia.org/wikipedia/commons/1/1d/Super_Micro_Computer_Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
           - item:
             name: Vertiv
-            homepage_url: 'https://www.vertiv.com/en-us/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/d/d9/Vertiv_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/vertiv'
+            homepage_url: https://www.vertiv.com/en-us/
+            logo: https://upload.wikimedia.org/wikipedia/commons/d/d9/Vertiv_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/vertiv
           - item:
             name: Zayo
-            homepage_url: 'https://www.zayo.com/'
+            homepage_url: https://www.zayo.com/
             logo: zayo.svg
-            twitter: 'https://twitter.com/ZayoGroup'
-            crunchbase: 'https://www.crunchbase.com/organization/zayo-group'
+            twitter: https://twitter.com/ZayoGroup
+            crunchbase: https://www.crunchbase.com/organization/zayo-group
   - category:
     name: Wireless & Wireline
     subcategories:
@@ -571,53 +571,53 @@ landscape:
         items:
           - item:
             name: Telefonica
-            homepage_url: 'https://www.telefonica.com/en/home'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/0/0a/Telefonica-Europe-Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/telefonica'
+            homepage_url: https://www.telefonica.com/en/home
+            logo: https://upload.wikimedia.org/wikipedia/commons/0/0a/Telefonica-Europe-Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/telefonica
           - item:
             name: Telia Company
-            homepage_url: 'https://www.teliacompany.com/en'
+            homepage_url: https://www.teliacompany.com/en
             stock_ticker: null
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Telia_Company_Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/teliasonera'
+            logo: https://upload.wikimedia.org/wikipedia/commons/a/a5/Telia_Company_Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/teliasonera
           - item:
             name: Verizon
-            homepage_url: 'https://www.verizon.com'
+            homepage_url: https://www.verizon.com
             logo: verizon.svg
-            crunchbase: 'https://www.crunchbase.com/organization/verizon'
+            crunchbase: https://www.crunchbase.com/organization/verizon
       - subcategory:
         name: Wireline
         items:
           - item:
             name: CenturyLink
-            homepage_url: 'https://www.centurylink.com/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/0/02/CenturyLink_2010_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/centurylink'
+            homepage_url: https://www.centurylink.com/
+            logo: https://upload.wikimedia.org/wikipedia/commons/0/02/CenturyLink_2010_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/centurylink
           - item:
             name: Charter Communications
-            homepage_url: 'https://www.spectrum.com'
+            homepage_url: https://www.spectrum.com
             logo: charter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/charter-communications'
+            crunchbase: https://www.crunchbase.com/organization/charter-communications
           - item:
             name: Comcast
-            homepage_url: 'https://www.xfinity.com/'
+            homepage_url: https://www.xfinity.com/
             logo: comcast.svg
-            crunchbase: 'https://www.crunchbase.com/organization/comcast'
+            crunchbase: https://www.crunchbase.com/organization/comcast
           - item:
             name: Cox Communications
-            homepage_url: 'https://www.cox.com/residential/home.html'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/0/03/Cox_Communications_Logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/cox-communications'
+            homepage_url: https://www.cox.com/residential/home.html
+            logo: https://upload.wikimedia.org/wikipedia/commons/0/03/Cox_Communications_Logo.svg
+            crunchbase: https://www.crunchbase.com/organization/cox-communications
           - item:
             name: Deutsche Telekom
-            homepage_url: 'https://www.telekom.com/en'
-            logo: 'https://cdn.freebiesupply.com/logos/large/2x/deutsche-telekom-2-logo-svg-vector.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/deutsche-telekom'
+            homepage_url: https://www.telekom.com/en
+            logo: https://cdn.freebiesupply.com/logos/large/2x/deutsche-telekom-2-logo-svg-vector.svg
+            crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
           - item:
             name: SoftBank
-            homepage_url: 'https://www.softbank.jp/en/'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/6/6f/Softbank_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/softbank'
+            homepage_url: https://www.softbank.jp/en/
+            logo: https://upload.wikimedia.org/wikipedia/commons/6/6f/Softbank_logo.svg
+            crunchbase: https://www.crunchbase.com/organization/softbank
   - category:
     name: Real Estate / Land
     subcategories:
@@ -626,30 +626,30 @@ landscape:
         items:
           - item:
             name: Siemens
-            homepage_url: 'https://www.siemens.com/global/en.html'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/siemens'
+            homepage_url: https://www.siemens.com/global/en.html
+            logo: https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
             name: Telxius
-            homepage_url: 'https://telxius.com/'
+            homepage_url: https://telxius.com/
             logo: telxius.svg
-            crunchbase: 'https://www.crunchbase.com/organization/telxius'
+            crunchbase: https://www.crunchbase.com/organization/telxius
       - subcategory:
         name: Non Traditional
         items:
           - item:
             name: Vapor IO
-            homepage_url: 'https://www.vapor.io/'
+            homepage_url: https://www.vapor.io/
             logo: vaporio.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
+            crunchbase: https://www.crunchbase.com/organization/vapor-io
       - subcategory:
         name: Towers
         items:
           - item:
             name: Vertical Bridge
-            homepage_url: 'https://www.verticalbridge.com/'
+            homepage_url: https://www.verticalbridge.com/
             logo: vertical-bridge.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vertical-bridge-holdings'
+            crunchbase: https://www.crunchbase.com/organization/vertical-bridge-holdings
       - subcategory:
         name: Municipal Right of Way (Easements)
         items: []
@@ -661,10 +661,10 @@ landscape:
         items:
           - item:
             name: HPE
-            homepage_url: 'https://www.hpe.com/us/en/home.html'
+            homepage_url: https://www.hpe.com/us/en/home.html
             logo: hpe.svg
-            twitter: 'https://twitter.com/HPE'
-            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard-enterprise'
+            twitter: https://twitter.com/HPE
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
   - category:
     name: Other Edge Related Software
     subcategories:
@@ -673,76 +673,76 @@ landscape:
         items:
           - item:
             name: D2iQ
-            homepage_url: 'https://d2iq.com/'
+            homepage_url: https://d2iq.com/
             logo: d2iq.svg
-            crunchbase: 'https://www.crunchbase.com/organization/D2iQ'
+            crunchbase: https://www.crunchbase.com/organization/D2iQ
           - item:
             name: Home Edge
-            homepage_url: 'https://www.lfedge.org/projects/homeedge'
+            homepage_url: https://www.lfedge.org/projects/homeedge
             project: growth
-            repo_url: 'https://github.com/lf-edge/edge-home-orchestration-go'
+            repo_url: https://github.com/lf-edge/edge-home-orchestration-go
             logo: home-edge-400.svg
-            twitter: 'https://twitter.com/LF_Edge'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            twitter: https://twitter.com/LF_Edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Inspur Group
-            homepage_url: 'https://en.inspur.com'
-            logo: 'https://landscape.cncf.io/logos/inspur-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/inspur-group'
+            homepage_url: https://en.inspur.com
+            logo: https://landscape.cncf.io/logos/inspur-member.svg
+            crunchbase: https://www.crunchbase.com/organization/inspur-group
           - item:
             name: Lenovo
-            homepage_url: 'https://www.lenovo.com/us/en/'
+            homepage_url: https://www.lenovo.com/us/en/
             logo: lenovo.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lenovo'
+            crunchbase: https://www.crunchbase.com/organization/lenovo
           - item:
             name: ObjectBox
-            homepage_url: 'https://objectbox.io/'
+            homepage_url: https://objectbox.io/
             logo: objectbox.svg
-            crunchbase: 'https://www.crunchbase.com/organization/objectbox'
+            crunchbase: https://www.crunchbase.com/organization/objectbox
           - item:
             name: Open Horizon
-            homepage_url: 'https://www.lfedge.org/projects/openhorizon/'
+            homepage_url: https://www.lfedge.org/projects/openhorizon/
             project: at_large
-            repo_url: 'https://github.com/open-horizon/anax'
-            logo: 'https://github.com/lf-edge/artwork/blob/master/openhorizon/horizontal/color/openhorizon-horizontal-color.svg'
-            twitter: 'https://twitter.com/LF_Edge'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-edge'
+            repo_url: https://github.com/open-horizon/anax
+            logo: https://github.com/lf-edge/artwork/blob/master/openhorizon/horizontal/color/openhorizon-horizontal-color.svg
+            twitter: https://twitter.com/LF_Edge
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Portworx
-            homepage_url: 'https://portworx.com/'
-            logo: 'https://landscape.cncf.io/logos/portworx.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/portworx'
+            homepage_url: https://portworx.com/
+            logo: https://landscape.cncf.io/logos/portworx.svg
+            crunchbase: https://www.crunchbase.com/organization/portworx
           - item:
             name: QCT
-            homepage_url: 'https://qct.io/'
+            homepage_url: https://qct.io/
             logo: qct.svg
-            crunchbase: 'https://www.crunchbase.com/organization/qct'
+            crunchbase: https://www.crunchbase.com/organization/qct
           - item:
             name: StorageOS
-            homepage_url: 'https://storageos.com/'
-            logo: 'https://landscape.cncf.io/logos/storage-os-member.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/storageos'
+            homepage_url: https://storageos.com/
+            logo: https://landscape.cncf.io/logos/storage-os-member.svg
+            crunchbase: https://www.crunchbase.com/organization/storageos
           - item:
             name: Wiwynn
-            homepage_url: 'https://www.wiwynn.com'
-            logo: 'https://www.nvidia.com/content/dam/logos/wiwynn-logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/wiwynn'
+            homepage_url: https://www.wiwynn.com
+            logo: https://www.nvidia.com/content/dam/logos/wiwynn-logo.svg
+            crunchbase: https://www.crunchbase.com/organization/wiwynn
           - item:
             name: Xnor.ai
-            homepage_url: 'https://www.xnor.ai/'
-            logo: 'https://greywhayle.com//img/company_logos/1565676751_313435.svg'
+            homepage_url: https://www.xnor.ai/
+            logo: https://greywhayle.com//img/company_logos/1565676751_313435.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/xnor-ai'
+            crunchbase: https://www.crunchbase.com/organization/xnor-ai
           - item:
             name: Yocto Project
-            homepage_url: 'https://www.yoctoproject.org/'
+            homepage_url: https://www.yoctoproject.org/
             logo: logo_yocto.svg
-            crunchbase: 'https://www.crunchbase.com/organization/yocto-project'
+            crunchbase: https://www.crunchbase.com/organization/yocto-project
           - item:
             name: ZT Systems
-            homepage_url: 'https://www.ztsystems.com'
+            homepage_url: https://www.ztsystems.com
             logo: zt-systems.svg
-            crunchbase: 'https://www.crunchbase.com/organization/zt-systems'
+            crunchbase: https://www.crunchbase.com/organization/zt-systems
   - category:
     name: LF Edge Member Company
     subcategories:
@@ -751,379 +751,379 @@ landscape:
         items:
           - item:
             name: Altran
-            homepage_url: 'https://northamerica.altran.com/'
+            homepage_url: https://northamerica.altran.com/
             stock_ticker: null
             logo: altran.svg
-            twitter: 'http://twitter.com/altran'
-            crunchbase: 'https://www.crunchbase.com/organization/altran'
+            twitter: http://twitter.com/altran
+            crunchbase: https://www.crunchbase.com/organization/altran
           - item:
             name: Arm
-            homepage_url: 'https://www.arm.com/'
+            homepage_url: https://www.arm.com/
             logo: arm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/arm'
+            crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: AT&T
-            homepage_url: 'https://www.att.com/'
+            homepage_url: https://www.att.com/
             logo: att.svg
-            crunchbase: 'https://www.crunchbase.com/organization/at-t'
+            crunchbase: https://www.crunchbase.com/organization/at-t
           - item:
             name: Baidu
-            homepage_url: 'https://www.baidu.com/'
+            homepage_url: https://www.baidu.com/
             logo: baidu.svg
-            twitter: 'https://twitter.com/Baidu_Inc'
-            crunchbase: 'https://www.crunchbase.com/organization/baidu'
+            twitter: https://twitter.com/Baidu_Inc
+            crunchbase: https://www.crunchbase.com/organization/baidu
           - item:
             name: Charter Communications (member)
-            homepage_url: 'https://www.spectrum.com'
+            homepage_url: https://www.spectrum.com
             logo: charter.svg
-            crunchbase: 'https://www.crunchbase.com/organization/charter-communications'
+            crunchbase: https://www.crunchbase.com/organization/charter-communications
           - item:
             name: Dell Technologies
-            homepage_url: 'https://www.delltechnologies.com/en-us/index.htm'
+            homepage_url: https://www.delltechnologies.com/en-us/index.htm
             logo: delltech-stacked.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dell-technologies'
+            crunchbase: https://www.crunchbase.com/organization/dell-technologies
           - item:
             name: Dianomic
-            homepage_url: 'http://dianomicstage.wpengine.com'
+            homepage_url: http://dianomicstage.wpengine.com
             logo: dianomic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/dianomic'
+            crunchbase: https://www.crunchbase.com/organization/dianomic
           - item:
             name: Equinix
-            homepage_url: 'https://www.equinix.com/'
+            homepage_url: https://www.equinix.com/
             logo: equinix.svg
-            crunchbase: 'https://www.crunchbase.com/organization/equinix'
+            crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
             name: Ericsson
-            homepage_url: 'https://www.ericsson.com/en'
+            homepage_url: https://www.ericsson.com/en
             logo: ericsson.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ericsson'
+            crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
             name: Fujitsu
-            homepage_url: 'https://www.fujitsu.com/global'
+            homepage_url: https://www.fujitsu.com/global
             logo: fujitsu.svg
-            crunchbase: 'https://www.crunchbase.com/organization/fujitsu'
+            crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
             name: Futurewei
-            homepage_url: 'https://www.futurewei.com/'
+            homepage_url: https://www.futurewei.com/
             logo: futurewei.svg
-            crunchbase: 'https://www.crunchbase.com/organization/futurewei-technologies'
+            crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
           - item:
             name: HP
-            homepage_url: 'https://www8.hp.com/us/en/home.html'
+            homepage_url: https://www8.hp.com/us/en/home.html
             logo: hp.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hewlett-packard'
+            crunchbase: https://www.crunchbase.com/organization/hewlett-packard
           - item:
             name: Huawei
-            homepage_url: 'https://www.huawei.com/en/'
+            homepage_url: https://www.huawei.com/en/
             logo: huawei.svg
-            crunchbase: 'https://www.crunchbase.com/organization/huawei'
+            crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: IBM
-            homepage_url: 'https://www.ibm.com/us-en/'
+            homepage_url: https://www.ibm.com/us-en/
             logo: ibm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Intel (member)
-            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            homepage_url: https://www.intel.com/content/www/us/en/homepage.html
             logo: intel-new.svg
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
+            crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: Nokia
-            homepage_url: 'https://www.nokia.com'
+            homepage_url: https://www.nokia.com
             stock_ticker: NOK
             logo: nokia.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nokia'
+            crunchbase: https://www.crunchbase.com/organization/nokia
           - item:
             name: NTT Group
-            homepage_url: 'https://www.ntt.co.jp/activity/en/global/'
+            homepage_url: https://www.ntt.co.jp/activity/en/global/
             logo: ntt.svg
-            twitter: 'https://twitter.com/NTTPR'
-            crunchbase: 'https://www.crunchbase.com/organization/ntt-group-a877'
+            twitter: https://twitter.com/NTTPR
+            crunchbase: https://www.crunchbase.com/organization/ntt-group-a877
           - item:
             name: OSIsoft
-            homepage_url: 'https://www.osisoft.com/'
+            homepage_url: https://www.osisoft.com/
             logo: osisoft.svg
-            crunchbase: 'https://www.crunchbase.com/organization/osisoft'
+            crunchbase: https://www.crunchbase.com/organization/osisoft
           - item:
             name: Radisys
-            homepage_url: 'https://www.radisys.com'
+            homepage_url: https://www.radisys.com
             stock_ticker: RELIANCE.NS
             logo: radisys.svg
-            crunchbase: 'https://www.crunchbase.com/organization/radisys'
+            crunchbase: https://www.crunchbase.com/organization/radisys
           - item:
             name: Red Hat
-            homepage_url: 'https://www.redhat.com/en'
+            homepage_url: https://www.redhat.com/en
             logo: RedHat-new.svg
-            crunchbase: 'https://www.crunchbase.com/organization/red-hat'
+            crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
             name: Samsung Electronics
-            homepage_url: 'https://www.samsung.com/us/smartphones/galaxy-note20-5g'
+            homepage_url: https://www.samsung.com/us/smartphones/galaxy-note20-5g
             logo: samsung.svg
-            crunchbase: 'https://www.crunchbase.com/organization/samsung-electronics'
+            crunchbase: https://www.crunchbase.com/organization/samsung-electronics
           - item:
             name: Tencent
-            homepage_url: 'https://www.tencent.com/zh-cn/index.html'
+            homepage_url: https://www.tencent.com/zh-cn/index.html
             logo: tencent.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/tencent'
+            crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
             name: Western Digital
-            homepage_url: 'https://www.westerndigital.com/'
+            homepage_url: https://www.westerndigital.com/
             logo: western-digital.svg
-            crunchbase: 'https://www.crunchbase.com/organization/western-digital'
+            crunchbase: https://www.crunchbase.com/organization/western-digital
           - item:
             name: Wipro Technologies
-            homepage_url: 'https://www.wipro.com/'
+            homepage_url: https://www.wipro.com/
             logo: wipro.svg
-            crunchbase: 'https://www.crunchbase.com/organization/wipro'
+            crunchbase: https://www.crunchbase.com/organization/wipro
           - item:
             name: ZEDEDA
-            homepage_url: 'https://zededa.com/'
+            homepage_url: https://zededa.com/
             logo: zededa.svg
-            twitter: 'https://twitter.com/zededaedge'
-            crunchbase: 'https://www.crunchbase.com/organization/zededa'
+            twitter: https://twitter.com/zededaedge
+            crunchbase: https://www.crunchbase.com/organization/zededa
       - subcategory:
         name: General
         items:
           - item:
             name: Beechwoods Software
-            homepage_url: 'https://www.beechwoods.com/'
+            homepage_url: https://www.beechwoods.com/
             logo: beechwoods.svg
-            crunchbase: 'https://www.crunchbase.com/organization/beechwoods-software'
+            crunchbase: https://www.crunchbase.com/organization/beechwoods-software
           - item:
             name: CertusNet
-            homepage_url: 'http://www.certusnet.com.cn/'
+            homepage_url: http://www.certusnet.com.cn/
             logo: certusnet.svg
-            crunchbase: 'https://www.crunchbase.com/organization/certusnet'
+            crunchbase: https://www.crunchbase.com/organization/certusnet
           - item:
             name: Cloudbrink
-            homepage_url: 'https://cloudbrink.io/'
+            homepage_url: https://cloudbrink.io/
             logo: cloudbrink.svg
-            crunchbase: 'https://www.crunchbase.com/organization/cloudbrink-inc'
+            crunchbase: https://www.crunchbase.com/organization/cloudbrink-inc
           - item:
             name: DATA AHEAD AG
-            homepage_url: 'https://dataahead.de/en/'
+            homepage_url: https://dataahead.de/en/
             logo: dataahead.svg
-            crunchbase: 'https://www.crunchbase.com/organization/data-ahead-ag'
+            crunchbase: https://www.crunchbase.com/organization/data-ahead-ag
           - item:
             name: EMQ Technologies
-            homepage_url: 'https://www.emqx.io/'
+            homepage_url: https://www.emqx.io/
             logo: emq.svg
-            crunchbase: 'https://www.crunchbase.com/organization/emq-technologies'
+            crunchbase: https://www.crunchbase.com/organization/emq-technologies
           - item:
             name: Federated Wireless
-            homepage_url: 'https://federatedwireless.com/'
+            homepage_url: https://federatedwireless.com/
             logo: federatedwireless.svg
-            crunchbase: 'https://www.crunchbase.com/organization/allied-communications'
+            crunchbase: https://www.crunchbase.com/organization/allied-communications
           - item:
             name: FogHorn
-            homepage_url: 'https://www.foghorn.io/'
+            homepage_url: https://www.foghorn.io/
             logo: foghorn.svg
-            crunchbase: 'https://www.crunchbase.com/organization/foghorn'
+            crunchbase: https://www.crunchbase.com/organization/foghorn
           - item:
             name: Foundries.io
-            homepage_url: 'https://foundries.io'
+            homepage_url: https://foundries.io
             logo: foundries.svg
-            crunchbase: 'https://www.crunchbase.com/organization/foundries-io'
+            crunchbase: https://www.crunchbase.com/organization/foundries-io
           - item:
             name: Foxconn Industrial Internet
-            homepage_url: 'http://fii-foxconn.com/'
+            homepage_url: http://fii-foxconn.com/
             logo: fii.svg
-            crunchbase: 'https://www.crunchbase.com/organization/foxconn-industrial-internet'
+            crunchbase: https://www.crunchbase.com/organization/foxconn-industrial-internet
           - item:
             name: HCL
-            homepage_url: 'https://www.hcltech.com/'
+            homepage_url: https://www.hcltech.com/
             logo: HCL.svg
-            crunchbase: 'https://www.crunchbase.com/organization/hcl-technologies'
+            crunchbase: https://www.crunchbase.com/organization/hcl-technologies
           - item:
             name: IOTech
-            homepage_url: 'https://www.iotechsys.com'
+            homepage_url: https://www.iotechsys.com
             logo: iotech.svg
-            crunchbase: 'https://www.crunchbase.com/organization/iotech-2'
+            crunchbase: https://www.crunchbase.com/organization/iotech-2
           - item:
             name: Jiangxing Intelligence
-            homepage_url: 'https://jiangxingai.com/'
+            homepage_url: https://jiangxingai.com/
             logo: jiangxing.svg
-            crunchbase: 'https://www.crunchbase.com/organization/jiangxing-intelligence'
+            crunchbase: https://www.crunchbase.com/organization/jiangxing-intelligence
           - item:
             name: Juniper Networks
-            homepage_url: 'https://www.juniper.net/us/en/'
+            homepage_url: https://www.juniper.net/us/en/
             logo: juniper.svg
-            crunchbase: 'https://www.crunchbase.com/organization/juniper-networks'
+            crunchbase: https://www.crunchbase.com/organization/juniper-networks
           - item:
             name: Kaloom
-            homepage_url: 'https://www.kaloom.com/'
+            homepage_url: https://www.kaloom.com/
             logo: kaloom_new.svg
-            crunchbase: 'https://www.crunchbase.com/organization/kaloom'
+            crunchbase: https://www.crunchbase.com/organization/kaloom
           - item:
             name: Linaro
-            homepage_url: 'https://www.linaro.org/'
+            homepage_url: https://www.linaro.org/
             logo: linaro.svg
-            crunchbase: 'https://www.crunchbase.com/organization/linaro'
+            crunchbase: https://www.crunchbase.com/organization/linaro
           - item:
             name: Marvell Technology
-            homepage_url: 'https://www.marvell.com/'
+            homepage_url: https://www.marvell.com/
             logo: marvell-horizontal-color.svg
-            crunchbase: 'https://www.crunchbase.com/organization/marvell-technology'
+            crunchbase: https://www.crunchbase.com/organization/marvell-technology
           - item:
             name: MobiledgeX
-            homepage_url: 'https://mobiledgex.com/'
+            homepage_url: https://mobiledgex.com/
             logo: mobiledgex.svg
-            crunchbase: 'https://www.crunchbase.com/organization/mobileedgex'
+            crunchbase: https://www.crunchbase.com/organization/mobileedgex
           - item:
             name: NetFoundry
-            homepage_url: 'https://netfoundry.io/'
+            homepage_url: https://netfoundry.io/
             logo: netfoundry-updated.svg
-            crunchbase: 'https://www.crunchbase.com/organization/netfoundry'
+            crunchbase: https://www.crunchbase.com/organization/netfoundry
           - item:
             name: OpenNebula (member)
-            homepage_url: 'https://opennebula.io'
+            homepage_url: https://opennebula.io
             logo: OpenNebula.svg
-            crunchbase: 'https://www.crunchbase.com/organization/opennebula'
+            crunchbase: https://www.crunchbase.com/organization/opennebula
           - item:
             name: ORI Industries
-            homepage_url: 'https://www.ori.co/'
+            homepage_url: https://www.ori.co/
             logo: ori.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ori-8629'
+            crunchbase: https://www.crunchbase.com/organization/ori-8629
           - item:
             name: Qualcomm
-            homepage_url: 'https://www.qualcomm.com'
+            homepage_url: https://www.qualcomm.com
             logo: qualcomm.svg
-            crunchbase: 'https://www.crunchbase.com/organization/qualcomm'
+            crunchbase: https://www.crunchbase.com/organization/qualcomm
           - item:
             name: REPLY
-            homepage_url: 'https://www.reply.com/en/'
+            homepage_url: https://www.reply.com/en/
             logo: reply.svg
-            crunchbase: 'https://www.crunchbase.com/organization/reply'
+            crunchbase: https://www.crunchbase.com/organization/reply
           - item:
             name: Robin.io
-            homepage_url: 'https://robin.io/'
+            homepage_url: https://robin.io/
             logo: robin.svg
-            crunchbase: 'https://www.crunchbase.com/organization/robin-systems'
+            crunchbase: https://www.crunchbase.com/organization/robin-systems
           - item:
             name: SAIC Foundation
-            homepage_url: 'https://tesra.org/'
+            homepage_url: https://tesra.org/
             logo: TESRA.svg
-            crunchbase: 'https://www.crunchbase.com/organization/saic-foundation-ltd'
+            crunchbase: https://www.crunchbase.com/organization/saic-foundation-ltd
           - item:
             name: section.io
-            homepage_url: 'https://www.section.io/'
+            homepage_url: https://www.section.io/
             logo: sectionio.svg
-            crunchbase: 'https://www.crunchbase.com/organization/section-io'
+            crunchbase: https://www.crunchbase.com/organization/section-io
           - item:
             name: Supermicro (member)
-            homepage_url: 'https://www.supermicro.com/en'
+            homepage_url: https://www.supermicro.com/en
             logo: supermicro.svg
-            crunchbase: 'https://www.crunchbase.com/organization/super-micro-computer'
+            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
           - item:
             name: Tensor Networks
-            homepage_url: 'https://www.tensornetworks.net'
+            homepage_url: https://www.tensornetworks.net
             logo: tensor.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tensor-networks'
+            crunchbase: https://www.crunchbase.com/organization/tensor-networks
           - item:
             name: ThunderSoft
-            homepage_url: 'https://www.thundersoft.com/'
+            homepage_url: https://www.thundersoft.com/
             logo: thundersoft.svg
-            twitter: 'https://twitter.com/ThunderSoft_Ltd'
-            crunchbase: 'https://www.crunchbase.com/organization/thundersoft-company-limited'
+            twitter: https://twitter.com/ThunderSoft_Ltd
+            crunchbase: https://www.crunchbase.com/organization/thundersoft-company-limited
           - item:
             name: Toyota
-            homepage_url: 'https://www.toyota.com/'
+            homepage_url: https://www.toyota.com/
             logo: toyota.svg
-            twitter: 'https://twitter.com/Toyota'
-            crunchbase: 'https://www.crunchbase.com/organization/toyota'
+            twitter: https://twitter.com/Toyota
+            crunchbase: https://www.crunchbase.com/organization/toyota
           - item:
             name: Ubuntu
-            homepage_url: 'https://ubuntu.com/'
+            homepage_url: https://ubuntu.com/
             logo: ubuntu.svg
-            twitter: 'https://twitter.com/ubuntu'
-            crunchbase: 'https://www.crunchbase.com/organization/canonical-ltd'
+            twitter: https://twitter.com/ubuntu
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
             name: Vapor IO (member)
-            homepage_url: 'https://www.vapor.io/'
+            homepage_url: https://www.vapor.io/
             logo: vaporio.svg
-            crunchbase: 'https://www.crunchbase.com/organization/vapor-io'
+            crunchbase: https://www.crunchbase.com/organization/vapor-io
           - item:
             name: VoerEir
-            homepage_url: 'https://www.voereir.com/'
+            homepage_url: https://www.voereir.com/
             logo: voereir.svg
-            crunchbase: 'https://www.crunchbase.com/organization/voereir'
+            crunchbase: https://www.crunchbase.com/organization/voereir
           - item:
             name: Wind River
-            homepage_url: 'https://resources.windriver.com'
+            homepage_url: https://resources.windriver.com
             logo: windriver.svg
-            twitter: 'https://twitter.com/windriver'
-            crunchbase: 'https://www.crunchbase.com/organization/wind-river'
+            twitter: https://twitter.com/windriver
+            crunchbase: https://www.crunchbase.com/organization/wind-river
           - item:
             name: Zenlayer
-            homepage_url: 'https://www.zenlayer.com/'
+            homepage_url: https://www.zenlayer.com/
             logo: zenlayer.svg
-            crunchbase: 'https://www.crunchbase.com/organization/zenlayer'
+            crunchbase: https://www.crunchbase.com/organization/zenlayer
       - subcategory:
         name: Associate
         items:
           - item:
             name: Automotive Edge Computing Consortium
-            homepage_url: 'https://aecc.org/'
+            homepage_url: https://aecc.org/
             logo: aecc.svg
-            crunchbase: 'https://www.crunchbase.com/organization/automotive-edge-computing-consortium'
+            crunchbase: https://www.crunchbase.com/organization/automotive-edge-computing-consortium
           - item:
             name: Beijing University of Posts and Telecommunications
-            homepage_url: 'https://www.bupt.edu.cn/'
+            homepage_url: https://www.bupt.edu.cn/
             logo: bupt.svg
-            crunchbase: 'https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications'
+            crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
           - item:
             name: ETRI
-            homepage_url: 'https://etri.re.kr/eng/main/main.etri'
+            homepage_url: https://etri.re.kr/eng/main/main.etri
             logo: etri.svg
-            crunchbase: 'https://www.crunchbase.com/organization/etri'
+            crunchbase: https://www.crunchbase.com/organization/etri
           - item:
             name: Industrial Technology Research Institute
-            homepage_url: 'https://www.itri.org.tw/'
+            homepage_url: https://www.itri.org.tw/
             logo: itri.svg
-            crunchbase: 'https://www.crunchbase.com/organization/industrial-technology-research-institute'
+            crunchbase: https://www.crunchbase.com/organization/industrial-technology-research-institute
           - item:
             name: Infrastructure Masons
-            homepage_url: 'https://imasons.org'
+            homepage_url: https://imasons.org
             logo: imasons.svg
-            crunchbase: 'https://www.crunchbase.com/organization/infrastructure-masons'
+            crunchbase: https://www.crunchbase.com/organization/infrastructure-masons
           - item:
             name: IOTA Foundation
-            homepage_url: 'https://www.iota.org/'
+            homepage_url: https://www.iota.org/
             logo: IOTA.svg
-            crunchbase: 'https://www.crunchbase.com/organization/iota-foundation'
+            crunchbase: https://www.crunchbase.com/organization/iota-foundation
           - item:
             name: Open Infrastructure Foundation (member)
-            homepage_url: 'https://www.openstack.org/use-cases/edge-computing'
+            homepage_url: https://www.openstack.org/use-cases/edge-computing
             logo: OIF.svg
-            twitter: 'https://twitter.com/openinfradev'
-            crunchbase: 'https://www.crunchbase.com/organization/openstack'
+            twitter: https://twitter.com/openinfradev
+            crunchbase: https://www.crunchbase.com/organization/openstack
           - item:
             name: Open-IX (member)
-            homepage_url: 'https://open-ix.org/en/'
+            homepage_url: https://open-ix.org/en/
             logo: open-ix.svg
-            twitter: 'https://twitter.com/OpenIX'
-            crunchbase: 'https://www.crunchbase.com/organization/open-ix'
+            twitter: https://twitter.com/OpenIX
+            crunchbase: https://www.crunchbase.com/organization/open-ix
           - item:
             name: Project Haystack
-            homepage_url: 'https://project-haystack.org'
+            homepage_url: https://project-haystack.org
             logo: haystack.svg
-            crunchbase: 'https://www.crunchbase.com/organization/project-haystack'
+            crunchbase: https://www.crunchbase.com/organization/project-haystack
           - item:
             name: Shanghai OpenSource Information Technology Association
-            homepage_url: 'https://shanghaiopen.org.cn/en'
+            homepage_url: https://shanghaiopen.org.cn/en
             logo: ShanghaiOpen.svg
-            crunchbase: 'https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association'
+            crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
           - item:
             name: University of New Hampshire - Interoperability Lab
-            homepage_url: 'https://www.iol.unh.edu/'
+            homepage_url: https://www.iol.unh.edu/
             logo: unh.svg
-            crunchbase: 'https://www.crunchbase.com/organization/interoperability-laboratory'
+            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
       - subcategory:
         name: Liaison
         items:
           - item:
             name: Industrial Internet Consortium
-            homepage_url: 'https://www.iiconsortium.org/'
+            homepage_url: https://www.iiconsortium.org/
             logo: iic-liaison.svg
-            crunchbase: 'https://www.crunchbase.com/organization/industrial-internet-consortium-2'
+            crunchbase: https://www.crunchbase.com/organization/industrial-internet-consortium-2
