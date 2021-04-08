@@ -33,6 +33,13 @@ landscape:
                 - https://www.crunchbase.com/organization/linux-foundation
               funding: 3000000
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
               kind: funding
             image_data:
               fileName: cloud-native-computing-foundation.svg
@@ -40,7 +47,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:48:03.000Z
+              latest_tweet_date: 2021-04-07T23:10:09.000Z
           - item:
             name: Open Compute Project Foundation
             homepage_url: https://www.opencompute.org/
@@ -60,13 +67,18 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Infrastructure
+                - Innovation Management
+                - Open Source
             image_data:
               fileName: open-compute-project-foundation.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T20:22:22.000Z
+              latest_tweet_date: 2021-04-07T15:32:59.000Z
           - item:
             name: Open Edge Computing Initiative
             homepage_url: https://www.openedgecomputing.org/
@@ -86,6 +98,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: open-edge-computing-initiative.svg
               hash: CynM/ENKadQGVnW8RPWt7+5901vZqu/QWIpFM4wFN5g=
@@ -115,11 +129,14 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;7;0;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
-              stars: 134
+              stars: 135
               license: Creative Commons Attribution Share Alike 4.0 International
               description: >-
                 The Linux Foundation's Open Glossary of Edge Computing project curates and defines terms related to the field of edge computing, collecting
@@ -132,7 +149,7 @@ landscape:
               contributors_link: https://github.com/State-of-the-Edge/glossary/graphs/contributors
             repos:
               - url: https://github.com/State-of-the-Edge/glossary
-                stars: 134
+                stars: 135
             github_start_commit_data:
               start_commit_link: /lf-edge/glossary/commit/94da828cf86671fc7d8fd16002cabe1faee065e9
               start_date: '2018-06-08T15:38:41Z'
@@ -142,7 +159,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
           - item:
             name: Open Infrastructure Foundation
             homepage_url: https://www.openstack.org/
@@ -163,6 +180,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Enterprise Software
+                - Open Source
+                - Software
             image_data:
               fileName: open-infrastructure-foundation.svg
               hash: 0l430/AE2sBoTTBQpEllTmmYh3TjOWG3vr/rQr2ekLE=
@@ -170,7 +193,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:01:27.000Z
+              latest_tweet_date: 2021-04-07T16:00:57.000Z
           - item:
             name: Open-IX
             homepage_url: https://open-ix.org/en/
@@ -191,6 +214,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Landscaping
+                - Online Portals
+                - Service Industry
             image_data:
               fileName: open-ix.svg
               hash: Csn1hdbpjAD8lls4JRUFm89o4GbwWxEdrT9pzakbzCk=
@@ -219,6 +247,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communities
+                - Information Technology
             image_data:
               fileName: open19-foundation.svg
               hash: 9F7/bkRyBN/MuzONvvzyKj8dBRCEmcu6gUTgCuFsp6I=
@@ -246,6 +278,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Association
+                - Telecommunications
             image_data:
               fileName: wireless-infrastructure-association.svg
               hash: bPdej/1OYzrXYUtdelFx7OkcwjfSM4zCUUTcayYn/x0=
@@ -253,7 +289,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:10:10.000Z
+              latest_tweet_date: 2021-04-07T15:02:00.000Z
           - item:
             name: Zephyr Project
             homepage_url: https://www.zephyrproject.org/
@@ -273,6 +309,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Information Technology
+                - Software
             image_data:
               fileName: zephyr-project.svg
               hash: GXVWQI2FitAdvoz7vwl/e6h3iGVxroC1TzAgZAP3N+M=
@@ -280,7 +321,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:00:25.000Z
+              latest_tweet_date: 2021-04-07T14:00:20.000Z
   - category:
     name: Traffic Routing
     subcategories:
@@ -308,6 +349,11 @@ landscape:
               parents: []
               funding: 118350000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Software
+                - Web Hosting
               kind: funding
             image_data:
               fileName: ns1.svg
@@ -316,7 +362,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:08:02.000Z
+              latest_tweet_date: 2021-04-07T22:08:04.000Z
           - item:
             name: VyOS
             homepage_url: https://vyos.io/
@@ -337,6 +383,13 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Data Center
+                - Network Hardware
+                - Network Security
+                - Software
             github_data:
               languages:
                 - name: Shell
@@ -354,18 +407,18 @@ landscape:
                 - name: Makefile
                   value: 8559
                   color: '#427819'
-              contributions: 6;6;4;7;2;5;3;7;11;4;33;20;8;2;1;3;9;4;5;2;18;10;21;2;6;4;1;16;4;8;5;9;3;6;3;6;13;9;9;23;5;10;10;16;2;6;7;2;4;4;20;11
+              contributions: 6;6;3;7;2;6;2;7;11;5;39;13;8;2;1;3;9;4;5;3;17;10;22;1;8;2;4;13;5;7;5;9;6;3;4;6;14;9;8;22;6;9;10;16;3;5;7;2;6;4;19;11
               firstWeek: 2020-04-12Z
-              stars: 440
+              stars: 441
               license: GNU General Public License v2.0
               description: VyOS image build scripts
-              latest_commit_date: '2021-04-05T02:16:25Z'
-              latest_commit_link: /vyos/vyos-build/commit/9c63b99198c8295036d9eccea96360dbc13a004d
+              latest_commit_date: '2021-04-07T16:33:24Z'
+              latest_commit_link: /vyos/vyos-build/commit/79f6e77ff3ede53fe424c73b3b48dca0d7c6424c
               contributors_count: 36
               contributors_link: https://github.com/vyos/vyos-build/graphs/contributors
             repos:
               - url: https://github.com/vyos/vyos-build
-                stars: 440
+                stars: 441
             github_start_commit_data:
               start_commit_link: /vyos/vyos-build/commit/8e71eae3a2323aacd12e4a484dfd3773c9d7cf03
               start_date: '2015-12-16T21:02:03Z'
@@ -406,6 +459,9 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Shell
@@ -431,7 +487,7 @@ landscape:
                 - name: JavaScript
                   value: 1833
                   color: '#f1e05a'
-              contributions: 0;0;1;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;1;2;0;0;0;0;0;1;0;0;0;1;0;0;1;4;4;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;0;1;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;2;1;0;0;0;0;0;1;0;0;0;1;0;1;0;5;3;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 0
               license: Unknown License
@@ -453,7 +509,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
       - subcategory:
         name: CDN & Distributed Caches
         items:
@@ -545,9 +601,20 @@ landscape:
               ticker: AKAM
               funding: 35000000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Content Delivery Network
+                - Cyber Security
+                - Digital Media
+                - Enterprise Software
+                - IaaS
+                - SaaS
+                - Software
+                - Video Streaming
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 16932442112
+              market_cap: 16728417280
               effective_ticker: AKAM
             image_data:
               fileName: akamai.svg
@@ -555,7 +622,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:30:23.000Z
+              latest_tweet_date: 2021-04-07T21:05:08.000Z
           - item:
             name: Amazon Cloudfront
             description: >-
@@ -596,9 +663,15 @@ landscape:
               ticker: AMZN
               funding: 108000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1623402872832
+              market_cap: 1651385958400
               effective_ticker: AMZN
             image_data:
               fileName: amazon-cloudfront.svg
@@ -606,7 +679,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-02T04:42:36.000Z
+              latest_tweet_date: 2021-04-08T05:18:31.000Z
           - item:
             name: Cisco SD-WAN
             homepage_url: https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html
@@ -1225,9 +1298,14 @@ landscape:
               ticker: CSCO
               funding: 2500000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Communications Infrastructure
+                - Enterprise Software
+                - Hardware
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 219638628352
+              market_cap: 218562068480
               effective_ticker: CSCO
             image_data:
               fileName: cisco-sd-wan.svg
@@ -1235,7 +1313,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:39:00.000Z
+              latest_tweet_date: 2021-04-08T01:08:07.000Z
           - item:
             name: Cloudflare
             homepage_url: https://www.cloudflare.com
@@ -1270,9 +1348,17 @@ landscape:
               ticker: NET
               funding: 332050000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Ad Server
+                - Advertising
+                - Analytics
+                - Enterprise Software
+                - Security
+                - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 22300323840
+              market_cap: 21633261568
               effective_ticker: NET
             image_data:
               fileName: cloudflare.svg
@@ -1281,7 +1367,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:00:41.000Z
+              latest_tweet_date: 2021-04-08T01:01:01.000Z
           - item:
             name: Google Cloud CDN
             homepage_url: https://cloud.google.com/cdn/
@@ -1840,9 +1926,15 @@ landscape:
               ticker: GOOG
               funding: 36100000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Enterprise Software
+                - Information Technology
+                - Search Engine
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1498039844864
+              market_cap: 1494417408000
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud-cdn.svg
@@ -1850,7 +1942,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:58:43.000Z
+              latest_tweet_date: 2021-04-08T06:04:36.000Z
           - item:
             name: Limelight Networks
             homepage_url: https://www.limelight.com
@@ -1880,9 +1972,15 @@ landscape:
               ticker: LLNW
               funding: 130000000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Content
+                - Content Delivery Network
+                - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 464264896
+              market_cap: 450610080
               effective_ticker: LLNW
             image_data:
               fileName: limelight-networks.svg
@@ -1891,7 +1989,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:00:40.000Z
+              latest_tweet_date: 2021-04-07T16:00:41.000Z
           - item:
             name: Stackpath
             homepage_url: https://www.stackpath.com/
@@ -1925,6 +2023,12 @@ landscape:
               parents: []
               funding: 396000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Enterprise Software
+                - Network Security
+                - SaaS
               kind: funding
             image_data:
               fileName: stackpath.svg
@@ -1957,6 +2061,11 @@ landscape:
               parents: []
               funding: 25000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Mobile
+                - Telecommunications
               kind: funding
             image_data:
               fileName: alef-edge.svg
@@ -1986,6 +2095,15 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Security
+                - Content Delivery Network
+                - Enterprise Software
+                - Network Security
+                - SaaS
+                - Web Hosting
             image_data:
               fileName: azion.svg
               hash: rX6fFoXqGd/2/SYNTFIekSRH0h+DP09pf4zcVzru+/A=
@@ -2022,6 +2140,13 @@ landscape:
                 - https://www.crunchbase.com/organization/linux-foundation
               funding: 3000000
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
               kind: funding
             github_data:
               languages:
@@ -2041,9 +2166,9 @@ landscape:
                   value: 3160
                   color: '#384d54'
               contributions: >-
-                15;21;27;26;57;32;29;33;26;26;39;7;25;29;27;48;31;18;25;21;15;29;17;20;44;5;16;19;12;23;20;34;22;12;26;17;23;19;24;19;33;12;23;16;4;4;10;13;14;69;52;2
+                13;21;32;24;59;29;30;32;31;24;34;9;25;27;28;46;37;12;24;22;16;30;19;21;42;1;17;22;8;27;22;33;22;9;25;22;17;29;14;28;29;12;19;15;4;5;10;15;18;91;24;1
               firstWeek: 2020-04-12Z
-              stars: 3763
+              stars: 3765
               license: Apache License 2.0
               description: Kubernetes Native Edge Computing Framework (project under CNCF)
               latest_commit_date: '2021-04-06T07:25:32Z'
@@ -2054,7 +2179,7 @@ landscape:
               contributors_link: https://github.com/kubeedge/kubeedge/graphs/contributors
             repos:
               - url: https://github.com/kubeedge/kubeedge
-                stars: 3763
+                stars: 3765
             github_start_commit_data:
               start_commit_link: /kubeedge/kubeedge/commit/316bd63786ff57353772847626f5f7df7f1e1f53
               start_date: '2018-09-28T08:57:50Z'
@@ -2086,6 +2211,15 @@ landscape:
               parents: []
               funding: 8000000
               stockExchange: null
+              company_type: ''
+              industries:
+                - Apps
+                - Developer Platform
+                - Information Technology
+                - Internet
+                - PaaS
+                - SaaS
+                - Software
               kind: funding
             image_data:
               fileName: rafay-systems.svg
@@ -2114,6 +2248,11 @@ landscape:
               parents: []
               funding: 10028988
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Content Delivery Network
+                - Enterprise Software
+                - Security
               kind: funding
             image_data:
               fileName: section.svg
@@ -2122,7 +2261,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-02T14:50:18.000Z
+              latest_tweet_date: 2021-04-07T13:25:17.000Z
           - item:
             name: VMWare Tanzu Kubernetes Grid (TKG)
             homepage_url: https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html
@@ -2254,9 +2393,15 @@ landscape:
               ticker: VMW
               funding: 393500000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Management
+                - Enterprise Software
+                - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 63186796544
+              market_cap: 64381612032
               effective_ticker: VMW
             image_data:
               fileName: vm-ware-tanzu-kubernetes-grid-tkg.svg
@@ -2264,7 +2409,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T03:44:03.000Z
+              latest_tweet_date: 2021-04-08T03:02:07.000Z
       - subcategory:
         name: IoT Focused
         items:
@@ -2290,6 +2435,9 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Go
@@ -2301,9 +2449,9 @@ landscape:
                 - name: Dockerfile
                   value: 344
                   color: '#384d54'
-              contributions: 11;19;5;8;4;6;1;8;17;1;7;4;6;2;4;3;12;15;13;8;12;4;10;15;17;0;1;7;6;5;3;6;5;6;2;4;1;1;3;0;2;3;9;2;0;1;1;2;1;6;1;0
+              contributions: 21;9;9;4;5;6;0;13;12;2;7;5;6;0;5;8;8;14;13;9;10;6;10;18;12;0;3;6;7;3;5;4;8;4;1;4;1;3;1;0;3;2;11;0;0;2;1;1;3;4;1;0
               firstWeek: 2020-04-12Z
-              stars: 1521
+              stars: 1523
               license: Apache License 2.0
               description: Extend cloud computing, data and service seamlessly to edge devices.
               latest_commit_date: '2021-03-29T06:17:40Z'
@@ -2314,7 +2462,7 @@ landscape:
               contributors_link: https://github.com/baetyl/baetyl/graphs/contributors
             repos:
               - url: https://github.com/baetyl/baetyl
-                stars: 1521
+                stars: 1523
             github_start_commit_data:
               start_commit_link: /baetyl/baetyl/commit/2d56b5c58ef5cf923bd8e441c1e7b9c2924c4324
               start_date: '2018-09-11T09:31:23Z'
@@ -2324,7 +2472,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
           - item:
             name: EdgeX Foundry
             homepage_url: https://www.edgexfoundry.org/
@@ -2348,10 +2496,13 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Go
-                  value: 2910365
+                  value: 2910393
                   color: '#00ADD8'
                 - name: Shell
                   value: 49578
@@ -2364,13 +2515,13 @@ landscape:
                   color: '#427819'
                 - name: HCL
                   value: 1314
-              contributions: 4;15;12;19;9;7;8;6;6;7;3;7;3;9;2;6;6;2;4;9;5;6;11;7;15;30;54;34;34;5;4;1;12;13;19;12;10;2;27;24;41;21;23;27;10;15;12;10;14;22;26;17
+              contributions: 5;14;14;15;12;10;4;4;6;8;4;5;3;9;4;7;3;3;4;8;7;4;14;6;20;36;42;38;33;1;4;3;11;15;16;16;6;4;28;30;34;23;21;25;13;14;11;13;10;26;30;11
               firstWeek: 2020-04-12Z
               stars: 772
               license: Apache License 2.0
               description: 'EdgeX Golang Services Monorepo | Owner: Core/Support WG'
-              latest_commit_date: '2021-04-07T01:33:56Z'
-              latest_commit_link: /edgexfoundry/edgex-go/commit/1fa86f97d63fcad7b96d726da483d93f5db5c4b0
+              latest_commit_date: '2021-04-07T20:26:15Z'
+              latest_commit_link: /edgexfoundry/edgex-go/commit/abd01a6d142b6f684e0380bd2bdcda548b905f03
               contributors_count: 90
               contributors_link: https://github.com/edgexfoundry/edgex-go/graphs/contributors
             repos:
@@ -2386,7 +2537,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T15:30:01.000Z
+              latest_tweet_date: 2021-04-07T14:59:59.000Z
           - item:
             name: Fledge
             homepage_url: https://www.lfedge.org/projects/fledge
@@ -2409,13 +2560,16 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Python
                   value: 3126200
                   color: '#3572A5'
                 - name: C++
-                  value: 2886013
+                  value: 2886070
                   color: '#f34b7d'
                 - name: Shell
                   value: 241986
@@ -2428,13 +2582,13 @@ landscape:
                 - name: C
                   value: 2167
                   color: '#555555'
-              contributions: 19;47;19;17;23;23;9;19;18;17;9;6;6;23;11;7;2;5;12;20;27;13;3;5;14;14;15;20;14;9;25;13;33;16;24;23;24;11;7;9;7;9;35;12;28;64;38;12;15;20;37;40
+              contributions: 28;34;18;14;24;21;11;18;18;17;9;4;7;25;9;7;2;6;11;33;19;8;3;12;7;18;14;21;11;13;20;17;32;13;25;21;35;0;12;10;1;11;40;9;37;57;34;14;14;23;43;31
               firstWeek: 2020-04-12Z
               stars: 32
               license: Apache License 2.0
               description: An open source platform for the Industrial Internet of Things, it acts as an edge gateway between sensor devices and cloud storage systems.
-              latest_commit_date: '2021-04-06T16:30:20Z'
-              latest_commit_link: /fledge-iot/fledge/commit/eacec6b33476c9eb8a9b5276eb58f7ac04f67bd1
+              latest_commit_date: '2021-04-07T14:29:33Z'
+              latest_commit_link: /fledge-iot/fledge/commit/0ccfdb78ba3ad488780aa3e1f78fa03d1d0186c0
               release_date: '2021-02-25T04:42:59Z'
               release_link: https://github.com/fledge-iot/fledge/releases
               contributors_count: 39
@@ -2452,7 +2606,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
           - item:
             name: IBM Watson IoT
             homepage_url: https://www.ibm.com/cloud/watson-iot-platform
@@ -2474,9 +2628,14 @@ landscape:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Business Intelligence
+                - Market Research
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119938187264
+              market_cap: 120572633088
               effective_ticker: IBM
             image_data:
               fileName: ibm-watson-io-t.svg
@@ -2485,7 +2644,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:17:36.000Z
+              latest_tweet_date: 2021-04-07T15:58:55.000Z
           - item:
             name: Wilderness Labs
             homepage_url: https://www.wildernesslabs.co
@@ -2507,6 +2666,13 @@ landscape:
               parents: []
               funding: 350000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Platform
+                - Hardware
+                - Internet of Things
+                - Operating Systems
+                - SaaS
               kind: funding
             github_data:
               languages:
@@ -2519,7 +2685,7 @@ landscape:
                 - name: PowerShell
                   value: 2446
                   color: '#012456'
-              contributions: 21;13;11;6;0;4;13;26;8;4;38;13;1;32;13;18;5;2;10;2;5;4;0;6;0;0;1;11;0;1;14;21;3;15;5;8;0;0;13;37;19;1;1;17;19;19;19;18;5;10;1;0
+              contributions: 19;13;11;6;0;5;12;27;7;4;44;7;1;41;7;15;5;2;10;2;5;4;2;4;0;0;1;11;0;1;14;22;5;12;5;8;0;0;15;46;8;1;1;17;21;17;21;16;15;0;1;0
               firstWeek: 2020-04-12Z
               stars: 91
               license: Unknown License
@@ -2542,7 +2708,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:58:24.000Z
+              latest_tweet_date: 2021-04-08T00:57:46.000Z
       - subcategory:
         name: Decentralized
         items:
@@ -2568,6 +2734,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Enterprise Software
+                - Open Source
+                - Software
             github_data:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -2591,7 +2763,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T16:01:25.000Z
+              latest_tweet_date: 2021-04-07T16:02:02.000Z
   - category:
     name: Infrastructure
     subcategories:
@@ -2619,6 +2791,14 @@ landscape:
               parents: []
               funding: 90000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Cloud Management
+                - Data Center
+                - Data Center Automation
+                - Hardware
+                - Software
               kind: funding
             github_data:
               languages: []
@@ -2669,6 +2849,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Non Profit
+                - Software
             github_data:
               languages:
                 - name: C++
@@ -2714,9 +2898,9 @@ landscape:
                 - name: Groovy
                   value: 1459
                   color: '#e69f56'
-              contributions: 10;15;4;6;13;5;4;15;1;1;1;1;0;3;10;3;9;5;7;11;16;10;25;8;2;1;7;4;3;1;1;2;4;0;1;0;0;0;1;3;1;2;2;0;0;0;0;0;0;0;0;0
+              contributions: 9;15;5;12;7;8;1;14;2;0;1;1;2;3;8;3;10;6;5;12;15;14;23;6;2;1;8;4;2;1;1;2;4;0;1;0;0;0;1;3;1;2;2;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-04-12Z
-              stars: 4703
+              stars: 4705
               license: Apache License 2.0
               description: Apache Mesos
               latest_commit_date: '2021-03-02T05:56:50Z'
@@ -2725,7 +2909,7 @@ landscape:
               contributors_link: https://github.com/apache/mesos/graphs/contributors
             repos:
               - url: https://github.com/apache/mesos
-                stars: 4703
+                stars: 4705
             github_start_commit_data:
               start_commit_link: /apache/mesos/commit/54a6a53e5fc378aa13e75f6686202b3d427684da
               start_date: '2011-04-27T06:59:39Z'
@@ -2755,6 +2939,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet of Things
             image_data:
               fileName: dianomic-system-inc.svg
               hash: coOUVmgN1LISHe6WCitDyAyJhfmujC3+IMVOp5G37lI=
@@ -2785,11 +2972,18 @@ landscape:
               parents: []
               funding: 800000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Data Center Automation
+                - Open Source
+                - SaaS
+                - Service Industry
+                - Software
               kind: funding
             github_data:
               languages:
                 - name: Go
-                  value: 733747
+                  value: 733648
                   color: '#00ADD8'
                 - name: Shell
                   value: 80917
@@ -2806,13 +3000,13 @@ landscape:
                 - name: Dockerfile
                   value: 1280
                   color: '#384d54'
-              contributions: 4;25;35;25;19;12;4;9;29;20;24;15;7;6;0;5;23;12;10;21;14;16;16;19;22;16;1;5;11;7;10;3;16;5;8;13;6;0;3;11;2;1;16;2;5;7;18;8;2;10;19;8
+              contributions: 4;33;27;29;21;8;4;8;32;22;27;6;7;6;0;11;19;10;12;27;12;18;14;24;16;11;2;8;7;9;8;5;14;11;4;13;4;2;1;11;2;3;16;0;5;8;18;7;3;23;5;11
               firstWeek: 2020-04-12Z
               stars: 132
               license: Other
               description: Docs, API bindings, clients and integrations supporting RackN Digital Rebar data center provisioning and workflow system.
-              latest_commit_date: '2021-04-07T01:44:31Z'
-              latest_commit_link: /digitalrebar/provision/commit/5d41a4a2dc5ab43db33a79bb34ff2c8878c3dfa8
+              latest_commit_date: '2021-04-07T21:01:52Z'
+              latest_commit_link: /digitalrebar/provision/commit/354303a31a6d622843589f990b15682476ccf96c
               contributors_count: 27
               contributors_link: https://github.com/digitalrebar/provision/graphs/contributors
             repos:
@@ -2848,6 +3042,13 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Internet
+                - Internet of Things
+                - Robotics
+                - Software
             github_data:
               languages:
                 - name: Ruby
@@ -2876,18 +3077,18 @@ landscape:
                 - name: Makefile
                   value: 1697
                   color: '#427819'
-              contributions: 6;8;15;19;17;16;22;14;19;11;10;23;8;11;16;19;12;13;10;16;21;12;19;5;16;19;17;9;16;16;6;6;9;7;16;11;12;4;8;12;11;20;7;8;12;9;5;10;14;4;7;5
+              contributions: 6;11;14;19;20;14;22;12;21;11;12;18;9;12;14;19;11;16;10;18;18;11;19;9;15;19;14;10;18;14;7;4;8;10;15;11;12;2;10;10;16;15;8;9;11;10;3;12;12;6;6;5
               firstWeek: 2020-04-12Z
-              stars: 1981
+              stars: 1982
               license: GNU General Public License v3.0
               description: 'an application that automates the lifecycle of servers '
-              latest_commit_date: '2021-04-06T13:57:08Z'
-              latest_commit_link: /theforeman/foreman/commit/f5bfce8bc5cab43fa66c362d40ee843e0783fe72
+              latest_commit_date: '2021-04-07T08:59:27Z'
+              latest_commit_link: /theforeman/foreman/commit/a64edc9d661230e74b58ad98a857d93a3068f5b3
               contributors_count: 428
               contributors_link: https://github.com/theforeman/foreman/graphs/contributors
             repos:
               - url: https://github.com/theforeman/foreman
-                stars: 1981
+                stars: 1982
             github_start_commit_data:
               start_commit_link: /theforeman/foreman/commit/5563217a427f3786affdfb1c9e4584f04c0303e7
               start_date: '2009-07-13T08:55:23Z'
@@ -2916,6 +3117,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise
+                - SaaS
+                - Software
             github_data:
               languages:
                 - name: Go
@@ -2933,9 +3139,9 @@ landscape:
                 - name: Python
                   value: 608
                   color: '#3572A5'
-              contributions: 6;3;11;4;3;3;13;1;3;3;7;4;19;17;10;8;9;7;8;6;8;6;5;3;8;5;1;4;6;6;1;2;8;5;2;3;2;0;0;0;2;2;8;6;2;3;1;2;7;6;1;4
+              contributions: 5;4;9;4;3;8;8;1;3;4;6;5;20;15;14;8;5;7;10;5;10;4;4;4;7;5;1;4;6;6;1;3;8;4;2;4;1;0;0;0;2;4;8;4;4;2;1;2;8;4;1;4
               firstWeek: 2020-04-12Z
-              stars: 742
+              stars: 746
               license: Apache License 2.0
               description: 'Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  '
               latest_commit_date: '2021-04-06T07:23:23Z'
@@ -2946,7 +3152,7 @@ landscape:
               contributors_link: https://github.com/kubermatic/kubeone/graphs/contributors
             repos:
               - url: https://github.com/kubermatic/kubeone
-                stars: 742
+                stars: 746
             github_start_commit_data:
               start_commit_link: /kubermatic/kubeone/commit/fb502df476b05bdc0bd8523b9ad09ebd08f04980
               start_date: '2018-11-03T10:59:34Z'
@@ -2956,7 +3162,7 @@ landscape:
               badge: 2934
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2021-04-06T12:13:16.000Z
+              latest_tweet_date: 2021-04-07T12:02:02.000Z
           - item:
             name: Kubermatic Kubernetes Platform
             homepage_url: https://www.kubermatic.com/products/kubermatic/
@@ -2977,10 +3183,15 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise
+                - SaaS
+                - Software
             github_data:
               languages:
                 - name: Go
-                  value: 6474552
+                  value: 6481732
                   color: '#00ADD8'
                 - name: Shell
                   value: 196129
@@ -2998,13 +3209,13 @@ landscape:
                   value: 1839
                 - name: Smarty
                   value: 1049
-              contributions: 9;16;7;7;8;15;13;8;23;9;19;10;14;18;24;11;8;11;3;14;22;10;27;17;24;13;10;19;18;12;22;9;13;13;24;17;6;1;2;7;9;10;11;16;11;13;14;31;11;14;16;13
+              contributions: 7;16;7;6;11;17;9;10;23;9;19;9;17;17;25;9;7;11;4;27;9;13;24;15;26;10;11;20;19;16;16;12;11;18;20;15;5;2;1;7;11;10;15;12;13;10;16;28;15;13;16;11
               firstWeek: 2020-04-12Z
               stars: 695
               license: Other
               description: 'Kubermatic Kubernetes Platform - the Central Kubernetes Management Platform For Any Infrastructure '
-              latest_commit_date: '2021-04-06T17:11:04Z'
-              latest_commit_link: /kubermatic/kubermatic/commit/0d0659a8ece2c5793ddd9bbc99f69b4626b3d409
+              latest_commit_date: '2021-04-08T00:03:15Z'
+              latest_commit_link: /kubermatic/kubermatic/commit/f19d2fe96c7905b53101e9c70f303c530a88951d
               release_date: '2021-04-06T09:40:34Z'
               release_link: https://github.com/kubermatic/kubermatic/releases
               contributors_count: 72
@@ -3021,7 +3232,7 @@ landscape:
               badge: 4610
               percentage: 18
             twitter_data:
-              latest_tweet_date: 2021-04-06T12:13:16.000Z
+              latest_tweet_date: 2021-04-07T12:02:02.000Z
           - item:
             name: Kubernetes
             homepage_url: https://kubernetes.io/
@@ -3050,11 +3261,18 @@ landscape:
                 - https://www.crunchbase.com/organization/linux-foundation
               funding: 3000000
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
               kind: funding
             github_data:
               languages:
                 - name: Go
-                  value: 56419047
+                  value: 56418927
                   color: '#00ADD8'
                 - name: Shell
                   value: 1704572
@@ -3087,20 +3305,20 @@ landscape:
                   value: 128
                   color: '#e34c26'
               contributions: >-
-                177;199;219;161;185;251;183;191;215;194;249;230;216;193;146;128;134;112;119;61;222;227;160;154;145;156;126;151;170;250;322;235;103;75;71;209;109;51;91;198;196;224;220;204;202;225;266;506;166;61;55;7
+                177;200;209;164;196;254;178;196;212;198;247;242;189;189;151;123;131;122;101;61;270;199;153;170;127;152;134;147;191;263;320;213;89;73;157;131;96;54;107;217;198;205;216;211;208;225;303;472;139;54;45;9
               firstWeek: 2020-04-12Z
-              stars: 75944
+              stars: 75981
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2021-04-05T19:03:19Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/b0abe89ae259d5e891887414cb0e5f81c969c697
+              latest_commit_date: '2021-04-07T21:51:04Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/11f95dc04714afab790c2a381e4266bd83331740
               release_date: '2021-03-26T23:15:03Z'
               release_link: https://github.com/kubernetes/kubernetes/releases
               contributors_count: 3832
               contributors_link: https://github.com/kubernetes/kubernetes/graphs/contributors
             repos:
               - url: https://github.com/kubernetes/kubernetes
-                stars: 75944
+                stars: 75981
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -3111,7 +3329,7 @@ landscape:
               badge: 569
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:35:35.000Z
+              latest_tweet_date: 2021-04-07T12:56:18.000Z
           - item:
             name: LinuxKit
             homepage_url: https://github.com/linuxkit/linuxkit
@@ -3150,6 +3368,11 @@ landscape:
               parents: []
               funding: 330855439
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Open Source
+                - Software
               kind: funding
             github_data:
               languages:
@@ -3182,9 +3405,9 @@ landscape:
                 - name: Standard ML
                   value: 37
                   color: '#dc566d'
-              contributions: 42;13;16;4;26;1;0;0;0;1;0;0;0;0;0;6;0;0;0;1;0;0;2;0;0;0;5;8;1;1;1;2;2;6;3;1;2;2;1;3;7;1;0;1;2;0;0;1;0;1;0;11
+              contributions: 42;13;16;7;23;1;0;0;1;0;0;0;0;0;0;6;0;0;0;1;0;0;2;0;0;3;2;9;0;1;2;1;4;4;3;1;4;1;3;0;7;1;0;1;2;0;0;1;0;1;0;11
               firstWeek: 2020-04-12Z
-              stars: 6792
+              stars: 6794
               license: Apache License 2.0
               description: A toolkit for building secure, portable and lean operating systems for containers
               latest_commit_date: '2021-04-06T13:11:38Z'
@@ -3195,7 +3418,7 @@ landscape:
               contributors_link: https://github.com/linuxkit/linuxkit/graphs/contributors
             repos:
               - url: https://github.com/linuxkit/linuxkit
-                stars: 6792
+                stars: 6794
             github_start_commit_data:
               start_commit_link: /linuxkit/linuxkit/commit/0fa1e68dc65c5f484ce9c2851b5efa2c8617d4f9
               start_date: '2015-11-26T15:17:40Z'
@@ -3227,6 +3450,13 @@ landscape:
               parents: []
               funding: 12800000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Internet of Things
+                - Linux
+                - Open Source
+                - Software
               kind: funding
             github_data:
               languages:
@@ -3249,7 +3479,7 @@ landscape:
                   value: 590
                   color: '#555555'
               contributions: >-
-                21;28;29;38;19;16;13;22;29;39;28;38;36;29;14;7;27;24;15;23;30;21;26;46;31;13;29;29;27;10;17;14;26;33;36;22;19;0;22;32;42;23;44;30;26;31;60;29;60;24;0;0
+                18;26;34;32;20;18;11;22;38;35;26;39;35;24;14;10;27;22;20;23;24;26;23;48;32;15;30;33;15;12;19;13;31;32;31;25;13;0;24;49;28;28;40;27;34;36;48;40;55;14;0;0
               firstWeek: 2020-04-12Z
               stars: 162
               license: Other
@@ -3270,7 +3500,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:56:39.000Z
+              latest_tweet_date: 2021-04-07T13:42:45.000Z
           - item:
             name: OpenNebula
             homepage_url: https://opennebula.io
@@ -3291,16 +3521,21 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - IaaS
+                - Virtualization
             github_data:
               languages:
                 - name: C++
                   value: 4807553
                   color: '#f34b7d'
                 - name: Ruby
-                  value: 4615936
+                  value: 4616235
                   color: '#701516'
                 - name: JavaScript
-                  value: 3930031
+                  value: 3930513
                   color: '#f1e05a'
                 - name: C
                   value: 1576857
@@ -3309,7 +3544,7 @@ landscape:
                   value: 1071720
                   color: '#89e051'
                 - name: Handlebars
-                  value: 806161
+                  value: 806189
                 - name: Java
                   value: 497946
                   color: '#b07219'
@@ -3342,18 +3577,18 @@ landscape:
                   value: 2086
                   color: '#ecdebe'
               contributions: >-
-                28;45;58;41;53;78;89;57;43;47;23;25;23;7;20;14;19;4;9;7;12;17;31;17;26;22;28;22;29;24;18;38;39;42;25;43;19;0;22;79;62;46;35;32;35;52;41;35;62;34;34;24
+                28;55;47;36;60;83;85;56;41;41;31;19;20;11;18;16;15;6;8;10;8;23;29;17;26;28;23;21;32;18;21;42;37;43;24;42;14;0;22;94;58;40;37;35;42;46;43;37;56;31;33;26
               firstWeek: 2020-04-12Z
-              stars: 736
+              stars: 735
               license: Other
               description: The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
-              latest_commit_date: '2021-04-06T16:14:38Z'
-              latest_commit_link: /OpenNebula/one/commit/23bf3b153425ce3fc35585306c15cb86251fea1b
+              latest_commit_date: '2021-04-07T11:16:46Z'
+              latest_commit_link: /OpenNebula/one/commit/8950f895254912e6cd3041620206c4c59ecf94bf
               contributors_count: 172
               contributors_link: https://github.com/OpenNebula/one/graphs/contributors
             repos:
               - url: https://github.com/OpenNebula/one
-                stars: 736
+                stars: 735
             github_start_commit_data:
               start_commit_link: /OpenNebula/one/commit/ee0b0729ba4ab252696f7e09b81109d288c5db84
               start_date: '2008-06-17T13:26:21Z'
@@ -3364,7 +3599,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:16:56.000Z
+              latest_tweet_date: 2021-04-07T10:53:41.000Z
       - subcategory:
         name: Virtualization
         items:
@@ -3405,45 +3640,52 @@ landscape:
               parents: []
               funding: 330855439
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Open Source
+                - Software
               kind: funding
             github_data:
               languages:
                 - name: Go
-                  value: 10089629
+                  value: 10089602
                   color: '#00ADD8'
                 - name: Shell
-                  value: 464740
+                  value: 463409
                   color: '#89e051'
                 - name: PowerShell
                   value: 94326
                   color: '#012456'
                 - name: Makefile
-                  value: 38058
+                  value: 37742
                   color: '#427819'
                 - name: Dockerfile
-                  value: 33967
+                  value: 36101
                   color: '#384d54'
                 - name: C
                   value: 4815
                   color: '#555555'
+                - name: HCL
+                  value: 1340
                 - name: Assembly
                   value: 81
                   color: '#6E4C13'
               contributions: >-
-                50;83;35;85;86;59;32;21;37;53;25;62;27;34;92;62;56;43;37;15;37;10;67;62;50;46;26;54;32;50;63;37;31;21;48;44;28;7;18;35;30;38;31;13;25;36;24;18;14;26;37;41
+                61;73;55;68;89;55;32;19;37;58;28;58;27;47;73;77;48;36;36;15;36;28;63;58;47;51;15;56;43;36;68;46;20;26;46;46;22;5;22;40;24;43;24;17;28;32;21;17;14;39;29;42
               firstWeek: 2020-04-12Z
-              stars: 5187
+              stars: 5188
               license: Apache License 2.0
               description: Docker CE
-              latest_commit_date: '2021-04-06T17:29:54Z'
-              latest_commit_link: /docker/docker-ce/commit/437569b9f474acf0977de7d917d112a100850775
+              latest_commit_date: '2021-04-08T01:02:26Z'
+              latest_commit_link: /docker/docker-ce/commit/06ad89b957c2102620e95081f92c31f55c809fab
               release_date: '2020-12-02T00:14:53Z'
               release_link: https://github.com/docker/docker-ce/releases
               contributors_count: 2625
               contributors_link: https://github.com/docker/docker-ce/graphs/contributors
             repos:
               - url: https://github.com/docker/docker-ce
-                stars: 5187
+                stars: 5188
             github_start_commit_data:
               start_commit_link: /docker/docker-ce/commit/5c70746915d4589a692cbe50a43cf619ed0b7152
               start_date: '2013-01-19T00:13:39Z'
@@ -3476,6 +3718,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Enterprise Software
+                - Open Source
+                - Software
             github_data:
               languages:
                 - name: Go
@@ -3490,7 +3738,7 @@ landscape:
                 - name: Dockerfile
                   value: 386
                   color: '#384d54'
-              contributions: 12;17;24;6;9;27;4;11;22;15;6;13;2;5;10;14;12;8;8;8;7;4;13;10;12;7;10;10;7;15;10;13;4;3;5;2;2;1;0;6;6;5;0;2;1;1;0;0;0;0;3;4
+              contributions: 14;13;27;5;13;22;3;19;19;12;8;9;4;3;13;16;8;8;9;7;6;5;14;10;12;5;13;7;9;17;8;12;4;4;5;0;2;1;0;9;5;3;0;2;2;0;0;0;0;0;5;2
               firstWeek: 2020-04-12Z
               stars: 2080
               license: Apache License 2.0
@@ -3513,7 +3761,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T18:01:20.000Z
+              latest_tweet_date: 2021-04-07T18:01:49.000Z
           - item:
             name: Project ACRN
             homepage_url: https://projectacrn.org
@@ -3534,6 +3782,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             github_data:
               languages:
                 - name: C
@@ -3568,17 +3818,16 @@ landscape:
                 - name: CSS
                   value: 116
                   color: '#563d7c'
-              contributions: >-
-                35;46;35;31;42;14;17;27;33;26;26;14;13;14;24;32;17;23;18;38;44;22;28;10;7;11;13;12;48;31;11;7;10;13;15;9;11;5;4;10;12;12;38;22;4;12;23;21;15;12;15;1
+              contributions: 27;43;40;26;42;17;17;29;31;27;24;13;11;18;27;25;20;23;15;45;42;24;22;8;14;5;13;13;53;26;9;8;10;14;16;8;9;5;10;4;13;16;35;20;4;16;25;22;9;14;12;2
               firstWeek: 2020-04-12Z
               stars: 652
               license: BSD 3-Clause "New" or "Revised" License
               description: 'Project ACRN hypervisor '
-              latest_commit_date: '2021-04-07T05:50:48Z'
-              latest_commit_link: /projectacrn/acrn-hypervisor/commit/2a96c567b80b21869a16011a3f5bce46483f8ee9
+              latest_commit_date: '2021-04-07T20:40:40Z'
+              latest_commit_link: /projectacrn/acrn-hypervisor/commit/8f7a97c630cacc0b7fb720df541948e69968cabe
               release_date: '2020-12-03T02:05:28Z'
               release_link: https://github.com/projectacrn/acrn-hypervisor/releases
-              contributors_count: 163
+              contributors_count: 164
               contributors_link: https://github.com/projectacrn/acrn-hypervisor/graphs/contributors
             repos:
               - url: https://github.com/projectacrn/acrn-hypervisor
@@ -3616,10 +3865,13 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Go
-                  value: 3141821
+                  value: 3154354
                   color: '#00ADD8'
                 - name: Shell
                   value: 172651
@@ -3651,13 +3903,13 @@ landscape:
                 - name: NSIS
                   value: 9
               contributions: >-
-                45;36;62;47;32;26;18;27;37;35;40;65;39;37;36;29;35;23;62;35;51;25;38;37;36;42;40;13;23;23;37;42;15;27;27;23;18;8;4;8;25;39;28;26;27;34;21;31;15;29;14;7
+                47;56;42;51;26;29;12;31;43;32;49;52;49;29;36;28;35;30;61;32;52;22;40;33;43;39;33;19;20;23;43;38;20;20;25;25;16;6;4;14;25;34;28;29;26;33;32;21;14;28;16;12
               firstWeek: 2020-04-12Z
               stars: 272
               license: Apache License 2.0
               description: 'EVE is Edge Virtualization Engine '
-              latest_commit_date: '2021-04-06T15:42:54Z'
-              latest_commit_link: /lf-edge/eve/commit/8d58b77e3a4bce087ff142c5f7e860b1da9e4499
+              latest_commit_date: '2021-04-07T11:36:08Z'
+              latest_commit_link: /lf-edge/eve/commit/9d4a03cb9820a11371e2264791697e851cc6d850
               release_date: '2021-04-05T07:37:07Z'
               release_link: https://github.com/lf-edge/eve/releases
               contributors_count: 67
@@ -3674,7 +3926,7 @@ landscape:
               badge: 4746
               percentage: 50
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
       - subcategory:
         name: IAAS
         items:
@@ -3706,9 +3958,14 @@ landscape:
               ticker: 9988.HK
               funding: 1200000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Cloud Management
+                - Data Center
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 621391325669
+              market_cap: 625022393296
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-cloud.svg
@@ -3716,7 +3973,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:25:56.000Z
+              latest_tweet_date: 2021-04-07T07:07:54.000Z
           - item:
             name: Amazon Web Services
             homepage_url: https://aws.amazon.com/
@@ -3753,9 +4010,15 @@ landscape:
               ticker: AMZN
               funding: 108000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Web Development
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1623402872832
+              market_cap: 1651385958400
               effective_ticker: AMZN
             image_data:
               fileName: amazon-web-services.svg
@@ -3763,7 +4026,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:56:43.000Z
+              latest_tweet_date: 2021-04-07T15:04:40.000Z
           - item:
             name: DigitalOcean
             homepage_url: https://www.digitalocean.com/
@@ -3785,9 +4048,15 @@ landscape:
               ticker: DOCN
               funding: 455611777
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - SaaS
+                - Virtualization
+                - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 4634384896
+              market_cap: 4496438272
               effective_ticker: DOCN
             image_data:
               fileName: digital-ocean.svg
@@ -3795,7 +4064,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:38:42.000Z
+              latest_tweet_date: 2021-04-08T05:05:44.000Z
           - item:
             name: Equinix Metal
             homepage_url: https://metal.equinix.com/
@@ -3817,6 +4086,15 @@ landscape:
               parents: []
               funding: 36567845
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Developer Platform
+                - Information Services
+                - SaaS
+                - Software
+                - Web Hosting
               kind: funding
             image_data:
               fileName: equinix-metal.svg
@@ -3825,7 +4103,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:25:41.000Z
+              latest_tweet_date: 2021-04-08T01:11:23.000Z
           - item:
             name: Google Cloud
             homepage_url: https://twitter.com/googlecloud
@@ -3859,9 +4137,14 @@ landscape:
               ticker: GOOG
               funding: 36100000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Data Services
+                - Developer Platform
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1498039844864
+              market_cap: 1494417408000
               effective_ticker: GOOG
             image_data:
               fileName: google-cloud.svg
@@ -3870,7 +4153,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T03:33:52.000Z
+              latest_tweet_date: 2021-04-08T02:55:39.000Z
           - item:
             name: Hivelocity
             homepage_url: https://www.hivelocity.net/
@@ -3894,6 +4177,9 @@ landscape:
                   acquiree: Incero
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
             image_data:
               fileName: hivelocity.svg
               hash: ftbs8XD/LHcZfqcnzV42iHDxqPB94tJ4O2NtxaGdnQY=
@@ -3901,7 +4187,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:44:03.000Z
+              latest_tweet_date: 2021-04-08T01:28:16.000Z
           - item:
             name: IBM Cloud
             homepage_url: https://www.ibm.com/cloud/learn/introduction-to-private-cloud
@@ -4331,9 +4617,15 @@ landscape:
               parents: []
               ticker: IBM
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Business Information Systems
+                - CRM
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119938187264
+              market_cap: 120572633088
               effective_ticker: IBM
             image_data:
               fileName: ibm-cloud.svg
@@ -4341,7 +4633,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:17:08.000Z
+              latest_tweet_date: 2021-04-07T22:38:10.000Z
           - item:
             name: Joyent
             homepage_url: https://www.joyent.com/
@@ -4364,6 +4656,17 @@ landscape:
               parents: []
               funding: 130999998
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - Automotive
+                - Cloud Computing
+                - Enterprise Software
+                - Infrastructure
+                - Open Source
+                - Private Cloud
+                - Software
+                - Web Hosting
               kind: funding
             image_data:
               fileName: joyent.svg
@@ -4706,9 +5009,15 @@ landscape:
               parents: []
               ticker: ORCL
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Information Technology
+                - SaaS
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 214189342720
+              market_cap: 214188949504
               effective_ticker: ORCL
             image_data:
               fileName: oracle-cloud.svg
@@ -4716,7 +5025,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:45:00.000Z
+              latest_tweet_date: 2021-04-08T00:00:01.000Z
           - item:
             name: Rackspace Kubernetes-as-a-Service
             homepage_url: https://www.rackspace.com/cloud/kubernetes
@@ -4766,9 +5075,15 @@ landscape:
               ticker: RXT
               funding: 17800000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Cloud Computing
+                - Cloud Infrastructure
+                - IaaS
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 5253389824
+              market_cap: 5224524800
               effective_ticker: RXT
             image_data:
               fileName: rackspace-kubernetes-as-a-service.svg
@@ -4776,7 +5091,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:21:54.000Z
+              latest_tweet_date: 2021-04-07T21:36:05.000Z
       - subcategory:
         name: Physical
         items:
@@ -4901,6 +5216,15 @@ landscape:
               parents: []
               funding: 1600000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Energy
+                - Energy Management
+                - Enterprise Software
+                - Information Technology
+                - Renewable Energy
+                - Software
               kind: funding
             image_data:
               fileName: apc.svg
@@ -4909,7 +5233,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:30:01.000Z
+              latest_tweet_date: 2021-04-08T06:00:01.000Z
           - item:
             name: Project Volutus
             homepage_url: https://www.vapor.io
@@ -4930,6 +5254,14 @@ landscape:
               parents: []
               funding: 90000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Cloud Management
+                - Data Center
+                - Data Center Automation
+                - Hardware
+                - Software
               kind: funding
             image_data:
               fileName: project-volutus.svg
@@ -5060,6 +5392,15 @@ landscape:
               parents: []
               funding: 1600000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Energy
+                - Energy Management
+                - Enterprise Software
+                - Information Technology
+                - Renewable Energy
+                - Software
               kind: funding
             image_data:
               fileName: schneider-electric.svg
@@ -5067,7 +5408,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:30:01.000Z
+              latest_tweet_date: 2021-04-08T06:00:01.000Z
           - item:
             name: Tripp Lite
             homepage_url: https://www.tripplite.com
@@ -5087,6 +5428,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Hardware
+                - Industrial
             image_data:
               fileName: tripp-lite.svg
               hash: 6tv1+jq3l5MixG0IKm+kF/7OOZGAvE2gmdQ7idh2zlA=
@@ -5121,6 +5467,13 @@ landscape:
               parents: []
               funding: 34500000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Cyber Security
+                - Government
+                - Security
+                - Software
               kind: funding
             image_data:
               fileName: aporeto.svg
@@ -5165,6 +5518,15 @@ landscape:
               parents: []
               funding: 96806675
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Cyber Security
+                - Developer Tools
+                - Information Technology
+                - Network Security
+                - Security
+                - Software
               kind: funding
             image_data:
               fileName: imperva.svg
@@ -5173,7 +5535,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:09:20.000Z
+              latest_tweet_date: 2021-04-08T00:34:25.000Z
           - item:
             name: PerimeterX
             homepage_url: https://www.perimeterx.com/
@@ -5196,6 +5558,11 @@ landscape:
               parents: []
               funding: 148500000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Network Security
+                - Security
               kind: funding
             image_data:
               fileName: perimeter-x.svg
@@ -5204,7 +5571,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T21:34:04.000Z
+              latest_tweet_date: 2021-04-07T21:01:06.000Z
           - item:
             name: Secure Device Onboard
             homepage_url: https://secure-device-onboard.github.io/docs/
@@ -5227,6 +5594,9 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Java
@@ -5238,7 +5608,7 @@ landscape:
                 - name: Dockerfile
                   value: 547
                   color: '#384d54'
-              contributions: 0;0;0;0;1;2;0;2;0;0;2;1;2;2;2;3;0;1;5;4;1;0;0;0;0;2;0;0;0;0;1;2;2;1;1;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0
+              contributions: 0;0;0;0;1;2;0;2;0;0;3;0;2;3;2;2;1;2;3;4;1;0;0;0;0;2;0;0;0;0;2;1;2;2;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0
               firstWeek: 2020-04-12Z
               stars: 5
               license: Apache License 2.0
@@ -5259,7 +5629,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
           - item:
             name: Xage Security
             homepage_url: https://xage.com/
@@ -5280,6 +5650,13 @@ landscape:
               parents: []
               funding: 16000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Internet of Things
+                - Network Security
+                - Security
+                - Software
               kind: funding
             image_data:
               fileName: xage-security.svg
@@ -5288,7 +5665,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-03-08T20:00:28.000Z
+              latest_tweet_date: 2021-04-07T18:13:36.000Z
   - category:
     name: Networking
     subcategories:
@@ -5314,13 +5691,21 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communications Infrastructure
+                - IT Infrastructure
+                - Network Hardware
+                - Network Security
+                - Software
+                - Telecommunications
             image_data:
               fileName: nuage-networks.svg
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:00:45.000Z
+              latest_tweet_date: 2021-04-07T17:01:01.000Z
           - item:
             name: Pluribus Networks
             homepage_url: https://www.pluribusnetworks.com
@@ -5341,6 +5726,13 @@ landscape:
               parents: []
               funding: 116998998
               stockExchange: null
+              company_type: ''
+              industries:
+                - Big Data
+                - Cloud Computing
+                - Network Hardware
+                - Software
+                - Web Hosting
               kind: funding
             image_data:
               fileName: pluribus-networks.svg
@@ -5349,7 +5741,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T21:00:24.000Z
+              latest_tweet_date: 2021-04-07T18:00:28.000Z
           - item:
             name: Project Calico
             homepage_url: https://www.projectcalico.org/
@@ -5372,6 +5764,16 @@ landscape:
               parents: []
               funding: 53000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Security
+                - Compliance
+                - Cyber Security
+                - Enterprise Software
+                - Network Security
+                - Open Source
+                - SaaS
+                - Security
               kind: funding
             github_data:
               languages:
@@ -5409,20 +5811,20 @@ landscape:
                 - name: Dockerfile
                   value: 890
                   color: '#384d54'
-              contributions: 6;22;24;16;19;7;9;17;12;43;38;10;10;15;14;11;3;12;24;20;15;17;3;15;8;12;23;21;9;5;17;21;13;10;7;6;6;1;0;5;10;23;9;10;18;13;24;14;4;8;18;12
+              contributions: 10;20;31;14;13;8;9;16;21;33;41;8;12;16;11;11;3;15;22;22;17;11;6;12;9;18;17;27;2;8;18;17;14;13;3;8;4;1;1;4;15;18;10;15;15;16;19;16;1;9;18;12
               firstWeek: 2020-04-12Z
-              stars: 2470
+              stars: 2472
               license: Apache License 2.0
               description: Cloud native networking and network security
-              latest_commit_date: '2021-04-06T19:44:10Z'
-              latest_commit_link: /projectcalico/calico/commit/0c8daba09d185a2998dd87a8e6bfd811f9c29aa0
+              latest_commit_date: '2021-04-07T21:10:52Z'
+              latest_commit_link: /projectcalico/calico/commit/b6030b36fd36b34b74d2a6664ee188654f366faf
               release_date: '2021-03-11T20:49:07Z'
               release_link: https://github.com/projectcalico/calico/releases
               contributors_count: 193
               contributors_link: https://github.com/projectcalico/calico/graphs/contributors
             repos:
               - url: https://github.com/projectcalico/calico
-                stars: 2470
+                stars: 2472
             github_start_commit_data:
               start_commit_link: /projectcalico/calico/commit/8e3d75dd58a2d93eddfdf53baad931004d7fb783
               start_date: '2016-07-21T15:45:54Z'
@@ -5432,7 +5834,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T17:24:27.000Z
+              latest_tweet_date: 2021-04-07T15:13:42.000Z
           - item:
             name: Riverbed
             homepage_url: https://www.riverbed.com/
@@ -5473,6 +5875,14 @@ landscape:
               parents: []
               funding: 28400000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Computer
+                - Data Center
+                - Information Technology
+                - Robotics
+                - Software
               kind: funding
             image_data:
               fileName: riverbed.svg
@@ -5480,7 +5890,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:04:05.000Z
+              latest_tweet_date: 2021-04-07T23:01:04.000Z
           - item:
             name: Silver Peak
             homepage_url: https://www.silver-peak.com/
@@ -5501,6 +5911,14 @@ landscape:
               parents: []
               funding: 175946467
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Infrastructure
+                - Network Hardware
+                - SaaS
+                - Software
+                - Virtualization
               kind: funding
             image_data:
               fileName: silver-peak.svg
@@ -5508,7 +5926,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:55:03.000Z
+              latest_tweet_date: 2021-04-07T22:50:04.000Z
           - item:
             name: T-Mobile
             homepage_url: https://www.t-mobile.com/
@@ -5557,7 +5975,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:18:33.000Z
+              latest_tweet_date: 2021-04-07T22:56:25.000Z
           - item:
             name: VMWare NSX
             homepage_url: https://www.vmware.com/products/nsx.html
@@ -5689,9 +6107,15 @@ landscape:
               ticker: VMW
               funding: 393500000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Management
+                - Enterprise Software
+                - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 63186796544
+              market_cap: 64381612032
               effective_ticker: VMW
             image_data:
               fileName: vm-ware-nsx.svg
@@ -5699,7 +6123,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T03:44:03.000Z
+              latest_tweet_date: 2021-04-08T03:02:07.000Z
           - item:
             name: ZTE
             homepage_url: https://www.zte.com.cn/global/404
@@ -5720,9 +6144,13 @@ landscape:
               parents: []
               ticker: 000063.SZ
               stockExchange: szse
+              company_type: For Profit
+              industries:
+                - Network Hardware
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 19014269401
+              market_cap: 18952690475
               effective_ticker: 000063.SZ
             image_data:
               fileName: zte.svg
@@ -5730,7 +6158,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-01T08:40:42.000Z
+              latest_tweet_date: 2021-04-07T08:30:47.000Z
   - category:
     name: Hardware
     subcategories:
@@ -5773,9 +6201,17 @@ landscape:
               parents: []
               ticker: AMD
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Hardware
+                - Semiconductor
+                - Software
+                - Video Games
+                - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 98917842944
+              market_cap: 99840942080
               effective_ticker: AMD
             image_data:
               fileName: amd.svg
@@ -5784,7 +6220,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-03-30T23:00:08.000Z
+              latest_tweet_date: 2021-04-07T19:31:26.000Z
           - item:
             name: ASRock Rack
             homepage_url: https://www.asrockrack.com/
@@ -5804,6 +6240,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
             image_data:
               fileName: as-rock-rack.svg
             best_practice_data:
@@ -6066,9 +6505,16 @@ landscape:
               ticker: INTC
               funding: 12510000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Information Technology
+                - Manufacturing
+                - Product Design
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 266983260160
+              market_cap: 269793181696
               effective_ticker: INTC
             image_data:
               fileName: intel.svg
@@ -6077,7 +6523,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:56:29.000Z
+              latest_tweet_date: 2021-04-07T16:00:01.000Z
           - item:
             name: Micron Technology
             homepage_url: https://www.micron.com/
@@ -6134,9 +6580,15 @@ landscape:
               ticker: MU
               funding: 50410400
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Computer
+                - Hardware
+                - Manufacturing
+                - Semiconductor
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 104841560064
+              market_cap: 105368625152
               effective_ticker: MU
             image_data:
               fileName: micron-technology.svg
@@ -6144,7 +6596,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:14:22.000Z
+              latest_tweet_date: 2021-04-08T00:39:39.000Z
           - item:
             name: NXP
             homepage_url: https://www.nxp.com/
@@ -6187,9 +6639,15 @@ landscape:
               ticker: NXPI
               funding: 596250
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Energy Efficiency
+                - Manufacturing
+                - Semiconductor
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 58709295104
+              market_cap: 58496970752
               effective_ticker: NXPI
             image_data:
               fileName: nxp.svg
@@ -6198,7 +6656,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T11:40:40.000Z
+              latest_tweet_date: 2021-04-07T14:30:38.000Z
           - item:
             name: RISC-V
             homepage_url: https://riscv.org/
@@ -6218,6 +6676,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Education
             image_data:
               fileName: risc-v.svg
               hash: crh2W/DhwxKGHGVnm1YWfa6EcQqVt7+jqI5/VJbQUxU=
@@ -6225,7 +6686,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:00:14.000Z
+              latest_tweet_date: 2021-04-07T22:30:04.000Z
       - subcategory:
         name: Accelerators (GPU / FPGA / TPU)
         items:
@@ -6249,6 +6710,12 @@ landscape:
               parents: []
               funding: 682000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Hardware
+                - Machine Learning
+                - Semiconductor
               kind: funding
             image_data:
               fileName: graphcore.svg
@@ -6256,7 +6723,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T15:11:27.000Z
+              latest_tweet_date: 2021-04-08T00:03:00.000Z
           - item:
             name: Netronome Systems
             homepage_url: https://www.netronome.com/
@@ -6277,6 +6744,14 @@ landscape:
               parents: []
               funding: 82784223
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Data Center
+                - Information Technology
+                - Semiconductor
+                - Software
+                - Telecommunications
               kind: funding
             image_data:
               fileName: netronome-systems.svg
@@ -6349,9 +6824,19 @@ landscape:
               ticker: NVDA
               funding: 4025000000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - GPU
+                - Gaming
+                - Hardware
+                - Robotics
+                - Software
+                - Virtual Reality
+                - Virtualization
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 346890141696
+              market_cap: 343765123072
               effective_ticker: NVDA
             image_data:
               fileName: nvidia.svg
@@ -6360,7 +6845,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:43:18.000Z
+              latest_tweet_date: 2021-04-07T17:02:21.000Z
           - item:
             name: Xilinx
             homepage_url: https://www.xilinx.com
@@ -6411,9 +6896,17 @@ landscape:
               ticker: XLNX.VI
               funding: 862000
               stockExchange: vie
+              company_type: For Profit
+              industries:
+                - Electronic Design Automation (EDA)
+                - Field-Programmable Gate Array (FPGA)
+                - Hardware
+                - Semiconductor
+                - Software
+                - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 32754241236
+              market_cap: 31932717516
               effective_ticker: XLNX.VI
             image_data:
               fileName: xilinx.svg
@@ -6422,7 +6915,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:00:16.000Z
+              latest_tweet_date: 2021-04-07T21:50:08.000Z
   - category:
     name: Edge OEMs
     subcategories:
@@ -6449,9 +6942,16 @@ landscape:
               parents: []
               ticker: SMCI
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Embedded Systems
+                - Manufacturing
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1990643840
+              market_cap: 1989632256
               effective_ticker: SMCI
             image_data:
               fileName: supermicro.svg
@@ -6459,7 +6959,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:11:45.000Z
+              latest_tweet_date: 2021-04-08T00:59:16.000Z
           - item:
             name: Vertiv
             homepage_url: https://www.vertiv.com/en-us/
@@ -6483,6 +6983,15 @@ landscape:
                   acquiree: Geist
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Cloud Infrastructure
+                - Computer
+                - Data Center
+                - IT Infrastructure
+                - Information Technology
+                - Telecommunications
             image_data:
               fileName: vertiv.svg
             best_practice_data:
@@ -6594,6 +7103,11 @@ landscape:
               parents: []
               funding: 471000000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Internet
+                - Mobile
+                - Telecommunications
               kind: funding
             image_data:
               fileName: zayo.svg
@@ -6672,9 +7186,17 @@ landscape:
               ticker: TEF
               funding: 743000000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Internet
+                - Public Relations
+                - TV
+                - Telecommunications
+                - Web Development
+                - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 23963985920
+              market_cap: 24528869376
               effective_ticker: TEF
             image_data:
               fileName: telefonica.svg
@@ -6682,7 +7204,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:52:00.000Z
+              latest_tweet_date: 2021-04-07T18:18:24.000Z
           - item:
             name: Telia Company
             homepage_url: https://www.teliacompany.com/en
@@ -6728,6 +7250,12 @@ landscape:
               parents: []
               ticker: TELIA
               stockExchange: sto
+              company_type: For Profit
+              industries:
+                - Mobile
+                - Public Relations
+                - Telecommunications
+                - Wireless
             image_data:
               fileName: telia-company.svg
             best_practice_data:
@@ -6763,9 +7291,14 @@ landscape:
               ticker: VZ
               funding: 30079814466
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communication Hardware
+                - Telecommunications
+                - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 244715405312
+              market_cap: 244715470848
               effective_ticker: VZ
             image_data:
               fileName: verizon.svg
@@ -6829,9 +7362,14 @@ landscape:
               ticker: LUMN
               funding: 10399399
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Telecommunications
+                - VoIP
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14653916160
+              market_cap: 14785538048
               effective_ticker: LUMN
             image_data:
               fileName: century-link.svg
@@ -6877,9 +7415,14 @@ landscape:
               ticker: CHTR
               funding: 6462513431
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Internet
+                - Media and Entertainment
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 132046307328
+              market_cap: 131667419136
               effective_ticker: CHTR
             image_data:
               fileName: charter-communications.svg
@@ -6987,9 +7530,16 @@ landscape:
               ticker: CMCSA
               funding: 4870000000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Internet
+                - TV
+                - Telecommunications
+                - Video
+                - Web Hosting
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 251203403776
+              market_cap: 250104037376
               effective_ticker: CMCSA
             image_data:
               fileName: comcast.svg
@@ -6998,7 +7548,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:05:05.000Z
+              latest_tweet_date: 2021-04-07T22:01:21.000Z
           - item:
             name: Cox Communications
             homepage_url: https://www.cox.com/residential/home.html
@@ -7026,6 +7576,12 @@ landscape:
                 - https://www.crunchbase.com/organization/cox-enterprises
               funding: 500400000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communication Hardware
+                - Internet
+                - Telecommunications
+                - Wired Telecommunications
               kind: funding
             image_data:
               fileName: cox-communications.svg
@@ -7073,9 +7629,17 @@ landscape:
               ticker: DTE.DE
               funding: 3320086025
               stockExchange: etr
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Infrastructure
+                - Internet
+                - Mobile
+                - Retail
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 93375856299
+              market_cap: 93342950088
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom.svg
@@ -7083,7 +7647,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:45:55.000Z
+              latest_tweet_date: 2021-04-07T17:56:02.000Z
           - item:
             name: SoftBank
             homepage_url: https://www.softbank.jp/en/
@@ -7137,9 +7701,16 @@ landscape:
               ticker: 9984.T
               funding: 1000000000
               stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Banking
+                - Finance
+                - Internet
+                - Mobile
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 160573371397
+              market_cap: 160759897937
               effective_ticker: 9984.T
             image_data:
               fileName: soft-bank.svg
@@ -7329,9 +7900,14 @@ landscape:
               ticker: SIEMENS.NS
               funding: 5178048063
               stockExchange: nse
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - Electronics
+                - Medical
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8624782395
+              market_cap: 8676902584
               effective_ticker: SIEMENS.NS
             image_data:
               fileName: siemens.svg
@@ -7339,7 +7915,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T06:00:00.000Z
+              latest_tweet_date: 2021-04-07T14:57:59.000Z
           - item:
             name: Telxius
             homepage_url: https://telxius.com/
@@ -7362,9 +7938,14 @@ landscape:
               ticker: TEF
               funding: 1352647370
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Infrastructure
+                - Telecommunications
+                - Wired Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 23963985920
+              market_cap: 24528869376
               effective_ticker: TEF
             image_data:
               fileName: telxius.svg
@@ -7373,7 +7954,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T14:35:04.000Z
+              latest_tweet_date: 2021-04-07T14:00:41.000Z
       - subcategory:
         name: Non Traditional
         items:
@@ -7397,6 +7978,14 @@ landscape:
               parents: []
               funding: 90000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Cloud Management
+                - Data Center
+                - Data Center Automation
+                - Hardware
+                - Software
               kind: funding
             image_data:
               fileName: vapor-io.svg
@@ -7433,6 +8022,13 @@ landscape:
               parents: []
               funding: 500000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Infrastructure
+                - Insurance
+                - Telecommunications
+                - Virtual Reality
+                - Wireless
               kind: funding
             image_data:
               fileName: vertical-bridge.svg
@@ -7505,9 +8101,14 @@ landscape:
               parents: []
               ticker: HPE
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - IT Management
+                - Information Technology
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 20714307584
+              market_cap: 20688283648
               effective_ticker: HPE
             image_data:
               fileName: hpe.svg
@@ -7516,7 +8117,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:08:51.000Z
+              latest_tweet_date: 2021-04-07T16:45:58.000Z
   - category:
     name: Other Edge Related Software
     subcategories:
@@ -7547,6 +8148,12 @@ landscape:
               parents: []
               funding: 247250000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Data Center Automation
+                - Enterprise Software
               kind: funding
             image_data:
               fileName: d2i-q.svg
@@ -7555,7 +8162,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:02:55.000Z
+              latest_tweet_date: 2021-04-07T20:17:28.000Z
           - item:
             name: Home Edge
             homepage_url: https://www.lfedge.org/projects/homeedge
@@ -7579,10 +8186,13 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Go
-                  value: 723005
+                  value: 722645
                   color: '#00ADD8'
                 - name: Shell
                   value: 13675
@@ -7596,13 +8206,13 @@ landscape:
                 - name: Dockerfile
                   value: 925
                   color: '#384d54'
-              contributions: 0;1;2;1;0;0;2;4;5;0;4;8;7;7;6;9;1;3;4;2;6;1;7;0;0;2;9;5;14;22;6;2;4;1;5;3;4;1;0;1;13;13;6;5;2;7;6;5;0;1;2;1
+              contributions: 0;1;2;1;0;0;3;5;3;1;3;11;7;4;9;7;0;4;3;6;2;1;7;0;0;2;9;6;15;21;5;3;3;1;5;3;5;0;0;1;13;13;6;6;4;8;2;5;0;1;2;2
               firstWeek: 2020-04-12Z
               stars: 38
               license: Apache License 2.0
               description: Home Edge Project in LF Edge - Edge Orchestration for home edge devices to enabling smart home use cases.
-              latest_commit_date: '2021-04-05T07:52:24Z'
-              latest_commit_link: /lf-edge/edge-home-orchestration-go/commit/7e333644501952f60f696010ea5dbf8dffd17a30
+              latest_commit_date: '2021-04-07T11:16:29Z'
+              latest_commit_link: /lf-edge/edge-home-orchestration-go/commit/b1e731f8165e0b7055210a0d8c07e7155a49f5c0
               release_date: '2020-10-30T07:50:40Z'
               release_link: https://github.com/lf-edge/edge-home-orchestration-go/releases
               contributors_count: 16
@@ -7620,7 +8230,7 @@ landscape:
               badge: 4336
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
           - item:
             name: Inspur Group
             homepage_url: https://en.inspur.com
@@ -7642,9 +8252,16 @@ landscape:
               ticker: 000977.SZ
               funding: 29304249
               stockExchange: szse
+              company_type: For Profit
+              industries:
+                - Computer
+                - Enterprise
+                - IT Management
+                - Information Technology
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 6033453976
+              market_cap: 6039963852
               effective_ticker: 000977.SZ
             image_data:
               fileName: inspur-group.svg
@@ -7690,9 +8307,15 @@ landscape:
               ticker: 0992.HK
               funding: 850025000
               stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Computer
+                - Electronics
+                - Hardware
+                - Mobile
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 16028916187
+              market_cap: 16021904517
               effective_ticker: 0992.HK
             image_data:
               fileName: lenovo.svg
@@ -7701,7 +8324,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:10:04.000Z
+              latest_tweet_date: 2021-04-08T05:28:02.000Z
           - item:
             name: ObjectBox
             homepage_url: https://objectbox.io/
@@ -7722,6 +8345,17 @@ landscape:
               parents: []
               funding: 2000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - Automotive
+                - Autonomous Vehicles
+                - Industrial Automation
+                - Industrial Manufacturing
+                - Smart Building
+                - Smart Cities
+                - Smart Home
+                - Software
               kind: funding
             image_data:
               fileName: object-box.svg
@@ -7754,10 +8388,13 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Open Source
             github_data:
               languages:
                 - name: Go
-                  value: 4160496
+                  value: 4163065
                   color: '#00ADD8'
                 - name: Shell
                   value: 636363
@@ -7768,16 +8405,16 @@ landscape:
                 - name: Dockerfile
                   value: 2219
                   color: '#384d54'
-              contributions: 8;16;34;27;41;31;33;41;19;5;8;12;2;9;8;14;8;18;15;29;15;18;52;40;34;27;16;1;8;2;12;14;3;3;4;2;3;1;0;3;2;15;31;9;15;21;25;21;18;1;12;5
+              contributions: 5;18;35;36;39;26;39;35;14;9;7;9;7;8;4;16;7;22;11;32;12;21;55;37;39;21;13;3;6;2;15;12;3;2;4;4;1;1;0;3;4;21;24;11;14;22;27;22;12;2;15;8
               firstWeek: 2020-04-12Z
               stars: 43
               license: Apache License 2.0
               description: ' Horizon agent control system'
-              latest_commit_date: '2021-04-05T17:22:32Z'
-              latest_commit_link: /open-horizon/anax/commit/041846a4a0a074bb4ee3d1a9a9a39ff77e38b2da
+              latest_commit_date: '2021-04-07T19:04:40Z'
+              latest_commit_link: /open-horizon/anax/commit/2c303faf682d06f319bd00c8591468cfc68ee77d
               release_date: '2021-03-18T19:42:18Z'
               release_link: https://github.com/open-horizon/anax/releases
-              contributors_count: 49
+              contributors_count: 50
               contributors_link: https://github.com/open-horizon/anax/graphs/contributors
             repos:
               - url: https://github.com/open-horizon/anax
@@ -7791,7 +8428,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:00:05.000Z
+              latest_tweet_date: 2021-04-07T14:29:59.000Z
           - item:
             name: Portworx
             homepage_url: https://portworx.com/
@@ -7812,6 +8449,12 @@ landscape:
               parents: []
               funding: 55500000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Storage
+                - Data Center
+                - Data Storage
+                - Software
               kind: funding
             image_data:
               fileName: portworx.svg
@@ -7839,6 +8482,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Data Center
+                - Information Technology
             image_data:
               fileName: qct.svg
               hash: a5//q2uKfze1lczGMX/D4Lq8xx3Au9h2NyaGW63dtZ0=
@@ -7846,7 +8494,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T01:24:39.000Z
+              latest_tweet_date: 2021-04-07T07:01:59.000Z
           - item:
             name: StorageOS
             homepage_url: https://storageos.com/
@@ -7867,6 +8515,14 @@ landscape:
               parents: []
               funding: 20000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Storage
+                - Data Storage
+                - Database
+                - Enterprise Software
+                - Software
               kind: funding
             image_data:
               fileName: storage-os.svg
@@ -7874,7 +8530,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:53:12.000Z
+              latest_tweet_date: 2021-04-08T05:01:48.000Z
           - item:
             name: Wiwynn
             homepage_url: https://www.wiwynn.com
@@ -7894,6 +8550,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Storage
             image_data:
               fileName: wiwynn.svg
             best_practice_data:
@@ -7920,6 +8580,14 @@ landscape:
               parents: []
               funding: 14600000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Computer Vision
+                - Internet of Things
+                - Machine Learning
+                - Natural Language Processing
+                - Speech Recognition
               kind: funding
             image_data:
               fileName: xnor-ai.svg
@@ -7946,6 +8614,9 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Information Technology
             image_data:
               fileName: yocto-project.svg
               hash: 5ssmmlS28U8MLAqBvJJg4+ryh474dCSFgIWLu0D+m/4=
@@ -7973,6 +8644,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Internet
             image_data:
               fileName: zt-systems.svg
               hash: 7geg7rzye0SUo+n7Th7rN435wdQY1SlBj1FCy+NiEto=
@@ -7989,7 +8665,7 @@ landscape:
         items:
           - item:
             name: Altran
-            homepage_url: https://www.altran.com/us
+            homepage_url: https://capgemini-engineering.com/us
             stock_ticker: null
             logo: altran.svg
             twitter: http://twitter.com/altran
@@ -8053,6 +8729,13 @@ landscape:
               ticker: ALT.PA
               funding: 4000000
               stockExchange: epa
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Information Services
+                - Information Technology
+                - Innovation Management
+                - Mechanical Engineering
               kind: funding
             image_data:
               fileName: altran.svg
@@ -8123,6 +8806,11 @@ landscape:
                   acquiree: Falanx Microsystems
               parents: []
               stockExchange: lse
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Internet of Things
+                - Semiconductor
             image_data:
               fileName: arm.svg
               hash: QVawBP6MFOhjSRP3wjGp3yYjDazuZjKfSiz3lhAZKog=
@@ -8130,7 +8818,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-01T14:09:44.000Z
+              latest_tweet_date: 2021-04-07T23:23:09.000Z
           - item:
             name: AT&T
             homepage_url: https://www.att.com/
@@ -8226,9 +8914,15 @@ landscape:
               parents: []
               ticker: T
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Mobile
+                - Service Industry
+                - Telecommunications
+                - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 221149495296
+              market_cap: 220792569856
               effective_ticker: T
             image_data:
               fileName: at-t.svg
@@ -8237,7 +8931,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:55:30.000Z
+              latest_tweet_date: 2021-04-08T04:37:21.000Z
           - item:
             name: Baidu
             homepage_url: https://www.baidu.com/
@@ -8303,7 +8997,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:01:08.000Z
+              latest_tweet_date: 2021-04-08T04:36:21.000Z
           - item:
             name: Charter Communications (member)
             homepage_url: https://www.spectrum.com
@@ -8341,9 +9035,14 @@ landscape:
               ticker: CHTR
               funding: 6462513431
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Internet
+                - Media and Entertainment
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 132046307328
+              market_cap: 131667419136
               effective_ticker: CHTR
             image_data:
               fileName: charter-communications-member.svg
@@ -8372,6 +9071,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Information and Communications Technology (ICT)
             image_data:
               fileName: dell-technologies.svg
               hash: HFfnqIvGppyaTjEYfqUuBYRH+MOZh1CNua290/3aOzc=
@@ -8399,6 +9103,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet of Things
             image_data:
               fileName: dianomic.svg
               hash: coOUVmgN1LISHe6WCitDyAyJhfmujC3+IMVOp5G37lI=
@@ -8463,9 +9170,17 @@ landscape:
               ticker: EQIX
               funding: 1443500126
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Data Center
+                - Information Technology
+                - Infrastructure
+                - Internet
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 61493473280
+              market_cap: 61113106432
               effective_ticker: EQIX
             image_data:
               fileName: equinix.svg
@@ -8474,7 +9189,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:48:36.000Z
+              latest_tweet_date: 2021-04-07T18:12:06.000Z
           - item:
             name: Ericsson
             homepage_url: https://www.ericsson.com/en
@@ -8583,9 +9298,15 @@ landscape:
               ticker: ERIC
               funding: 663160564
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Internet
+                - Mobile
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 44962787328
+              market_cap: 45103677440
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
@@ -8594,7 +9315,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T14:00:08.000Z
+              latest_tweet_date: 2021-04-07T18:00:01.000Z
           - item:
             name: Fujitsu
             homepage_url: https://www.fujitsu.com/global
@@ -8656,9 +9377,20 @@ landscape:
               parents: []
               ticker: 6702.T
               stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Consulting
+                - EdTech
+                - Enterprise Software
+                - IT Infrastructure
+                - Information Technology
+                - Information and Communications Technology (ICT)
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 30401267748
+              market_cap: 30230833078
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu.svg
@@ -8667,7 +9399,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T00:00:07.000Z
+              latest_tweet_date: 2021-04-07T16:05:17.000Z
           - item:
             name: Futurewei
             homepage_url: https://www.futurewei.com/
@@ -8689,6 +9421,10 @@ landscape:
                   acquiree: Cognigine
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Semiconductor
+                - Wireless
             image_data:
               fileName: futurewei.svg
               hash: mXNKZwPmF4Vy8xSrFjG5vA3cW4iUCCY9FQ2dduzQMWs=
@@ -8943,9 +9679,19 @@ landscape:
               parents: []
               ticker: HPQ
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Computer
+                - Consumer Electronics
+                - Electronics
+                - Enterprise Software
+                - Hardware
+                - IT Infrastructure
+                - Information Technology
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 40252715008
+              market_cap: 40240242688
               effective_ticker: HPQ
             image_data:
               fileName: hp.svg
@@ -8954,7 +9700,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:35:51.000Z
+              latest_tweet_date: 2021-04-08T02:09:40.000Z
           - item:
             name: Huawei
             homepage_url: https://www.huawei.com/en/
@@ -8995,6 +9741,15 @@ landscape:
                   acquiree: Vocord
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information and Communications Technology (ICT)
+                - Mobile
+                - Security
+                - Software
+                - Telecommunications
+                - Web Hosting
+                - Wireless
             image_data:
               fileName: huawei.svg
               hash: LGtEuzEIh7z2ujX+q1bf/zrJUR/ZarjGneRp1qwfriI=
@@ -9002,7 +9757,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T06:00:56.000Z
+              latest_tweet_date: 2021-04-08T06:00:56.000Z
           - item:
             name: IBM
             homepage_url: https://www.ibm.com/us-en/
@@ -9432,9 +10187,15 @@ landscape:
               parents: []
               ticker: IBM
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Business Information Systems
+                - CRM
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119938187264
+              market_cap: 120572633088
               effective_ticker: IBM
             image_data:
               fileName: ibm.svg
@@ -9443,7 +10204,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T04:17:08.000Z
+              latest_tweet_date: 2021-04-07T22:38:10.000Z
           - item:
             name: Intel (member)
             homepage_url: https://www.intel.com/content/www/us/en/homepage.html
@@ -9699,9 +10460,16 @@ landscape:
               ticker: INTC
               funding: 12510000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Information Technology
+                - Manufacturing
+                - Product Design
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 266983260160
+              market_cap: 269793181696
               effective_ticker: INTC
             image_data:
               fileName: intel-member.svg
@@ -9710,7 +10478,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:56:29.000Z
+              latest_tweet_date: 2021-04-07T16:00:01.000Z
           - item:
             name: Nokia
             homepage_url: https://www.nokia.com
@@ -9852,9 +10620,17 @@ landscape:
               parents: []
               funding: 868070947
               stockExchange: hel
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Enterprise Software
+                - Internet of Things
+                - Mobile
+                - Mobile Devices
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 23020519424
+              market_cap: 23114119168
               effective_ticker: NOK
             image_data:
               fileName: nokia.svg
@@ -9863,7 +10639,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:58:25.000Z
+              latest_tweet_date: 2021-04-08T05:00:27.000Z
           - item:
             name: NTT Group
             homepage_url: https://group.ntt/en
@@ -9890,9 +10666,15 @@ landscape:
               parents: []
               ticker: 9432.T
               stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Data Center
+                - Internet
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 93883794471
+              market_cap: 92013766665
               effective_ticker: 9432.T
             image_data:
               fileName: ntt-group.svg
@@ -9901,7 +10683,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T09:04:05.000Z
+              latest_tweet_date: 2021-04-08T01:38:16.000Z
           - item:
             name: OSIsoft
             homepage_url: https://www.osisoft.com/
@@ -9924,6 +10706,12 @@ landscape:
               parents: []
               funding: 139500000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Asset Management
+                - Enterprise Software
+                - Manufacturing
+                - Software
               kind: funding
             image_data:
               fileName: os-isoft.svg
@@ -9932,7 +10720,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:01:05.000Z
+              latest_tweet_date: 2021-04-07T22:00:24.000Z
           - item:
             name: Radisys
             homepage_url: https://www.radisys.com
@@ -9967,9 +10755,15 @@ landscape:
               ticker: RSYS
               funding: 34900000
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Hardware
+                - Software
+                - Telecommunications
+                - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 186416789242
+              market_cap: 182682569144
               effective_ticker: RELIANCE.NS
             image_data:
               fileName: radisys.svg
@@ -9978,7 +10772,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:10:03.000Z
+              latest_tweet_date: 2021-04-07T12:55:07.000Z
           - item:
             name: Red Hat
             homepage_url: https://www.redhat.com/en
@@ -10056,9 +10850,14 @@ landscape:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Linux
+                - Open Source
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 119938187264
+              market_cap: 120572633088
               effective_ticker: IBM
             image_data:
               fileName: red-hat.svg
@@ -10067,7 +10866,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:00:06.000Z
+              latest_tweet_date: 2021-04-07T21:00:08.000Z
           - item:
             name: Samsung Electronics
             homepage_url: https://www.samsung.com/us/smartphones/galaxy-note20-5g
@@ -10168,9 +10967,17 @@ landscape:
               parents: []
               ticker: L
               stockExchange: lse
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Hardware
+                - Manufacturing
+                - Mobile
+                - Mobile Devices
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 14000411648
+              market_cap: 14076931072
               effective_ticker: L
             image_data:
               fileName: samsung-electronics.svg
@@ -10179,7 +10986,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T23:43:50.000Z
+              latest_tweet_date: 2021-04-07T13:02:00.000Z
           - item:
             name: Tencent
             homepage_url: https://www.tencent.com/zh-cn/index.html
@@ -10187,7 +10994,7 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/tencent
             crunchbase_data:
-              name: Tencent Holdings
+              name: Tencent
               description: Tencent is an internet service portal offering value-added internet, mobile, telecom, and online advertising services.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -10243,9 +11050,16 @@ landscape:
               ticker: 0700.HK
               funding: 6576770000
               stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Advertising
+                - Internet
+                - Online Games
+                - Online Portals
+                - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 780399130771
+              market_cap: 770822635689
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent.svg
@@ -10301,9 +11115,17 @@ landscape:
               parents: []
               ticker: WDC.F
               stockExchange: fra
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Computer
+                - Hardware
+                - Manufacturing
+                - Navigation
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 22409059070
+              market_cap: 22560862832
               effective_ticker: WDC.F
             image_data:
               fileName: western-digital.svg
@@ -10312,7 +11134,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T23:01:00.000Z
+              latest_tweet_date: 2021-04-07T16:05:00.000Z
           - item:
             name: Wipro Technologies
             homepage_url: https://www.wipro.com/
@@ -10417,9 +11239,19 @@ landscape:
               ticker: WIPRO.NS
               funding: 1104375782
               stockExchange: nse
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Consulting
+                - Enterprise Software
+                - Information Services
+                - Information Technology
+                - Mobile
+                - Outsourcing
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 31578145094
+              market_cap: 32420729980
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-technologies.svg
@@ -10428,7 +11260,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:23:52.000Z
+              latest_tweet_date: 2021-04-07T19:35:38.000Z
           - item:
             name: ZEDEDA
             homepage_url: https://zededa.com/
@@ -10450,6 +11282,13 @@ landscape:
               parents: []
               funding: 31484000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Data Services
+                - Information Technology
+                - Open Source
+                - Software
               kind: funding
             image_data:
               fileName: zededa.svg
@@ -10458,7 +11297,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:51:07.000Z
+              latest_tweet_date: 2021-04-07T15:25:50.000Z
       - subcategory:
         name: General
         items:
@@ -10481,6 +11320,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Information Technology
+                - Internet of Things
+                - Software
             image_data:
               fileName: beechwoods-software.svg
               hash: 1NfRYui497BSnXbheih8gT1WZ7Xfx/X/xmrDhx/uDZA=
@@ -10508,6 +11353,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
             image_data:
               fileName: certus-net.svg
               hash: 1RRWZgz+ilBRP1oW8dhvpa3KugM66TngQ2fl3urysIY=
@@ -10533,6 +11381,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Information Technology
+                - Software
+                - iOS
             image_data:
               fileName: data-ahead-ag.svg
               hash: nHGl/gjeoyzVHIQc1rJ9C/c0WsD4MvfIYGM6S3Ps2FQ=
@@ -10540,7 +11394,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-03-31T12:44:55.000Z
+              latest_tweet_date: 2021-04-07T09:11:23.000Z
           - item:
             name: EMQ Technologies
             homepage_url: https://www.emqx.io/
@@ -10561,6 +11415,13 @@ landscape:
               parents: []
               funding: 21430649
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Enterprise Software
+                - Information Technology
+                - Internet of Things
+                - Open Source
               kind: funding
             image_data:
               fileName: emq-technologies.svg
@@ -10569,7 +11430,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-02T07:31:52.000Z
+              latest_tweet_date: 2021-04-07T07:59:25.000Z
           - item:
             name: Federated Wireless
             homepage_url: https://federatedwireless.com/
@@ -10590,6 +11451,12 @@ landscape:
               parents: []
               funding: 133700000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Infrastructure
+                - Software
+                - Wireless
               kind: funding
             image_data:
               fileName: federated-wireless.svg
@@ -10598,7 +11465,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T19:01:30.000Z
+              latest_tweet_date: 2021-04-07T20:41:00.000Z
           - item:
             name: FogHorn
             homepage_url: https://www.foghorn.io/
@@ -10619,6 +11486,12 @@ landscape:
               parents: []
               funding: 72500000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Industrial
+                - Internet of Things
+                - Robotics
+                - Software
               kind: funding
             image_data:
               fileName: fog-horn.svg
@@ -10627,7 +11500,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:08:59.000Z
+              latest_tweet_date: 2021-04-07T18:03:16.000Z
           - item:
             name: Foundries.io
             homepage_url: https://foundries.io
@@ -10648,6 +11521,12 @@ landscape:
               parents: []
               funding: 3500000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Platform
+                - Information Services
+                - Information Technology
+                - Software
               kind: funding
             image_data:
               fileName: foundries-io.svg
@@ -10656,7 +11535,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:04:17.000Z
+              latest_tweet_date: 2021-04-07T18:43:43.000Z
           - item:
             name: Foxconn Industrial Internet
             homepage_url: http://fii-foxconn.com/
@@ -10680,9 +11559,13 @@ landscape:
               ticker: 601138.SS
               funding: 20000000
               stockExchange: sse
+              company_type: For Profit
+              industries:
+                - Internet
+                - Manufacturing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 43578759109
+              market_cap: 43574229939
               effective_ticker: 601138.SS
             image_data:
               fileName: foxconn-industrial-internet.svg
@@ -10751,9 +11634,19 @@ landscape:
               ticker: HCLTECH.NS
               funding: 220000000
               stockExchange: nse
+              company_type: For Profit
+              industries:
+                - Aerospace
+                - Consumer Electronics
+                - IT Management
+                - Information and Communications Technology (ICT)
+                - Media and Entertainment
+                - Outsourcing
+                - Software
+                - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 37860635904
+              market_cap: 38118613212
               effective_ticker: HCLTECH.NS
             image_data:
               fileName: hcl.svg
@@ -10762,7 +11655,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T06:00:33.000Z
+              latest_tweet_date: 2021-04-08T06:00:42.000Z
           - item:
             name: IOTech
             homepage_url: https://www.iotechsys.com
@@ -10783,6 +11676,12 @@ landscape:
               parents: []
               funding: 10000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Architecture
+                - Information Technology
+                - Network Security
+                - Security
               kind: funding
             image_data:
               fileName: io-tech.svg
@@ -10812,6 +11711,9 @@ landscape:
               parents: []
               funding: 4359325
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
               kind: funding
             image_data:
               fileName: jiangxing-intelligence.svg
@@ -10915,9 +11817,14 @@ landscape:
               ticker: JNPR
               funding: 38677847
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Communication Hardware
+                - Infrastructure
+                - Security
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 8366834176
+              market_cap: 8314500608
               effective_ticker: JNPR
             image_data:
               fileName: juniper-networks.svg
@@ -10926,7 +11833,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:43:41.000Z
+              latest_tweet_date: 2021-04-07T21:21:03.000Z
           - item:
             name: Kaloom
             homepage_url: https://www.kaloom.com/
@@ -10947,6 +11854,12 @@ landscape:
               parents: []
               funding: 23100000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Data Center
+                - Information Services
+                - Information Technology
+                - Software
               kind: funding
             image_data:
               fileName: kaloom.svg
@@ -10955,7 +11868,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T11:53:59.000Z
+              latest_tweet_date: 2021-04-07T16:01:00.000Z
           - item:
             name: Linaro
             homepage_url: https://www.linaro.org/
@@ -10975,6 +11888,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
             image_data:
               fileName: linaro.svg
               hash: WNAgywu5pAa2WDzcQxgn8ZqMMlAjWT2py7Kw1qaoCOI=
@@ -11030,9 +11946,19 @@ landscape:
               parents: []
               ticker: MRVL
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - DSP
+                - Enterprise
+                - Infrastructure
+                - Internet of Things
+                - Manufacturing
+                - Mobile
+                - Semiconductor
+                - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 34359343104
+              market_cap: 34028251136
               effective_ticker: MRVL
             image_data:
               fileName: marvell-technology.svg
@@ -11041,7 +11967,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-05T21:46:45.000Z
+              latest_tweet_date: 2021-04-07T22:05:17.000Z
           - item:
             name: MobiledgeX
             homepage_url: https://mobiledgex.com/
@@ -11061,6 +11987,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Human Resources
+                - Information Technology
+                - Internet
             image_data:
               fileName: mobiledge-x.svg
               hash: tSXRqLeo4FdCwBL56lkVDWHhrQcWmCJJ4asaWoS4d4E=
@@ -11068,7 +11999,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T18:02:19.000Z
+              latest_tweet_date: 2021-04-07T21:32:08.000Z
           - item:
             name: NetFoundry
             homepage_url: https://netfoundry.io/
@@ -11088,6 +12019,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - Developer Platform
+                - Internet
+                - Network Security
             image_data:
               fileName: net-foundry.svg
               hash: 4km+2pTaUiwKIwt/pd2y5NR0LaRBNoqQMn5HKgDo7lE=
@@ -11095,7 +12032,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:30:00.000Z
+              latest_tweet_date: 2021-04-07T20:04:40.000Z
           - item:
             name: OpenNebula (member)
             homepage_url: https://opennebula.io
@@ -11115,6 +12052,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - IaaS
+                - Virtualization
             image_data:
               fileName: open-nebula-member.svg
               hash: 3sfnfuNIrMtcBnVtTiQliSc71MMM+sRur6yKLZ2+xyg=
@@ -11122,7 +12064,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:16:56.000Z
+              latest_tweet_date: 2021-04-07T10:53:41.000Z
           - item:
             name: ORI Industries
             homepage_url: https://www.ori.co/
@@ -11143,6 +12085,12 @@ landscape:
               parents: []
               funding: 8950000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Infrastructure
+                - Mobile
+                - Telecommunications
               kind: funding
             image_data:
               fileName: ori-industries.svg
@@ -11282,9 +12230,15 @@ landscape:
               parents: []
               ticker: QCOM
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Manufacturing
+                - Software
+                - Telecommunications
+                - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 156836151296
+              market_cap: 158392467456
               effective_ticker: QCOM
             image_data:
               fileName: qualcomm.svg
@@ -11293,7 +12247,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:21:04.000Z
+              latest_tweet_date: 2021-04-07T20:09:22.000Z
           - item:
             name: REPLY
             homepage_url: https://www.reply.com/en/
@@ -11321,6 +12275,14 @@ landscape:
                   acquiree: Sagepath Inc
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Information Services
+                - Information Technology
+                - Internet
+                - Mobile
+                - Web Design
             image_data:
               fileName: reply.svg
               hash: 8gy5HiTwUIPp5OS6A2Q9f/Hlzcf4xDaZHW+1ARlFVIY=
@@ -11328,7 +12290,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T12:00:05.000Z
+              latest_tweet_date: 2021-04-07T16:30:19.000Z
           - item:
             name: Robin.io
             homepage_url: https://robin.io/
@@ -11349,6 +12311,14 @@ landscape:
               parents: []
               funding: 46000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Data Center
+                - Enterprise Applications
+                - Enterprise Software
+                - Information Technology
+                - Infrastructure
+                - Software
               kind: funding
             image_data:
               fileName: robin-io.svg
@@ -11357,7 +12327,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-02T20:07:59.000Z
+              latest_tweet_date: 2021-04-07T18:03:57.000Z
           - item:
             name: section.io
             homepage_url: https://www.section.io/
@@ -11378,6 +12348,11 @@ landscape:
               parents: []
               funding: 10028988
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Content Delivery Network
+                - Enterprise Software
+                - Security
               kind: funding
             image_data:
               fileName: section-io.svg
@@ -11386,7 +12361,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-02T14:50:18.000Z
+              latest_tweet_date: 2021-04-07T13:25:17.000Z
           - item:
             name: Supermicro (member)
             homepage_url: https://www.supermicro.com/en
@@ -11407,9 +12382,16 @@ landscape:
               parents: []
               ticker: SMCI
               stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Embedded Systems
+                - Manufacturing
+                - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 1990643840
+              market_cap: 1989632256
               effective_ticker: SMCI
             image_data:
               fileName: supermicro-member.svg
@@ -11418,7 +12400,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-07T02:11:45.000Z
+              latest_tweet_date: 2021-04-08T00:59:16.000Z
           - item:
             name: ThunderSoft
             homepage_url: https://www.thundersoft.com/
@@ -11446,9 +12428,16 @@ landscape:
               ticker: 300496.SZ
               funding: 15436406
               stockExchange: szse
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Enterprise Software
+                - Intelligent Systems
+                - Internet of Things
+                - Mobile
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 7567650639
+              market_cap: 8327959180
               effective_ticker: 300496.SZ
             image_data:
               fileName: thunder-soft.svg
@@ -11487,9 +12476,15 @@ landscape:
               ticker: TM
               funding: 243600000
               stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Manufacturing
+                - Mobile
+                - Transportation
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 211374751744
+              market_cap: 213702590464
               effective_ticker: TM
             image_data:
               fileName: toyota.svg
@@ -11498,7 +12493,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:05:53.000Z
+              latest_tweet_date: 2021-04-08T00:12:52.000Z
           - item:
             name: Ubuntu
             homepage_url: https://ubuntu.com/
@@ -11520,6 +12515,13 @@ landscape:
               parents: []
               funding: 12800000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Internet of Things
+                - Linux
+                - Open Source
+                - Software
               kind: funding
             image_data:
               fileName: ubuntu.svg
@@ -11528,7 +12530,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:26:12.000Z
+              latest_tweet_date: 2021-04-07T14:46:34.000Z
           - item:
             name: Vapor IO (member)
             homepage_url: https://www.vapor.io/
@@ -11549,6 +12551,14 @@ landscape:
               parents: []
               funding: 90000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Cloud Management
+                - Data Center
+                - Data Center Automation
+                - Hardware
+                - Software
               kind: funding
             image_data:
               fileName: vapor-io-member.svg
@@ -11577,6 +12587,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: voer-eir.svg
               hash: LHbO2X00n715LN86Id/l/NJ2xAdk7gmCBPbOYraTE5A=
@@ -11619,6 +12631,15 @@ landscape:
                   acquiree: Star Lab Corp.
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Hardware
+                - Linux
+                - Mobile
+                - Operating Systems
+                - Project Management
+                - Software
             image_data:
               fileName: wind-river.svg
               hash: 5Hw/+8tSowLqo62IpLqYCF9VQw7vFedH5p3gRNfhKH0=
@@ -11626,7 +12647,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T20:45:05.000Z
+              latest_tweet_date: 2021-04-07T20:23:05.000Z
           - item:
             name: Zenlayer
             homepage_url: https://www.zenlayer.com/
@@ -11651,6 +12672,14 @@ landscape:
               parents: []
               funding: 40000000
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - ISP
+                - Information Technology
+                - Optical Communication
+                - Software
+                - Telecommunications
               kind: funding
             image_data:
               fileName: zenlayer.svg
@@ -11659,7 +12688,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T22:25:41.000Z
+              latest_tweet_date: 2021-04-07T18:04:23.000Z
       - subcategory:
         name: Associate
         items:
@@ -11682,6 +12711,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Automotive
+                - Big Data
+                - Information Technology
             image_data:
               fileName: automotive-edge-computing-consortium.svg
               hash: 59Hm2MX7tgaAUUgLKXv9e5146i8JhUYEuPvuusADM0Y=
@@ -11689,7 +12723,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-01T19:08:13.000Z
+              latest_tweet_date: 2021-04-07T16:55:30.000Z
           - item:
             name: Beijing University of Posts and Telecommunications
             homepage_url: https://www.bupt.edu.cn/
@@ -11709,6 +12743,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: beijing-university-of-posts-and-telecommunications.svg
               hash: UhWZ9oJjKEwA1qNEapWgND7jS7NhakE3BLIt41Ae9uk=
@@ -11734,6 +12770,14 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Industrial Automation
+                - Information Technology
+                - Information and Communications Technology (ICT)
+                - Publishing
+                - Telecommunications
             image_data:
               fileName: etri.svg
               hash: dfe/2fpO191REom4P+h3xy9uocXZlXdqvHqnt0xmSJI=
@@ -11761,6 +12805,9 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Non Profit
             image_data:
               fileName: industrial-technology-research-institute.svg
               hash: 31VdCH21qAo2G8bHhvcb2VY9QkuYVfLzMwM76m4YPt0=
@@ -11788,6 +12835,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Internet
+                - Software
             image_data:
               fileName: infrastructure-masons.svg
               hash: nlWpsBba2Yduz8Q3VfXCwfM/4domSam5aw8juwFO/30=
@@ -11816,6 +12868,14 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Blockchain
+                - Cryptocurrency
+                - Cyber Security
+                - Information Technology
+                - Internet of Things
+                - Non Profit
             image_data:
               fileName: iota-foundation.svg
               hash: w/FF9Udd55NokebPA3gNlNjgICg5LHd8+3bzf451l28=
@@ -11823,7 +12883,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:04:41.000Z
+              latest_tweet_date: 2021-04-07T16:14:27.000Z
           - item:
             name: Open Infrastructure Foundation (member)
             homepage_url: https://www.openstack.org/use-cases/edge-computing
@@ -11844,6 +12904,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Enterprise Software
+                - Open Source
+                - Software
             image_data:
               fileName: open-infrastructure-foundation-member.svg
               hash: 0l430/AE2sBoTTBQpEllTmmYh3TjOWG3vr/rQr2ekLE=
@@ -11851,7 +12917,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T16:01:27.000Z
+              latest_tweet_date: 2021-04-07T16:00:57.000Z
           - item:
             name: Open-IX (member)
             homepage_url: https://open-ix.org/en/
@@ -11872,6 +12938,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Landscaping
+                - Online Portals
+                - Service Industry
             image_data:
               fileName: open-ix-member.svg
               hash: Csn1hdbpjAD8lls4JRUFm89o4GbwWxEdrT9pzakbzCk=
@@ -11899,6 +12970,12 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Association
+                - Information Technology
+                - Internet of Things
+                - Software
             image_data:
               fileName: project-haystack.svg
               hash: WB9XCHL53KTaFHV8XxF/0RaHBoY/a9UoaqX9OeP4Y8A=
@@ -11926,6 +13003,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: Non Profit
+              industries: []
             image_data:
               fileName: shanghai-open-source-information-technology-association.svg
               hash: POYAmqoFU5fN7MV2vN1Ynfrx1fomdMvaujlNe6tikUk=
@@ -11953,6 +13032,10 @@ landscape:
                 - https://www.crunchbase.com/organization/university-of-new-hampshire
               funding: 958152
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Virtual Reality
               kind: funding
             image_data:
               fileName: university-of-new-hampshire-interoperability-lab.svg
@@ -11961,7 +13044,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T19:18:49.000Z
+              latest_tweet_date: 2021-04-07T13:15:47.000Z
       - subcategory:
         name: Liaison
         items:
@@ -11984,6 +13067,10 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: ''
+              industries:
+                - Information Services
+                - Information Technology
             image_data:
               fileName: digital-twin-consortium.svg
               hash: wQeyazJJaN/T88NywyR/scRNYzeC9htkXlP7BVgWMcI=
@@ -11991,7 +13078,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T17:29:14.000Z
+              latest_tweet_date: 2021-04-08T00:35:04.000Z
           - item:
             name: Industrial Internet Consortium
             homepage_url: https://www.iiconsortium.org/
@@ -12011,6 +13098,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Industrial
+                - Internet
+                - Non Profit
             image_data:
               fileName: industrial-internet-consortium.svg
               hash: Jdj9lZbbnizQp86FKotYvNLNzBJDSW73noI4mIeA+Wg=
@@ -12018,8 +13110,8 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-04-06T13:45:13.000Z
+              latest_tweet_date: 2021-04-07T14:01:52.000Z
 twitter_options:
   count: 2
   since_id: '1334355678266150912'
-updated_at: 2021-04-07T06:10:18.003Z
+updated_at: 2021-04-08T06:09:19.059Z
