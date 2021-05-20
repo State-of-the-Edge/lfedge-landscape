@@ -8,13 +8,13 @@ landscape:
           - item:
             name: Cloud Native Computing Foundation
             homepage_url: https://www.cncf.io/
-            logo: https://github.com/cncf/artwork/blob/master/other/cncf/stacked/color/cncf-stacked-color.svg
+            logo: cloud-native-computing-foundation.svg
             twitter: https://twitter.com/cloudnativefdn
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Open Compute Project Foundation
             homepage_url: https://www.opencompute.org/
-            logo: https://www.zutacore.com/images/events/open-compute-logo.svg
+            logo: open-compute-project-foundation.svg
             crunchbase: https://www.crunchbase.com/organization/open-compute-project-foundation
           - item:
             name: Open Edge Computing Initiative
@@ -26,7 +26,7 @@ landscape:
             homepage_url: https://www.lfedge.org/openglossary
             project: growth
             repo_url: https://github.com/State-of-the-Edge/glossary
-            logo: https://raw.githubusercontent.com/lf-edge/artwork/master/stateoftheedge/horizontal/color/stateoftheedge-horizontal-color.svg
+            logo: open-glossary-of-edge-computing.svg
             twitter: https://twitter.com/LF_Edge
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
@@ -95,7 +95,7 @@ landscape:
           - item:
             name: Akamai
             homepage_url: https://www.akamai.com
-            logo: https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg
+            logo: akamai.svg
             crunchbase: https://www.crunchbase.com/organization/akamai-technologies
           - item:
             name: Amazon Cloudfront
@@ -103,13 +103,13 @@ landscape:
               Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers
               globally with low latency, high transfer speeds, all within a developer-friendly environment.
             homepage_url: https://aws.amazon.com/cloudfront/
-            logo: https://panoply.io/images/integration-logos/amazon%20cloudfront.svg
+            logo: amazon-cloudfront.svg
             twitter: https://twitter.com/cloudfront
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: Cisco SD-WAN
             homepage_url: https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html
-            logo: https://landscape.cncf.io/logos/cisco-member.svg
+            logo: cisco-sd-wan.svg
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
             name: Cloudflare
@@ -120,7 +120,7 @@ landscape:
           - item:
             name: Google Cloud CDN
             homepage_url: https://cloud.google.com/cdn/
-            logo: https://landscape.cncf.io/logos/google-cloud-member.svg
+            logo: google-cloud-cdn.svg
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Limelight Networks
@@ -162,12 +162,12 @@ landscape:
           - item:
             name: Platform9 Systems
             homepage_url: https://platform9.com
-            logo: https://landscape.cncf.io/logos/platform9-member.svg
+            logo: platform9-systems.svg
             crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
           - item:
             name: Rafay Systems
             homepage_url: https://rafay.co/
-            logo: https://landscape.cncf.io/logos/rafay-systems-member.svg
+            logo: rafay-systems.svg
             crunchbase: https://www.crunchbase.com/organization/rafay-systems-inc
           - item:
             name: Section
@@ -177,7 +177,7 @@ landscape:
           - item:
             name: VMWare Tanzu Kubernetes Grid (TKG)
             homepage_url: https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html
-            logo: https://landscape.cncf.io/logos/v-mware-tanzu-kubernetes-grid.svg
+            logo: vm-ware-tanzu-kubernetes-grid-tkg.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
       - subcategory:
         name: IoT Focused
@@ -187,7 +187,7 @@ landscape:
             homepage_url: https://github.com/baetyl/baetyl
             project: at_large
             repo_url: https://github.com/baetyl/baetyl
-            logo: https://github.com/State-of-the-Edge/artwork/blob/master/baetyl/horizontal/color/baetyl_horizontal-color.svg
+            logo: baetyl.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: EdgeX Foundry
@@ -213,7 +213,7 @@ landscape:
             name: Wilderness Labs
             homepage_url: https://www.wildernesslabs.co
             repo_url: https://github.com/WildernessLabs/Meadow.Foundation
-            logo: https://www.wildernesslabs.co/assets/svg/logo.svg
+            logo: wilderness-labs.svg
             crunchbase: https://www.crunchbase.com/organization/wilderness-labs
       - subcategory:
         name: Decentralized
@@ -222,8 +222,7 @@ landscape:
             name: StarlingX
             homepage_url: https://www.starlingx.io
             repo_url: https://github.com/openstack-archive/stx-tools
-            logo: >-
-              https://object-storage-ca-ymq-1.vexxhost.net/swift/v1/6e4619c416ff4bd19e1c087f27a43eea/www-images-prod/openstack-logo/starlingx/SVG/StarlingX_Logo_RGB_Stacked_2color.svg
+            logo: starling-x.svg
             twitter: https://twitter.com/starlingx
             crunchbase: https://www.crunchbase.com/organization/openstack
   - category:
@@ -245,7 +244,7 @@ landscape:
             name: Apache Mesos
             homepage_url: https://mesos.apache.org/
             repo_url: https://github.com/apache/mesos
-            logo: https://landscape.cncf.io/logos/apache-mesos.svg
+            logo: apache-mesos.svg
             twitter: https://twitter.com/ApacheMesos
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
@@ -257,20 +256,20 @@ landscape:
             name: Digital Rebar
             homepage_url: https://rebar.digital
             repo_url: https://github.com/digitalrebar/provision
-            logo: https://landscape.cncf.io/logos/digital-rebar.svg
+            logo: digital-rebar.svg
             twitter: https://twitter.com/digitalrebar
             crunchbase: https://www.crunchbase.com/organization/rackn-inc
           - item:
             name: Foreman
             homepage_url: https://theforeman.org/
             repo_url: https://github.com/theforeman/foreman
-            logo: https://landscape.cncf.io/logos/foreman.svg
+            logo: foreman.svg
             crunchbase: https://www.crunchbase.com/organization/foreman
           - item:
             name: Kubermatic Kubernetes Platform
             homepage_url: https://www.kubermatic.com/products/kubermatic/
             repo_url: https://github.com/kubermatic/kubermatic
-            logo: https://github.com/cncf/landscape/blob/master/hosted_logos/kubermatic.svg
+            logo: kubermatic-kubernetes-platform.svg
             crunchbase: https://www.crunchbase.com/organization/loodse-gmbh
           - item:
             name: Kubernetes
@@ -283,14 +282,14 @@ landscape:
             name: LinuxKit
             homepage_url: https://github.com/linuxkit/linuxkit
             repo_url: https://github.com/linuxkit/linuxkit
-            logo: https://landscape.cncf.io/logos/linux-kit.svg
+            logo: linux-kit.svg
             twitter: https://twitter.com/moby
             crunchbase: https://www.crunchbase.com/organization/docker
           - item:
             name: MAAS
             homepage_url: https://maas.io/
             repo_url: https://github.com/maas/maas
-            logo: https://landscape.cncf.io/logos/maas.svg
+            logo: maas.svg
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
             name: OpenNebula
@@ -311,7 +310,7 @@ landscape:
             name: Kata Containers
             homepage_url: https://katacontainers.io/
             repo_url: https://github.com/kata-containers/runtime
-            logo: https://landscape.cncf.io/logos/kata-containers.svg
+            logo: kata-containers.svg
             twitter: https://twitter.com/KataContainers
             crunchbase: https://www.crunchbase.com/organization/openstack
           - item:
@@ -325,7 +324,7 @@ landscape:
             homepage_url: https://wiki.lfedge.org/display/EVE/EVE
             project: growth
             repo_url: https://github.com/lf-edge/eve
-            logo: https://raw.githubusercontent.com/lf-edge/artwork/master/project-eve/icon/color/eve-icon-color.svg
+            logo: project-eve.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
       - subcategory:
         name: IAAS
@@ -333,17 +332,17 @@ landscape:
           - item:
             name: Alibaba Cloud
             homepage_url: https://us.alibabacloud.com/
-            logo: https://landscape.cncf.io/logos/alibaba-cloud-member.svg
+            logo: alibaba-cloud.svg
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
             name: Amazon Web Services
             homepage_url: https://aws.amazon.com/
-            logo: https://landscape.cncf.io/logos/amazon-web-services-member.svg
+            logo: amazon-web-services.svg
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
           - item:
             name: DigitalOcean
             homepage_url: https://www.digitalocean.com/
-            logo: https://landscape.cncf.io/logos/digital-ocean-member.svg
+            logo: digital-ocean.svg
             crunchbase: https://www.crunchbase.com/organization/digitalocean
           - item:
             name: Equinix Metal
@@ -364,22 +363,22 @@ landscape:
           - item:
             name: IBM Cloud
             homepage_url: https://www.ibm.com/cloud/learn/introduction-to-private-cloud
-            logo: https://landscape.cncf.io/logos/ibm-cloud-private.svg
+            logo: ibm-cloud.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Joyent
             homepage_url: https://www.joyent.com/
-            logo: https://landscape.cncf.io/logos/joyent-member.svg
+            logo: joyent.svg
             crunchbase: https://www.crunchbase.com/organization/joyent
           - item:
             name: Oracle Cloud
             homepage_url: https://www.oracle.com/cloud/
-            logo: https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg
+            logo: oracle-cloud.svg
             crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
             name: Rackspace Kubernetes-as-a-Service
             homepage_url: https://www.rackspace.com/cloud/kubernetes
-            logo: https://landscape.cncf.io/logos/rackspace-member.svg
+            logo: rackspace-kubernetes-as-a-service.svg
             crunchbase: https://www.crunchbase.com/organization/rackspace
       - subcategory:
         name: Physical
@@ -397,7 +396,7 @@ landscape:
           - item:
             name: Schneider Electric
             homepage_url: https://www.se.com/ww/en
-            logo: https://upload.wikimedia.org/wikipedia/commons/9/95/Schneider_Electric_2007.svg
+            logo: schneider-electric.svg
             crunchbase: https://www.crunchbase.com/organization/schneider-electric
           - item:
             name: Tripp Lite
@@ -413,7 +412,7 @@ landscape:
           - item:
             name: Aporeto
             homepage_url: https://www.paloaltonetworks.com
-            logo: https://landscape.cncf.io/logos/aporeto-member.svg
+            logo: aporeto.svg
             crunchbase: https://www.crunchbase.com/organization/aporeto
           - item:
             name: Imperva
@@ -430,7 +429,7 @@ landscape:
             homepage_url: https://secure-device-onboard.github.io/docs/
             project: at_large
             repo_url: https://github.com/secure-device-onboard/iot-platform-sdk
-            logo: https://raw.githubusercontent.com/lf-edge/artwork/master/securedeviceonboard/horizontal/color/securedeviceonboard-horizontal-color.svg
+            logo: secure-device-onboard.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Xage Security
@@ -446,7 +445,7 @@ landscape:
           - item:
             name: Nuage Networks
             homepage_url: https://www.nuagenetworks.net/
-            logo: https://landscape.cncf.io/logos/nuage-networks.svg
+            logo: nuage-networks.svg
             crunchbase: https://www.crunchbase.com/organization/nuage-networks
           - item:
             name: Pluribus Networks
@@ -457,33 +456,33 @@ landscape:
             name: Project Calico
             homepage_url: https://www.projectcalico.org/
             repo_url: https://github.com/projectcalico/calico
-            logo: https://landscape.cncf.io/logos/project-calico.svg
+            logo: project-calico.svg
             twitter: https://twitter.com/projectcalico
             crunchbase: https://www.crunchbase.com/organization/tigera
           - item:
             name: Riverbed
             homepage_url: https://www.riverbed.com/
-            logo: https://landscape.cncf.io/logos/riverbed.svg
+            logo: riverbed.svg
             crunchbase: https://www.crunchbase.com/organization/riverbed-technology
           - item:
             name: Silver Peak
             homepage_url: https://www.silver-peak.com/
-            logo: https://upload.wikimedia.org/wikipedia/commons/5/54/Silver_Peak_logo.svg
+            logo: silver-peak.svg
             crunchbase: https://www.crunchbase.com/organization/silver-peak
           - item:
             name: T-Mobile
             homepage_url: https://www.t-mobile.com/
-            logo: https://upload.wikimedia.org/wikipedia/commons/4/42/T-Mobile-Logo.svg
+            logo: t-mobile.svg
             crunchbase: https://www.crunchbase.com/organization/t-mobile
           - item:
             name: VMWare NSX
             homepage_url: https://www.vmware.com/products/nsx.html
-            logo: https://landscape.cncf.io/logos/v-mware-nsx.svg
+            logo: vm-ware-nsx.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: ZTE
             homepage_url: https://www.zte.com.cn/global/404
-            logo: https://landscape.cncf.io/logos/zte-kcsp.svg
+            logo: zte.svg
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
   - category:
     name: Hardware
@@ -500,7 +499,7 @@ landscape:
           - item:
             name: ASRock Rack
             homepage_url: https://www.asrockrack.com/
-            logo: https://www.hpc-ags.com/modules/common/images/logo_ags_asrockrack.svg
+            logo: as-rock-rack.svg
             crunchbase: https://www.crunchbase.com/organization/asrock-rack
           - item:
             name: Intel
@@ -510,7 +509,7 @@ landscape:
           - item:
             name: Micron Technology
             homepage_url: https://www.micron.com/
-            logo: https://upload.wikimedia.org/wikipedia/commons/9/9b/Micron_Technology_logo.svg
+            logo: micron-technology.svg
             crunchbase: https://www.crunchbase.com/organization/micron-technology
           - item:
             name: NXP
@@ -528,7 +527,7 @@ landscape:
           - item:
             name: Graphcore
             homepage_url: https://www.graphcore.ai/
-            logo: https://en.wikichip.org/w/images/e/ed/graphcore_logo.svg
+            logo: graphcore.svg
             crunchbase: https://www.crunchbase.com/organization/graphcore
           - item:
             name: Netronome Systems
@@ -559,12 +558,12 @@ landscape:
           - item:
             name: Supermicro
             homepage_url: https://www.supermicro.com/en/
-            logo: https://upload.wikimedia.org/wikipedia/commons/1/1d/Super_Micro_Computer_Logo.svg
+            logo: supermicro.svg
             crunchbase: https://www.crunchbase.com/organization/super-micro-computer
           - item:
             name: Vertiv
             homepage_url: https://www.vertiv.com/en-us/
-            logo: https://upload.wikimedia.org/wikipedia/commons/d/d9/Vertiv_logo.svg
+            logo: vertiv.svg
             crunchbase: https://www.crunchbase.com/organization/vertiv
           - item:
             name: Zayo
@@ -581,13 +580,13 @@ landscape:
           - item:
             name: Telefonica
             homepage_url: https://www.telefonica.com/en/home
-            logo: https://upload.wikimedia.org/wikipedia/commons/0/0a/Telefonica-Europe-Logo.svg
+            logo: telefonica.svg
             crunchbase: https://www.crunchbase.com/organization/telefonica
           - item:
             name: Telia Company
             homepage_url: https://www.teliacompany.com/en
             stock_ticker: null
-            logo: https://upload.wikimedia.org/wikipedia/commons/a/a5/Telia_Company_Logo.svg
+            logo: telia-company.svg
             crunchbase: https://www.crunchbase.com/organization/teliasonera
           - item:
             name: Verizon
@@ -600,7 +599,7 @@ landscape:
           - item:
             name: CenturyLink
             homepage_url: https://www.centurylink.com/
-            logo: https://upload.wikimedia.org/wikipedia/commons/0/02/CenturyLink_2010_logo.svg
+            logo: century-link.svg
             crunchbase: https://www.crunchbase.com/organization/centurylink
           - item:
             name: Charter Communications
@@ -615,17 +614,17 @@ landscape:
           - item:
             name: Cox Communications
             homepage_url: https://www.cox.com/residential/home.html
-            logo: https://upload.wikimedia.org/wikipedia/commons/0/03/Cox_Communications_Logo.svg
+            logo: cox-communications.svg
             crunchbase: https://www.crunchbase.com/organization/cox-communications
           - item:
             name: Deutsche Telekom
             homepage_url: https://www.telekom.com/en
-            logo: https://cdn.freebiesupply.com/logos/large/2x/deutsche-telekom-2-logo-svg-vector.svg
+            logo: deutsche-telekom.svg
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
           - item:
             name: SoftBank
             homepage_url: https://www.softbank.jp/en/
-            logo: https://upload.wikimedia.org/wikipedia/commons/6/6f/Softbank_logo.svg
+            logo: soft-bank.svg
             crunchbase: https://www.crunchbase.com/organization/softbank
   - category:
     name: Real Estate / Land
@@ -636,7 +635,7 @@ landscape:
           - item:
             name: Siemens
             homepage_url: https://www.siemens.com/global/en.html
-            logo: https://upload.wikimedia.org/wikipedia/commons/5/5f/Siemens-logo.svg
+            logo: siemens.svg
             crunchbase: https://www.crunchbase.com/organization/siemens
           - item:
             name: Telxius
@@ -696,7 +695,7 @@ landscape:
           - item:
             name: Inspur Group
             homepage_url: https://en.inspur.com
-            logo: https://landscape.cncf.io/logos/inspur-member.svg
+            logo: inspur-group.svg
             crunchbase: https://www.crunchbase.com/organization/inspur-group
           - item:
             name: Lenovo
@@ -713,13 +712,13 @@ landscape:
             homepage_url: https://www.lfedge.org/projects/openhorizon/
             project: growth
             repo_url: https://github.com/open-horizon/anax
-            logo: https://github.com/lf-edge/artwork/blob/master/openhorizon/horizontal/color/openhorizon-horizontal-color.svg
+            logo: open-horizon.svg
             twitter: https://twitter.com/LF_Edge
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Portworx
             homepage_url: https://portworx.com/
-            logo: https://landscape.cncf.io/logos/portworx.svg
+            logo: portworx.svg
             crunchbase: https://www.crunchbase.com/organization/portworx
           - item:
             name: QCT
@@ -729,17 +728,17 @@ landscape:
           - item:
             name: StorageOS
             homepage_url: https://storageos.com/
-            logo: https://landscape.cncf.io/logos/storage-os-member.svg
+            logo: storage-os.svg
             crunchbase: https://www.crunchbase.com/organization/storageos
           - item:
             name: Wiwynn
             homepage_url: https://www.wiwynn.com
-            logo: https://www.nvidia.com/content/dam/logos/wiwynn-logo.svg
+            logo: wiwynn.svg
             crunchbase: https://www.crunchbase.com/organization/wiwynn
           - item:
             name: Xnor.ai
             homepage_url: https://www.xnor.ai/
-            logo: https://greywhayle.com//img/company_logos/1565676751_313435.svg
+            logo: xnor-ai.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/xnor-ai
           - item:
