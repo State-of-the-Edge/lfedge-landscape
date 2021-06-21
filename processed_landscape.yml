@@ -48,7 +48,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T19:38:58.000Z
+              latest_tweet_date: 2021-06-21T03:00:34.000Z
           - item:
             name: Open Compute Project Foundation
             homepage_url: https://www.opencompute.org/
@@ -138,7 +138,7 @@ landscape:
               languages: []
               contributions: 0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2020-06-28Z
-              stars: 140
+              stars: 141
               license: Creative Commons Attribution Share Alike 4.0 International
               description: >-
                 The Linux Foundation's Open Glossary of Edge Computing project curates and defines terms related to the field of edge computing, collecting
@@ -151,7 +151,7 @@ landscape:
               contributors_link: https://github.com/State-of-the-Edge/glossary/graphs/contributors
             repos:
               - url: https://github.com/State-of-the-Edge/glossary
-                stars: 140
+                stars: 141
             github_start_commit_data:
               start_commit_link: /lf-edge/glossary/commit/94da828cf86671fc7d8fd16002cabe1faee065e9
               start_date: '2018-06-08T15:38:41Z'
@@ -365,7 +365,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T18:57:03.000Z
+              latest_tweet_date: 2021-06-20T16:03:03.000Z
           - item:
             name: VyOS
             homepage_url: https://vyos.io/
@@ -399,24 +399,24 @@ landscape:
                   value: 88236
                   color: '#89e051'
                 - name: Python
-                  value: 52518
+                  value: 52323
                   color: '#3572A5'
                 - name: Groovy
                   value: 19769
                   color: '#e69f56'
                 - name: Dockerfile
-                  value: 18221
+                  value: 16254
                   color: '#384d54'
                 - name: Makefile
                   value: 8559
                   color: '#427819'
-              contributions: 28;7;6;1;2;3;9;6;3;6;19;7;20;5;5;1;15;2;7;9;8;2;6;4;2;14;8;8;26;7;5;10;9;13;6;5;5;4;5;20;6;12;7;6;2;3;6;2;8;25;13;8
+              contributions: 26;8;1;1;4;5;5;6;4;14;14;19;4;5;5;1;16;1;11;5;9;1;7;4;1;14;8;10;27;5;7;12;4;13;6;9;1;4;5;20;10;11;5;6;2;3;6;6;12;24;10;12
               firstWeek: 2020-06-28Z
               stars: 471
               license: GNU General Public License v2.0
               description: VyOS image build scripts
-              latest_commit_date: '2021-06-16T18:04:27Z'
-              latest_commit_link: /vyos/vyos-build/commit/c5d46f68b76fd518e764a60c57f74f8c8a569f8f
+              latest_commit_date: '2021-06-21T05:03:04Z'
+              latest_commit_link: /vyos/vyos-build/commit/cd9cd920cdabd7cd7c5bd0e6108fd1c0e78c3cb9
               contributors_count: 39
               contributors_link: https://github.com/vyos/vyos-build/graphs/contributors
             repos:
@@ -622,7 +622,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-17T16:14:55.000Z
+              latest_tweet_date: 2021-06-20T16:50:13.000Z
           - item:
             name: Amazon Cloudfront
             description: >-
@@ -1322,7 +1322,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T13:24:00.000Z
+              latest_tweet_date: 2021-06-20T12:08:15.000Z
           - item:
             name: Cloudflare
             homepage_url: https://www.cloudflare.com
@@ -1954,7 +1954,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T14:00:01.000Z
+              latest_tweet_date: 2021-06-21T06:39:17.000Z
           - item:
             name: Limelight Networks
             homepage_url: https://www.limelight.com
@@ -2163,7 +2163,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 2345501
+                  value: 2345572
                   color: '#00ADD8'
                 - name: Shell
                   value: 131001
@@ -2175,13 +2175,13 @@ landscape:
                   value: 3060
                   color: '#384d54'
               contributions: >-
-                18;21;23;29;46;24;35;22;14;19;25;26;19;21;35;9;22;13;16;23;23;33;15;23;21;19;15;26;18;36;13;25;15;9;5;11;10;19;35;80;15;2;17;14;8;4;11;9;5;25;9;12
+                19;19;23;29;48;22;35;22;15;18;25;26;19;26;30;9;22;14;15;25;21;33;15;23;21;19;17;24;18;36;13;25;16;8;5;11;10;19;38;77;15;2;17;14;8;4;11;9;5;25;9;12
               firstWeek: 2020-06-28Z
               stars: 3968
               license: Apache License 2.0
               description: Kubernetes Native Edge Computing Framework (project under CNCF)
-              latest_commit_date: '2021-06-19T10:05:16Z'
-              latest_commit_link: /kubeedge/kubeedge/commit/12cd25c651730d1423a4135301af6d685f3c8c52
+              latest_commit_date: '2021-06-21T01:37:17Z'
+              latest_commit_link: /kubeedge/kubeedge/commit/558eac20de22b24fa7ffaf2bd07453440e733fcd
               release_date: '2021-06-10T11:36:22Z'
               release_link: https://github.com/kubeedge/kubeedge/releases
               contributors_count: 223
@@ -2490,7 +2490,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T03:16:04.000Z
+              latest_tweet_date: 2021-06-21T06:19:07.000Z
       - subcategory:
         name: IoT Focused
         items:
@@ -2530,7 +2530,7 @@ landscape:
                 - name: Dockerfile
                   value: 344
                   color: '#384d54'
-              contributions: 6;5;6;0;5;13;16;5;11;12;7;6;8;24;6;0;5;8;3;4;6;6;6;3;1;3;1;3;1;2;2;1;11;0;1;1;1;1;6;1;1;0;7;1;1;0;2;0;1;0;3;3
+              contributions: 6;5;6;0;5;13;16;9;7;12;8;5;8;27;3;0;5;8;3;4;6;6;6;3;1;3;1;3;1;2;2;1;11;0;1;1;1;1;6;1;1;0;7;2;0;0;2;0;1;0;3;3
               firstWeek: 2020-06-28Z
               stars: 1562
               license: Apache License 2.0
@@ -2597,7 +2597,7 @@ landscape:
                   color: '#427819'
                 - name: HCL
                   value: 1314
-              contributions: 6;4;4;6;6;7;1;3;8;6;9;9;5;12;29;30;46;33;25;5;1;9;10;20;8;17;2;7;35;34;35;17;30;14;15;11;10;11;17;18;35;11;9;24;7;11;33;23;18;10;15;16
+              contributions: 6;4;4;6;6;7;1;3;8;6;9;9;5;15;26;32;45;33;24;5;1;11;8;20;8;17;2;7;36;35;33;17;31;13;15;11;10;11;17;18;35;11;9;24;7;15;29;23;18;10;15;16
               firstWeek: 2020-06-28Z
               stars: 813
               license: Apache License 2.0
@@ -2664,7 +2664,7 @@ landscape:
                 - name: Dockerfile
                   value: 1109
                   color: '#384d54'
-              contributions: 28;30;29;5;16;8;16;3;10;21;39;11;27;12;9;6;7;5;7;4;11;2;6;6;4;10;4;12;2;5;1;3;6;5;3;10;9;4;1;8;3;0;3;0;4;9;7;8;7;8;2;3
+              contributions: 31;27;29;5;16;8;16;3;10;21;39;11;27;17;4;6;7;5;7;4;11;2;6;6;4;10;4;12;2;5;1;3;6;5;3;10;9;4;1;8;3;0;3;0;4;9;7;8;7;8;2;3
               firstWeek: 2020-06-28Z
               stars: 403
               license: Apache License 2.0
@@ -2795,7 +2795,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T13:00:02.000Z
+              latest_tweet_date: 2021-06-20T17:02:50.000Z
           - item:
             name: Wilderness Labs
             homepage_url: https://www.wildernesslabs.co
@@ -2836,7 +2836,7 @@ landscape:
                 - name: PowerShell
                   value: 2446
                   color: '#012456'
-              contributions: 42;1;23;21;18;3;4;8;4;6;3;2;3;3;0;1;3;8;0;2;15;20;11;6;10;3;0;4;32;26;7;2;7;11;21;20;20;13;15;0;0;0;0;0;0;0;0;0;1;0;0;0
+              contributions: 32;1;27;19;18;3;3;7;4;6;5;0;4;2;0;1;4;7;0;13;4;20;14;3;12;1;0;5;34;30;1;1;12;20;10;21;16;15;13;0;0;0;0;0;0;0;0;0;1;0;0;0
               firstWeek: 2020-06-28Z
               stars: 94
               license: Unknown License
@@ -2860,7 +2860,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-12T23:24:16.000Z
+              latest_tweet_date: 2021-06-20T15:19:05.000Z
       - subcategory:
         name: Decentralized
         items:
@@ -3050,9 +3050,9 @@ landscape:
                 - name: Groovy
                   value: 1459
                   color: '#e69f56'
-              contributions: 1;1;2;11;0;4;10;7;13;5;19;27;7;4;1;2;8;2;2;2;1;1;4;1;0;0;0;0;1;4;1;3;1;0;0;0;0;0;0;0;0;0;0;1;0;0;2;3;0;2;1;1
+              contributions: 1;1;2;11;0;4;10;7;13;6;18;27;7;4;1;2;8;2;2;2;1;1;4;1;0;0;0;0;1;4;2;3;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4;1;0;2;2;0
               firstWeek: 2020-06-28Z
-              stars: 4748
+              stars: 4747
               license: Apache License 2.0
               description: Apache Mesos
               latest_commit_date: '2021-06-13T13:53:21Z'
@@ -3061,7 +3061,7 @@ landscape:
               contributors_link: https://github.com/apache/mesos/graphs/contributors
             repos:
               - url: https://github.com/apache/mesos
-                stars: 4748
+                stars: 4747
             github_start_commit_data:
               start_commit_link: /apache/mesos/commit/54a6a53e5fc378aa13e75f6686202b3d427684da
               start_date: '2011-04-27T06:59:39Z'
@@ -3153,7 +3153,7 @@ landscape:
                 - name: Dockerfile
                   value: 1280
                   color: '#384d54'
-              contributions: 21;6;12;0;2;19;11;9;25;19;13;11;20;27;8;10;4;7;8;10;5;11;8;12;6;14;0;2;9;3;2;10;9;0;5;17;11;5;9;20;8;10;11;13;15;4;25;28;4;4;2;11
+              contributions: 22;5;12;0;2;19;11;9;26;18;13;11;20;27;9;9;4;8;7;10;5;11;8;12;6;14;0;2;11;1;2;10;9;5;1;16;11;5;9;20;8;10;11;13;15;4;26;27;6;2;2;11
               firstWeek: 2020-06-28Z
               stars: 134
               license: Other
@@ -3231,7 +3231,7 @@ landscape:
                 - name: Makefile
                   value: 1697
                   color: '#427819'
-              contributions: 13;21;7;13;16;17;10;15;9;22;15;18;14;9;16;21;9;16;18;12;8;7;7;12;16;13;8;2;15;13;12;14;13;5;11;10;9;13;14;11;10;7;5;15;13;17;7;10;7;10;8;4
+              contributions: 14;19;8;12;18;16;9;15;9;24;14;18;13;10;17;19;10;16;19;11;7;10;5;12;16;12;9;2;16;11;12;14;14;4;11;11;8;15;12;11;10;8;4;18;12;15;7;11;6;12;6;4
               firstWeek: 2020-06-28Z
               stars: 2024
               license: GNU General Public License v3.0
@@ -3298,7 +3298,7 @@ landscape:
                   value: 1839
                 - name: Smarty
                   value: 1049
-              contributions: 19;7;18;22;20;6;10;7;4;30;9;18;22;19;23;9;11;16;19;19;16;8;13;23;21;8;2;2;3;11;11;8;17;12;11;13;14;28;13;21;10;13;14;12;11;10;16;15;17;19;12;10
+              contributions: 18;7;18;22;20;6;10;7;4;30;9;19;21;23;19;9;13;14;19;19;16;8;13;23;21;8;2;2;3;11;11;8;17;12;11;13;14;28;13;21;10;14;13;12;11;10;16;15;17;19;12;10
               firstWeek: 2020-06-28Z
               stars: 730
               license: Other
@@ -3362,7 +3362,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 57143837
+                  value: 57149378
                   color: '#00ADD8'
                 - name: Shell
                   value: 1740250
@@ -3395,20 +3395,20 @@ landscape:
                   value: 128
                   color: '#e34c26'
               contributions: >-
-                224;244;175;154;168;120;109;135;85;184;223;157;151;161;139;149;144;143;242;301;302;124;72;81;185;118;73;57;172;237;184;232;216;209;237;246;486;364;131;109;81;155;200;200;171;133;119;181;164;170;132;158
+                222;237;210;127;159;134;103;127;84;190;219;154;152;163;145;144;141;143;241;304;299;123;71;84;185;119;70;58;177;236;196;226;216;212;233;256;502;327;136;104;86;182;172;207;165;132;123;182;156;172;135;157
               firstWeek: 2020-06-28Z
-              stars: 78317
+              stars: 78329
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2021-06-19T20:10:50Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/e55ff835b427029a895bfdb2f022bfdd47f9bed8
+              latest_commit_date: '2021-06-21T06:44:51Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/513ae557a3231cde76ad155bbbd4e18f8182df25
               release_date: '2021-06-17T18:56:28Z'
               release_link: https://github.com/kubernetes/kubernetes/releases
-              contributors_count: 3949
+              contributors_count: 3950
               contributors_link: https://github.com/kubernetes/kubernetes/graphs/contributors
             repos:
               - url: https://github.com/kubernetes/kubernetes
-                stars: 78317
+                stars: 78329
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -3495,9 +3495,9 @@ landscape:
                 - name: Standard ML
                   value: 37
                   color: '#dc566d'
-              contributions: 0;0;0;0;2;4;0;0;1;0;0;2;0;0;0;6;1;8;0;2;2;0;8;0;3;2;3;1;3;0;8;0;1;1;2;0;1;1;2;1;6;5;6;24;13;29;6;11;13;3;1;3
+              contributions: 0;0;0;0;5;1;0;0;1;0;0;2;0;0;0;6;1;8;1;1;2;0;8;0;3;2;3;1;3;0;8;0;1;2;1;0;1;1;2;1;6;5;10;20;21;22;5;11;13;3;1;3
               firstWeek: 2020-06-28Z
-              stars: 6913
+              stars: 6914
               license: Apache License 2.0
               description: A toolkit for building secure, portable and lean operating systems for containers
               latest_commit_date: '2021-06-16T13:47:44Z'
@@ -3508,7 +3508,7 @@ landscape:
               contributors_link: https://github.com/linuxkit/linuxkit/graphs/contributors
             repos:
               - url: https://github.com/linuxkit/linuxkit
-                stars: 6913
+                stars: 6914
             github_start_commit_data:
               start_commit_link: /linuxkit/linuxkit/commit/0fa1e68dc65c5f484ce9c2851b5efa2c8617d4f9
               start_date: '2015-11-26T15:17:40Z'
@@ -3570,7 +3570,7 @@ landscape:
                   value: 590
                   color: '#555555'
               contributions: >-
-                34;37;29;22;7;17;34;11;21;29;19;29;40;33;26;14;31;34;16;10;18;17;29;41;28;25;0;0;35;55;21;32;39;27;33;36;49;41;60;34;50;52;48;43;33;38;17;54;13;25;0;0
+                34;36;29;22;7;17;34;11;21;29;19;29;40;33;26;14;31;35;15;10;18;17;29;41;28;25;0;3;32;55;21;35;36;27;34;36;49;41;59;34;50;52;51;40;35;36;17;54;13;25;0;0
               firstWeek: 2020-06-28Z
               stars: 168
               license: Other
@@ -3671,7 +3671,7 @@ landscape:
                   value: 2086
                   color: '#ecdebe'
               contributions: >-
-                25;18;13;17;14;25;6;6;9;9;14;31;18;19;29;29;16;33;26;18;22;43;42;43;32;23;7;0;49;85;60;42;22;38;46;47;40;53;37;35;23;36;29;13;34;22;35;24;21;19;17;4
+                25;19;12;17;14;25;6;6;9;9;14;31;18;19;29;29;16;33;26;18;23;42;42;43;32;25;5;4;50;80;61;41;22;38;46;48;40;52;37;37;21;36;29;14;33;22;35;24;21;19;17;4
               firstWeek: 2020-06-28Z
               stars: 762
               license: Other
@@ -3769,9 +3769,9 @@ landscape:
                   value: 81
                   color: '#6E4C13'
               contributions: >-
-                59;31;32;70;66;84;42;41;25;29;37;59;74;45;58;32;32;53;51;56;51;41;20;38;49;43;21;0;42;31;36;38;22;22;30;33;27;24;25;34;55;57;27;24;45;26;12;51;43;65;58;25
+                56;31;32;72;70;78;48;37;23;29;37;61;75;42;58;32;32;53;54;58;49;40;20;38;52;40;21;0;42;32;35;38;22;22;30;36;24;28;21;36;59;51;27;25;44;26;12;51;43;65;59;26
               firstWeek: 2020-06-28Z
-              stars: 5287
+              stars: 5289
               license: Apache License 2.0
               description: Docker CE
               latest_commit_date: '2021-06-20T05:32:05Z'
@@ -3782,7 +3782,7 @@ landscape:
               contributors_link: https://github.com/docker/docker-ce/graphs/contributors
             repos:
               - url: https://github.com/docker/docker-ce
-                stars: 5287
+                stars: 5289
             github_start_commit_data:
               start_commit_link: /docker/docker-ce/commit/5c70746915d4589a692cbe50a43cf619ed0b7152
               start_date: '2013-01-19T00:13:39Z'
@@ -3835,9 +3835,9 @@ landscape:
                 - name: Dockerfile
                   value: 386
                   color: '#384d54'
-              contributions: 9;5;4;8;12;15;9;8;5;9;5;14;13;6;11;10;9;7;17;11;11;8;3;4;4;2;1;0;3;9;6;1;3;2;1;0;0;0;0;0;8;2;0;1;1;11;0;0;0;0;0;0
+              contributions: 9;5;4;8;12;15;9;8;5;9;5;14;13;7;10;10;9;7;17;11;11;8;3;4;4;2;1;0;3;10;5;1;3;2;1;0;0;0;0;0;8;2;0;1;1;11;0;0;0;0;0;0
               firstWeek: 2020-06-28Z
-              stars: 2101
+              stars: 2100
               license: Apache License 2.0
               description: Kata Containers version 1.x runtime (for version 2.x see https://github.com/kata-containers/kata-containers).
               latest_commit_date: '2021-05-05T12:51:00Z'
@@ -3848,7 +3848,7 @@ landscape:
               contributors_link: https://github.com/kata-containers/runtime/graphs/contributors
             repos:
               - url: https://github.com/kata-containers/runtime
-                stars: 2101
+                stars: 2100
             github_start_commit_data:
               start_commit_link: /kata-containers/runtime/commit/53901abe10027ded041a97edea7d99648b957548
               start_date: '2017-11-21T09:03:45Z'
@@ -3913,13 +3913,14 @@ landscape:
                 - name: CSS
                   value: 116
                   color: '#563d7c'
-              contributions: 7;15;17;20;34;14;28;18;16;59;26;27;14;9;13;9;7;48;32;16;6;8;12;20;7;13;4;6;9;4;16;30;27;15;5;16;30;28;13;17;12;12;13;24;16;28;28;29;29;15;29;6
+              contributions: >-
+                8;15;16;20;34;14;28;18;16;60;26;26;14;10;12;11;5;49;33;16;4;8;12;20;7;14;3;6;9;12;8;30;28;14;5;21;26;27;13;17;12;12;13;24;17;28;27;30;28;15;30;10
               firstWeek: 2020-06-28Z
               stars: 701
               license: BSD 3-Clause "New" or "Revised" License
               description: 'Project ACRN hypervisor '
-              latest_commit_date: '2021-06-16T17:46:10Z'
-              latest_commit_link: /projectacrn/acrn-hypervisor/commit/db88a529c575c2a8566f1c15dc829c406c022f7b
+              latest_commit_date: '2021-06-21T00:16:02Z'
+              latest_commit_link: /projectacrn/acrn-hypervisor/commit/4d0f453dfc3807f5a8126803b8c7feb77c3c28f1
               release_date: '2021-04-08T07:16:39Z'
               release_link: https://github.com/projectacrn/acrn-hypervisor/releases
               contributors_count: 167
@@ -4001,7 +4002,7 @@ landscape:
                 - name: NSIS
                   value: 9
               contributions: >-
-                35;58;45;37;26;35;24;55;45;34;45;26;33;46;35;46;24;17;23;30;40;28;24;25;21;20;15;2;7;21;34;34;21;26;37;24;32;14;23;24;19;13;22;15;20;13;34;20;15;8;10;7
+                34;61;42;40;23;39;21;56;44;39;39;29;37;39;38;43;24;18;24;33;38;25;24;26;20;25;10;2;8;20;34;34;24;26;36;22;32;16;23;22;19;13;23;14;20;13;34;20;15;8;10;7
               firstWeek: 2020-06-28Z
               stars: 284
               license: Apache License 2.0
@@ -4064,7 +4065,7 @@ landscape:
                 - Data Center
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 578614467007
+              market_cap: 571268449200
               effective_ticker: 9988.HK
             image_data:
               fileName: alibaba-cloud.svg
@@ -4073,7 +4074,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T05:00:01.000Z
+              latest_tweet_date: 2021-06-20T13:00:00.000Z
           - item:
             name: Amazon Web Services
             homepage_url: https://aws.amazon.com/
@@ -4166,7 +4167,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T12:09:53.000Z
+              latest_tweet_date: 2021-06-21T04:02:06.000Z
           - item:
             name: Equinix Metal
             homepage_url: https://metal.equinix.com/
@@ -4255,7 +4256,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T22:59:40.000Z
+              latest_tweet_date: 2021-06-21T05:35:49.000Z
           - item:
             name: Hivelocity
             homepage_url: https://www.hivelocity.net/
@@ -4745,7 +4746,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T00:49:55.000Z
+              latest_tweet_date: 2021-06-20T20:42:46.000Z
           - item:
             name: Joyent
             homepage_url: https://www.joyent.com/
@@ -5139,7 +5140,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T14:13:46.000Z
+              latest_tweet_date: 2021-06-20T14:32:22.000Z
           - item:
             name: Rackspace Kubernetes-as-a-Service
             homepage_url: https://www.rackspace.com/cloud/kubernetes
@@ -5206,7 +5207,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T13:56:11.000Z
+              latest_tweet_date: 2021-06-20T21:22:37.000Z
       - subcategory:
         name: Physical
         items:
@@ -5651,7 +5652,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T22:20:03.000Z
+              latest_tweet_date: 2021-06-20T22:15:02.000Z
           - item:
             name: PerimeterX
             homepage_url: https://www.perimeterx.com/
@@ -5859,7 +5860,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T19:00:28.000Z
+              latest_tweet_date: 2021-06-20T20:00:21.000Z
           - item:
             name: Project Calico
             homepage_url: https://www.projectcalico.org/
@@ -5929,9 +5930,9 @@ landscape:
                 - name: Dockerfile
                   value: 890
                   color: '#384d54'
-              contributions: 27;9;15;15;15;3;3;31;5;30;16;4;9;9;17;18;20;16;3;15;14;19;9;12;5;8;1;1;4;5;17;17;6;23;8;21;22;7;7;5;20;10;4;18;5;3;3;7;20;4;9;7
+              contributions: 27;9;16;14;15;3;3;31;5;30;16;5;12;5;17;18;20;16;3;15;15;18;9;12;5;8;1;1;4;8;15;16;6;23;8;21;22;7;7;5;22;8;4;18;5;3;3;7;20;5;8;7
               firstWeek: 2020-06-28Z
-              stars: 2635
+              stars: 2636
               license: Apache License 2.0
               description: Cloud native networking and network security
               latest_commit_date: '2021-06-18T18:35:33Z'
@@ -5942,7 +5943,7 @@ landscape:
               contributors_link: https://github.com/projectcalico/calico/graphs/contributors
             repos:
               - url: https://github.com/projectcalico/calico
-                stars: 2635
+                stars: 2636
             github_start_commit_data:
               start_commit_link: /projectcalico/calico/commit/8e3d75dd58a2d93eddfdf53baad931004d7fb783
               start_date: '2016-07-21T15:45:54Z'
@@ -6047,7 +6048,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T22:10:02.000Z
+              latest_tweet_date: 2021-06-20T22:05:02.000Z
           - item:
             name: T-Mobile
             homepage_url: https://www.t-mobile.com/
@@ -6097,7 +6098,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T14:48:40.000Z
+              latest_tweet_date: 2021-06-20T17:21:20.000Z
           - item:
             name: VMWare NSX
             homepage_url: https://www.vmware.com/products/nsx.html
@@ -6246,7 +6247,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T03:16:04.000Z
+              latest_tweet_date: 2021-06-21T06:19:07.000Z
           - item:
             name: ZTE
             homepage_url: https://www.zte.com.cn/global/404
@@ -6273,7 +6274,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 22727400872
+              market_cap: 22261450167
               effective_ticker: 000063.SZ
             image_data:
               fileName: zte.svg
@@ -6344,7 +6345,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-17T16:46:20.000Z
+              latest_tweet_date: 2021-06-20T13:01:08.000Z
           - item:
             name: ASRock Rack
             homepage_url: https://www.asrockrack.com/
@@ -6973,7 +6974,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-17T18:38:35.000Z
+              latest_tweet_date: 2021-06-20T16:10:01.000Z
           - item:
             name: Xilinx
             homepage_url: https://www.xilinx.com
@@ -7036,7 +7037,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 32502611461
+              market_cap: 32560544937
               effective_ticker: XLNX.VI
             image_data:
               fileName: xilinx.svg
@@ -7081,7 +7082,7 @@ landscape:
                 - Manufacturing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 38458864211
+              market_cap: 38021017673
               effective_ticker: 601138.SS
             image_data:
               fileName: foxconn-industrial-internet.svg
@@ -7380,7 +7381,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T17:26:00.000Z
+              latest_tweet_date: 2021-06-20T18:54:08.000Z
           - item:
             name: Telia Company
             homepage_url: https://www.teliacompany.com/en
@@ -7726,7 +7727,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-18T17:35:48.000Z
+              latest_tweet_date: 2021-06-20T14:30:08.000Z
           - item:
             name: Cox Communications
             homepage_url: https://www.cox.com/residential/home.html
@@ -7820,7 +7821,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 99004709699
+              market_cap: 99181178197
               effective_ticker: DTE.DE
             image_data:
               fileName: deutsche-telekom.svg
@@ -7829,7 +7830,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T05:56:20.000Z
+              latest_tweet_date: 2021-06-21T06:26:15.000Z
           - item:
             name: SoftBank
             homepage_url: https://www.softbank.jp/en/
@@ -7890,7 +7891,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 121780944375
+              market_cap: 117814457581
               effective_ticker: 9984.T
             image_data:
               fileName: soft-bank.svg
@@ -7899,7 +7900,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-18T09:00:02.000Z
+              latest_tweet_date: 2021-06-21T03:36:16.000Z
   - category:
     name: Real Estate / Land
     subcategories:
@@ -8097,7 +8098,7 @@ landscape:
                 - Medical
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 9719310277
+              market_cap: 9490533952
               effective_ticker: SIEMENS.NS
             image_data:
               fileName: siemens.svg
@@ -8106,7 +8107,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-18T11:59:10.000Z
+              latest_tweet_date: 2021-06-21T00:10:12.000Z
           - item:
             name: Telxius
             homepage_url: https://telxius.com/
@@ -8402,7 +8403,7 @@ landscape:
                 - name: Dockerfile
                   value: 925
                   color: '#384d54'
-              contributions: 1;13;7;3;10;5;3;2;4;4;2;4;4;0;0;5;8;8;27;8;3;2;3;4;3;4;3;0;0;3;16;10;5;6;7;4;5;2;1;0;2;2;1;2;0;1;2;1;1;2;4;2
+              contributions: 3;10;7;3;10;5;3;2;4;4;2;4;4;0;0;5;8;8;28;8;2;3;2;4;5;2;3;0;0;3;16;13;2;6;7;4;5;2;1;2;0;2;1;2;0;1;2;1;1;2;4;2
               firstWeek: 2020-06-28Z
               stars: 45
               license: Apache License 2.0
@@ -8457,7 +8458,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 6580375386
+              market_cap: 6523593122
               effective_ticker: 000977.SZ
             image_data:
               fileName: inspur-group.svg
@@ -8512,7 +8513,7 @@ landscape:
                 - Mobile
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 13913598945
+              market_cap: 13648036077
               effective_ticker: 0992.HK
             image_data:
               fileName: lenovo.svg
@@ -8521,7 +8522,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T05:06:01.000Z
+              latest_tweet_date: 2021-06-21T05:50:02.000Z
           - item:
             name: ObjectBox
             homepage_url: https://objectbox.io/
@@ -8602,7 +8603,7 @@ landscape:
                 - name: Dockerfile
                   value: 2725
                   color: '#384d54'
-              contributions: 10;5;7;8;4;17;11;24;23;21;16;27;52;39;28;23;4;5;5;1;18;9;3;5;1;5;0;1;1;2;10;27;16;10;20;20;29;22;4;6;15;20;15;15;5;14;18;13;8;12;11;16
+              contributions: 10;5;7;8;4;17;11;24;23;21;16;27;52;39;28;24;3;5;5;1;18;9;3;5;1;5;0;1;1;2;11;26;16;11;19;21;28;22;4;7;15;19;15;15;5;14;18;13;8;12;11;16
               firstWeek: 2020-06-28Z
               stars: 45
               license: Apache License 2.0
@@ -9134,7 +9135,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T04:10:07.000Z
+              latest_tweet_date: 2021-06-21T04:12:54.000Z
           - item:
             name: Baidu
             homepage_url: https://www.baidu.com/
@@ -9286,7 +9287,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T05:32:00.000Z
+              latest_tweet_date: 2021-06-20T13:15:13.000Z
           - item:
             name: Dianomic
             homepage_url: https://dianomicstage.wpengine.com
@@ -9392,7 +9393,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T20:52:04.000Z
+              latest_tweet_date: 2021-06-20T22:19:01.000Z
           - item:
             name: Ericsson
             homepage_url: https://www.ericsson.com/en
@@ -9518,7 +9519,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T18:30:00.000Z
+              latest_tweet_date: 2021-06-21T05:30:08.000Z
           - item:
             name: Fujitsu
             homepage_url: https://www.fujitsu.com/global
@@ -9593,7 +9594,7 @@ landscape:
                 - Information and Communications Technology (ICT)
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 34854181905
+              market_cap: 34466468157
               effective_ticker: 6702.T
             image_data:
               fileName: fujitsu.svg
@@ -9602,7 +9603,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T16:00:34.000Z
+              latest_tweet_date: 2021-06-20T10:00:05.000Z
           - item:
             name: Futurewei
             homepage_url: https://www.futurewei.com/
@@ -9901,7 +9902,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T03:27:00.000Z
+              latest_tweet_date: 2021-06-21T02:20:28.000Z
           - item:
             name: Huawei
             homepage_url: https://www.huawei.com/en/
@@ -9958,7 +9959,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T04:40:00.000Z
+              latest_tweet_date: 2021-06-21T06:43:06.000Z
           - item:
             name: IBM
             homepage_url: https://www.ibm.com/us-en/
@@ -10414,7 +10415,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T00:49:55.000Z
+              latest_tweet_date: 2021-06-20T20:42:46.000Z
           - item:
             name: Intel (member)
             homepage_url: https://www.intel.com/content/www/us/en/homepage.html
@@ -10848,7 +10849,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T03:57:02.000Z
+              latest_tweet_date: 2021-06-20T10:30:13.000Z
           - item:
             name: NTT Group
             homepage_url: https://group.ntt/en
@@ -10883,7 +10884,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 93740539156
+              market_cap: 93063870021
               effective_ticker: 9432.T
             image_data:
               fileName: ntt-group.svg
@@ -10892,7 +10893,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-20T03:30:00.000Z
+              latest_tweet_date: 2021-06-20T23:50:24.000Z
           - item:
             name: OSIsoft
             homepage_url: https://www.osisoft.com/
@@ -10972,7 +10973,7 @@ landscape:
                 - Wireless
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 202928652233
+              market_cap: 201969062944
               effective_ticker: RELIANCE.NS
             image_data:
               fileName: radisys.svg
@@ -11075,7 +11076,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T19:00:09.000Z
+              latest_tweet_date: 2021-06-20T20:30:02.000Z
           - item:
             name: Samsung Electronics
             homepage_url: https://www.samsung.com/us/smartphones/galaxy-note20-5g
@@ -11187,7 +11188,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 476810415548
+              market_cap: 472726703024
               effective_ticker: 005930.KS
             image_data:
               fileName: samsung-electronics.svg
@@ -11196,7 +11197,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-16T00:05:00.000Z
+              latest_tweet_date: 2021-06-21T03:00:01.000Z
           - item:
             name: Tencent
             homepage_url: https://www.tencent.com/zh-cn/index.html
@@ -11269,7 +11270,7 @@ landscape:
                 - Social Media Marketing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 745198888310
+              market_cap: 724708412325
               effective_ticker: 0700.HK
             image_data:
               fileName: tencent.svg
@@ -11335,7 +11336,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 21661271241
+              market_cap: 21120875185
               effective_ticker: WDC.F
             image_data:
               fileName: western-digital.svg
@@ -11344,7 +11345,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-18T20:30:00.000Z
+              latest_tweet_date: 2021-06-20T23:01:20.000Z
           - item:
             name: Wipro Technologies
             homepage_url: https://www.wipro.com/
@@ -11461,7 +11462,7 @@ landscape:
                 - Software
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 40482623914
+              market_cap: 39753786980
               effective_ticker: WIPRO.NS
             image_data:
               fileName: wipro-technologies.svg
@@ -11470,7 +11471,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T08:33:01.000Z
+              latest_tweet_date: 2021-06-21T02:59:01.000Z
           - item:
             name: ZEDEDA
             homepage_url: https://zededa.com/
@@ -11702,7 +11703,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/foundriesio/
               acquisitions: []
               parents: []
-              funding: 3500000
+              funding: 11500000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -11748,7 +11749,7 @@ landscape:
                 - Manufacturing
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 38458864211
+              market_cap: 38021017673
               effective_ticker: 601138.SS
             image_data:
               fileName: foxconn-industrial-internet-member.svg
@@ -11829,7 +11830,7 @@ landscape:
                 - Telecommunications
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 35684516361
+              market_cap: 35677598802
               effective_ticker: HCLTECH.NS
             image_data:
               fileName: hcl.svg
@@ -11838,7 +11839,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T15:30:28.000Z
+              latest_tweet_date: 2021-06-21T06:00:39.000Z
           - item:
             name: Hivecell
             homepage_url: https://www.hivecell.com
@@ -12057,7 +12058,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T16:02:05.000Z
+              latest_tweet_date: 2021-06-20T16:43:04.000Z
           - item:
             name: Kaloom
             homepage_url: https://www.kaloom.com/
@@ -12514,7 +12515,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T11:30:09.000Z
+              latest_tweet_date: 2021-06-20T11:30:10.000Z
           - item:
             name: Robin.io
             homepage_url: https://robin.io/
@@ -12661,7 +12662,7 @@ landscape:
                 - Mobile
               kind: market_cap
             yahoo_finance_data:
-              market_cap: 9232837207
+              market_cap: 9471149386
               effective_ticker: 300496.SZ
             image_data:
               fileName: thunder-soft.svg
@@ -12717,7 +12718,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T21:43:19.000Z
+              latest_tweet_date: 2021-06-20T21:48:31.000Z
           - item:
             name: Ubuntu
             homepage_url: https://ubuntu.com/
@@ -13029,7 +13030,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
+              company_type: Non Profit
               industries:
                 - Non Profit
             image_data:
@@ -13071,7 +13072,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-19T04:00:20.000Z
+              latest_tweet_date: 2021-06-21T01:44:29.000Z
           - item:
             name: IOTA Foundation
             homepage_url: https://www.iota.org/
@@ -13107,7 +13108,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-18T13:01:19.000Z
+              latest_tweet_date: 2021-06-21T06:46:31.000Z
           - item:
             name: Open Infrastructure Foundation (member)
             homepage_url: https://www.openstack.org/use-cases/edge-computing
@@ -13338,4 +13339,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2021-06-20T06:40:38.594Z
+updated_at: 2021-06-21T06:51:37.960Z
