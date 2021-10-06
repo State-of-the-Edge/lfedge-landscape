@@ -302,7 +302,7 @@ landscape:
             name: OpenNebula
             homepage_url: https://opennebula.io
             repo_url: https://github.com/OpenNebula/one
-            logo: OpenNebula.svg
+            logo: opennebula.svg
             crunchbase: https://www.crunchbase.com/organization/opennebula
       - subcategory:
         name: Virtualization
@@ -765,368 +765,442 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Altran
-            homepage_url: https://capgemini-engineering.com/us
-            stock_ticker: null
-            logo: altran.svg
+            name: Altran Technologies (member)
+            homepage_url: https://altran.com/
+            logo: altran_technologies.svg
             twitter: https://twitter.com/CapgeminiEng
             crunchbase: https://www.crunchbase.com/organization/altran
+            stock_ticker: null
           - item:
-            name: Arm
-            homepage_url: https://www.arm.com/
-            logo: arm.svg
+            name: Arm Limited (member)
+            homepage_url: https://arm.com/
+            logo: arm_limited.svg
+            twitter: https://twitter.com/Arm
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
-            name: AT&T
-            homepage_url: https://www.att.com/
-            logo: att.svg
+            name: AT&T Services, Inc. (member)
+            homepage_url: https://att.com/
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
             crunchbase: https://www.crunchbase.com/organization/at-t
           - item:
-            name: Baidu
-            homepage_url: https://www.baidu.com/
-            logo: baidu.svg
+            name: Baidu Online Network Technology (Beijing) Co., Ltd (member)
+            homepage_url: https://baidu.com/
+            logo: baidu_online_network_technology_beijing_co_ltd.svg
             twitter: https://twitter.com/Baidu_Inc
             crunchbase: https://www.crunchbase.com/organization/baidu
+            stock_ticker: null
           - item:
             name: Charter Communications (member)
-            homepage_url: https://www.spectrum.com
-            logo: charter.svg
-            crunchbase: https://www.crunchbase.com/organization/charter-communications
+            homepage_url: https://spectrum.com/
+            logo: charter_communications.svg
+            twitter: https://twitter.com/GetSpectrum
+            crunchbase: https://www.crunchbase.com/organization/time-warner-cable
           - item:
-            name: Dell Technologies
-            homepage_url: https://www.delltechnologies.com/en-us/index.htm
-            logo: delltech-stacked.svg
-            crunchbase: https://www.crunchbase.com/organization/dell-technologies
+            name: Dell Technologies (member)
+            homepage_url: https://delltechnologies.com/
+            logo: dell_technologies.svg
+            twitter: https://twitter.com/DellTech
+            crunchbase: https://www.crunchbase.com/organization/dell-emc
           - item:
-            name: Dianomic
-            homepage_url: https://dianomicstage.wpengine.com
+            name: Dianomic (member)
+            homepage_url: https://dianomic.com/
             logo: dianomic.svg
+            twitter: https://twitter.com/DianomicSystems
             crunchbase: https://www.crunchbase.com/organization/dianomic
           - item:
-            name: Equinix
-            homepage_url: https://www.equinix.com/
-            logo: equinix.svg
+            name: Equinix, Inc. (member)
+            homepage_url: https://equinix.com/
+            logo: equinix_inc.svg
+            twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
           - item:
-            name: Ericsson
-            homepage_url: https://www.ericsson.com/en
+            name: Ericsson (member)
+            homepage_url: https://ericsson.com/
             logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
-            name: Fujitsu
-            homepage_url: https://www.fujitsu.com/global
-            logo: fujitsu.svg
+            name: F5 Networks, Inc. (member)
+            homepage_url: https://f5.com/
+            logo: f5_networks_inc.svg
+            twitter: https://twitter.com/F5
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
+          - item:
+            name: Fujitsu Limited (member)
+            homepage_url: https://fujitsu.com/
+            logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
-            name: Futurewei
-            homepage_url: https://www.futurewei.com/
-            logo: futurewei.svg
+            name: Futurewei Technologies, Inc. (member)
+            homepage_url: https://futurewei.com/
+            logo: futurewei_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
           - item:
-            name: HP
-            homepage_url: https://www.hp.com/us-en/home.html
-            logo: hp.svg
+            name: HP Inc. (member)
+            homepage_url: https://hp.com/
+            logo: hp_inc.svg
+            twitter: https://twitter.com/HP
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard
           - item:
-            name: Huawei
-            homepage_url: https://www.huawei.com/en/
-            logo: huawei.svg
+            name: Huawei Technologies Co., Ltd (member)
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
-            name: IBM
-            homepage_url: https://www.ibm.com/us-en/
-            logo: ibm.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
-            name: Intel (member)
-            homepage_url: https://www.intel.com/content/www/us/en/homepage.html
-            logo: intel-new.svg
+            name: Intel Corporation (member)
+            homepage_url: https://intel.com/
+            logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
           - item:
-            name: NTT Group
-            homepage_url: https://group.ntt/en
-            logo: ntt.svg
-            twitter: https://twitter.com/NTTPR
-            crunchbase: https://www.crunchbase.com/organization/ntt-group-a877
+            name: International Business Machines Corporation (member)
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
-            name: OSIsoft
-            homepage_url: https://www.osisoft.com/
+            name: NTT Corporation (member)
+            homepage_url: https://ntt.co.jp/
+            logo: ntt_corporation.svg
+            twitter: https://twitter.com/NTTPR
+            crunchbase: https://www.crunchbase.com/organization/nippon-telegraph-and-telephone-corporation
+          - item:
+            name: OSIsoft (member)
+            homepage_url: https://osisoft.com/
             logo: osisoft.svg
+            twitter: https://twitter.com/OSIsoft
             crunchbase: https://www.crunchbase.com/organization/osisoft
           - item:
-            name: Radisys
-            homepage_url: https://www.radisys.com
-            stock_ticker: RELIANCE.NS
-            logo: radisys.svg
+            name: Radisys Corporation (member)
+            homepage_url: https://radisys.com/
+            logo: radisys_corporation.svg
+            twitter: https://twitter.com/Radisys
             crunchbase: https://www.crunchbase.com/organization/radisys
           - item:
-            name: Red Hat
-            homepage_url: https://www.redhat.com/en
-            logo: RedHat-new.svg
+            name: Red Hat, Inc. (member)
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: Samsung Electronics
-            homepage_url: https://www.samsung.com/us/smartphones/galaxy-note20-5g
-            logo: samsung.svg
+            name: Samsung Electronics Co. Ltd. (member)
+            homepage_url: https://samsung.com/
+            logo: samsung_electronics_co_ltd.svg
+            twitter: https://twitter.com/Samsung
             crunchbase: https://www.crunchbase.com/organization/samsung-electronics
           - item:
-            name: Tencent
-            homepage_url: https://www.tencent.com/zh-cn/index.html
-            logo: tencent.svg
-            twitter: null
+            name: Tencent Holdings Limited (member)
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
-            name: Western Digital
-            homepage_url: https://www.westerndigital.com/
-            logo: western-digital.svg
-            crunchbase: https://www.crunchbase.com/organization/western-digital
+            name: VMware, Inc. (member)
+            homepage_url: https://vmware.com/
+            logo: vmware_inc.svg
+            twitter: https://twitter.com/VMware
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
-            name: Wipro Technologies
-            homepage_url: https://www.wipro.com/
-            logo: wipro.svg
+            name: Western Digital Corporation (member)
+            homepage_url: https://wdc.com/
+            logo: western_digital_corporation.svg
+            twitter: https://twitter.com/westerndigital
+            crunchbase: https://www.crunchbase.com/organization/western-digital-capital
+          - item:
+            name: Wipro Limited (member)
+            homepage_url: https://wipro.com/
+            logo: wipro_limited.svg
+            twitter: https://twitter.com/Wipro
             crunchbase: https://www.crunchbase.com/organization/wipro
           - item:
-            name: ZEDEDA
+            name: ZEDEDA, Inc. (member)
             homepage_url: https://zededa.com/
-            logo: zededa.svg
-            twitter: https://twitter.com/zededaedge
+            logo: zededa_inc.svg
+            twitter: https://twitter.com/ZededaEdge
             crunchbase: https://www.crunchbase.com/organization/zededa
       - subcategory:
         name: General
         items:
           - item:
-            name: Beechwoods Software
-            homepage_url: https://www.beechwoods.com/
-            logo: beechwoods.svg
-            crunchbase: https://www.crunchbase.com/organization/beechwoods-software
+            name: Beechwoods Software, Inc. (member)
+            homepage_url: https://beechwoods.com/
+            logo: beechwoods_software_inc.svg
+            twitter: https://twitter.com/BeechSoft
+            crunchbase: https://www.crunchbase.com/organization/beechwood-acquisitions
           - item:
-            name: DATA AHEAD AG
-            homepage_url: https://dataahead.de/en/
-            logo: dataahead.svg
+            name: Canonical Group Limited (member)
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            twitter: https://twitter.com/Canonical
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+          - item:
+            name: Concept Reply (member)
+            homepage_url: https://reply.com/
+            logo: concept_reply.svg
+            twitter: https://twitter.com/Reply_UK
+            crunchbase: https://www.crunchbase.com/organization/reply-com
+          - item:
+            name: DATA AHEAD AG (member)
+            homepage_url: https://dataahead.de/
+            logo: data_ahead_ag.svg
+            twitter: https://twitter.com/DATAAHEAD
             crunchbase: https://www.crunchbase.com/organization/data-ahead-ag
           - item:
-            name: EMQ Technologies
-            homepage_url: https://www.emqx.io/
-            logo: emq.svg
+            name: EMQ Technologies Co., Ltd. (member)
+            homepage_url: https://emqx.io/
+            logo: emq_technologies_co_ltd.svg
+            twitter: https://twitter.com/EMQTech
             crunchbase: https://www.crunchbase.com/organization/emq-technologies
           - item:
-            name: Federated Wireless
+            name: Federated Wireless (member)
             homepage_url: https://federatedwireless.com/
-            logo: federatedwireless.svg
+            logo: federated_wireless.svg
+            twitter: https://twitter.com/FedWireless
             crunchbase: https://www.crunchbase.com/organization/allied-communications
           - item:
-            name: FogHorn
-            homepage_url: https://www.foghorn.io/
-            logo: foghorn.svg
+            name: FogHorn Systems (member)
+            homepage_url: https://foghorn.io/
+            logo: foghorn_systems.svg
+            twitter: https://twitter.com/FogHorn_IoT
             crunchbase: https://www.crunchbase.com/organization/foghorn
           - item:
-            name: Foundries.io
-            homepage_url: https://foundries.io
-            logo: foundries.svg
+            name: Foundries.io LTD (member)
+            homepage_url: https://foundries.io/
+            logo: foundriesio_ltd.svg
+            twitter: https://twitter.com/FoundriesIO
             crunchbase: https://www.crunchbase.com/organization/foundries-io
           - item:
-            name: Foxconn Industrial Internet (member)
-            homepage_url: http://fii-foxconn.com/
-            logo: fii.svg
+            name: Foxconn Industrial Internet Co. Ltd. (member)
+            homepage_url: https://fii-foxconn.com/
+            logo: foxconn_industrial_internet_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/foxconn-industrial-internet
           - item:
-            name: HCL
-            homepage_url: https://www.hcltech.com/
-            logo: HCL.svg
+            name: HCL Technologies Ltd. (member)
+            homepage_url: https://hcltech.com/
+            logo: hcl_technologies_ltd.svg
+            twitter: https://twitter.com/hcltech
             crunchbase: https://www.crunchbase.com/organization/hcl-technologies
           - item:
-            name: Hivecell
-            homepage_url: https://www.hivecell.com
-            logo: hivecell.svg
-            crunchbase: https://www.crunchbase.com/organization/ricker-lyman-robotic-llc
-          - item:
-            name: IOTech
-            homepage_url: https://www.iotechsys.com
-            logo: iotech.svg
+            name: IOTech Systems Limited (member)
+            homepage_url: https://iotechsys.com/
+            logo: iotech_systems_limited.svg
+            twitter: https://twitter.com/IOTechSystems
             crunchbase: https://www.crunchbase.com/organization/iotech-2
           - item:
-            name: Jiangxing Intelligence
-            homepage_url: https://jiangxingai.com/
-            logo: jiangxing.svg
-            crunchbase: https://www.crunchbase.com/organization/jiangxing-intelligence
-          - item:
-            name: Kaloom
-            homepage_url: https://www.kaloom.com/
-            logo: kaloom_new.svg
+            name: Kaloom Inc. (member)
+            homepage_url: https://kaloom.com/
+            logo: kaloom_inc.svg
+            twitter: https://twitter.com/Kaloom_Inc
             crunchbase: https://www.crunchbase.com/organization/kaloom
           - item:
-            name: Linaro
-            homepage_url: https://www.linaro.org/
-            logo: linaro.svg
+            name: Linaro Limited (member)
+            homepage_url: https://linaro.org/
+            logo: linaro_limited.svg
+            twitter: https://twitter.com/LinaroOrg
             crunchbase: https://www.crunchbase.com/organization/linaro
           - item:
-            name: Marvell Technology
-            homepage_url: https://www.marvell.com/
-            logo: marvell-horizontal-color.svg
-            twitter: https://twitter.com/MarvellTech
+            name: Marvell International Ltd (member)
+            homepage_url: https://marvell.com/
+            logo: marvell_international_ltd.svg
+            twitter: https://twitter.com/marvellsemi
             crunchbase: https://www.crunchbase.com/organization/marvell-technology
           - item:
-            name: MIMIK
+            name: mimik Technology Inc (member)
             homepage_url: https://mimik.com/
-            logo: mimik.svg
-            crunchbase: https://www.crunchbase.com/organization/mimik-technolog
+            logo: mimik_technology_inc.svg
+            twitter: https://twitter.com/mimiktech
+            crunchbase: https://www.crunchbase.com/organization/mimic-technologies
           - item:
-            name: MobiledgeX
+            name: MobiledgeX, Inc. (member)
             homepage_url: https://mobiledgex.com/
-            logo: mobiledgex.svg
+            logo: mobiledgex_inc.svg
+            twitter: https://twitter.com/MobiledgeX
             crunchbase: https://www.crunchbase.com/organization/mobileedgex
           - item:
-            name: NetFoundry
+            name: NetFoundry (member)
             homepage_url: https://netfoundry.io/
-            logo: netfoundry-updated.svg
+            logo: netfoundry.svg
+            twitter: https://twitter.com/NetFoundry
             crunchbase: https://www.crunchbase.com/organization/netfoundry
           - item:
-            name: Nokia
-            homepage_url: https://www.nokia.com
-            stock_ticker: NOK
-            logo: nokia.svg
+            name: Nokia Corporation (member)
+            homepage_url: https://nokia.com/
+            logo: nokia_corporation.svg
+            twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
           - item:
             name: OpenNebula (member)
-            homepage_url: https://opennebula.io
-            logo: OpenNebula.svg
+            homepage_url: https://opennebula.io/
+            logo: opennebula.svg
+            twitter: https://twitter.com/opennebula
             crunchbase: https://www.crunchbase.com/organization/opennebula
           - item:
-            name: ORI Industries
-            homepage_url: https://www.ori.co/
-            logo: ori.svg
-            twitter: null
+            name: Ori Industries (member)
+            homepage_url: https://ori.co/
+            logo: ori_industries.svg
+            twitter: https://twitter.com/ori_edge
             crunchbase: https://www.crunchbase.com/organization/ori-8629
           - item:
-            name: Qualcomm
-            homepage_url: https://www.qualcomm.com
-            logo: qualcomm.svg
+            name: Platform9 Systems, Inc. (member)
+            homepage_url: https://platform9.com/
+            logo: platform9_systems_inc.svg
+            twitter: https://twitter.com/Platform9Sys
+            crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
+          - item:
+            name: Qualcomm, Inc. (member)
+            homepage_url: https://qualcomm.com/
+            logo: qualcomm_inc.svg
+            twitter: https://twitter.com/Qualcomm
             crunchbase: https://www.crunchbase.com/organization/qualcomm
           - item:
-            name: REPLY
-            homepage_url: https://www.reply.com/en/
-            logo: reply.svg
-            crunchbase: https://www.crunchbase.com/organization/reply
+            name: Ricker Lyman Robotic Company, Inc. (Hivecell) (member)
+            homepage_url: https://hivecell.io/
+            logo: ricker_lyman_robotic_company_inc_hivecell.svg
+            twitter: https://twitter.com/hivecell_paas
+            crunchbase: https://www.crunchbase.com/organization/hivecell
           - item:
-            name: Robin.io
+            name: Robin Systems, Inc (member)
             homepage_url: https://robin.io/
-            logo: robin.svg
+            logo: robin_systems_inc.svg
+            twitter: https://twitter.com/Robin4K8S
             crunchbase: https://www.crunchbase.com/organization/robin-systems
           - item:
-            name: section.io
-            homepage_url: https://www.section.io/
-            logo: sectionio.svg
+            name: section.io Inc (member)
+            homepage_url: https://section.io/
+            logo: sectionio_inc.svg
+            twitter: https://twitter.com/sectionio
             crunchbase: https://www.crunchbase.com/organization/section-io
           - item:
-            name: ThunderSoft
-            homepage_url: https://www.thundersoft.com/
-            logo: thundersoft.svg
+            name: Shenzhen Jiangxing Intelligence Inc. (member)
+            homepage_url: https://jiangxing.ai/
+            logo: shenzhen_jiangxing_intelligence_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/jiangxing-intelligence
+          - item:
+            name: Teal Communications, Inc. (member)
+            homepage_url: https://tealcom.io/
+            logo: teal_communications_inc.svg
+            twitter: https://twitter.com/tealcomio
+            crunchbase: https://www.crunchbase.com/organization/teal-communications-inc
+          - item:
+            name: Thunder Software Technology Co. Ltd. (member)
+            homepage_url: https://thundersoft.com/
+            logo: thunder_software_technology_co_ltd.svg
             twitter: https://twitter.com/ThunderSoft_Ltd
             crunchbase: https://www.crunchbase.com/organization/thundersoft-company-limited
           - item:
-            name: Toyota
-            homepage_url: https://www.toyota.com/
-            logo: toyota.svg
+            name: TOYOTA MOTOR CORPORATION (member)
+            homepage_url: https://toyota.com/
+            logo: toyota_motor_corporation.svg
             twitter: https://twitter.com/Toyota
             crunchbase: https://www.crunchbase.com/organization/toyota
           - item:
-            name: Ubuntu
-            homepage_url: https://ubuntu.com/
-            logo: ubuntu.svg
-            twitter: https://twitter.com/ubuntu
-            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
-          - item:
             name: Vapor IO (member)
-            homepage_url: https://www.vapor.io/
-            logo: vaporio.svg
+            homepage_url: https://vapor.io/
+            logo: vapor_io.svg
+            twitter: https://twitter.com/vaporio
             crunchbase: https://www.crunchbase.com/organization/vapor-io
           - item:
-            name: VoerEir
-            homepage_url: https://www.voereir.com/
-            logo: voereir.svg
+            name: Veea Inc. (member)
+            homepage_url: https://veea.com/
+            logo: veea_inc.svg
+            twitter: https://twitter.com/VeeaHQ
+            crunchbase: https://www.crunchbase.com/organization/veeam-software
+          - item:
+            name: VoerEir AB (member)
+            homepage_url: https://voereir.com/
+            logo: voereir_ab.svg
+            twitter: https://twitter.com/voereir
             crunchbase: https://www.crunchbase.com/organization/voereir
           - item:
-            name: Wind River
-            homepage_url: https://resources.windriver.com
-            logo: wind-river-systems-inc.svg
-            twitter: https://twitter.com/windriver
+            name: Wind River Systems, Inc. (member)
+            homepage_url: https://windriver.com/
+            logo: wind_river_systems_inc.svg
+            twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
           - item:
-            name: Zenlayer
-            homepage_url: https://www.zenlayer.com/
-            logo: zenlayer.svg
+            name: Zenlayer Inc (member)
+            homepage_url: https://zenlayer.com/
+            logo: zenlayer_inc.svg
+            twitter: https://twitter.com/zenlayer
             crunchbase: https://www.crunchbase.com/organization/zenlayer
       - subcategory:
         name: Associate
         items:
           - item:
-            name: Automotive Edge Computing Consortium
+            name: Automotive Edge Computing Consortium, Inc. (member)
             homepage_url: https://aecc.org/
-            logo: aecc.svg
+            logo: automotive_edge_computing_consortium_inc.svg
+            twitter: https://twitter.com/TweetAECC
             crunchbase: https://www.crunchbase.com/organization/automotive-edge-computing-consortium
           - item:
-            name: Beijing University of Posts and Telecommunications
-            homepage_url: https://www.bupt.edu.cn/
-            logo: bupt.svg
+            name: Beijing University of Posts and Telecommunications (BUPT) (member)
+            homepage_url: https://bupt.edu.cn/
+            logo: beijing_university_of_posts_and_telecommunications_bupt.svg
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
           - item:
-            name: ETRI
-            homepage_url: https://etri.re.kr/eng/main/main.etri
-            logo: etri.svg
+            name: Eclipse Foundation (member)
+            homepage_url: https://eclipse.org/
+            logo: eclipse_foundation.svg
+            twitter: https://twitter.com/EclipseFdn
+            crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
+          - item:
+            name: Electronics and Telecommunications Research Institute (member)
+            homepage_url: https://etri.re.kr/
+            logo: electronics_and_telecommunications_research_institute.svg
             crunchbase: https://www.crunchbase.com/organization/etri
           - item:
-            name: Industrial Technology Research Institute
-            homepage_url: https://www.itri.org.tw/
-            logo: itri.svg
+            name: Industrial Technology Research Institute (ITRI) (member)
+            homepage_url: https://itri.org.tw/
+            logo: industrial_technology_research_institute_itri.svg
             crunchbase: https://www.crunchbase.com/organization/industrial-technology-research-institute
           - item:
-            name: Infrastructure Masons
-            homepage_url: https://imasons.org
-            logo: imasons.svg
+            name: Infrastructure Masons (member)
+            homepage_url: https://imasons.org/
+            logo: infrastructure_masons.svg
+            twitter: https://twitter.com/InfraMason
             crunchbase: https://www.crunchbase.com/organization/infrastructure-masons
           - item:
-            name: IOTA Foundation
-            homepage_url: https://www.iota.org/
-            logo: IOTA.svg
+            name: IOTA Foundation (member)
+            homepage_url: https://iota.org/
+            logo: iota_foundation.svg
             twitter: https://twitter.com/iota
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
           - item:
-            name: Open Infrastructure Foundation (member)
-            homepage_url: https://www.openstack.org/use-cases/edge-computing
-            logo: OIF.svg
-            twitter: https://twitter.com/openinfradev
-            crunchbase: https://www.crunchbase.com/organization/openstack
-          - item:
-            name: Open-IX (member)
-            homepage_url: https://open-ix.org/en/
-            logo: open-ix.svg
+            name: Open IX Association (member)
+            homepage_url: https://open-ix.org/en
+            logo: open_ix_association.svg
             twitter: https://twitter.com/OpenIX
             crunchbase: https://www.crunchbase.com/organization/open-ix
           - item:
-            name: Project Haystack
-            homepage_url: https://project-haystack.org
-            logo: haystack.svg
+            name: OpenStack Foundation (member)
+            homepage_url: https://openstack.org/
+            logo: openstack_foundation.svg
+            twitter: https://twitter.com/OpenStack
+            crunchbase: https://www.crunchbase.com/organization/openstack
+          - item:
+            name: Penn State (member)
+            homepage_url: https://psu.edu/
+            logo: penn_state.svg
+            twitter: https://twitter.com/penn_state
+            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
+          - item:
+            name: Project Haystack (member)
+            homepage_url: https://project-haystack.org/
+            logo: project_haystack.svg
+            twitter: https://twitter.com/haystackTagging
             crunchbase: https://www.crunchbase.com/organization/project-haystack
           - item:
-            name: Shanghai OpenSource Information Technology Association
-            homepage_url: https://shanghaiopen.org.cn/en
-            logo: ShanghaiOpen.svg
+            name: Shanghai OpenSource Information Technology Association (member)
+            homepage_url: https://shanghaiopen.org.cn/
+            logo: shanghai_opensource_information_technology_association.svg
             crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
           - item:
-            name: University of New Hampshire - Interoperability Lab
-            homepage_url: https://www.iol.unh.edu/
-            logo: unh.svg
-            crunchbase: https://www.crunchbase.com/organization/interoperability-laboratory
-      - subcategory:
-        name: Liaison
-        items:
-          - item:
-            name: Digital Twin Consortium
-            homepage_url: https://www.digitaltwinconsortium.org/
-            logo: DTC-badge-liaison.svg
-            crunchbase: https://www.crunchbase.com/organization/digital-twin-consortium
-          - item:
-            name: Industrial Internet Consortium
-            homepage_url: https://www.iiconsortium.org/
-            logo: iic-liaison.svg
-            crunchbase: https://www.crunchbase.com/organization/industrial-internet-consortium-2
+            name: University of New Hampshire (member)
+            homepage_url: https://unh.edu/
+            logo: university_of_new_hampshire.svg
+            twitter: https://twitter.com/UofNH
+            crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
