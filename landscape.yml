@@ -775,7 +775,7 @@ landscape:
             name: Arm Limited (member)
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            twitter: https://twitter.com/ArmCommunity
+            twitter: https://twitter.com/Arm
             crunchbase: https://www.crunchbase.com/organization/arm
           - item:
             name: AT&T Services, Inc. (member)
@@ -789,6 +789,7 @@ landscape:
             logo: baidu_online_network_technology_beijing_co_ltd.svg
             twitter: https://twitter.com/Baidu_Inc
             crunchbase: https://www.crunchbase.com/organization/baidu
+            stock_ticker: null
           - item:
             name: Charter Communications (member)
             homepage_url: https://spectrum.com/
@@ -819,6 +820,12 @@ landscape:
             logo: ericsson.svg
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
+          - item:
+            name: F5 Networks, Inc. (member)
+            homepage_url: https://f5.com/
+            logo: f5_networks_inc.svg
+            twitter: https://twitter.com/F5
+            crunchbase: https://www.crunchbase.com/organization/f5-networks
           - item:
             name: Fujitsu Limited (member)
             homepage_url: https://fujitsu.com/
@@ -872,7 +879,6 @@ landscape:
             logo: radisys_corporation.svg
             twitter: https://twitter.com/Radisys
             crunchbase: https://www.crunchbase.com/organization/radisys
-            stock_ticker: RELIANCE.NS
           - item:
             name: Red Hat, Inc. (member)
             homepage_url: https://redhat.com/
@@ -891,6 +897,12 @@ landscape:
             logo: tencent_holdings_limited.svg
             twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
+          - item:
+            name: VMware, Inc. (member)
+            homepage_url: https://vmware.com/
+            logo: vmware_inc.svg
+            twitter: https://twitter.com/VMware
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: Western Digital Corporation (member)
             homepage_url: https://wdc.com/
@@ -919,9 +931,9 @@ landscape:
             twitter: https://twitter.com/BeechSoft
             crunchbase: https://www.crunchbase.com/organization/beechwood-acquisitions
           - item:
-            name: Canonical Ltd. (member)
+            name: Canonical Group Limited (member)
             homepage_url: https://canonical.com/
-            logo: canonical_ltd.svg
+            logo: canonical_group_limited.svg
             twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
           - item:
@@ -940,7 +952,7 @@ landscape:
             name: EMQ Technologies Co., Ltd. (member)
             homepage_url: https://emqx.io/
             logo: emq_technologies_co_ltd.svg
-            twitter: https://twitter.com/emqtt
+            twitter: https://twitter.com/EMQTech
             crunchbase: https://www.crunchbase.com/organization/emq-technologies
           - item:
             name: Federated Wireless (member)
@@ -996,10 +1008,11 @@ landscape:
             twitter: https://twitter.com/marvellsemi
             crunchbase: https://www.crunchbase.com/organization/marvell-technology
           - item:
-            name: MIMIK
+            name: mimik Technology Inc (member)
             homepage_url: https://mimik.com/
-            logo: mimik.svg
-            crunchbase: https://www.crunchbase.com/organization/mimik-technolog
+            logo: mimik_technology_inc.svg
+            twitter: https://twitter.com/mimiktech
+            crunchbase: https://www.crunchbase.com/organization/mimic-technologies
           - item:
             name: MobiledgeX, Inc. (member)
             homepage_url: https://mobiledgex.com/
@@ -1029,8 +1042,14 @@ landscape:
             name: Ori Industries (member)
             homepage_url: https://ori.co/
             logo: ori_industries.svg
-            twitter: https://twitter.com/OriIndustries
+            twitter: https://twitter.com/ori_edge
             crunchbase: https://www.crunchbase.com/organization/ori-8629
+          - item:
+            name: Platform9 Systems, Inc. (member)
+            homepage_url: https://platform9.com/
+            logo: platform9_systems_inc.svg
+            twitter: https://twitter.com/Platform9Sys
+            crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
           - item:
             name: Qualcomm, Inc. (member)
             homepage_url: https://qualcomm.com/
@@ -1061,11 +1080,11 @@ landscape:
             logo: shenzhen_jiangxing_intelligence_inc.svg
             crunchbase: https://www.crunchbase.com/organization/jiangxing-intelligence
           - item:
-            name: Super Micro Computer, Inc. (member)
-            homepage_url: https://supermicro.com/
-            logo: super_micro_computer_inc.svg
-            twitter: https://twitter.com/Supermicro_SMCI
-            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
+            name: Teal Communications, Inc. (member)
+            homepage_url: https://tealcom.io/
+            logo: teal_communications_inc.svg
+            twitter: https://twitter.com/tealcomio
+            crunchbase: https://www.crunchbase.com/organization/teal-communications-inc
           - item:
             name: Thunder Software Technology Co. Ltd. (member)
             homepage_url: https://thundersoft.com/
@@ -1084,6 +1103,12 @@ landscape:
             logo: vapor_io.svg
             twitter: https://twitter.com/vaporio
             crunchbase: https://www.crunchbase.com/organization/vapor-io
+          - item:
+            name: Veea Inc. (member)
+            homepage_url: https://veea.com/
+            logo: veea_inc.svg
+            twitter: https://twitter.com/VeeaHQ
+            crunchbase: https://www.crunchbase.com/organization/veeam-software
           - item:
             name: VoerEir AB (member)
             homepage_url: https://voereir.com/
@@ -1116,6 +1141,12 @@ landscape:
             homepage_url: https://bupt.edu.cn/
             logo: beijing_university_of_posts_and_telecommunications_bupt.svg
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
+          - item:
+            name: Eclipse Foundation (member)
+            homepage_url: https://eclipse.org/
+            logo: eclipse_foundation.svg
+            twitter: https://twitter.com/EclipseFdn
+            crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
           - item:
             name: Electronics and Telecommunications Research Institute (member)
             homepage_url: https://etri.re.kr/
