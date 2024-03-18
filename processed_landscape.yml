@@ -413,9 +413,9 @@ landscape:
                 - name: Makefile
                   value: 1963
                   color: '#427819'
-              contributions: 7;14;6;4;4;5;7;4;4;5;6;11;10;7;3;3;6;4;6;10;8;4;17;24;13;31;11;13;6;3;7;5;12;2;7;6;7;5;4;14;2;3;6;6;0;7;11;6;4;18;5;12
+              contributions: 7;14;8;2;4;5;7;4;6;6;3;11;10;7;4;2;7;4;5;12;6;7;20;20;11;34;9;12;6;3;7;5;12;2;8;8;6;3;5;13;2;4;6;5;0;7;11;6;6;16;7;10
               firstWeek: 2023-03-26Z
-              stars: 847
+              stars: 848
               license: GNU General Public License v2.0
               description: VyOS image build scripts
               latest_commit_date: '2024-03-16T11:30:21Z'
@@ -424,7 +424,7 @@ landscape:
               contributors_link: https://github.com/vyos/vyos-build/graphs/contributors
             repos:
               - url: https://github.com/vyos/vyos-build
-                stars: 847
+                stars: 848
             github_start_commit_data:
               start_commit_link: /vyos/vyos-build/commit/8e71eae3a2323aacd12e4a484dfd3773c9d7cf03
               start_date: '2015-12-16T21:02:03Z'
@@ -2044,7 +2044,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 2967639
+                  value: 2968030
                   color: '#00ADD8'
                 - name: Shell
                   value: 189078
@@ -2057,20 +2057,20 @@ landscape:
                   color: '#384d54'
                 - name: Mustache
                   value: 1288
-              contributions: 6;5;1;3;2;9;1;0;4;12;5;3;0;3;10;7;3;19;16;9;4;10;17;15;14;13;40;13;3;38;9;15;9;12;18;18;42;31;17;16;2;9;11;32;14;4;3;0;4;2;3;1
+              contributions: 6;5;1;3;2;9;1;0;4;12;5;3;0;3;10;7;3;20;15;9;4;11;16;15;14;13;40;13;8;33;9;16;8;12;18;19;41;31;17;16;2;9;11;32;14;4;3;1;3;2;3;1
               firstWeek: 2023-03-26Z
-              stars: 6311
+              stars: 6313
               license: Apache License 2.0
               description: Kubernetes Native Edge Computing Framework (project under CNCF)
-              latest_commit_date: '2024-03-13T05:27:17Z'
-              latest_commit_link: /kubeedge/kubeedge/commit/f31c83a5763dc457f1669903347a743eecea37f8
+              latest_commit_date: '2024-03-18T01:55:21Z'
+              latest_commit_link: /kubeedge/kubeedge/commit/6dcb291c228861948df1cd08aa95c5001ae7877c
               release_date: '2024-01-23T02:26:07Z'
               release_link: https://github.com/kubeedge/kubeedge/releases
               contributors_count: 336
               contributors_link: https://github.com/kubeedge/kubeedge/graphs/contributors
             repos:
               - url: https://github.com/kubeedge/kubeedge
-                stars: 6311
+                stars: 6313
             github_start_commit_data:
               start_commit_link: /kubeedge/kubeedge/commit/316bd63786ff57353772847626f5f7df7f1e1f53
               start_date: '2018-09-28T08:57:50Z'
@@ -2522,9 +2522,9 @@ landscape:
                   color: '#427819'
                 - name: HCL
                   value: 1314
-              contributions: 12;5;6;12;7;9;15;8;3;5;3;4;2;1;1;2;6;6;2;1;7;10;8;3;7;7;9;4;4;2;1;3;4;1;4;1;1;3;2;0;4;0;3;0;3;2;0;6;2;4;6;3
+              contributions: 12;6;6;11;7;9;15;8;3;5;3;4;2;1;1;2;6;6;2;1;7;10;8;3;7;7;9;4;4;2;1;4;3;1;4;1;1;3;2;0;4;0;3;0;3;2;0;6;2;4;6;3
               firstWeek: 2023-03-26Z
-              stars: 1274
+              stars: 1275
               license: Apache License 2.0
               description: 'EdgeX Golang Services Monorepo | Owner: Core/Support WG'
               latest_commit_date: '2024-03-15T06:56:25Z'
@@ -2535,7 +2535,7 @@ landscape:
               contributors_link: https://github.com/edgexfoundry/edgex-go/graphs/contributors
             repos:
               - url: https://github.com/edgexfoundry/edgex-go
-                stars: 1274
+                stars: 1275
             github_start_commit_data:
               start_commit_link: /edgexfoundry/edgex-go/commit/5d4f832b5efaee071ca93cc0d475a31c78b6a2fc
               start_date: '2017-12-01T20:13:25Z'
@@ -2597,14 +2597,14 @@ landscape:
                 - name: Dockerfile
                   value: 1782
                   color: '#384d54'
-              contributions: 20;14;23;20;13;22;12;38;27;17;15;20;9;6;27;23;11;17;11;13;13;21;2;10;11;8;9;4;1;19;17;12;16;10;17;9;18;14;10;12;9;2;13;7;15;17;8;0;9;18;19;15
+              contributions: 20;14;23;20;16;19;12;38;27;17;15;20;9;9;24;23;11;17;11;13;14;20;2;10;11;8;9;4;7;13;17;12;16;10;17;9;18;14;10;12;9;2;13;7;15;19;6;0;9;18;19;15
               firstWeek: 2023-03-26Z
               stars: 1327
               license: Apache License 2.0
               description: Lightweight data stream processing engine for IoT edge
               latest_commit_date: '2024-03-15T09:42:04Z'
               latest_commit_link: /lf-edge/ekuiper/commit/ca1c246334cac63f8b892b94e25b638abdb8e6d8
-              release_date: '2024-03-14T09:11:29Z'
+              release_date: '2024-03-18T01:02:18Z'
               release_link: https://github.com/lf-edge/ekuiper/releases
               contributors_count: 86
               contributors_link: https://github.com/lf-edge/ekuiper/graphs/contributors
@@ -2775,7 +2775,7 @@ landscape:
                 - name: PowerShell
                   value: 2446
                   color: '#012456'
-              contributions: 1;19;44;29;33;39;60;23;17;12;8;14;5;15;2;23;17;8;18;9;16;24;4;16;19;26;30;21;22;3;8;19;47;28;5;13;13;19;16;11;9;23;18;18;3;19;12;7;23;15;35;31
+              contributions: 1;28;37;30;31;39;59;26;14;12;15;7;5;15;2;25;15;9;17;13;15;21;4;16;23;26;27;21;21;4;8;25;40;32;1;13;13;20;15;13;10;21;18;18;2;20;11;7;23;23;27;31
               firstWeek: 2023-03-26Z
               stars: 129
               license: Unknown License
@@ -3173,7 +3173,7 @@ landscape:
                   color: '#3572A5'
                 - name: Procfile
                   value: 983
-              contributions: 3;5;6;4;6;6;5;5;8;5;4;3;3;6;13;9;3;3;3;5;8;1;4;2;5;4;7;7;6;6;6;7;9;8;7;14;13;2;4;3;1;5;11;7;8;16;5;9;6;5;3;9
+              contributions: 3;5;6;4;6;7;4;5;8;5;4;3;3;6;13;9;3;3;3;5;8;1;5;1;5;4;7;7;6;6;6;7;9;8;7;14;13;2;4;3;1;5;11;7;9;16;4;9;6;5;3;9
               firstWeek: 2023-03-26Z
               stars: 2476
               license: GNU General Public License v3.0
@@ -3242,7 +3242,7 @@ landscape:
                   color: '#563d7c'
                 - name: Smarty
                   value: 466
-              contributions: 5;13;16;6;4;9;9;32;6;7;7;8;7;12;9;11;7;4;11;4;5;13;10;8;6;6;2;2;8;18;7;18;4;7;4;10;6;7;7;2;0;12;8;8;7;14;15;11;15;8;16;11
+              contributions: 5;13;16;6;4;9;9;33;5;7;7;8;7;12;9;11;7;4;11;4;5;13;10;8;6;6;2;2;8;18;9;16;4;7;4;10;6;7;7;2;0;12;8;8;7;14;15;11;15;8;16;11
               firstWeek: 2023-03-26Z
               stars: 1017
               license: Other
@@ -3335,9 +3335,9 @@ landscape:
                   value: 106
                   color: '#e34c26'
               contributions: >-
-                123;58;56;208;84;150;172;170;173;139;97;142;112;104;181;158;225;177;57;34;78;161;112;168;156;130;108;76;87;193;232;222;199;67;93;39;68;33;177;79;59;120;120;142;101;85;97;125;136;208;174;61
+                128;50;56;217;81;150;165;177;170;138;101;139;112;104;178;162;225;175;57;36;76;166;115;171;153;126;107;74;93;203;213;238;185;73;90;36;67;46;166;85;58;126;113;141;98;85;95;128;138;214;165;57
               firstWeek: 2023-03-26Z
-              stars: 105832
+              stars: 105848
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
               latest_commit_date: '2024-03-15T20:15:33Z'
@@ -3348,7 +3348,7 @@ landscape:
               contributors_link: https://github.com/kubernetes/kubernetes/graphs/contributors
             repos:
               - url: https://github.com/kubernetes/kubernetes
-                stars: 105832
+                stars: 105848
             github_start_commit_data:
               start_commit_link: /kubernetes/kubernetes/commit/2c4b3a562ce34cddc3f8218a2c4d11c7310e6d56
               start_date: '2014-06-06T23:40:48Z'
@@ -3414,7 +3414,7 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 646061
+                  value: 645998
                   color: '#00ADD8'
                 - name: Shell
                   value: 184607
@@ -3442,20 +3442,20 @@ landscape:
                 - name: Standard ML
                   value: 37
                   color: '#dc566d'
-              contributions: 1;0;0;1;0;1;0;0;0;4;0;5;9;5;2;1;0;0;2;0;0;1;0;0;0;0;0;2;3;1;0;3;0;1;3;7;2;3;2;3;0;1;2;0;35;37;2;1;11;17;33;10
+              contributions: 1;0;0;1;0;1;0;0;1;3;0;5;10;4;2;1;0;0;2;0;0;1;0;0;0;0;0;2;4;0;0;3;0;1;5;5;4;1;3;2;0;1;2;0;65;7;2;4;10;22;26;12
               firstWeek: 2023-03-26Z
-              stars: 8103
+              stars: 8105
               license: Apache License 2.0
               description: A toolkit for building secure, portable and lean operating systems for containers
-              latest_commit_date: '2024-03-11T15:57:55Z'
-              latest_commit_link: /linuxkit/linuxkit/commit/1b1007a9dafeca4bf960c43e5a8782bc72c959ca
+              latest_commit_date: '2024-03-17T07:57:54Z'
+              latest_commit_link: /linuxkit/linuxkit/commit/3ff5dac0636f7c852ff9b361c41774c00d551265
               release_date: '2024-03-11T09:29:43Z'
               release_link: https://github.com/linuxkit/linuxkit/releases
               contributors_count: 183
               contributors_link: https://github.com/linuxkit/linuxkit/graphs/contributors
             repos:
               - url: https://github.com/linuxkit/linuxkit
-                stars: 8103
+                stars: 8105
             github_start_commit_data:
               start_commit_link: /linuxkit/linuxkit/commit/0fa1e68dc65c5f484ce9c2851b5efa2c8617d4f9
               start_date: '2015-11-26T15:17:40Z'
@@ -3516,7 +3516,7 @@ landscape:
                   value: 3754
                   color: '#e34c26'
               contributions: >-
-                57;66;9;10;15;22;16;13;23;53;41;13;43;30;102;29;36;50;20;6;26;27;23;29;21;16;50;57;93;36;137;127;92;18;21;22;22;43;17;0;0;89;136;92;150;60;76;91;61;14;8;27
+                57;66;9;10;15;23;15;13;23;53;41;13;43;30;102;29;36;50;20;6;26;27;23;29;22;15;50;57;93;36;137;127;92;18;21;22;22;43;17;0;0;89;136;92;150;60;76;91;61;14;8;27
               firstWeek: 2023-03-26Z
               stars: 310
               license: Other
@@ -3618,9 +3618,9 @@ landscape:
                 - name: Roff
                   value: 2086
                   color: '#ecdebe'
-              contributions: 6;10;3;7;7;12;5;8;17;6;4;3;7;8;8;5;9;7;11;1;7;4;5;20;12;15;23;19;4;8;5;11;4;12;14;14;19;9;12;5;0;8;10;9;6;10;21;11;6;9;9;5
+              contributions: 6;10;3;7;8;11;5;8;17;6;4;3;7;8;8;5;9;7;11;1;7;4;5;21;11;15;23;19;4;8;5;11;4;13;13;14;19;12;9;5;0;8;10;9;6;10;21;11;6;9;10;4
               firstWeek: 2023-03-26Z
-              stars: 1136
+              stars: 1137
               license: Apache License 2.0
               description: The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
               latest_commit_date: '2024-03-11T17:08:02Z'
@@ -3629,7 +3629,7 @@ landscape:
               contributors_link: https://github.com/OpenNebula/one/graphs/contributors
             repos:
               - url: https://github.com/OpenNebula/one
-                stars: 1136
+                stars: 1137
             github_start_commit_data:
               start_commit_link: /OpenNebula/one/commit/ee0b0729ba4ab252696f7e09b81109d288c5db84
               start_date: '2008-06-17T13:26:21Z'
@@ -3724,7 +3724,7 @@ landscape:
                   color: '#6E4C13'
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2023-03-26Z
-              stars: 5697
+              stars: 5698
               license: Apache License 2.0
               description: >-
                 :warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the
@@ -3737,7 +3737,7 @@ landscape:
               contributors_link: https://github.com/docker/docker-ce/graphs/contributors
             repos:
               - url: https://github.com/docker/docker-ce
-                stars: 5697
+                stars: 5698
             github_start_commit_data:
               start_commit_link: /docker/docker-ce/commit/5c70746915d4589a692cbe50a43cf619ed0b7152
               start_date: '2013-01-19T00:13:39Z'
@@ -3882,7 +3882,7 @@ landscape:
                 - name: Batchfile
                   value: 517
                   color: '#C1F12E'
-              contributions: 0;0;0;2;3;7;0;2;3;1;2;7;3;2;2;9;5;7;3;12;10;4;3;3;6;1;3;1;0;0;2;2;0;0;2;0;1;0;1;0;0;1;0;0;1;0;0;0;1;0;0;0
+              contributions: 0;0;0;2;7;3;0;2;3;1;2;7;3;2;2;9;5;7;3;12;10;4;3;3;6;1;3;1;0;0;2;2;0;0;2;0;1;0;1;0;0;1;0;0;1;0;0;0;1;0;0;0
               firstWeek: 2023-03-26Z
               stars: 1058
               license: BSD 3-Clause "New" or "Revised" License
@@ -3938,10 +3938,10 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 5019579
+                  value: 5048411
                   color: '#00ADD8'
                 - name: Shell
-                  value: 332414
+                  value: 332909
                   color: '#89e051'
                 - name: Dockerfile
                   value: 99165
@@ -3969,20 +3969,20 @@ landscape:
                   color: '#007800'
                 - name: NSIS
                   value: 9
-              contributions: 12;13;18;2;8;15;24;32;39;29;30;22;23;15;32;24;24;18;11;16;17;20;8;25;16;11;14;12;7;31;15;38;28;30;19;31;21;10;20;13;5;4;8;6;6;3;15;8;11;17;14;14
+              contributions: 13;21;9;2;8;17;25;29;41;27;30;23;24;14;33;22;24;18;11;16;17;20;8;25;16;11;14;12;7;31;23;31;27;31;19;30;22;9;21;12;5;4;8;6;6;3;16;10;10;19;16;13
               firstWeek: 2023-03-26Z
-              stars: 426
+              stars: 427
               license: Apache License 2.0
               description: 'EVE is Edge Virtualization Engine '
-              latest_commit_date: '2024-03-15T10:51:07Z'
-              latest_commit_link: /lf-edge/eve/commit/1cd8f6a71946e471020fedde0093ab8a070e5639
+              latest_commit_date: '2024-03-17T10:57:12Z'
+              latest_commit_link: /lf-edge/eve/commit/2c42bfce1f4b72fc77b215fe3f4f381c1fe7ff7a
               release_date: '2024-03-09T23:03:56Z'
               release_link: https://github.com/lf-edge/eve/releases
               contributors_count: 100
               contributors_link: https://github.com/lf-edge/eve/graphs/contributors
             repos:
               - url: https://github.com/lf-edge/eve
-                stars: 426
+                stars: 427
             github_start_commit_data:
               start_commit_link: /lf-edge/eve/commit/fc05a1f8ea2dc7fa59cb13b76910409f86e3d720
               start_date: '2017-05-01T21:15:36Z'
@@ -5939,20 +5939,20 @@ landscape:
                   value: 725
                 - name: Awk
                   value: 504
-              contributions: 17;18;14;21;27;22;26;19;29;29;29;41;6;3;9;1;10;7;10;13;1;20;9;9;13;9;25;24;34;26;33;28;18;23;186;29;8;10;20;27;5;7;10;11;28;23;13;26;27;32;24;17
+              contributions: 17;19;13;21;27;22;26;19;29;29;29;41;6;3;9;1;10;7;10;13;1;20;9;9;13;9;25;24;35;25;33;28;18;25;184;29;8;12;18;27;5;7;11;10;28;23;15;25;26;32;24;19
               firstWeek: 2023-03-26Z
-              stars: 5375
+              stars: 5380
               license: Apache License 2.0
               description: Cloud native networking and network security
-              latest_commit_date: '2024-03-15T21:00:07Z'
-              latest_commit_link: /projectcalico/calico/commit/874252cea8992944bf73f13b4b158a445507e491
+              latest_commit_date: '2024-03-17T20:05:37Z'
+              latest_commit_link: /projectcalico/calico/commit/57cdffe55d35d01379cdd6e3a58af2a9684671ab
               release_date: '2024-02-17T04:32:45Z'
               release_link: https://github.com/projectcalico/calico/releases
               contributors_count: 698
               contributors_link: https://github.com/projectcalico/calico/graphs/contributors
             repos:
               - url: https://github.com/projectcalico/calico
-                stars: 5375
+                stars: 5380
             github_start_commit_data:
               start_commit_link: /projectcalico/calico/commit/8e3d75dd58a2d93eddfdf53baad931004d7fb783
               start_date: '2016-07-21T15:45:54Z'
@@ -8350,7 +8350,7 @@ landscape:
                   color: '#563d7c'
               contributions: 1;0;0;0;2;0;0;1;0;0;0;0;0;1;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;3;1;0;0;1;0
               firstWeek: 2023-03-26Z
-              stars: 90
+              stars: 91
               license: Apache License 2.0
               description: Home Edge Project in LF Edge - Edge Orchestration for home edge devices to enabling smart home use cases.
               latest_commit_date: '2024-03-13T07:02:57Z'
@@ -8361,7 +8361,7 @@ landscape:
               contributors_link: https://github.com/lf-edge/edge-home-orchestration-go/graphs/contributors
             repos:
               - url: https://github.com/lf-edge/edge-home-orchestration-go
-                stars: 90
+                stars: 91
             github_start_commit_data:
               start_commit_link: /lf-edge/edge-home-orchestration-go/commit/0be53551594b304ec3f8a8b52facad514fedbd80
               start_date: '2019-06-26T11:11:44Z'
@@ -8548,7 +8548,7 @@ landscape:
                 - name: Dockerfile
                   value: 2816
                   color: '#384d54'
-              contributions: 11;9;6;3;0;2;3;7;2;12;8;11;6;3;3;4;14;7;4;5;18;10;1;5;3;9;2;3;3;3;4;4;2;13;12;9;5;0;2;1;1;2;1;4;3;4;4;2;4;4;0;2
+              contributions: 11;11;4;3;0;2;3;7;2;12;8;11;6;3;3;4;14;7;4;5;18;10;1;5;3;9;2;3;3;3;4;4;2;13;12;10;4;0;2;1;1;2;1;4;3;4;4;2;4;4;0;2
               firstWeek: 2023-03-26Z
               stars: 68
               license: Apache License 2.0
@@ -11788,4 +11788,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-03-18T05:01:12.223Z
+updated_at: 2024-03-18T05:15:39.519Z
