@@ -1243,6 +1243,8 @@ landscape:
                   acquiree: Area 1 Security
                 - date: '2024-03-06'
                   acquiree: Nefeli Networks
+                - date: '2024-04-05'
+                  acquiree: Baselime
               parents: []
               ticker: NET
               funding: 332200000
@@ -3370,8 +3372,8 @@ landscape:
             crunchbase_data:
               name: Docker
               description: Docker’s platform helps millions of developers efficiently and collaboratively build, share, and run applications.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: https://www.docker.com
               city: Palo Alto
               region: California
@@ -3653,8 +3655,8 @@ landscape:
             crunchbase_data:
               name: Docker
               description: Docker’s platform helps millions of developers efficiently and collaboratively build, share, and run applications.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: https://www.docker.com
               city: Palo Alto
               region: California
@@ -4729,6 +4731,8 @@ landscape:
                   acquiree: StreamSets
                 - date: '2023-12-18'
                   acquiree: webMethods
+                - date: '2024-03-20'
+                  acquiree: Pliant.io
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -5764,9 +5768,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/xage-security
             crunchbase_data:
               name: Xage Security
-              description: Xage is a cybersecurity company that protects Critical Infrastructure Operations (OT, IT, and the cloud).
-              num_employees_min: 51
-              num_employees_max: 100
+              description: Xage is a global leader in zero trust access and protection
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://xage.com/
               city: Palo Alto
               region: California
@@ -5845,8 +5849,8 @@ landscape:
             crunchbase_data:
               name: Pluribus Networks
               description: Pluribus Networks is a leader in open networking and next generation software defined networking (SDN)
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://pluribusnetworks.com
               city: Santa Clara
               region: California
@@ -6616,6 +6620,8 @@ landscape:
                   acquiree: Codeplay Software
                 - date: '2024-01-09'
                   acquiree: Silicon Mobility
+                - date: '2024-03-05'
+                  acquiree: InAccel
               parents: []
               ticker: INTC
               funding: 2542510000
@@ -6775,8 +6781,8 @@ landscape:
             crunchbase_data:
               name: RISC-V International
               description: RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://riscv.org/
               city: San Francisco
               region: California
@@ -7068,8 +7074,8 @@ landscape:
             crunchbase_data:
               name: Supermicro
               description: Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.
-              num_employees_min: 1001
-              num_employees_max: 5000
+              num_employees_min: 5001
+              num_employees_max: 10000
               homepage: http://www.supermicro.com
               city: San Jose
               region: California
@@ -7106,8 +7112,8 @@ landscape:
             crunchbase_data:
               name: Vertiv
               description: Vertiv designs, builds and services critical infrastructure that enables vital applications for data centers and industrial facilities.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: https://www.Vertiv.com
               city: Westerville
               region: Ohio
@@ -7309,7 +7315,7 @@ landscape:
                   acquiree: Vita IT
               parents: []
               ticker: TEF
-              funding: 4910528745
+              funding: 4914028872
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -8018,6 +8024,8 @@ landscape:
                   acquiree: Bunt Planet
                 - date: '2024-02-20'
                   acquiree: Inspekto
+                - date: '2024-03-21'
+                  acquiree: Industrial drive technology - ebm-papst
               parents: []
               ticker: SIE.DE
               funding: 5178048063
@@ -8265,8 +8273,8 @@ landscape:
             crunchbase_data:
               name: D2iq
               description: D2iQ offers elastically run containers and data services at scale, with complete hybrid cloud portability.
-              num_employees_min: 251
-              num_employees_max: 500
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://d2iq.com
               city: San Francisco
               region: California
@@ -8443,7 +8451,7 @@ landscape:
                   acquiree: PLTS
               parents: []
               ticker: 0992.HK
-              funding: 850025000
+              funding: 1350025000
               stockExchange: hkg
               company_type: For Profit
               industries:
@@ -8578,8 +8586,8 @@ landscape:
             crunchbase_data:
               name: Portworx
               description: Portworx is a cloud-native storage and data management company offering the industry’s first storage solution purpose-built for containers.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://portworx.com/
               city: Los Altos
               region: California
@@ -9585,6 +9593,8 @@ landscape:
                   acquiree: Codeplay Software
                 - date: '2024-01-09'
                   acquiree: Silicon Mobility
+                - date: '2024-03-05'
+                  acquiree: InAccel
               parents: []
               ticker: INTC
               funding: 2542510000
@@ -10059,6 +10069,8 @@ landscape:
                   acquiree: StreamSets
                 - date: '2023-12-18'
                   acquiree: webMethods
+                - date: '2024-03-20'
+                  acquiree: Pliant.io
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -10220,6 +10232,111 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-02T17:17:00.000Z
           - item:
+            name: Vodafone Group Plc. (member)
+            homepage_url: https://vodafone.com/
+            logo: vodafone_group_plc.svg
+            twitter: https://twitter.com/VodafoneGroup
+            crunchbase: https://www.crunchbase.com/organization/vodafone
+            crunchbase_data:
+              name: Vodafone
+              description: Vodafone is a mobile telecommunications company that offers voice, messaging, and cellular data services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://vodafone.com
+              city: Newbury
+              region: West Berkshire
+              country: United Kingdom
+              twitter: https://twitter.com/vodafonegroup
+              linkedin: https://www.linkedin.com/company/vodafone
+              acquisitions:
+                - date: '1999-08-19'
+                  acquiree: Commnet Cellular Inc.
+                - date: '1999-12-10'
+                  acquiree: ScottishPower Telecommunications Services
+                - date: '2000-01-01'
+                  acquiree: Mannesmann AG
+                - date: '2000-04-01'
+                  acquiree: Three Telecommunications
+                - date: '2001-01-21'
+                  acquiree: Vodafone Ireland Ltd.
+                - date: '2003-02-21'
+                  acquiree: Transtel
+                - date: '2003-06-23'
+                  acquiree: Vodafone Telecel-Comunicates Pessoais, S.A.
+                - date: '2003-09-11'
+                  acquiree: Singlepoint (4U) Ltd.
+                - date: '2005-05-31'
+                  acquiree: Vodafone Romania
+                - date: '2006-06-24'
+                  acquiree: Telsim - assets
+                - date: '2006-11-01'
+                  acquiree: Isis Telecommunications
+                - date: '2007-06-08'
+                  acquiree: Hutchison Essar Ltd
+                - date: '2007-10-06'
+                  acquiree: TeleTu
+                - date: '2007-11-06'
+                  acquiree: Tele2 Spain
+                - date: '2008-05-16'
+                  acquiree: ZYB
+                - date: '2008-07-03'
+                  acquiree: Ghana Telecommunications
+                - date: '2008-12-08'
+                  acquiree: Wayfinder
+                - date: '2009-01-16'
+                  acquiree: Unified Communications Group
+                - date: '2010-01-29'
+                  acquiree: Vodafone Alternatif Telekom Hizmetleri A.S.
+                - date: '2010-10-08'
+                  acquiree: Quickcomm Software Solutions
+                - date: '2010-10-08'
+                  acquiree: TnT Expense Management LLC
+                - date: '2011-08-01'
+                  acquiree: BelCompany BV
+                - date: '2011-12-01'
+                  acquiree: Bluefish Communications
+                - date: '2012-01-01'
+                  acquiree: Fonomat
+                - date: '2012-04-23'
+                  acquiree: Cable & Wireless Worldwide
+                - date: '2012-10-01'
+                  acquiree: Complete Telecom
+                - date: '2013-06-24'
+                  acquiree: Kabel Deutschland
+                - date: '2014-03-17'
+                  acquiree: ONO
+                - date: '2014-06-16'
+                  acquiree: The Cobra Group
+                - date: '2014-08-01'
+                  acquiree: Cobra Automotive Technologies
+                - date: '2014-08-22'
+                  acquiree: Hellas Online
+                - date: '2019-07-31'
+                  acquiree: Liberty Global
+                - date: '2019-11-18'
+                  acquiree: GrandCentrix
+                - date: '2020-03-31'
+                  acquiree: Infrastrutture Wireless Italiane
+                - date: '2022-10-03'
+                  acquiree: Nowo
+              parents: []
+              ticker: VOD.L
+              funding: 5247638881
+              stockExchange: lse
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Messaging
+                - Telecommunications
+            yahoo_finance_data:
+              effective_ticker: VOD.L
+            image_data:
+              fileName: vodafone-group-plc-member.svg
+              hash: WILPqNJeXNLrGnXRPvrcCMCQlkUjCKHlIgqG4BzI6E0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: ZEDEDA, Inc. (member)
             homepage_url: https://zededa.com/
             logo: zededa_inc.svg
@@ -10271,6 +10388,21 @@ landscape:
             image_data:
               fileName: allegro-cloud-member.svg
               hash: s7BXKDK1TBZXyHpvxkvC8AOqERIeyfDDUwaDHtDB9j8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Atym (member)
+            homepage_url: https://atym.io/
+            logo: atym.svg
+            organization:
+              name: Atym
+            crunchbase_data:
+              name: Atym
+              parents: []
+            image_data:
+              fileName: atym-member.svg
+              hash: vGZoEgLcNJI/Ax1e7oa79mRBUWstjy/rL9aGSQyUlrE=
             best_practice_data:
               badge: false
               percentage: null
@@ -10604,8 +10736,8 @@ landscape:
             crunchbase_data:
               name: IOTech
               description: IOTech’s aim is to be a leader in the global Edge/Fog IoT platform market through a productized open source business model.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://www.iotechsys.com
               city: Newcastle Upon Tyne
               region: Newcastle upon Tyne
@@ -10731,41 +10863,20 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-01T20:45:07.000Z
           - item:
-            name: NetFoundry (member)
-            homepage_url: https://netfoundry.io/
-            logo: netfoundry.svg
-            twitter: https://twitter.com/NetFoundry
-            crunchbase: https://www.crunchbase.com/organization/netfoundry
-            joined: '2019-06-01'
+            name: NuNet (member)
+            homepage_url: https://nunet.io/
+            logo: nunet.svg
+            organization:
+              name: NuNet
             crunchbase_data:
-              name: NetFoundry
-              description: Platform for cloud native, zero trust networking...across the Internet
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.netfoundry.io
-              city: Charlotte
-              region: North Carolina
-              country: United States
-              twitter: https://www.twitter.com/netfoundry
-              linkedin: https://www.linkedin.com/company/netfoundry
-              acquisitions: []
+              name: NuNet
               parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Apps
-                - DevOps
-                - Developer Platform
-                - Internet
-                - Network Security
             image_data:
-              fileName: net-foundry-member.svg
-              hash: cd6R9aDh7Vq0/v3in7vPighMHmDAteCsHDz7Wxx+Slk=
+              fileName: nu-net-member.svg
+              hash: XO4JsuIzwtLVwzYclMZM2neTM9c9oZSeOepoQ7Nmztw=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-01T13:30:55.000Z
           - item:
             name: OpenNebula (member)
             homepage_url: https://opennebula.io/
@@ -10926,6 +11037,8 @@ landscape:
                   acquiree: Cellwize
                 - date: '2023-05-08'
                   acquiree: Autotalks
+                - date: '2024-04-09'
+                  acquiree: Foundries.io
               parents: []
               ticker: QCOM
               funding: 0
@@ -10934,10 +11047,6 @@ landscape:
               industries:
                 - Artificial Intelligence (AI)
                 - Generative AI
-                - Machine Learning
-                - Manufacturing
-                - Natural Language Processing
-                - Predictive Analytics
                 - Software
                 - Telecommunications
                 - Wireless
@@ -11048,8 +11157,8 @@ landscape:
             crunchbase_data:
               name: Supermicro
               description: Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.
-              num_employees_min: 1001
-              num_employees_max: 5000
+              num_employees_min: 5001
+              num_employees_max: 10000
               homepage: http://www.supermicro.com
               city: San Jose
               region: California
@@ -11191,41 +11300,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-11T11:02:13.000Z
-          - item:
-            name: Viaccess SA (member)
-            homepage_url: https://viaccess-orca.com/
-            logo: viaccess_sa.svg
-            twitter: https://twitter.com/ViaccessOrca
-            crunchbase: https://www.crunchbase.com/organization/viaccess-orca
-            crunchbase_data:
-              name: Viaccess-Orca
-              description: Viaccess-Orca is a leading global solutions provider of OTT and TV platforms, content protection.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://www.viaccess-orca.com/
-              city: Paris
-              region: Ile-de-France
-              country: France
-              twitter: https://www.twitter.com/viaccessorca
-              linkedin: https://www.linkedin.com/company/viaccess-orca
-              acquisitions:
-                - date: '2017-05-24'
-                  acquiree: Squadeo
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Content
-                - Mobile Devices
-                - Software
-                - Telecommunications
-                - Virtual Reality
-            image_data:
-              fileName: viaccess-sa-member.svg
-              hash: AXaBwPaE9hl69rt4sFvQ1zgA3o1t6z671rE2Gc1Vvk0=
-            best_practice_data:
-              badge: false
-              percentage: null
       - subcategory:
         name: Associate
         items:
@@ -11690,6 +11764,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-18T17:47:48.000Z
           - item:
+            name: Saint-Petersburg State University (member)
+            homepage_url: https://spbu.ru/
+            logo: saint-petersburg_state_university.svg
+            organization:
+              name: Saint-Petersburg State University
+            crunchbase_data:
+              name: Saint-Petersburg State University
+              parents: []
+            image_data:
+              fileName: saint-petersburg-state-university-member.svg
+              hash: 4BFzeHsBQHm6+xXzYDh4YMNWQS9i62auBCfl6QjyrFk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Shanghai OpenSource Information Technology Association (member)
             homepage_url: https://shanghaiopen.org.cn/
             logo: shanghai_opensource_information_technology_association.svg
@@ -11785,4 +11874,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-03-19T05:16:03.048Z
+updated_at: 2024-04-16T05:01:14.060Z
