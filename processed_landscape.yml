@@ -1823,11 +1823,7 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
-                - Advertising
-                - Collaboration
-                - Enterprise Software
                 - Information Technology
-                - Search Engine
             yahoo_finance_data:
               effective_ticker: GOOG
             image_data:
@@ -6502,10 +6498,10 @@ landscape:
                   acquiree: Cilk
                 - date: '2009-08-19'
                   acquiree: RapidMind
-                - date: '2010-02-01'
-                  acquiree: Infineon Technologies
                 - date: '2010-08-19'
                   acquiree: McAfee
+                - date: '2010-08-30'
+                  acquiree: Infineon’s Wireless Solutions Business
                 - date: '2010-11-15'
                   acquiree: CognoVision
                 - date: '2011-03-14'
@@ -9012,7 +9008,6 @@ landscape:
                 - date: '2020-08-25'
                   acquiree: OSIsoft
               parents: []
-              ticker: AVV.L
               stockExchange: lse
               company_type: For Profit
               industries:
@@ -9024,8 +9019,6 @@ landscape:
                 - Information Technology
                 - Simulation
                 - Software
-            yahoo_finance_data:
-              effective_ticker: AVV.L
             image_data:
               fileName: aveva-group-member.svg
               hash: xMsVvFD7G4oCdbRZhN+4SBwDSFCeRDqRjhQWE34k2Yg=
@@ -9481,10 +9474,10 @@ landscape:
                   acquiree: Cilk
                 - date: '2009-08-19'
                   acquiree: RapidMind
-                - date: '2010-02-01'
-                  acquiree: Infineon Technologies
                 - date: '2010-08-19'
                   acquiree: McAfee
+                - date: '2010-08-30'
+                  acquiree: Infineon’s Wireless Solutions Business
                 - date: '2010-11-15'
                   acquiree: CognoVision
                 - date: '2011-03-14'
@@ -11925,4 +11918,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-07-26T05:15:37.750Z
+updated_at: 2024-07-27T05:01:06.487Z
