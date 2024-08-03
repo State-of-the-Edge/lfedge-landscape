@@ -2394,13 +2394,11 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
-              ticker: VMW
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-            yahoo_finance_data:
-              effective_ticker: VMW
+              kind: funding
             image_data:
               fileName: vm-ware-tanzu-kubernetes-grid-tkg.svg
               hash: FkQLuXinUgU6JEv8b/s11eOgJAONQj/bbwGESwiidUA=
@@ -6245,13 +6243,11 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
-              ticker: VMW
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-            yahoo_finance_data:
-              effective_ticker: VMW
+              kind: funding
             image_data:
               fileName: vm-ware-nsx.svg
               hash: jkzqe5ulh5sNrFqiF8htysAlInVMkJvbi/zDt9s4OjU=
@@ -6633,6 +6629,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
+                - Hardware
                 - Information Technology
                 - Product Design
                 - Semiconductor
@@ -9611,6 +9608,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
+                - Hardware
                 - Information Technology
                 - Product Design
                 - Semiconductor
@@ -10329,8 +10327,6 @@ landscape:
                   acquiree: Liberty Global
                 - date: '2019-11-18'
                   acquiree: GrandCentrix
-                - date: '2020-03-31'
-                  acquiree: Infrastrutture Wireless Italiane
                 - date: '2022-10-03'
                   acquiree: Nowo
               parents: []
@@ -11920,4 +11916,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-08-02T05:16:00.203Z
+updated_at: 2024-08-03T05:01:04.109Z
