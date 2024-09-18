@@ -1280,14 +1280,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/google
             crunchbase_data:
               name: Google
-              description: Google is a multinational corporation that specializes in Internet-related services and products.
+              description: Google is a multinational corporation that specializes in Internet-related services and organizes the world’s information.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.google.com
               city: Mountain View
               region: California
               country: United States
-              twitter: https://www.twitter.com/google
+              twitter: https://x.com/google
               linkedin: https://www.linkedin.com/company/google
               acquisitions:
                 - date: '2001-02-12'
@@ -1792,6 +1792,8 @@ landscape:
                   acquiree: Dysonics
                 - date: '2021-05-07'
                   acquiree: Provino Technologies
+                - date: '2021-09-04'
+                  acquiree: Playspace
                 - date: '2021-10-01'
                   acquiree: CompilerWorks
                 - date: '2021-11-17'
@@ -1825,10 +1827,13 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Apps
                 - Artificial Intelligence (AI)
-                - Cloud Computing
                 - Cloud Storage
+                - Information Technology
+                - Office Administration
                 - SEO
+                - Search Engine
                 - Software
             yahoo_finance_data:
               effective_ticker: GOOG
@@ -1838,8 +1843,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T17:54:49.000Z
           - item:
             name: Limelight Networks
             homepage_url: https://www.limelight.com
@@ -5343,6 +5346,8 @@ landscape:
                   acquiree: AVEVA
                 - date: '2023-11-02'
                   acquiree: EcoAct
+                - date: '2024-07-30'
+                  acquiree: Planon
               parents: []
               ticker: SU.PA
               funding: 1600000
@@ -5526,6 +5531,8 @@ landscape:
                   acquiree: AVEVA
                 - date: '2023-11-02'
                   acquiree: EcoAct
+                - date: '2024-07-30'
+                  acquiree: Planon
               parents: []
               ticker: SU.PA
               funding: 1600000
@@ -7871,11 +7878,11 @@ landscape:
               description: Siemens is a technology company that offers cybersecurity, digital consulting, and business services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.siemens.com
+              homepage: https://www.siemens.com/
               city: Munich
               region: Bayern
               country: Germany
-              twitter: http://twitter.com/Siemens
+              twitter: https://x.com/Siemens
               linkedin: https://www.linkedin.com/company/siemens
               acquisitions:
                 - date: '1979-01-01'
@@ -8056,10 +8063,10 @@ landscape:
               stockExchange: etr
               company_type: For Profit
               industries:
+                - Artificial Intelligence (AI)
                 - Consulting
                 - Cyber Security
-                - Manufacturing
-                - Real Estate
+                - Internet of Things
             yahoo_finance_data:
               effective_ticker: SIE.DE
             image_data:
@@ -8068,8 +8075,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T16:41:42.000Z
           - item:
             name: Telxius
             homepage_url: https://telxius.com/
@@ -10271,11 +10276,11 @@ landscape:
               description: Vodafone is a mobile telecommunications company that offers voice, messaging, and cellular data services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://vodafone.com
+              homepage: https://www.vodafone.com/
               city: Newbury
               region: West Berkshire
               country: United Kingdom
-              twitter: https://twitter.com/vodafonegroup
+              twitter: https://x.com/vodafonegroup
               linkedin: https://www.linkedin.com/company/vodafone
               acquisitions:
                 - date: '1999-08-19'
@@ -11314,7 +11319,9 @@ landscape:
                 - date: '2018-06-13'
                   acquiree: Virtuosys
               parents: []
-              stockExchange: null
+              ticker: VEEA
+              funding: 15000000
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Developer Platform
@@ -11322,6 +11329,8 @@ landscape:
                 - Information Technology
                 - Intelligent Systems
                 - Internet of Things
+            yahoo_finance_data:
+              effective_ticker: VEEA
             image_data:
               fileName: veea-inc-member.svg
               hash: TUnPpqg9BwJkzr3HLOof4XLdpvmrmMWbNbOh5CDUQoI=
@@ -11935,4 +11944,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-09-17T05:16:39.686Z
+updated_at: 2024-09-18T05:01:00.494Z
