@@ -2004,14 +2004,16 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Cloud Computing
-                - Cloud Security
-                - Content Delivery Network
-                - Enterprise Software
-                - Network Security
-                - SaaS
+                - Artificial Intelligence (AI)
+                - Cloud Infrastructure
+                - Cyber Security
+                - Developer Platform
+                - Developer Tools
+                - Generative AI
+                - Internet
+                - Internet of Things
                 - Software
-                - Web Hosting
+                - Web Development
             image_data:
               fileName: azion.svg
               hash: rX6fFoXqGd/2/SYNTFIekSRH0h+DP09pf4zcVzru+/A=
@@ -2403,11 +2405,13 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
+              ticker: DELL
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: DELL
             image_data:
               fileName: vm-ware-tanzu-kubernetes-grid-tkg.svg
               hash: FkQLuXinUgU6JEv8b/s11eOgJAONQj/bbwGESwiidUA=
@@ -4750,6 +4754,8 @@ landscape:
                   acquiree: Skyarch Networks
                 - date: '2024-07-09'
                   acquiree: SiXworks
+                - date: '2024-09-17'
+                  acquiree: Kubecost
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -4822,11 +4828,11 @@ landscape:
               description: Oracle is an integrated cloud application and platform services that sells a range of enterprise information technology solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.oracle.com
+              homepage: https://www.oracle.com/
               city: Austin
               region: Texas
               country: United States
-              twitter: https://www.twitter.com/Oracle
+              twitter: https://x.com/Oracle
               linkedin: https://www.linkedin.com/company/oracle
               acquisitions:
                 - date: '1996-01-01'
@@ -5142,8 +5148,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T17:15:01.000Z
           - item:
             name: Rackspace Kubernetes-as-a-Service
             homepage_url: https://www.rackspace.com/cloud/kubernetes
@@ -6258,11 +6262,13 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
+              ticker: DELL
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: DELL
             image_data:
               fileName: vm-ware-nsx.svg
               hash: jkzqe5ulh5sNrFqiF8htysAlInVMkJvbi/zDt9s4OjU=
@@ -6410,14 +6416,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/intel
             crunchbase_data:
               name: Intel
-              description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
+              description: Intel designs, manufactures and sells computer components and related products for business and consumer markets.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.intel.com
               city: Santa Clara
               region: California
               country: United States
-              twitter: http://www.twitter.com/intel
+              twitter: https://x.com/intel
               linkedin: https://www.linkedin.com/company/intel-corporation
               acquisitions:
                 - date: '1997-07-27'
@@ -6660,8 +6666,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T15:30:01.000Z
           - item:
             name: Micron Technology
             homepage_url: https://www.micron.com/
@@ -7590,11 +7594,11 @@ landscape:
               description: Comcast is a media and technology company that connects millions of people to the moments and experiences that matter most.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://corporate.comcast.com
+              homepage: https://corporate.comcast.com
               city: Philadelphia
               region: Pennsylvania
               country: United States
-              twitter: https://twitter.com/comcast
+              twitter: https://x.com/comcast
               linkedin: https://www.linkedin.com/company/comcast
               acquisitions:
                 - date: '1996-01-01'
@@ -7695,8 +7699,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T16:00:46.000Z
           - item:
             name: Cox Communications
             homepage_url: https://www.cox.com/residential/home.html
@@ -8215,10 +8217,10 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.hpe.com
-              city: Roseville
-              region: California
+              city: Spring
+              region: Texas
               country: United States
-              twitter: https://www.twitter.com/hpe
+              twitter: https://www.x.com/hpe
               linkedin: https://www.linkedin.com/company/hewlett-packard-enterprise
               acquisitions:
                 - date: '2016-02-03'
@@ -9060,14 +9062,14 @@ landscape:
             joined: '2021-12-01'
             crunchbase_data:
               name: Spectrum
-              description: Spectrum (Time Warner Cable) is a cable telecommunications company that offers a range of home entertainment and information services.
+              description: Spectrum is a cable telecommunications company that offers a range of home entertainment and information services.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.spectrum.com
               city: Stamford
               region: Connecticut
               country: United States
-              twitter: https://twitter.com/getspectrum
+              twitter: https://x.com/getspectrum
               linkedin: https://www.linkedin.com/company/spectrum/
               acquisitions:
                 - date: '2011-02-01'
@@ -9340,15 +9342,15 @@ landscape:
             logo: huawei_technologies_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
             crunchbase_data:
-              name: Huawei Technologies
-              description: Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.
+              name: Huawei
+              description: Huawei is a telecommunication company that designs and develops software solutions, ICT infrastructure, and smart devices.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://huawei.com
               city: Shenzhen
               region: Guangdong
               country: China
-              twitter: https://twitter.com/Huawei
+              twitter: https://x.com/Huawei
               linkedin: https://www.linkedin.com/company/huawei/
               acquisitions:
                 - date: '2006-09-11'
@@ -9375,6 +9377,7 @@ landscape:
               industries:
                 - Information and Communications Technology (ICT)
                 - Software
+                - Telecommunications
                 - Web Hosting
                 - Wireless
             image_data:
@@ -9383,8 +9386,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T12:32:20.000Z
           - item:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
@@ -9392,14 +9393,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/intel
             crunchbase_data:
               name: Intel
-              description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
+              description: Intel designs, manufactures and sells computer components and related products for business and consumer markets.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.intel.com
               city: Santa Clara
               region: California
               country: United States
-              twitter: http://www.twitter.com/intel
+              twitter: https://x.com/intel
               linkedin: https://www.linkedin.com/company/intel-corporation
               acquisitions:
                 - date: '1997-07-27'
@@ -9642,8 +9643,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T15:30:01.000Z
           - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
@@ -10105,6 +10104,8 @@ landscape:
                   acquiree: Skyarch Networks
                 - date: '2024-07-09'
                   acquiree: SiXworks
+                - date: '2024-09-17'
+                  acquiree: Kubecost
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -10358,6 +10359,9 @@ landscape:
               industries:
                 - Information Technology
                 - Messaging
+                - Mobile Apps
+                - Mobile Devices
+                - Network Security
                 - Telecommunications
             yahoo_finance_data:
               effective_ticker: VOD.L
@@ -11943,4 +11947,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-09-18T05:15:35.933Z
+updated_at: 2024-09-19T05:01:00.057Z
