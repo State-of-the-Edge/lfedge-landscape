@@ -2723,7 +2723,7 @@ landscape:
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/ibm
-              ticker: IBM
+              ticker: IBM.F
               funding: 1000000
               stockExchange: null
               company_type: For Profit
@@ -2733,7 +2733,7 @@ landscape:
                 - Market Research
                 - Software
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: ibm-watson-io-t.svg
               hash: dVE9gNM0hUOFjtmDZLypuCAaNUJW64OBn5TFaiB3lJU=
@@ -4756,8 +4756,8 @@ landscape:
                 - date: '2024-09-17'
                   acquiree: Kubecost
               parents: []
-              ticker: IBM
-              stockExchange: nyse
+              ticker: IBM.F
+              stockExchange: fra
               company_type: For Profit
               industries:
                 - Business Development
@@ -4766,7 +4766,7 @@ landscape:
                 - Data Management
                 - Software
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: ibm-cloud.svg
               hash: fvXWm2VooU6kkM7GPuyEUm9aJTpNOEMZdGyrT90q41A=
@@ -10102,8 +10102,8 @@ landscape:
                 - date: '2024-09-17'
                   acquiree: Kubecost
               parents: []
-              ticker: IBM
-              stockExchange: nyse
+              ticker: IBM.F
+              stockExchange: fra
               company_type: For Profit
               industries:
                 - Business Development
@@ -10112,7 +10112,7 @@ landscape:
                 - Data Management
                 - Software
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: international-business-machines-corporation-member.svg
               hash: E3EqK0+0lDbMaYLFdixTASQkDfEwHfQSUjMYvazFtoI=
@@ -10238,7 +10238,7 @@ landscape:
                   acquiree: StackRox
               parents:
                 - https://www.crunchbase.com/organization/ibm
-              ticker: IBM
+              ticker: IBM.F
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -10249,7 +10249,7 @@ landscape:
                 - Operating Systems
                 - Software
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: red-hat-inc-member.svg
               hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
@@ -11945,4 +11945,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-10-02T05:15:25.774Z
+updated_at: 2024-10-03T05:00:58.526Z
