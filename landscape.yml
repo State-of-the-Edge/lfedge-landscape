@@ -798,17 +798,16 @@ landscape:
             logo: flexnode.svg
             organization:
               name: Flexnode
+              linkedin: https://www.linkedin.com/company/flexnode
           - item:
             name: Fujitsu Limited (member)
             homepage_url: https://fujitsu.com/
-            stock_ticker: null
             logo: fujitsu_limited.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
-            joined: '2016-01-01'
           - item:
             name: Huawei Technologies Co., Ltd (member)
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co_ltd.svg
+            logo: huawei_technologies_co.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Intel Corporation (member)
@@ -826,7 +825,6 @@ landscape:
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
-            joined: '2016-01-01'
           - item:
             name: Vodafone Group Plc. (member)
             homepage_url: https://vodafone.com/
@@ -838,8 +836,9 @@ landscape:
             homepage_url: https://zededa.com/
             logo: zededa_inc.svg
             twitter: https://twitter.com/ZededaEdge
-            crunchbase: https://www.crunchbase.com/organization/zededa
-            joined: '2021-06-01'
+            organization:
+              name: ZEDEDA, Inc.
+              linkedin: https://www.linkedin.com/company/zededaedge
       - subcategory:
         name: General
         items:
@@ -855,42 +854,41 @@ landscape:
             logo: atym.svg
             organization:
               name: Atym
-          - item:
-            name: Bytedance Inc. (member)
-            homepage_url: https://bytedance.com/
-            logo: bytedance_inc.svg
-            twitter: https://twitter.com/BytedanceTalk
-            crunchbase: https://www.crunchbase.com/organization/bytedance
+              linkedin: https://www.linkedin.com/company/atym-inc
           - item:
             name: Canonical Group Limited (member)
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
-            joined: '2017-01-01'
+          - item:
+            name: Douyin Vision Co., Ltd. (member)
+            homepage_url: https://bytedance.com/
+            logo: douyin_vision_co_ltd.svg
+            twitter: https://twitter.com/BytedanceTalk
+            crunchbase: https://www.crunchbase.com/organization/bytedance
           - item:
             name: Edgenesis (member)
             homepage_url: https://shifu.run/
             logo: edgenesis.svg
             twitter: https://twitter.com/ShifuFramework
             crunchbase: https://www.crunchbase.com/organization/edgenesis
-            joined: '2023-04-01'
           - item:
             name: Hangzhou EMQ Technologies (member)
             homepage_url: https://emqx.io/
             logo: hangzhou_emq_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/emq-technologies
           - item:
+            name: Intensivate, Inc. (member)
+            homepage_url: https://intensivate.com/
+            logo: intensivate_inc.svg
+            twitter: https://twitter.com/IntensivateHome
+            crunchbase: https://www.crunchbase.com/organization/intensivate
+          - item:
             name: IOTech Systems Limited (member)
             homepage_url: https://iotechsys.com/
             logo: iotech_systems_limited.svg
             twitter: https://twitter.com/IOTechSystems
             crunchbase: https://www.crunchbase.com/organization/iotech-2
-          - item:
-            name: Marvell Semiconductors Ltd (member)
-            homepage_url: https://marvell.com/
-            logo: marvell_semiconductors_ltd.svg
-            twitter: https://twitter.com/MarvellTech
-            crunchbase: https://www.crunchbase.com/organization/marvell-technology
           - item:
             name: mimik Technology Inc (member)
             homepage_url: https://mimik.com/
@@ -900,45 +898,42 @@ landscape:
             name: NuNet (member)
             homepage_url: https://nunet.io/
             logo: nunet.svg
-            organization:
-              name: NuNet
+            crunchbase: https://www.crunchbase.com/organization/nunet-dedc
           - item:
             name: OpenNebula (member)
             homepage_url: https://opennebula.io/
             logo: opennebula.svg
             crunchbase: https://www.crunchbase.com/organization/opennebula
-            joined: '2020-10-01'
-          - item:
-            name: Qualcomm, Inc. (member)
-            homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/qualcomm
           - item:
             name: Robin Systems, Inc (member)
             homepage_url: https://robin.io/
             logo: robin_systems_inc.svg
             crunchbase: https://www.crunchbase.com/organization/robin-systems
-            joined: '2018-08-01'
           - item:
             name: Spectro Cloud, Inc. (member)
             homepage_url: https://spectrocloud.com/
             logo: spectro_cloud_inc.svg
             crunchbase: https://www.crunchbase.com/organization/spectro-cloud
-            joined: '2019-07-01'
           - item:
             name: Super Micro Computer, Inc. (member)
             homepage_url: https://supermicro.com/
             logo: super_micro_computer_inc.svg
             crunchbase: https://www.crunchbase.com/organization/super-micro-computer
           - item:
+            name: UNIBERG (member)
+            homepage_url: https://uniberg.com/
+            logo: uniberg.svg
+            crunchbase: https://www.crunchbase.com/organization/uniberg
+          - item:
             name: Veea Inc. (member)
             homepage_url: https://veea.com/
             logo: veea_inc.svg
             crunchbase: https://www.crunchbase.com/organization/veea-inc
           - item:
-            name: Viaccess Orca (member)
-            homepage_url: https://www.viaccess-orca.com/
-            logo: viaccess_orca_cmyk.svg
+            name: Viaccess SA (member)
+            homepage_url: https://viaccess-orca.com/
+            logo: viaccess_sa.svg
+            twitter: https://twitter.com/ViaccessOrca
             crunchbase: https://www.crunchbase.com/organization/viaccess-orca
       - subcategory:
         name: Associate
@@ -947,7 +942,9 @@ landscape:
             name: Automotive Edge Computing Consortium, Inc. (member)
             homepage_url: https://aecc.org/
             logo: automotive_edge_computing_consortium_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/automotive-edge-computing-consortium
+            organization:
+              name: Automotive Edge Computing Consortium, Inc.
+              linkedin: https://www.linkedin.com/company/automotive-edge-computing-consortium
           - item:
             name: Beijing University of Posts and Telecommunications (BUPT) (member)
             homepage_url: https://bupt.edu.cn/
@@ -985,7 +982,9 @@ landscape:
             homepage_url: https://imasons.org/
             logo: infrastructure_masons.svg
             twitter: https://twitter.com/InfraMason
-            crunchbase: https://www.crunchbase.com/organization/infrastructure-masons
+            organization:
+              name: Infrastructure Masons
+              linkedin: https://www.linkedin.com/company/infrastructure-masons
           - item:
             name: IOTA Foundation (member)
             homepage_url: https://iota.org/
@@ -993,9 +992,16 @@ landscape:
             twitter: https://twitter.com/iota
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
           - item:
+            name: Jeju National University (member)
+            homepage_url: https://jejunu.ac.kr/
+            logo: jeju_national_university.svg
+            organization:
+              name: Jeju National University
+              linkedin: https://www.linkedin.com/company/jeju-national-university-republic-of-korea
+          - item:
             name: National Institute of Advanced Industrial Science and Technology(AIST) (member)
             homepage_url: https://aist.go.jp/
-            logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            logo: national_institute_of_advanced_industrial_science_and_technology_aist.svg
             twitter: https://twitter.com/AIST_JP
             crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
           - item:
@@ -1022,14 +1028,21 @@ landscape:
           - item:
             name: Saint-Petersburg State University (member)
             homepage_url: https://spbu.ru/
-            logo: saint-petersburg_state_university.svg
+            logo: saint_petersburg_state_university.svg
             organization:
               name: Saint-Petersburg State University
+              linkedin: https://www.linkedin.com/company/saint-petersburg-state-university
           - item:
             name: Shanghai OpenSource Information Technology Association (member)
             homepage_url: https://shanghaiopen.org.cn/
             logo: shanghai_opensource_information_technology_association.svg
-            crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
+            organization:
+              name: Shanghai OpenSource Information Technology Association
+          - item:
+            name: Southeast University (member)
+            homepage_url: https://seu.edu.cn/
+            logo: southeast_university.svg
+            crunchbase: https://www.crunchbase.com/organization/southeast-university
           - item:
             name: The Ritsumeikan Trust (member)
             homepage_url: https://en.ritsumei.ac.jp/
@@ -1037,7 +1050,26 @@ landscape:
             twitter: https://twitter.com/RitsARC
             crunchbase: https://www.crunchbase.com/organization/ritsumeikan-university
           - item:
+            name: University of Delaware (member)
+            homepage_url: https://udel.edu/
+            logo: university_of_delaware.svg
+            twitter: https://twitter.com/UDelaware
+            crunchbase: https://www.crunchbase.com/organization/university-of-delaware-2
+          - item:
+            name: University of Leeds (member)
+            homepage_url: https://leeds.ac.uk/
+            logo: university_of_leeds.svg
+            twitter: https://twitter.com/UniversityLeeds
+            crunchbase: https://www.crunchbase.com/organization/university-of-leeds-england
+          - item:
             name: University of New Hampshire (member)
             homepage_url: https://unh.edu/
             logo: university_of_new_hampshire.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
+          - item:
+            name: Xi'an University of Achetecture and Technology (member)
+            homepage_url: https://xauat.edu.cn/
+            logo: xi_an_university_of_achetecture_and_technology.svg
+            organization:
+              name: Xi'an University of Achetecture and Technology
+              linkedin: https://www.linkedin.com/company/xi%27an-university-of-architecture-and-technology
