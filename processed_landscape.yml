@@ -1828,8 +1828,9 @@ landscape:
                   acquiree: Cameyo
               parents:
                 - https://www.crunchbase.com/organization/alphabet
+              ticker: GOOG
               funding: 26100000
-              stockExchange: null
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Apps
@@ -1840,7 +1841,8 @@ landscape:
                 - SEO
                 - Search Engine
                 - Software
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: GOOG
             image_data:
               fileName: google-cloud-cdn.svg
               hash: HRXVvmjQCbCC88P6CYRXnmVdrEMGWv86B7+tfaXd5Q0=
@@ -2409,11 +2411,13 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
+              ticker: DELL
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: DELL
             image_data:
               fileName: vm-ware-tanzu-kubernetes-grid-tkg.svg
               hash: FkQLuXinUgU6JEv8b/s11eOgJAONQj/bbwGESwiidUA=
@@ -4153,8 +4157,9 @@ landscape:
                 - date: '2023-07-06'
                   acquiree: Paperspace
               parents: []
+              ticker: DOCN
               funding: 491275418
-              stockExchange: null
+              stockExchange: nyse
               company_type: For Profit
               industries:
                 - Cloud Computing
@@ -4162,7 +4167,8 @@ landscape:
                 - SaaS
                 - Virtualization
                 - Web Hosting
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: DOCN
             image_data:
               fileName: digital-ocean.svg
               hash: USOVXuaWK3YcNT5qrPwBv/PW56GJDSvo55U7peQSIfs=
@@ -4242,6 +4248,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/google
                 - https://www.crunchbase.com/organization/alphabet
+              ticker: GOOG
               funding: 26100000
               stockExchange: null
               company_type: For Profit
@@ -4249,7 +4256,8 @@ landscape:
                 - Cloud Computing
                 - Cloud Data Services
                 - Developer Platform
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: GOOG
             image_data:
               fileName: google-cloud.svg
               hash: y8p2yQGIF7UjieL4lMSRJpVHVYJCVA6PqljRzTFsLz4=
@@ -5673,7 +5681,7 @@ landscape:
                   acquiree: CloudVector
               parents: []
               funding: 94406675
-              stockExchange: null
+              stockExchange: nyse
               company_type: For Profit
               industries:
                 - Cloud Security
@@ -6035,7 +6043,7 @@ landscape:
                   acquiree: Xirrus
               parents: []
               funding: 28400000
-              stockExchange: null
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Business Process Automation (BPA)
@@ -6267,11 +6275,13 @@ landscape:
                   acquiree: Ananda Networks
               parents:
                 - https://www.crunchbase.com/organization/dell-technologies
+              ticker: DELL
               funding: 393500000
               stockExchange: nyse
               company_type: For Profit
               industries: []
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: DELL
             image_data:
               fileName: vm-ware-nsx.svg
               hash: jkzqe5ulh5sNrFqiF8htysAlInVMkJvbi/zDt9s4OjU=
@@ -6652,8 +6662,9 @@ landscape:
                 - date: '2024-03-05'
                   acquiree: InAccel
               parents: []
+              ticker: INTC
               funding: 19042510000
-              stockExchange: null
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
@@ -6662,7 +6673,8 @@ landscape:
                 - Product Design
                 - Semiconductor
                 - Software
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: INTC
             image_data:
               fileName: intel.svg
               hash: q4mfq6PIXf7WKYhYB/NdSp1ly9jy+aPrq8G/YMlC0Zc=
@@ -6776,8 +6788,9 @@ landscape:
                 - date: '2024-12-17'
                   acquiree: Aviva Links
               parents: []
+              ticker: NXPI
               funding: 596250
-              stockExchange: null
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Apps
@@ -6790,7 +6803,8 @@ landscape:
                 - Semiconductor
                 - Software
                 - Video
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: NXPI
             image_data:
               fileName: nxp.svg
               hash: yHSbdiClMV43KiGlJQ/w+C1wp13W6OXtvtDR/9jyQyY=
@@ -6976,8 +6990,9 @@ landscape:
                 - date: '2024-12-06'
                   acquiree: VinBrain
               parents: []
+              ticker: NVDA
               funding: 4095000000
-              stockExchange: null
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
@@ -6985,7 +7000,8 @@ landscape:
                 - Hardware
                 - Software
                 - Virtual Reality
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: NVDA
             image_data:
               fileName: nvidia.svg
               hash: oexU5oK5XAIo8KWriaM6PznvG6ByYNQhXO2+kRZn/vw=
@@ -7087,15 +7103,15 @@ landscape:
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/foxconn-technology-group
-              ticker: HHPD.L
+              ticker: 601138.SS
               funding: 1120000000
-              stockExchange: null
+              stockExchange: sse
               company_type: For Profit
               industries:
                 - Internet
                 - Manufacturing
             yahoo_finance_data:
-              effective_ticker: HHPD.L
+              effective_ticker: 601138.SS
             image_data:
               fileName: foxconn-industrial-internet.svg
               hash: pR5lCi8EoofsNjUuK3CycUcWQDhbuD0U+pfIDrAc0lM=
@@ -7455,6 +7471,7 @@ landscape:
                   acquiree: Skyward
               parents:
                 - https://www.crunchbase.com/organization/verizon-communications
+              ticker: VZ
               funding: 32103192466
               stockExchange: null
               company_type: For Profit
@@ -7462,7 +7479,8 @@ landscape:
                 - Communication Hardware
                 - Telecommunications
                 - Wireless
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: VZ
             image_data:
               fileName: verizon.svg
               hash: 9eK/yFJ5X8y4SMTSBzIEPvp+6ursmSLXlPmwZfVNg6o=
@@ -7852,8 +7870,9 @@ landscape:
                 - date: '2024-07-11'
                   acquiree: Graphcore
               parents: []
+              ticker: 9984.T
               funding: 1865943315
-              stockExchange: null
+              stockExchange: tyo
               company_type: For Profit
               industries:
                 - Banking
@@ -7861,7 +7880,8 @@ landscape:
                 - Internet
                 - Mobile
                 - Telecommunications
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: 9984.T
             image_data:
               fileName: soft-bank.svg
               hash: aGwuy9LEe3qWHNroiOI+CbVJTIkuOzUfCmhHcVa8QlA=
@@ -8438,8 +8458,9 @@ landscape:
               linkedin: https://www.linkedin.com/company/inspur-group-co-ltd-
               acquisitions: []
               parents: []
+              ticker: 000977.SZ
               funding: 29304249
-              stockExchange: null
+              stockExchange: szse
               company_type: For Profit
               industries:
                 - Computer
@@ -8447,7 +8468,8 @@ landscape:
                 - IT Management
                 - Information Technology
                 - Software
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: 000977.SZ
             image_data:
               fileName: inspur-group.svg
               hash: Y2K4MMP4PKlOwRwaMw2VuEy1z1WhnkV04QduiUTdUpQ=
@@ -8490,15 +8512,17 @@ landscape:
                 - date: '2022-06-14'
                   acquiree: Lenovo PCCW Solutions
               parents: []
+              ticker: 0992.HK
               funding: 1350025000
-              stockExchange: null
+              stockExchange: hkg
               company_type: For Profit
               industries:
                 - Computer
                 - Electronics
                 - Hardware
                 - Mobile
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: 0992.HK
             image_data:
               fileName: lenovo.svg
               hash: /pczj7854c40FWc0jbJ2aXjv7/3brV7vDccH6BYKIOo=
@@ -9067,8 +9091,9 @@ landscape:
                 - date: '2021-12-13'
                   acquiree: MainOne
               parents: []
+              ticker: EQIX
               funding: 3396996755
-              stockExchange: null
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Cloud Data Services
@@ -9077,7 +9102,8 @@ landscape:
                 - Infrastructure
                 - Internet
                 - Software
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: EQIX
             image_data:
               fileName: equinix-services-inc-member.svg
               hash: mfN59XFl9tD7TMQB3rTr88bj7jx24elvEaZY4qAVNqA=
@@ -9166,7 +9192,8 @@ landscape:
                 - date: '2023-11-06'
                   acquiree: toBe Marketing
               parents: []
-              stockExchange: null
+              ticker: 6945.T
+              stockExchange: tyo
               company_type: For Profit
               industries:
                 - Cloud Computing
@@ -9177,6 +9204,8 @@ landscape:
                 - Information Technology
                 - Information and Communications Technology (ICT)
                 - Software
+            yahoo_finance_data:
+              effective_ticker: 6945.T
             image_data:
               fileName: fujitsu-limited-member.svg
               hash: xv3hMAuskzfywmm9HnboQIsai2aNZ4y5rHBAInj4PB8=
@@ -9475,8 +9504,9 @@ landscape:
                 - date: '2024-03-05'
                   acquiree: InAccel
               parents: []
+              ticker: INTC
               funding: 19042510000
-              stockExchange: null
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
@@ -9485,7 +9515,8 @@ landscape:
                 - Product Design
                 - Semiconductor
                 - Software
-              kind: funding
+            yahoo_finance_data:
+              effective_ticker: INTC
             image_data:
               fileName: intel-corporation-member.svg
               hash: YWQ80CsgJtAmwbNtK4vUctFfHSoRP0KCwzXdn4lCszE=
@@ -10045,7 +10076,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/ibm
               ticker: IBM.F
-              stockExchange: null
+              stockExchange: nyse
               company_type: For Profit
               industries:
                 - Enterprise Software
@@ -10493,7 +10524,8 @@ landscape:
                 - date: '2022-05-09'
                   acquiree: Tanzanite Silicon Solutions
               parents: []
-              stockExchange: null
+              ticker: MRVL
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
                 - DSP
@@ -10501,6 +10533,8 @@ landscape:
                 - Manufacturing
                 - Semiconductor
                 - Wireless
+            yahoo_finance_data:
+              effective_ticker: MRVL
             image_data:
               fileName: marvell-semiconductors-ltd-member.svg
               hash: 7PpSxRsHiL0qflFfaVBu7OoPvVxUNRh5mkdvXTcdAcI=
@@ -11504,4 +11538,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2024-12-20T05:15:16.773Z
+updated_at: 2024-12-21T05:00:59.194Z
