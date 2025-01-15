@@ -6124,6 +6124,8 @@ landscape:
                   acquiree: Mint Mobile
                 - date: '2024-04-25'
                   acquiree: Lumos Fiber
+                - date: '2025-01-13'
+                  acquiree: Vistar Media
               parents:
                 - https://www.crunchbase.com/organization/deutsche-telekom
               ticker: TMUS.SW
@@ -8883,10 +8885,17 @@ landscape:
         items:
           - item:
             name: Advanced Micro Devices (AMD) (member)
+            description: >-
+              For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for
+              gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific
+              research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are
+              focused on building great products that push the boundaries of what is possible.
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amd
             crunchbase_data:
               name: AMD
               description: Advanced Micro Devices is a semiconductor company that designs and develops graphics units, processors, and media solutions.
@@ -8945,9 +8954,12 @@ landscape:
               latest_tweet_date: 2022-06-01T16:07:41.000Z
           - item:
             name: AVEVA Group (member)
+            description: AVEVA Group plc is a British multinational information technology consulting company headquartered in Cambridge, England.
             homepage_url: https://aveva.com/
             logo: aveva_group.svg
             crunchbase: https://www.crunchbase.com/organization/aveva
+            extra:
+              linkedin_url: https://www.linkedin.com/company/osisoft
             crunchbase_data:
               name: AVEVA
               description: AVEVA is an engineering IT software provider to plant, power, and marine industries.
@@ -9006,10 +9018,15 @@ landscape:
               latest_tweet_date: 2022-06-02T15:35:06.000Z
           - item:
             name: Dianomic (member)
+            description: >-
+              The distribution of IoT data networking, processing, security and storage makes managing it complicated. Simplifying IoT application and system
+              development with a ubiquitous open source platform, standards and community is Dianomic’s mission.
             homepage_url: https://dianomic.com/
             logo: dianomic.svg
             twitter: https://twitter.com/DianomicSystems
             crunchbase: https://www.crunchbase.com/organization/dianomic
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dianomic
             crunchbase_data:
               name: Dianomic
               description: Dianomic is open source platform for the IoT edge.
@@ -9037,10 +9054,15 @@ landscape:
               latest_tweet_date: 2018-06-21T15:08:25.000Z
           - item:
             name: Equinix Services, Inc. (member)
+            description: >-
+              Established in 1998, Equinix is headquartered in Redwood City, California. They are a data center and colocation provider with services including
+              secure key management, network virtualization, advisory services, and more.
             homepage_url: https://equinix.com/
             logo: equinix_services_inc.svg
             twitter: https://twitter.com/Equinix
             crunchbase: https://www.crunchbase.com/organization/equinix
+            extra:
+              linkedin_url: https://www.linkedin.com/company/equinix
             crunchbase_data:
               name: Equinix
               description: Equinix is an internet company that provides data center services for companies, businesses, and organizations.
@@ -9115,12 +9137,19 @@ landscape:
               latest_tweet_date: 2022-06-02T16:37:01.000Z
           - item:
             name: Flexnode (member)
+            description: >-
+              Flexnode is a digital infrastructure company that manufactures, deploys, and operates modular, liquid-cooled micro data center (MDC) systems to
+              support rapidly growing data demand.
             homepage_url: https://flexnode.io/
             logo: flexnode.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/flexnode
             organization:
               name: Flexnode
+              linkedin: https://www.linkedin.com/company/flexnode
             crunchbase_data:
               name: Flexnode
+              linkedin: https://www.linkedin.com/company/flexnode
               parents: []
             image_data:
               fileName: flexnode-member.svg
@@ -9130,10 +9159,18 @@ landscape:
               percentage: null
           - item:
             name: Fujitsu Limited (member)
+            description: >-
+              Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
+              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT
+              to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the
+              fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top
+              five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents
+              worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
-            joined: '2016-01-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
             crunchbase_data:
               name: Fujitsu
               description: Fujitsu is a information & communications technology equipment and services firm providing IT & IT infrastructure and other services.
@@ -9217,9 +9254,14 @@ landscape:
               latest_tweet_date: 2022-06-02T09:01:37.000Z
           - item:
             name: Huawei Technologies Co., Ltd (member)
+            description: >-
+              Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in
+              Shenzhen, China.
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co_ltd.svg
+            logo: huawei_technologies_co.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
             crunchbase_data:
               name: Huawei
               description: Huawei is a telecommunication company that designs and develops software solutions, ICT infrastructure, and smart devices.
@@ -9267,9 +9309,18 @@ landscape:
               percentage: null
           - item:
             name: Intel Corporation (member)
+            description: >-
+              Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers
+              microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical
+              disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based
+              sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It
+              serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial,
+              communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
             crunchbase_data:
               name: Intel
               description: Intel designs, manufactures and sells computer components and related products for business and consumer markets.
@@ -9526,9 +9577,21 @@ landscape:
               percentage: null
           - item:
             name: International Business Machines Corporation (member)
+            description: >-
+              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures
+              and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in
+              Armonk, New York.
+
+
+              --- Merged Data:
+
+
+              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ibm
             crunchbase_data:
               name: IBM
               description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
@@ -10007,11 +10070,17 @@ landscape:
               percentage: null
           - item:
             name: Red Hat, Inc. (member)
+            description: >-
+              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
+              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
+              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
+              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
-            joined: '2016-01-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/red-hat
             crunchbase_data:
               name: Red Hat
               description: Red Hat is a software company that offers enterprise open source software solutions.
@@ -10098,10 +10167,28 @@ landscape:
               latest_tweet_date: 2022-06-02T17:17:00.000Z
           - item:
             name: Vodafone Group Plc. (member)
+            description: >-
+              Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed
+              communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17
+              markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers.
+
+
+              --- Merged Data:
+
+
+              Idea Cellular Limited was an Indian mobile network operator based at Mumbai, Maharashtra.
+
+
+              --- Merged Data:
+
+
+              Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
             twitter: https://twitter.com/VodafoneGroup
             crunchbase: https://www.crunchbase.com/organization/vodafone
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vodafone
             crunchbase_data:
               name: Vodafone
               description: Vodafone is a mobile telecommunications company that offers voice, messaging, and cellular data services.
@@ -10204,34 +10291,22 @@ landscape:
               percentage: null
           - item:
             name: ZEDEDA, Inc. (member)
+            description: >-
+              Founded in 2016, ZEDEDA is pioneering a cloud-native approach to the deployment, management, and security of real-time edge apps at hyperscale for
+              solutions ranging from self-driving cars to industrial robots. ZEDEDA is headquartered in Santa Clara, CA with engineering and market development
+              teams based in India, UK, Germany and Korea.
             homepage_url: https://zededa.com/
             logo: zededa_inc.svg
             twitter: https://twitter.com/ZededaEdge
-            crunchbase: https://www.crunchbase.com/organization/zededa
-            joined: '2021-06-01'
-            crunchbase_data:
-              name: ZEDEDA
-              description: ZEDEDA is a provider of distributed orchestration and virtualization software for Edge AI Compute.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.zededa.com
-              city: San Jose
-              region: California
-              country: United States
-              twitter: https://twitter.com/ZEDEDAEdge
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zededaedge
+            organization:
+              name: ZEDEDA, Inc.
               linkedin: https://www.linkedin.com/company/zededaedge
-              acquisitions: []
+            crunchbase_data:
+              name: ZEDEDA, Inc.
+              linkedin: https://www.linkedin.com/company/zededaedge
               parents: []
-              funding: 129484000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Cloud Computing
-                - Cloud Data Services
-                - Open Source
-                - Software
-              kind: funding
             image_data:
               fileName: zededa-inc-member.svg
               hash: cRvuPr0hPaHKCb0OkjkgbcIOgdhk1BsD9fDlsosYk48=
@@ -10259,13 +10334,41 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: AnyLog (member)
+            description: >-
+              We are building a next generation decentralized #IoT platform where data owners can capture the full value of their data #blockchain   #DBMS
+              #AnyLogNetwork
+            homepage_url: https://anylog.co/
+            logo: anylog.svg
+            twitter: https://twitter.com/AnyLog_co
+            extra:
+              linkedin_url: https://www.linkedin.com/company/anylog
+            organization:
+              name: AnyLog
+              linkedin: https://www.linkedin.com/company/anylog
+            crunchbase_data:
+              name: AnyLog
+              linkedin: https://www.linkedin.com/company/anylog
+              parents: []
+            image_data:
+              fileName: any-log-member.svg
+              hash: 88An2E+47sUOevMGLEbad9/OwklHNU3tc0idQblgH+0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Atym (member)
+            description: Atym is a technology company offering website analytics services through cookie-based data aggregation for user insights and optimizations.
             homepage_url: https://atym.io/
             logo: atym.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/atym-inc
             organization:
               name: Atym
+              linkedin: https://www.linkedin.com/company/atym-inc
             crunchbase_data:
               name: Atym
+              linkedin: https://www.linkedin.com/company/atym-inc
               parents: []
             image_data:
               fileName: atym-member.svg
@@ -10274,11 +10377,58 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Bytedance Inc. (member)
+            name: Canonical Group Limited (member)
+            description: >-
+              Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market
+              commercial support and related services for Ubuntu and related projects.
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canonical-ltd-
+            crunchbase_data:
+              name: Canonical
+              description: Canonical is a software company that markets commercial support and services for Ubuntu (Linux OS) and related projects.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.canonical.com
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: http://twitter.com/Canonical
+              linkedin: https://www.linkedin.com/company/canonical-ltd-
+              acquisitions: []
+              parents: []
+              funding: 12800000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Internet of Things
+                - Linux
+                - Open Source
+                - Software
+              kind: funding
+            image_data:
+              fileName: canonical-group-limited-member.svg
+              hash: AnlqIAIQTADb9PRhshxwvTgPcqQqc5G+CJLWVvhwM4Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-02T17:00:33.000Z
+          - item:
+            name: Douyin Vision Co., Ltd. (member)
+            description: >-
+              Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and
+              Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for
+              people to connect with, consume, and create content.
             homepage_url: https://bytedance.com/
-            logo: bytedance_inc.svg
+            logo: douyin_vision_co_ltd.svg
             twitter: https://twitter.com/BytedanceTalk
             crunchbase: https://www.crunchbase.com/organization/bytedance
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bytedance
             crunchbase_data:
               name: ByteDance
               description: ByteDance is an internet technology company that operates creative content platforms.
@@ -10334,55 +10484,20 @@ landscape:
                 - Social Media
               kind: funding
             image_data:
-              fileName: bytedance-inc-member.svg
+              fileName: douyin-vision-co-ltd-member.svg
               hash: sEvVEMgUpdaTkTdfMz6w51cueyzW3lD+KCajpylgGOc=
             best_practice_data:
               badge: false
               percentage: null
           - item:
-            name: Canonical Group Limited (member)
-            homepage_url: https://canonical.com/
-            logo: canonical_group_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
-            joined: '2017-01-01'
-            crunchbase_data:
-              name: Canonical
-              description: Canonical is a software company that markets commercial support and services for Ubuntu (Linux OS) and related projects.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.canonical.com
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: http://twitter.com/Canonical
-              linkedin: https://www.linkedin.com/company/canonical-ltd-
-              acquisitions: []
-              parents: []
-              funding: 12800000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Internet of Things
-                - Linux
-                - Open Source
-                - Software
-              kind: funding
-            image_data:
-              fileName: canonical-group-limited-member.svg
-              hash: AnlqIAIQTADb9PRhshxwvTgPcqQqc5G+CJLWVvhwM4Q=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T17:00:33.000Z
-          - item:
             name: Edgenesis (member)
+            description: >-
+              The team behind #ShifuFramework, an #OpenSource #Kubernetes native #IoT development framework, and #ShifuCloud, a IoT development platform
+              designed for product.
             homepage_url: https://shifu.run/
             logo: edgenesis.svg
             twitter: https://twitter.com/ShifuFramework
             crunchbase: https://www.crunchbase.com/organization/edgenesis
-            joined: '2023-04-01'
             crunchbase_data:
               name: Edgenesis
               description: Committed to the R&D of the next generation open source IoT development frameworks.
@@ -10407,9 +10522,12 @@ landscape:
               percentage: null
           - item:
             name: Hangzhou EMQ Technologies (member)
+            description: The Leader in Open Source MQTT Broker, Scalable and Reliable Real-time MQTT Message Broker for IoT in 5G Era
             homepage_url: https://emqx.io/
             logo: hangzhou_emq_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/emq-technologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/emqtech
             crunchbase_data:
               name: EMQ Technologies
               description: Open-source IoT data infrastructure software provider, delivering the world's leading MQTT-based IoT messaging platform & streaming database
@@ -10436,18 +10554,60 @@ landscape:
               kind: funding
             image_data:
               fileName: hangzhou-emq-technologies-member.svg
-              hash: IBFDq7D/xHmJOvv556tM66jh4CdYX8dsipIHuGajMRs=
+              hash: yqDTZR0/uqRUUtOdvqZX0BQ3KMVPxQn5DaZC7sbt9Qo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-02T08:44:27.000Z
           - item:
+            name: Intensivate, Inc. (member)
+            description: >-
+              Intensivate is a developer of high performance, low power server acceleration products for applications running on clusters. Intensivate's
+              accelerator card provides a 12x boost in computational power with no added data center costs and no required software changes for the user.
+            homepage_url: https://intensivate.com/
+            logo: intensivate_inc.svg
+            twitter: https://twitter.com/IntensivateHome
+            crunchbase: https://www.crunchbase.com/organization/intensivate
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intensivate
+            crunchbase_data:
+              name: Intensivate
+              description: Intensivate provides a chip technology for cloud-based analytics and database workloads.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://intensivate.com
+              city: Berkeley
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/intensivate
+              acquisitions: []
+              parents: []
+              funding: 17912988
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Computer
+                - Data Center
+                - Hardware
+              kind: funding
+            image_data:
+              fileName: intensivate-inc-member.svg
+              hash: HrefNLbfy+LZY7TzeO0XHKqg4jDlKpS4JyVKO451wp4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: IOTech Systems Limited (member)
+            description: 15 employees
             homepage_url: https://iotechsys.com/
             logo: iotech_systems_limited.svg
             twitter: https://twitter.com/IOTechSystems
             crunchbase: https://www.crunchbase.com/organization/iotech-2
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iotech-systems
             crunchbase_data:
               name: IOTech
               description: IOTech’s aim is to be a leader in the global Edge/Fog IoT platform market through a productized open source business model.
@@ -10479,76 +10639,15 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-01T14:02:53.000Z
           - item:
-            name: Marvell Semiconductors Ltd (member)
-            homepage_url: https://marvell.com/
-            logo: marvell_semiconductors_ltd.svg
-            twitter: https://twitter.com/MarvellTech
-            crunchbase: https://www.crunchbase.com/organization/marvell-technology
-            crunchbase_data:
-              name: Marvell
-              description: Marvell is a technology company that manufactures and offers integrated circuit solutions using communications mixed-signal processing.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.marvell.com/
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/marvellsemi
-              linkedin: https://www.linkedin.com/company/marvell
-              acquisitions:
-                - date: '2001-01-22'
-                  acquiree: Galileo Technology
-                - date: '2002-06-21'
-                  acquiree: SysKonnect GmbH
-                - date: '2003-06-27'
-                  acquiree: Marvell Software Solutions Israel
-                - date: '2006-02-21'
-                  acquiree: Avago - Printer ASICs
-                - date: '2008-01-01'
-                  acquiree: PicoMobile Networks
-                - date: '2008-11-26'
-                  acquiree: Iamba Networks
-                - date: '2010-08-19'
-                  acquiree: Diseño de Sistemas en Silicio S.A.
-                - date: '2012-04-01'
-                  acquiree: Xelerated
-                - date: '2017-11-19'
-                  acquiree: Cavium
-                - date: '2019-05-06'
-                  acquiree: Aquantia
-                - date: '2019-05-20'
-                  acquiree: Avera Semiconductor
-                - date: '2020-10-29'
-                  acquiree: INPHI
-                - date: '2021-08-03'
-                  acquiree: Innovium
-                - date: '2022-05-09'
-                  acquiree: Tanzanite Silicon Solutions
-              parents: []
-              ticker: MRVL
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - DSP
-                - Internet of Things
-                - Manufacturing
-                - Semiconductor
-                - Wireless
-            yahoo_finance_data:
-              effective_ticker: MRVL
-            image_data:
-              fileName: marvell-semiconductors-ltd-member.svg
-              hash: 7PpSxRsHiL0qflFfaVBu7OoPvVxUNRh5mkdvXTcdAcI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T08:00:06.000Z
-          - item:
             name: mimik Technology Inc (member)
+            description: >-
+              mimik enables all computing devices to act as cloud servers to create a larger, cheaper, and faster cloud with better data privacy. Time for a new
+              cloud Connected smart devices are growing explosively and generating massive amounts of data at an accele...
             homepage_url: https://mimik.com/
             logo: mimik_technology_inc.svg
             crunchbase: https://www.crunchbase.com/organization/mimik-technolog
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mimiktech
             crunchbase_data:
               name: mimik
               description: Enabling hyper connected world with its hybrid edge cloud platform for a sustainable & systematic digital transformation
@@ -10578,13 +10677,41 @@ landscape:
               latest_tweet_date: 2022-06-01T20:45:07.000Z
           - item:
             name: NuNet (member)
+            description: >-
+              NuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware
+              level.
+
+
+              --- Merged Data:
+
+
+              NuNet is revolutionizing computing with a decentralized framework that connects global compute devices, decentralizing AI and ML on a hardware
+              level.
             homepage_url: https://nunet.io/
             logo: nunet.svg
-            organization:
-              name: NuNet
+            crunchbase: https://www.crunchbase.com/organization/nunet-dedc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nunet-global
             crunchbase_data:
               name: NuNet
+              description: NuNet provides globally distributed and optimized computing power and storage for decentralized networks.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://nunet.io/
+              city: Elsene
+              region: Brussels Hoofdstedelijk Gewest
+              country: Belgium
+              twitter: https://twitter.com/nunet_global
+              linkedin: https://www.linkedin.com/company/nunet-global/
+              acquisitions: []
               parents: []
+              funding: 120000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Network Security
+              kind: funding
             image_data:
               fileName: nu-net-member.svg
               hash: XO4JsuIzwtLVwzYclMZM2neTM9c9oZSeOepoQ7Nmztw=
@@ -10593,10 +10720,12 @@ landscape:
               percentage: null
           - item:
             name: OpenNebula (member)
+            description: The open source Cloud Management Platform developed for the Enterprise 🚀
             homepage_url: https://opennebula.io/
             logo: opennebula.svg
             crunchbase: https://www.crunchbase.com/organization/opennebula
-            joined: '2020-10-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/opennebula
             crunchbase_data:
               name: OpenNebula
               description: The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud
@@ -10627,159 +10756,20 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-02T13:00:10.000Z
           - item:
-            name: Qualcomm, Inc. (member)
-            homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/qualcomm
-            crunchbase_data:
-              name: Qualcomm
-              description: Qualcomm designs, manufactures, and markets digital wireless telecommunications products and services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.qualcomm.com
-              city: San Diego
-              region: California
-              country: United States
-              twitter: http://www.twitter.com/Qualcomm
-              linkedin: https://www.linkedin.com/company/qualcomm
-              acquisitions:
-                - date: '1997-11-10'
-                  acquiree: Now Software
-                - date: '2000-03-02'
-                  acquiree: SnapTrack
-                - date: '2000-03-17'
-                  acquiree: Within Technology
-                - date: '2001-03-01'
-                  acquiree: FleetAdvisor
-                - date: '2004-09-09'
-                  acquiree: Iridigm Display Corporation
-                - date: '2004-10-01'
-                  acquiree: Spike Technologies
-                - date: '2004-10-12'
-                  acquiree: Trigenix
-                - date: '2005-08-11'
-                  acquiree: Flarion Technologies
-                - date: '2005-08-17'
-                  acquiree: ELATA
-                - date: '2006-01-05'
-                  acquiree: Berkäna Wireless
-                - date: '2006-08-21'
-                  acquiree: Qualphone
-                - date: '2006-11-16'
-                  acquiree: nPhase
-                - date: '2006-12-04'
-                  acquiree: Airgo Networks
-                - date: '2007-04-01'
-                  acquiree: TeleCIS Wireless
-                - date: '2007-11-14'
-                  acquiree: Firethorn
-                - date: '2007-12-21'
-                  acquiree: SoftMax
-                - date: '2008-03-11'
-                  acquiree: Xiam
-                - date: '2009-01-20'
-                  acquiree: AMD Handheld Graphics and Multimedia
-                - date: '2009-01-22'
-                  acquiree: Bitboys Oy
-                - date: '2009-02-26'
-                  acquiree: Digital Fountain
-                - date: '2010-07-12'
-                  acquiree: Tapioca Mobile
-                - date: '2010-10-13'
-                  acquiree: iSkoot
-                - date: '2010-11-03'
-                  acquiree: Sandbridge Technologies
-                - date: '2011-01-05'
-                  acquiree: Qualcomm Atheros
-                - date: '2011-02-13'
-                  acquiree: Sylectus
-                - date: '2011-06-10'
-                  acquiree: Rapid Bridge
-                - date: '2011-09-01'
-                  acquiree: Bigfoot Networking
-                - date: '2011-11-08'
-                  acquiree: HaloIPT
-                - date: '2011-12-01'
-                  acquiree: Pixtronix
-                - date: '2012-03-07'
-                  acquiree: Ubicom
-                - date: '2012-05-01'
-                  acquiree: FatSkunk
-                - date: '2012-08-23'
-                  acquiree: DesignArt Networks
-                - date: '2012-11-16'
-                  acquiree: Epos
-                - date: '2013-03-01'
-                  acquiree: Ultra-Scan Corporation
-                - date: '2013-08-21'
-                  acquiree: Orb Networks
-                - date: '2014-01-14'
-                  acquiree: kooaba
-                - date: '2014-06-18'
-                  acquiree: Summit Microelectronics
-                - date: '2014-06-26'
-                  acquiree: Black Sand Technologies
-                - date: '2014-07-02'
-                  acquiree: Wilocity
-                - date: '2014-07-30'
-                  acquiree: Empowered Careers
-                - date: '2014-09-15'
-                  acquiree: Euvision Technologies
-                - date: '2014-09-16'
-                  acquiree: Stonestreet One
-                - date: '2014-10-14'
-                  acquiree: CSR
-                - date: '2015-09-14'
-                  acquiree: Capsule Tech
-                - date: '2016-06-07'
-                  acquiree: InnoPath Software
-                - date: '2017-08-16'
-                  acquiree: Scyfer
-                - date: '2021-01-13'
-                  acquiree: Nuvia
-                - date: '2021-07-19'
-                  acquiree: Twenty Billion Neurons
-                - date: '2021-09-10'
-                  acquiree: Wikitude
-                - date: '2021-11-09'
-                  acquiree: Clay AIR, acq. by Qualcomm
-                - date: '2022-01-17'
-                  acquiree: Augmented Pixels
-                - date: '2022-04-04'
-                  acquiree: Arriver
-                - date: '2022-06-13'
-                  acquiree: Cellwize
-                - date: '2023-05-08'
-                  acquiree: Autotalks
-                - date: '2024-04-09'
-                  acquiree: Foundries.io
-              parents: []
-              ticker: QCOM
-              funding: 3500000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Generative AI
-                - Software
-                - Telecommunications
-                - Wireless
-            yahoo_finance_data:
-              effective_ticker: QCOM
-            image_data:
-              fileName: qualcomm-inc-member.svg
-              hash: wYoobnxi/prttUI/d33nGoNlioMkJYMkcHtpZ1cXIkk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T17:00:57.000Z
-          - item:
             name: Robin Systems, Inc (member)
+            description: >-
+              Robin transforms the way enterprise applications drive the infrastructure by bringing together purpose-built container-aware block storage with
+              application-aware manager into the cloud (private and/or public). This demonstrates unique benefits to distributed, clustered and stateful
+              applications including Big-Data and Databases. With a team that includes industry veterans from leading enterprise technology companies such as
+              NetApp, Oracle, and Veritas, Robin seeks to disrupt the $20 billion-plus virtualization market with its container-based compute and storage
+              platform software that delivers better performance higher consolidation and a much simpler application lifecycle management than traditional
+              hypervisor-based virtualization. Founded in 2013, the San Jose California-based company has raised more than $50 million in venture funding from
+              leading investors such as Clear Ventures, DN Capital, USAA, Hasso Plattner Ventures and CloudScale Capital Partners.
             homepage_url: https://robin.io/
             logo: robin_systems_inc.svg
             crunchbase: https://www.crunchbase.com/organization/robin-systems
-            joined: '2018-08-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/robin-systems
             crunchbase_data:
               name: Robin.io
               description: Robin.io runs stateful applications on Kubernetes, even complex Big Data, Databases, AI/ML, and Custom Apps.
@@ -10814,10 +10804,14 @@ landscape:
               latest_tweet_date: 2022-06-02T14:53:56.000Z
           - item:
             name: Spectro Cloud, Inc. (member)
+            description: >-
+              Spectro Cloud provides scalable, policy-based cluster management of Kubernetes for        enterprises that need a high degree of control over
+              their infrastructure, whether it is in public        cloud, private cloud, bare metal or any combinati...
             homepage_url: https://spectrocloud.com/
             logo: spectro_cloud_inc.svg
             crunchbase: https://www.crunchbase.com/organization/spectro-cloud
-            joined: '2019-07-01'
+            extra:
+              linkedin_url: https://www.linkedin.com/company/spectro-cloud
             crunchbase_data:
               name: Spectro Cloud
               description: Spectro Cloud uniquely enables organizations to manage Kubernetes in production, at scale.
@@ -10849,49 +10843,13 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-02T14:01:56.000Z
           - item:
-            name: Super Micro Computer, Inc. (member)
-            homepage_url: https://supermicro.com/
-            logo: super_micro_computer_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
-            crunchbase_data:
-              name: Supermicro
-              description: Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.supermicro.com
-              city: San Jose
-              region: California
-              country: United States
-              twitter: http://twitter.com/Supermicro_SMCI
-              linkedin: https://www.linkedin.com/company/supermicro
-              acquisitions: []
-              parents: []
-              ticker: SMCI
-              funding: 1500000000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Cloud Computing
-                - Cloud Infrastructure
-                - Embedded Systems
-                - Manufacturing
-                - Software
-            yahoo_finance_data:
-              effective_ticker: SMCI
-            image_data:
-              fileName: super-micro-computer-inc-member.svg
-              hash: gIYiURu6e1AhTB0+jKKNYZ+DhqbJ2rjRVBiGZBTX/Jo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T13:10:41.000Z
-          - item:
             name: Veea Inc. (member)
+            description: Veea is a Platform-as-a-Service (PaaS) company with a suite of innovative products and services for Smart applications.
             homepage_url: https://veea.com/
             logo: veea_inc.svg
             crunchbase: https://www.crunchbase.com/organization/veea-inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/veea
             crunchbase_data:
               name: Veea
               description: Veea is Pioneering the Edge Computing Revolution
@@ -10933,10 +10891,16 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-11T11:02:13.000Z
           - item:
-            name: Viaccess Orca (member)
-            homepage_url: https://www.viaccess-orca.com/
-            logo: viaccess_orca_cmyk.svg
+            name: Viaccess SA (member)
+            description: >-
+              ViaccessOrca is a visionary partner for content service providers worldwide, thanks to its ability to shape the ultimate content experience and
+              solutions.
+            homepage_url: https://viaccess-orca.com/
+            logo: viaccess_sa.svg
+            twitter: https://twitter.com/ViaccessOrca
             crunchbase: https://www.crunchbase.com/organization/viaccess-orca
+            extra:
+              linkedin_url: https://www.linkedin.com/company/viaccess-orca
             crunchbase_data:
               name: Viaccess-Orca
               description: Viaccess-Orca is a leading global solutions provider of OTT and TV platforms, content protection.
@@ -10961,8 +10925,8 @@ landscape:
                 - Telecommunications
                 - Virtual Reality
             image_data:
-              fileName: viaccess-orca-member.svg
-              hash: zq98YIsjT5TvFnRX/t9VVjVhtIOa+H7fBs3Bx+fcx4Y=
+              fileName: viaccess-sa-member.svg
+              hash: LTJ3+2QQp0rupaRw2JZ03OaBOY9HfgwSCiyP+A9pIDY=
             best_practice_data:
               badge: false
               percentage: null
@@ -10971,41 +10935,34 @@ landscape:
         items:
           - item:
             name: Automotive Edge Computing Consortium, Inc. (member)
+            description: The AECC is a  non-profit consortium of cross-industry players  working to drive best practices for the coming vehicle and computing  convergence.
             homepage_url: https://aecc.org/
             logo: automotive_edge_computing_consortium_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/automotive-edge-computing-consortium
+            extra:
+              linkedin_url: https://www.linkedin.com/company/automotive-edge-computing-consortium
+            organization:
+              name: Automotive Edge Computing Consortium, Inc.
+              linkedin: https://www.linkedin.com/company/automotive-edge-computing-consortium
             crunchbase_data:
-              name: Automotive Edge Computing Consortium
-              description: A consortium for driving the network and computing infrastructure needs of automotive big data
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://aecc.org/
-              city: Wakefield
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/TweetAECC
-              linkedin: https://www.linkedin.com/company/automotive-edge-computing-consortium/
-              acquisitions: []
+              name: Automotive Edge Computing Consortium, Inc.
+              linkedin: https://www.linkedin.com/company/automotive-edge-computing-consortium
               parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Automotive
-                - Big Data
-                - Information Technology
             image_data:
               fileName: automotive-edge-computing-consortium-inc-member.svg
               hash: 59Hm2MX7tgaAUUgLKXv9e5146i8JhUYEuPvuusADM0Y=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T15:00:15.000Z
           - item:
             name: Beijing University of Posts and Telecommunications (BUPT) (member)
+            description: >-
+              The Beijing University of Posts and Telecommunications is a key national university distinguished by the teaching and research in the field of
+              cable communications, wireless communications, computer, and electronic engineering.
             homepage_url: https://bupt.edu.cn/
             logo: beijing_university_of_posts_and_telecommunications_bupt.svg
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
+            extra:
+              linkedin_url: https://www.linkedin.com/company/beijing-university-of-posts-and-telecommunications
             crunchbase_data:
               name: Beijing University of Posts and Telecommunications
               description: Beijing University of Posts and Telecommunications is a school in Beijing.
@@ -11029,11 +10986,56 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Columbia University (member)
+            description: >-
+              Columbia University in the City of New York is a private university in the United States and a member of the Ivy League. The University has 25,000
+              students.
+            homepage_url: https://columbia.edu/
+            logo: columbia_university.svg
+            twitter: https://twitter.com/Columbia
+            crunchbase: https://www.crunchbase.com/organization/columbia-university
+            extra:
+              linkedin_url: https://www.linkedin.com/company/columbia-university
+            crunchbase_data:
+              name: Columbia University
+              description: Columbia University is a research institution and academic center for undergraduate and graduate students across various fields.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.columbia.edu
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/columbia
+              linkedin: https://www.linkedin.com/school/columbia-university
+              acquisitions: []
+              parents: []
+              funding: 21838279
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Higher Education
+                - Medical
+                - Training
+                - Universities
+              kind: funding
+            image_data:
+              fileName: columbia-university-member.svg
+              hash: NHof91Fa/jzkMdySg7JI6JOtXhStCqyAJ+yyA+cnGsQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: CUHK Center for Entrepreneurship (member)
+            description: >-
+              Founded in 1963, The Chinese University of Hong Kong (CUHK) is a forward looking comprehensive research university with a global vision and a
+              mission to combine tradition with modernity, and to bring together China and the West. CUHK teachers and stude...
             homepage_url: https://entrepreneurship.bschool.cuhk.edu.hk/
             logo: cuhk_center_for_entrepreneurship.svg
             twitter: https://twitter.com/CUHKofficial
             crunchbase: https://www.crunchbase.com/organization/chinese-university-of-hong-kong
+            extra:
+              linkedin_url: https://www.linkedin.com/company/co-op-cuhk
             crunchbase_data:
               name: The Chinese University of Hong Kong
               description: The Chinese University of Hong Kong is a public research university in Shatin, Hong Kong.
@@ -11061,9 +11063,15 @@ landscape:
               percentage: null
           - item:
             name: Eclipse Foundation AISBL. (member)
+            description: |-
+              102 Centrepointe Drive
+              Ottawa, Ontario,
+              Canada, K2G 6B1
             homepage_url: https://eclipse.org/
             logo: eclipse_foundation_aisbl.svg
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/eclipse-foundation
             crunchbase_data:
               name: Eclipse Foundation
               description: The Eclipse Foundation provides individuals and organizations with a commercially focused environment for open source software innovation.
@@ -11097,9 +11105,15 @@ landscape:
               latest_tweet_date: 2022-06-02T15:09:05.000Z
           - item:
             name: Electronics and Telecommunications Research Institute (member)
+            description: >-
+              ETRI (Electronics and Telecommunications Research Institute) will help humanity to realize a Smart World that is more abundant, convenient, and
+              safe by creating harmony between humanity, technology  and the environment. Since its foundation in 1976, ETRI, a global ICT research institute,
+              has been making its immense effort to provide Korea a remarkable growth in the field of ICT industry.
             homepage_url: https://etri.re.kr/
             logo: electronics_and_telecommunications_research_institute.svg
             crunchbase: https://www.crunchbase.com/organization/etri
+            extra:
+              linkedin_url: https://www.linkedin.com/company/etri
             crunchbase_data:
               name: ETRI
               description: ETRI Journal publishes research papers in English in the fields of information, telecommunications, and electronics.
@@ -11132,10 +11146,15 @@ landscape:
               latest_tweet_date: 2018-03-14T01:31:57.000Z
           - item:
             name: GRADIANT (member)
+            description: >-
+              Gradiant, Centro Tecnológico de Telecomunicaciones de Galicia. Innovación en TIC para mejorar la competitividad de las empresas de cara al
+              mercado.
             homepage_url: https://gradiant.org/
             logo: gradiant.svg
             twitter: https://twitter.com/Gradiant
             crunchbase: https://www.crunchbase.com/organization/gradiant
+            extra:
+              linkedin_url: https://www.linkedin.com/company/gradiant
             crunchbase_data:
               name: Gradiant
               description: Gradiant is engaged in the transfer and development of technologies for each company or organization.
@@ -11165,9 +11184,12 @@ landscape:
               percentage: null
           - item:
             name: Industrial Technology Research Institute (ITRI) (member)
+            description: The Industrial Technology Research Institute is a technology research and development institution in Taiwan.
             homepage_url: https://itri.org.tw/
             logo: industrial_technology_research_institute_itri.svg
             crunchbase: https://www.crunchbase.com/organization/industrial-technology-research-institute
+            extra:
+              linkedin_url: https://www.linkedin.com/company/itri
             crunchbase_data:
               name: Industrial Technology Research Institute
               description: ITRI is a nonprofit R&D organization engaging in applied research and technical services, aiming to innovate a better future.
@@ -11200,31 +11222,19 @@ landscape:
               latest_tweet_date: 2022-05-30T08:03:58.000Z
           - item:
             name: Infrastructure Masons (member)
+            description: An Infrastructure Mason is a person entrusted with building or managing the physical and logical structures of the Digital Age.
             homepage_url: https://imasons.org/
             logo: infrastructure_masons.svg
             twitter: https://twitter.com/InfraMason
-            crunchbase: https://www.crunchbase.com/organization/infrastructure-masons
+            extra:
+              linkedin_url: https://www.linkedin.com/company/infrastructure-masons
+            organization:
+              name: Infrastructure Masons
+              linkedin: https://www.linkedin.com/company/infrastructure-masons
             crunchbase_data:
               name: Infrastructure Masons
-              description: |-
-
-                Infrastructure Mason is a person entrusted with building or managing the physical and logical structures of the Digital Age.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://imasons.org/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/inframason
               linkedin: https://www.linkedin.com/company/infrastructure-masons
-              acquisitions: []
               parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Internet
-                - Software
             image_data:
               fileName: infrastructure-masons-member.svg
               hash: nlWpsBba2Yduz8Q3VfXCwfM/4domSam5aw8juwFO/30=
@@ -11235,10 +11245,13 @@ landscape:
               latest_tweet_date: 2022-06-02T15:00:47.000Z
           - item:
             name: IOTA Foundation (member)
+            description: IOTA is an open-source distributed ledger and cryptocurrency designed for the Internet of things.
             homepage_url: https://iota.org/
             logo: iota_foundation.svg
             twitter: https://twitter.com/iota
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/iotafoundation
             crunchbase_data:
               name: IOTA Foundation
               description: IOTA Foundation develops an open-source protocol that supports data and value transfer between devices and humans.
@@ -11271,11 +11284,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-02T16:00:36.000Z
           - item:
+            name: Jeju National University (member)
+            description: Jeju National University is a public university founded in 1952 in Jeju City, the provincial capital of Jeju, South Korea.
+            homepage_url: https://jejunu.ac.kr/
+            logo: jeju_national_university.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/jeju-national-university-republic-of-korea
+            organization:
+              name: Jeju National University
+              linkedin: https://www.linkedin.com/company/jeju-national-university-republic-of-korea
+            crunchbase_data:
+              name: Jeju National University
+              linkedin: https://www.linkedin.com/company/jeju-national-university-republic-of-korea
+              parents: []
+            image_data:
+              fileName: jeju-national-university-member.svg
+              hash: kHN23Ym6zE7B26R7dqEsVhIC+VUAcgRIFNCo1z1CQPE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: National Institute of Advanced Industrial Science and Technology(AIST) (member)
+            description: 産業技術総合研究所は我が国最大級の公的研究機関として日本の産業や社会に役立つ技術の創出とその実用化や、革新的な技術シーズを事業化に繋げるための「橋渡し」機能に注力しています。
             homepage_url: https://aist.go.jp/
-            logo: national_institute_of_advanced_industrial_science_and_technologyaist.svg
+            logo: national_institute_of_advanced_industrial_science_and_technology_aist.svg
             twitter: https://twitter.com/AIST_JP
             crunchbase: https://www.crunchbase.com/organization/national-institute-of-advanced-industrial-science-and-technology
+            extra:
+              linkedin_url: https://www.linkedin.com/company/aist
             crunchbase_data:
               name: National Institute of Advanced Industrial Science and Technology
               description: AIST is a public research institution funded by the Japanese government to a large extent.
@@ -11301,10 +11337,15 @@ landscape:
               percentage: null
           - item:
             name: Open IX Association (member)
+            description: >-
+              The Internet is great. But it’s not perfect. And as it grows, inconsistencies in connectivity, resiliency, security, and cost are becoming
+              increasingly problematic. It’s up to the entire Internet community to overcome these challenges. To succeed, the ...
             homepage_url: https://open-ix.org/en
             logo: open_ix_association.svg
             twitter: https://twitter.com/OpenixNA
             crunchbase: https://www.crunchbase.com/organization/open-ix
+            extra:
+              linkedin_url: https://www.linkedin.com/company/open-ix-association
             crunchbase_data:
               name: Open-IX
               description: The Open-IX Association (OIX) is an Internet community-derived effort to improve the landscape of Internet peering and interconnect.
@@ -11329,9 +11370,15 @@ landscape:
               percentage: null
           - item:
             name: OpenStack Foundation (member)
+            description: >-
+              Openstack Foundation promotes the global development, adoption, and distribution of the Openstack cloud operating system.  Openstack works with
+              popular enterprises and open source technologies making it ideal for infrastructure. Hundreds of the worlds largest brands rely on Openstack.
+              Their mission is promoting, empowering, and protecting Openstack software and the community around it.
             homepage_url: https://openstack.org/
             logo: openstack_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/openstack
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openstack
             crunchbase_data:
               name: OpenStack
               description: OpenStack is the most widely used open source software for building public and private clouds.
@@ -11362,9 +11409,14 @@ landscape:
               latest_tweet_date: 2022-06-02T14:24:50.000Z
           - item:
             name: Penn State (member)
+            description: >-
+              Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout
+              Pennsylvania.
             homepage_url: https://psu.edu/
             logo: penn_state.svg
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
+            extra:
+              linkedin_url: https://www.linkedin.com/company/penn-state-small-business-development-center
             crunchbase_data:
               name: Penn State University
               description: Penn State University is a public state-related research university with campuses and facilities throughout Pennsylvania.
@@ -11397,9 +11449,12 @@ landscape:
               latest_tweet_date: 2022-06-02T17:02:01.000Z
           - item:
             name: Project Haystack (member)
+            description: "Project Haystack is a 501C tax-exempt non-stock corporation formed May 28, 2014 under the provisions of Chapter 10 of Title 13.1 of the Code of Virginia of 1950. The corporation functions as a trade association with the purpose of fostering the common association and interests of software and technology companies focused on developing semantic modeling solutions for data related to smart devices including: building equipment systems, automation and control devices, sensors and sensing devices, promotion and education with respect to the semantic data modeling industry for building automation systems, and to engage in educational activities directed towards the improvement of business conditions of the semantic data modeling industry for smart device data, all on a not-for-profit basis, as provided in Section 501(c)(6) of the Internal Revenue Code of 1986, as amended (the ��_��_��_Code��_��_).\n\nAll work developed by the project-haystack.org community is provided for use as open source software under the Academic Free License 3.0\n\nAbout us\nProject Haystack is an open source initiative to streamline working with data from the Internet of Things. We standardize semantic data models and web services with the goal of making it easier to unlock value from the vast quantity of data being generated by the smart devices that permeate our homes, buildings, factories, and cities. Applications include automation, control, energy, HVAC, lighting, and other environmental systems.\n\n\nCompany details\nWebsite\nhttp://www.project-haystack.org\nHeadquarters\nGlen Allen, Virginia\n\nYear founded\n2011\n\nCompany size\n0-1 employees\nSpecialties\nInternet of Things, Smart Buildings, Data Science, Real Estate Technology, Building Automation, Energy Management, and Data Tagging\n\nFeatured Groups\n Logo for haystackconnect\thaystackconnect\nhaystackconnect\n391 members\n2 Office locations\nMain\nPO BOX 1749, Glen Allen, Virginia 23060, US\n\nGet directions Get directions to PO BOX 1749, Glen Allen, Virginia 23060, US\n1200 El Camino Way, Los Altos, California 94024, US\n\nGet directions."
             homepage_url: https://project-haystack.org/
             logo: project_haystack.svg
             crunchbase: https://www.crunchbase.com/organization/project-haystack
+            extra:
+              linkedin_url: https://www.linkedin.com/company/project-haystack
             crunchbase_data:
               name: Project Haystack
               description: Project Haystack is an open source initiative to streamline working with data from the Internet of Things.
@@ -11429,41 +11484,20 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-05-18T17:47:48.000Z
           - item:
-            name: Saint-Petersburg State University (member)
-            homepage_url: https://spbu.ru/
-            logo: saint-petersburg_state_university.svg
-            organization:
-              name: Saint-Petersburg State University
-            crunchbase_data:
-              name: Saint-Petersburg State University
-              parents: []
-            image_data:
-              fileName: saint-petersburg-state-university-member.svg
-              hash: 4BFzeHsBQHm6+xXzYDh4YMNWQS9i62auBCfl6QjyrFk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Shanghai OpenSource Information Technology Association (member)
+            description: >-
+              The association is voluntarily formed by enterprises, universities, scientific research institutes, social organizations and professionals
+              dedicated to open source information technology innovation and industrial development. Based on the concept of open source, openness and sharing,
+              effectively integrate the innovation resources of universities, research institutes, and enterprises, carry out open source information technology
+              innovation and application research, based in Shanghai, serve the whole country, and promote the development of China's open source information
+              technology industry.
             homepage_url: https://shanghaiopen.org.cn/
             logo: shanghai_opensource_information_technology_association.svg
-            crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
+            organization:
+              name: Shanghai OpenSource Information Technology Association
             crunchbase_data:
               name: Shanghai OpenSource Information Technology Association
-              description: Open Source IT Association based in Shanghai
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://shanghaiopen.org.cn/en/
-              city: Shanghai
-              region: Shanghai
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
               parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries: []
             image_data:
               fileName: shanghai-open-source-information-technology-association-member.svg
               hash: O8mK14lrC7IMExBPTfiNBiX1CvSh2F5bckUxII2FO6g=
@@ -11471,7 +11505,41 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Southeast University (member)
+            description: >-
+              SEU (Southeast University) is a comprehensive university in China that offers a wide range of undergraduate and postgraduate programs in fields
+              such as engineering, science, medicine, law, economics, and humanities. The university is committed to innov...
+            homepage_url: https://seu.edu.cn/
+            logo: southeast_university.svg
+            crunchbase: https://www.crunchbase.com/organization/southeast-university
+            extra:
+              linkedin_url: https://www.linkedin.com/company/southeast-university
+            crunchbase_data:
+              name: Southeast University
+              description: Southeast University is a school.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.seu.edu.cn/
+              city: Nanjing
+              region: Jiangsu
+              country: China
+              twitter: https://twitter.com/SoutheastUni
+              linkedin: https://www.linkedin.com/school/southeast-university
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+            image_data:
+              fileName: southeast-university-member.svg
+              hash: iZ2Lq5OlKZoDoVfo3TwZnRqRxkDcTutgKIcdShWWkC4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: The Ritsumeikan Trust (member)
+            description: Ritsumeikan University is a private university in Kyoto, Japan, that traces its origin to 1869.
             homepage_url: https://en.ritsumei.ac.jp/
             logo: the_ritsumeikan_trust.svg
             twitter: https://twitter.com/RitsARC
@@ -11504,10 +11572,89 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-02T05:37:44.000Z
           - item:
+            name: University of Delaware (member)
+            description: >-
+              The University of Delaware is the largest university in Delaware. The main campus is in Newark, with satellite campuses in Dover, Wilmington,
+              Lewes and Georgetown. It is medium-sized , approximately 16,000 undergraduate and 3,500 graduate students.
+            homepage_url: https://udel.edu/
+            logo: university_of_delaware.svg
+            twitter: https://twitter.com/UDelaware
+            crunchbase: https://www.crunchbase.com/organization/university-of-delaware-2
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-delaware
+            crunchbase_data:
+              name: University of Delaware
+              description: The University of Delaware is a private-public research university located in Newark, Delaware. UD is the largest university in Delaware
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.udel.edu/
+              city: Newark
+              region: Delaware
+              country: United States
+              twitter: http://twitter.com/UDelaware
+              linkedin: https://www.linkedin.com/edu/university-of-delaware-18070
+              acquisitions: []
+              parents: []
+              funding: 5270353
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Higher Education
+                - Universities
+              kind: funding
+            image_data:
+              fileName: university-of-delaware-member.svg
+              hash: iAUFzA39Zj5m/JSvD21azwRgP8Ly+CMI3Vt8b4Rps3M=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: University of Leeds (member)
+            description: The University of Leeds is a public research university in Leeds, West Yorkshire, England.
+            homepage_url: https://leeds.ac.uk/
+            logo: university_of_leeds.svg
+            twitter: https://twitter.com/UniversityLeeds
+            crunchbase: https://www.crunchbase.com/organization/university-of-leeds-england
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-leeds
+            crunchbase_data:
+              name: University of Leeds
+              description: The University of Leeds is Yorkshire's oldest and largest university
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.leeds.ac.uk/
+              city: Leeds
+              region: Leeds
+              country: United Kingdom
+              twitter: http://twitter.com/universityleeds
+              linkedin: https://www.linkedin.com/edu/university-of-leeds-12706
+              acquisitions: []
+              parents: []
+              funding: 992982
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Higher Education
+                - Universities
+              kind: funding
+            image_data:
+              fileName: university-of-leeds-member.svg
+              hash: BuaamNmZlrAbY8AWUVsloeESg2VZmEjDfzEGo69/rCM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: University of New Hampshire (member)
+            description: >-
+              The University of New Hampshire is a public university and is apart of the University System of New Hampshire. With over 15,000 students, UNH is
+              the largest university in New Hampshire.
             homepage_url: https://unh.edu/
             logo: university_of_new_hampshire.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-new-hampshire
             crunchbase_data:
               name: University of New Hampshire
               description: University of New Hampshire is a school.
@@ -11536,7 +11683,29 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-02T15:36:01.000Z
+          - item:
+            name: Xi'an University of Achetecture and Technology (member)
+            description: >-
+              Xi'an University of Architecture and Technology is a joint venture between the People's Government of Shaanxi Province, the Ministry of Housing
+              and Urban-Rural Development of the People's Republic of China and the Ministry of Education.
+            homepage_url: https://xauat.edu.cn/
+            logo: xi_an_university_of_achetecture_and_technology.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/xi%27an-university-of-architecture-and-technology
+            organization:
+              name: Xi'an University of Achetecture and Technology
+              linkedin: https://www.linkedin.com/company/xi%27an-university-of-architecture-and-technology
+            crunchbase_data:
+              name: Xi'an University of Achetecture and Technology
+              linkedin: https://www.linkedin.com/company/xi%27an-university-of-architecture-and-technology
+              parents: []
+            image_data:
+              fileName: xi-an-university-of-achetecture-and-technology-member.svg
+              hash: upp1M+6aIeOp7PMSVHwZmGwE0XJ9HHyR+iEprKaAsQI=
+            best_practice_data:
+              badge: false
+              percentage: null
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2025-01-14T05:15:41.187Z
+updated_at: 2025-01-15T05:01:20.544Z
