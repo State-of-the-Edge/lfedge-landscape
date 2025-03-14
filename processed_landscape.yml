@@ -1193,7 +1193,8 @@ landscape:
                   acquiree: Robust Intelligence
                 - date: '2025-01-31'
                   acquiree: SnapAttack
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/cisco-press
               ticker: CSCO
               stockExchange: nasdaq
               company_type: For Profit
@@ -1960,8 +1961,8 @@ landscape:
             crunchbase_data:
               name: Alef Edge
               description: Mobile SaaS, Private Mobile Network, Edge Computing, APIs, Edge as a Service, Private LTE,
-              num_employees_min: 51
-              num_employees_max: 100
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.alefedge.com/
               city: New York
               region: New York
@@ -8970,49 +8971,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-01T16:07:41.000Z
           - item:
-            name: AnyLog (member)
-            description: >-
-              We are building a next generation decentralized #IoT platform where data owners can capture the full value of their data #blockchain   #DBMS
-              #AnyLogNetwork
-            homepage_url: https://anylog.co/
-            logo: anylog.svg
-            twitter: https://twitter.com/AnyLog_co
-            extra:
-              linkedin_url: https://www.linkedin.com/company/anylog
-            organization:
-              name: AnyLog
-              linkedin: https://www.linkedin.com/company/anylog
-            crunchbase_data:
-              name: AnyLog
-              linkedin: https://www.linkedin.com/company/anylog
-              parents: []
-            image_data:
-              fileName: any-log-member.svg
-              hash: 88An2E+47sUOevMGLEbad9/OwklHNU3tc0idQblgH+0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Atym (member)
-            description: Atym is a technology company offering website analytics services through cookie-based data aggregation for user insights and optimizations.
-            homepage_url: https://atym.io/
-            logo: atym.svg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/atym-inc
-            organization:
-              name: Atym
-              linkedin: https://www.linkedin.com/company/atym-inc
-            crunchbase_data:
-              name: Atym
-              linkedin: https://www.linkedin.com/company/atym-inc
-              parents: []
-            image_data:
-              fileName: atym-member.svg
-              hash: vGZoEgLcNJI/Ax1e7oa79mRBUWstjy/rL9aGSQyUlrE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: AVEVA Group (member)
             description: AVEVA Group plc is a British multinational information technology consulting company headquartered in Cambridge, England.
             homepage_url: https://aveva.com/
@@ -9077,47 +9035,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-02T15:35:06.000Z
           - item:
-            name: Canonical Group Limited (member)
-            description: >-
-              Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market
-              commercial support and related services for Ubuntu and related projects.
-            homepage_url: https://canonical.com/
-            logo: canonical_group_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
-            extra:
-              linkedin_url: https://www.linkedin.com/company/canonical-ltd-
-            crunchbase_data:
-              name: Canonical
-              description: Canonical is a software company that markets commercial support and services for Ubuntu (Linux OS) and related projects.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.canonical.com
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: http://twitter.com/Canonical
-              linkedin: https://www.linkedin.com/company/canonical-ltd-
-              acquisitions: []
-              parents: []
-              funding: 12800000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Internet of Things
-                - Linux
-                - Open Source
-                - Software
-              kind: funding
-            image_data:
-              fileName: canonical-group-limited-member.svg
-              hash: AnlqIAIQTADb9PRhshxwvTgPcqQqc5G+CJLWVvhwM4Q=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T17:00:33.000Z
-          - item:
             name: Dianomic (member)
             description: >-
               The distribution of IoT data networking, processing, security and storage makes managing it complicated. Simplifying IoT application and system
@@ -9153,109 +9070,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-06-21T15:08:25.000Z
-          - item:
-            name: Douyin Vision Co., Ltd. (member)
-            description: >-
-              Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and
-              Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for
-              people to connect with, consume, and create content.
-            homepage_url: https://bytedance.com/
-            logo: douyin_vision_co_ltd.svg
-            twitter: https://twitter.com/BytedanceTalk
-            crunchbase: https://www.crunchbase.com/organization/bytedance
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bytedance
-            crunchbase_data:
-              name: ByteDance
-              description: ByteDance is a technology company that develops content creation platforms and services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://bytedance.com
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: https://www.twitter.com/bytedancetalk
-              linkedin: https://www.linkedin.com/company/bytedance
-              acquisitions:
-                - date: '2016-08-16'
-                  acquiree: Xigua Shipin
-                - date: '2017-11-08'
-                  acquiree: News Republic
-                - date: '2018-01-22'
-                  acquiree: Bcy.net
-                - date: '2019-03-18'
-                  acquiree: Mokun Technology
-                - date: '2019-04-29'
-                  acquiree: Terark
-                - date: '2020-01-10'
-                  acquiree: LevelupAI
-                - date: '2020-05-20'
-                  acquiree: Baikemy.com
-                - date: '2020-08-19'
-                  acquiree: Caicloud
-                - date: '2020-09-04'
-                  acquiree: Wuhan Hezhong Yibao Technology
-                - date: '2021-04-15'
-                  acquiree: Com4Loves
-                - date: '2021-08-30'
-                  acquiree: Pico Interactive
-                - date: '2022-03-21'
-                  acquiree: Hipacloud
-                - date: '2022-08-05'
-                  acquiree: Amcare Women's and Children's Hospital
-                - date: '2022-12-07'
-                  acquiree: Mushu Information
-                - date: '2023-03-13'
-                  acquiree: Yanxuan Technology
-                - date: '2024-05-13'
-                  acquiree: Oladance
-              parents: []
-              funding: 9505000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Content
-                - Data Mining
-                - Internet
-                - Social Media
-              kind: funding
-            image_data:
-              fileName: douyin-vision-co-ltd-member.svg
-              hash: sEvVEMgUpdaTkTdfMz6w51cueyzW3lD+KCajpylgGOc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Edgenesis (member)
-            description: >-
-              The team behind #ShifuFramework, an #OpenSource #Kubernetes native #IoT development framework, and #ShifuCloud, a IoT development platform
-              designed for product.
-            homepage_url: https://shifu.run/
-            logo: edgenesis.svg
-            twitter: https://twitter.com/ShifuFramework
-            crunchbase: https://www.crunchbase.com/organization/edgenesis
-            crunchbase_data:
-              name: Edgenesis
-              description: Committed to the R&D of the next generation open source IoT development frameworks.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.edgenesis.com/
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/edgenesis
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: edgenesis-member.svg
-              hash: ++SAzIyF7aB0gxKza83cf1D6dsUtVjwTovz0esl6qE8=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Equinix Services, Inc. (member)
             description: >-
@@ -9434,46 +9248,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-02T09:01:37.000Z
-          - item:
-            name: Hangzhou EMQ Technologies (member)
-            description: The Leader in Open Source MQTT Broker, Scalable and Reliable Real-time MQTT Message Broker for IoT in 5G Era
-            homepage_url: https://emqx.io/
-            logo: hangzhou_emq_technologies.svg
-            crunchbase: https://www.crunchbase.com/organization/emq-technologies
-            extra:
-              linkedin_url: https://www.linkedin.com/company/emqtech
-            crunchbase_data:
-              name: EMQ Technologies
-              description: Open-source IoT data infrastructure software provider, delivering the world's leading MQTT-based IoT messaging platform & streaming database
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.emqx.com
-              city: Morgan Hill
-              region: California
-              country: United States
-              twitter: https://twitter.com/EMQTech
-              linkedin: https://www.linkedin.com/company/emqtech
-              acquisitions: []
-              parents: []
-              funding: 21430649
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Data Services
-                - Enterprise Software
-                - Information Technology
-                - Internet of Things
-                - Open Source
-                - Software
-              kind: funding
-            image_data:
-              fileName: hangzhou-emq-technologies-member.svg
-              hash: yqDTZR0/uqRUUtOdvqZX0BQ3KMVPxQn5DaZC7sbt9Qo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T08:44:27.000Z
           - item:
             name: Huawei Technologies Co., Ltd (member)
             description: >-
@@ -9798,56 +9572,11 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Intensivate, Inc. (member)
-            description: >-
-              Intensivate is a developer of high performance, low power server acceleration products for applications running on clusters. Intensivate's
-              accelerator card provides a 12x boost in computational power with no added data center costs and no required software changes for the user.
-            homepage_url: https://intensivate.com/
-            logo: intensivate_inc.svg
-            twitter: https://twitter.com/IntensivateHome
-            crunchbase: https://www.crunchbase.com/organization/intensivate
-            extra:
-              linkedin_url: https://www.linkedin.com/company/intensivate
-            crunchbase_data:
-              name: Intensivate
-              description: Intensivate provides a chip technology for cloud-based analytics and database workloads.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://intensivate.com
-              city: Berkeley
-              region: California
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/intensivate
-              acquisitions: []
-              parents: []
-              funding: 17912988
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Computer
-                - Data Center
-                - Hardware
-              kind: funding
-            image_data:
-              fileName: intensivate-inc-member.svg
-              hash: HrefNLbfy+LZY7TzeO0XHKqg4jDlKpS4JyVKO451wp4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: International Business Machines Corporation (member)
             description: >-
               Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures
               and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in
-              Armonk, New York.
-
-
-              --- Merged Data:
-
-
-              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+              Armonk, New York. IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
@@ -10330,6 +10059,511 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Red Hat, Inc. (member)
+            description: >-
+              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
+              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
+              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
+              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+            extra:
+              linkedin_url: https://www.linkedin.com/company/red-hat
+            crunchbase_data:
+              name: Red Hat
+              description: Red Hat is a software company that offers enterprise open source software solutions.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.redhat.com
+              city: Raleigh
+              region: North Carolina
+              country: United States
+              twitter: https://www.twitter.com/redhat
+              linkedin: https://www.linkedin.com/company/red-hat
+              acquisitions:
+                - date: '2001-01-31'
+                  acquiree: Akopia
+                - date: '2002-10-07'
+                  acquiree: NOCpulse
+                - date: '2003-12-18'
+                  acquiree: Sistina Software
+                - date: '2004-02-20'
+                  acquiree: JBoss
+                - date: '2007-06-02'
+                  acquiree: MetaMatrix
+                - date: '2008-03-14'
+                  acquiree: Amentra
+                - date: '2008-06-19'
+                  acquiree: Identyx
+                - date: '2008-09-04'
+                  acquiree: Qumranet
+                - date: '2010-11-30'
+                  acquiree: Makara
+                - date: '2011-10-04'
+                  acquiree: Gluster
+                - date: '2012-06-27'
+                  acquiree: FuseSource
+                - date: '2012-08-28'
+                  acquiree: Polymita Technologies
+                - date: '2012-08-29'
+                  acquiree: BPM Technology
+                - date: '2012-12-22'
+                  acquiree: ManageIQ
+                - date: '2014-04-30'
+                  acquiree: Inktank
+                - date: '2014-06-18'
+                  acquiree: eNovance
+                - date: '2014-09-18'
+                  acquiree: FeedHenry
+                - date: '2015-10-16'
+                  acquiree: Red Hat Ansible
+                - date: '2016-06-22'
+                  acquiree: 3scale
+                - date: '2017-05-25'
+                  acquiree: Codenvy
+                - date: '2017-07-31'
+                  acquiree: Permabit Technology Corporation
+                - date: '2018-01-30'
+                  acquiree: CoreOS
+                - date: '2018-11-27'
+                  acquiree: NooBaa
+                - date: '2021-01-07'
+                  acquiree: StackRox
+                - date: '2024-11-12'
+                  acquiree: Neural Magic
+              parents:
+                - https://www.crunchbase.com/organization/ibm
+              ticker: IBM.F
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - InsurTech
+                - Linux
+                - Open Source
+                - Operating Systems
+                - Software
+            yahoo_finance_data:
+              effective_ticker: IBM.F
+            image_data:
+              fileName: red-hat-inc-member.svg
+              hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-02T17:17:00.000Z
+          - item:
+            name: Vodafone Group Plc. (member)
+            description: >-
+              Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed
+              communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17
+              markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is
+              a British multinational telecommunications company.
+            homepage_url: https://vodafone.com/
+            logo: vodafone_group_plc.svg
+            twitter: https://twitter.com/VodafoneGroup
+            crunchbase: https://www.crunchbase.com/organization/vodafone
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vodafone
+            crunchbase_data:
+              name: Vodafone
+              description: Vodafone is a mobile telecommunications company that offers voice, messaging, and cellular data services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.vodafone.com
+              city: Newbury
+              region: West Berkshire
+              country: United Kingdom
+              twitter: https://x.com/vodafonegroup
+              linkedin: https://www.linkedin.com/company/vodafone
+              acquisitions:
+                - date: '1999-08-19'
+                  acquiree: Commnet Cellular Inc.
+                - date: '1999-12-10'
+                  acquiree: ScottishPower Telecommunications Services
+                - date: '2000-01-01'
+                  acquiree: Mannesmann AG
+                - date: '2000-04-01'
+                  acquiree: Three Telecommunications
+                - date: '2001-01-21'
+                  acquiree: Vodafone Ireland Ltd.
+                - date: '2003-02-21'
+                  acquiree: Transtel
+                - date: '2003-06-23'
+                  acquiree: Vodafone Telecel-Comunicates Pessoais, S.A.
+                - date: '2003-09-11'
+                  acquiree: Singlepoint (4U) Ltd.
+                - date: '2005-05-31'
+                  acquiree: Vodafone Romania
+                - date: '2006-06-24'
+                  acquiree: Telsim - assets
+                - date: '2006-11-01'
+                  acquiree: Isis Telecommunications
+                - date: '2007-06-08'
+                  acquiree: Hutchison Essar Ltd
+                - date: '2007-10-06'
+                  acquiree: TeleTu
+                - date: '2007-11-06'
+                  acquiree: Tele2 Spain
+                - date: '2008-05-16'
+                  acquiree: ZYB
+                - date: '2008-07-03'
+                  acquiree: Ghana Telecommunications
+                - date: '2008-12-08'
+                  acquiree: Wayfinder
+                - date: '2009-01-16'
+                  acquiree: Unified Communications Group
+                - date: '2010-01-29'
+                  acquiree: Vodafone Alternatif Telekom Hizmetleri A.S.
+                - date: '2010-10-08'
+                  acquiree: Quickcomm Software Solutions
+                - date: '2010-10-08'
+                  acquiree: TnT Expense Management LLC
+                - date: '2011-08-01'
+                  acquiree: BelCompany BV
+                - date: '2011-12-01'
+                  acquiree: Bluefish Communications
+                - date: '2012-01-01'
+                  acquiree: Fonomat
+                - date: '2012-04-23'
+                  acquiree: Cable & Wireless Worldwide
+                - date: '2012-10-01'
+                  acquiree: Complete Telecom
+                - date: '2013-06-24'
+                  acquiree: Kabel Deutschland
+                - date: '2014-03-17'
+                  acquiree: ONO
+                - date: '2014-06-16'
+                  acquiree: The Cobra Group
+                - date: '2014-08-01'
+                  acquiree: Cobra Automotive Technologies
+                - date: '2014-08-22'
+                  acquiree: Hellas Online
+                - date: '2019-07-31'
+                  acquiree: Liberty Global
+                - date: '2019-11-18'
+                  acquiree: GrandCentrix
+                - date: '2022-10-03'
+                  acquiree: Nowo
+              parents: []
+              ticker: VOD.L
+              funding: 5247638881
+              stockExchange: lse
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Messaging
+                - Mobile Apps
+                - Mobile Devices
+                - Network Security
+                - Telecommunications
+            yahoo_finance_data:
+              effective_ticker: VOD.L
+            image_data:
+              fileName: vodafone-group-plc-member.svg
+              hash: WILPqNJeXNLrGnXRPvrcCMCQlkUjCKHlIgqG4BzI6E0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ZEDEDA, Inc. (member)
+            description: >-
+              Founded in 2016, ZEDEDA is pioneering a cloud-native approach to the deployment, management, and security of real-time edge apps at hyperscale for
+              solutions ranging from self-driving cars to industrial robots. ZEDEDA is headquartered in Santa Clara, CA with engineering and market development
+              teams based in India, UK, Germany and Korea.
+            homepage_url: https://zededa.com/
+            logo: zededa_inc.svg
+            twitter: https://twitter.com/ZededaEdge
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zededaedge
+            organization:
+              name: ZEDEDA, Inc.
+              linkedin: https://www.linkedin.com/company/zededaedge
+            crunchbase_data:
+              name: ZEDEDA, Inc.
+              linkedin: https://www.linkedin.com/company/zededaedge
+              parents: []
+            image_data:
+              fileName: zededa-inc-member.svg
+              hash: cRvuPr0hPaHKCb0OkjkgbcIOgdhk1BsD9fDlsosYk48=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-01T19:29:01.000Z
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: AnyLog (member)
+            description: >-
+              We are building a next generation decentralized #IoT platform where data owners can capture the full value of their data #blockchain   #DBMS
+              #AnyLogNetwork
+            homepage_url: https://anylog.co/
+            logo: anylog.svg
+            twitter: https://twitter.com/AnyLog_co
+            extra:
+              linkedin_url: https://www.linkedin.com/company/anylog
+            organization:
+              name: AnyLog
+              linkedin: https://www.linkedin.com/company/anylog
+            crunchbase_data:
+              name: AnyLog
+              linkedin: https://www.linkedin.com/company/anylog
+              parents: []
+            image_data:
+              fileName: any-log-member.svg
+              hash: 88An2E+47sUOevMGLEbad9/OwklHNU3tc0idQblgH+0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Atym (member)
+            description: Atym is a technology company offering website analytics services through cookie-based data aggregation for user insights and optimizations.
+            homepage_url: https://atym.io/
+            logo: atym.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/atym-inc
+            organization:
+              name: Atym
+              linkedin: https://www.linkedin.com/company/atym-inc
+            crunchbase_data:
+              name: Atym
+              linkedin: https://www.linkedin.com/company/atym-inc
+              parents: []
+            image_data:
+              fileName: atym-member.svg
+              hash: vGZoEgLcNJI/Ax1e7oa79mRBUWstjy/rL9aGSQyUlrE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Canonical Group Limited (member)
+            description: >-
+              Canonical Ltd. is a UK-based privately held computer software company founded and funded by South African entrepreneur Mark Shuttleworth to market
+              commercial support and related services for Ubuntu and related projects.
+            homepage_url: https://canonical.com/
+            logo: canonical_group_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/canonical-ltd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canonical-ltd-
+            crunchbase_data:
+              name: Canonical
+              description: Canonical is a software company that markets commercial support and services for Ubuntu (Linux OS) and related projects.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.canonical.com
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: http://twitter.com/Canonical
+              linkedin: https://www.linkedin.com/company/canonical-ltd-
+              acquisitions: []
+              parents: []
+              funding: 12800000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Internet of Things
+                - Linux
+                - Open Source
+                - Software
+              kind: funding
+            image_data:
+              fileName: canonical-group-limited-member.svg
+              hash: AnlqIAIQTADb9PRhshxwvTgPcqQqc5G+CJLWVvhwM4Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-02T17:00:33.000Z
+          - item:
+            name: Douyin Vision Co., Ltd. (member)
+            description: >-
+              Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and
+              Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for
+              people to connect with, consume, and create content.
+            homepage_url: https://bytedance.com/
+            logo: douyin_vision_co_ltd.svg
+            twitter: https://twitter.com/BytedanceTalk
+            crunchbase: https://www.crunchbase.com/organization/bytedance
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bytedance
+            crunchbase_data:
+              name: ByteDance
+              description: ByteDance is a technology company that develops content creation platforms and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://bytedance.com
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: https://www.twitter.com/bytedancetalk
+              linkedin: https://www.linkedin.com/company/bytedance
+              acquisitions:
+                - date: '2016-08-16'
+                  acquiree: Xigua Shipin
+                - date: '2017-11-08'
+                  acquiree: News Republic
+                - date: '2018-01-22'
+                  acquiree: Bcy.net
+                - date: '2019-03-18'
+                  acquiree: Mokun Technology
+                - date: '2019-04-29'
+                  acquiree: Terark
+                - date: '2020-01-10'
+                  acquiree: LevelupAI
+                - date: '2020-05-20'
+                  acquiree: Baikemy.com
+                - date: '2020-08-19'
+                  acquiree: Caicloud
+                - date: '2020-09-04'
+                  acquiree: Wuhan Hezhong Yibao Technology
+                - date: '2021-04-15'
+                  acquiree: Com4Loves
+                - date: '2021-08-30'
+                  acquiree: Pico Interactive
+                - date: '2022-03-21'
+                  acquiree: Hipacloud
+                - date: '2022-08-05'
+                  acquiree: Amcare Women's and Children's Hospital
+                - date: '2022-12-07'
+                  acquiree: Mushu Information
+                - date: '2023-03-13'
+                  acquiree: Yanxuan Technology
+                - date: '2024-05-13'
+                  acquiree: Oladance
+              parents: []
+              funding: 9505000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Content
+                - Data Mining
+                - Internet
+                - Social Media
+              kind: funding
+            image_data:
+              fileName: douyin-vision-co-ltd-member.svg
+              hash: sEvVEMgUpdaTkTdfMz6w51cueyzW3lD+KCajpylgGOc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Edgenesis (member)
+            description: >-
+              The team behind #ShifuFramework, an #OpenSource #Kubernetes native #IoT development framework, and #ShifuCloud, a IoT development platform
+              designed for product.
+            homepage_url: https://shifu.run/
+            logo: edgenesis.svg
+            twitter: https://twitter.com/ShifuFramework
+            crunchbase: https://www.crunchbase.com/organization/edgenesis
+            crunchbase_data:
+              name: Edgenesis
+              description: Committed to the R&D of the next generation open source IoT development frameworks.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.edgenesis.com/
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/edgenesis
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: edgenesis-member.svg
+              hash: ++SAzIyF7aB0gxKza83cf1D6dsUtVjwTovz0esl6qE8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Hangzhou EMQ Technologies (member)
+            description: The Leader in Open Source MQTT Broker, Scalable and Reliable Real-time MQTT Message Broker for IoT in 5G Era
+            homepage_url: https://emqx.io/
+            logo: hangzhou_emq_technologies.svg
+            crunchbase: https://www.crunchbase.com/organization/emq-technologies
+            extra:
+              linkedin_url: https://www.linkedin.com/company/emqtech
+            crunchbase_data:
+              name: EMQ Technologies
+              description: Open-source IoT data infrastructure software provider, delivering the world's leading MQTT-based IoT messaging platform & streaming database
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.emqx.com
+              city: Morgan Hill
+              region: California
+              country: United States
+              twitter: https://twitter.com/EMQTech
+              linkedin: https://www.linkedin.com/company/emqtech
+              acquisitions: []
+              parents: []
+              funding: 21430649
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Enterprise Software
+                - Information Technology
+                - Internet of Things
+                - Open Source
+                - Software
+              kind: funding
+            image_data:
+              fileName: hangzhou-emq-technologies-member.svg
+              hash: yqDTZR0/uqRUUtOdvqZX0BQ3KMVPxQn5DaZC7sbt9Qo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-02T08:44:27.000Z
+          - item:
+            name: Intensivate, Inc. (member)
+            description: >-
+              Intensivate is a developer of high performance, low power server acceleration products for applications running on clusters. Intensivate's
+              accelerator card provides a 12x boost in computational power with no added data center costs and no required software changes for the user.
+            homepage_url: https://intensivate.com/
+            logo: intensivate_inc.svg
+            twitter: https://twitter.com/IntensivateHome
+            crunchbase: https://www.crunchbase.com/organization/intensivate
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intensivate
+            crunchbase_data:
+              name: Intensivate
+              description: Intensivate provides a chip technology for cloud-based analytics and database workloads.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://intensivate.com
+              city: Berkeley
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/intensivate
+              acquisitions: []
+              parents: []
+              funding: 17912988
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Computer
+                - Data Center
+                - Hardware
+              kind: funding
+            image_data:
+              fileName: intensivate-inc-member.svg
+              hash: HrefNLbfy+LZY7TzeO0XHKqg4jDlKpS4JyVKO451wp4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: IOTech Systems Limited (member)
             description: 15 employees
             homepage_url: https://iotechsys.com/
@@ -10486,103 +10720,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-02T13:00:10.000Z
           - item:
-            name: Red Hat, Inc. (member)
-            description: >-
-              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
-              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
-              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
-              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-            extra:
-              linkedin_url: https://www.linkedin.com/company/red-hat
-            crunchbase_data:
-              name: Red Hat
-              description: Red Hat is a software company that offers enterprise open source software solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.redhat.com
-              city: Raleigh
-              region: North Carolina
-              country: United States
-              twitter: https://www.twitter.com/redhat
-              linkedin: https://www.linkedin.com/company/red-hat
-              acquisitions:
-                - date: '2001-01-31'
-                  acquiree: Akopia
-                - date: '2002-10-07'
-                  acquiree: NOCpulse
-                - date: '2003-12-18'
-                  acquiree: Sistina Software
-                - date: '2004-02-20'
-                  acquiree: JBoss
-                - date: '2007-06-02'
-                  acquiree: MetaMatrix
-                - date: '2008-03-14'
-                  acquiree: Amentra
-                - date: '2008-06-19'
-                  acquiree: Identyx
-                - date: '2008-09-04'
-                  acquiree: Qumranet
-                - date: '2010-11-30'
-                  acquiree: Makara
-                - date: '2011-10-04'
-                  acquiree: Gluster
-                - date: '2012-06-27'
-                  acquiree: FuseSource
-                - date: '2012-08-28'
-                  acquiree: Polymita Technologies
-                - date: '2012-08-29'
-                  acquiree: BPM Technology
-                - date: '2012-12-22'
-                  acquiree: ManageIQ
-                - date: '2014-04-30'
-                  acquiree: Inktank
-                - date: '2014-06-18'
-                  acquiree: eNovance
-                - date: '2014-09-18'
-                  acquiree: FeedHenry
-                - date: '2015-10-16'
-                  acquiree: Red Hat Ansible
-                - date: '2016-06-22'
-                  acquiree: 3scale
-                - date: '2017-05-25'
-                  acquiree: Codenvy
-                - date: '2017-07-31'
-                  acquiree: Permabit Technology Corporation
-                - date: '2018-01-30'
-                  acquiree: CoreOS
-                - date: '2018-11-27'
-                  acquiree: NooBaa
-                - date: '2021-01-07'
-                  acquiree: StackRox
-                - date: '2024-11-12'
-                  acquiree: Neural Magic
-              parents:
-                - https://www.crunchbase.com/organization/ibm
-              ticker: IBM.F
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Enterprise Software
-                - InsurTech
-                - Linux
-                - Open Source
-                - Operating Systems
-                - Software
-            yahoo_finance_data:
-              effective_ticker: IBM.F
-            image_data:
-              fileName: red-hat-inc-member.svg
-              hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-02T17:17:00.000Z
-          - item:
             name: Robin Systems, Inc (member)
             description: >-
               Robin transforms the way enterprise applications drive the infrastructure by bringing together purpose-built container-aware block storage with
@@ -10717,156 +10854,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-11T11:02:13.000Z
-          - item:
-            name: Vodafone Group Plc. (member)
-            description: >-
-              Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed
-              communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17
-              markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers.
-
-
-              --- Merged Data:
-
-
-              Idea Cellular Limited was an Indian mobile network operator based at Mumbai, Maharashtra.
-
-
-              --- Merged Data:
-
-
-              Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
-            homepage_url: https://vodafone.com/
-            logo: vodafone_group_plc.svg
-            twitter: https://twitter.com/VodafoneGroup
-            crunchbase: https://www.crunchbase.com/organization/vodafone
-            extra:
-              linkedin_url: https://www.linkedin.com/company/vodafone
-            crunchbase_data:
-              name: Vodafone
-              description: Vodafone is a mobile telecommunications company that offers voice, messaging, and cellular data services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.vodafone.com
-              city: Newbury
-              region: West Berkshire
-              country: United Kingdom
-              twitter: https://x.com/vodafonegroup
-              linkedin: https://www.linkedin.com/company/vodafone
-              acquisitions:
-                - date: '1999-08-19'
-                  acquiree: Commnet Cellular Inc.
-                - date: '1999-12-10'
-                  acquiree: ScottishPower Telecommunications Services
-                - date: '2000-01-01'
-                  acquiree: Mannesmann AG
-                - date: '2000-04-01'
-                  acquiree: Three Telecommunications
-                - date: '2001-01-21'
-                  acquiree: Vodafone Ireland Ltd.
-                - date: '2003-02-21'
-                  acquiree: Transtel
-                - date: '2003-06-23'
-                  acquiree: Vodafone Telecel-Comunicates Pessoais, S.A.
-                - date: '2003-09-11'
-                  acquiree: Singlepoint (4U) Ltd.
-                - date: '2005-05-31'
-                  acquiree: Vodafone Romania
-                - date: '2006-06-24'
-                  acquiree: Telsim - assets
-                - date: '2006-11-01'
-                  acquiree: Isis Telecommunications
-                - date: '2007-06-08'
-                  acquiree: Hutchison Essar Ltd
-                - date: '2007-10-06'
-                  acquiree: TeleTu
-                - date: '2007-11-06'
-                  acquiree: Tele2 Spain
-                - date: '2008-05-16'
-                  acquiree: ZYB
-                - date: '2008-07-03'
-                  acquiree: Ghana Telecommunications
-                - date: '2008-12-08'
-                  acquiree: Wayfinder
-                - date: '2009-01-16'
-                  acquiree: Unified Communications Group
-                - date: '2010-01-29'
-                  acquiree: Vodafone Alternatif Telekom Hizmetleri A.S.
-                - date: '2010-10-08'
-                  acquiree: Quickcomm Software Solutions
-                - date: '2010-10-08'
-                  acquiree: TnT Expense Management LLC
-                - date: '2011-08-01'
-                  acquiree: BelCompany BV
-                - date: '2011-12-01'
-                  acquiree: Bluefish Communications
-                - date: '2012-01-01'
-                  acquiree: Fonomat
-                - date: '2012-04-23'
-                  acquiree: Cable & Wireless Worldwide
-                - date: '2012-10-01'
-                  acquiree: Complete Telecom
-                - date: '2013-06-24'
-                  acquiree: Kabel Deutschland
-                - date: '2014-03-17'
-                  acquiree: ONO
-                - date: '2014-06-16'
-                  acquiree: The Cobra Group
-                - date: '2014-08-01'
-                  acquiree: Cobra Automotive Technologies
-                - date: '2014-08-22'
-                  acquiree: Hellas Online
-                - date: '2019-07-31'
-                  acquiree: Liberty Global
-                - date: '2019-11-18'
-                  acquiree: GrandCentrix
-                - date: '2022-10-03'
-                  acquiree: Nowo
-              parents: []
-              ticker: VOD.L
-              funding: 5247638881
-              stockExchange: lse
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Messaging
-                - Mobile Apps
-                - Mobile Devices
-                - Network Security
-                - Telecommunications
-            yahoo_finance_data:
-              effective_ticker: VOD.L
-            image_data:
-              fileName: vodafone-group-plc-member.svg
-              hash: WILPqNJeXNLrGnXRPvrcCMCQlkUjCKHlIgqG4BzI6E0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: ZEDEDA, Inc. (member)
-            description: >-
-              Founded in 2016, ZEDEDA is pioneering a cloud-native approach to the deployment, management, and security of real-time edge apps at hyperscale for
-              solutions ranging from self-driving cars to industrial robots. ZEDEDA is headquartered in Santa Clara, CA with engineering and market development
-              teams based in India, UK, Germany and Korea.
-            homepage_url: https://zededa.com/
-            logo: zededa_inc.svg
-            twitter: https://twitter.com/ZededaEdge
-            extra:
-              linkedin_url: https://www.linkedin.com/company/zededaedge
-            organization:
-              name: ZEDEDA, Inc.
-              linkedin: https://www.linkedin.com/company/zededaedge
-            crunchbase_data:
-              name: ZEDEDA, Inc.
-              linkedin: https://www.linkedin.com/company/zededaedge
-              parents: []
-            image_data:
-              fileName: zededa-inc-member.svg
-              hash: cRvuPr0hPaHKCb0OkjkgbcIOgdhk1BsD9fDlsosYk48=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-01T19:29:01.000Z
       - subcategory:
         name: Associate
         items:
@@ -11644,4 +11631,4 @@ landscape:
 twitter_options:
   count: 3
   since_id: '1394736695359119361'
-updated_at: 2025-03-13T05:14:50.779Z
+updated_at: 2025-03-14T05:01:04.464Z
