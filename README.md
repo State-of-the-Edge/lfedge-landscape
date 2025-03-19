@@ -1,6 +1,6 @@
 # LF Edge Foundation Landscape
 
-![LF Edge Landscape Logo](https://raw.githubusercontent.com/State-of-the-Edge/lfedge-landscape/refs/heads/landscapecleanup/images/left-logo.svg)
+![LF Edge Landscape Logo](https://raw.githubusercontent.com/State-of-the-Edge/lfedge-landscape/refs/heads/main/images/left-logo.svg)
 
 This landscape is intended as a map to living document that developers, investors, vendors, researchers and others can use as a resource on the landscape of edge computing, a tool to explore open source projects hosted by the LF Edge Foundation, and also shows the LF Edge Foundation member companies. It is modeled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open-source code.
 
