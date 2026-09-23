@@ -23,7 +23,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/open-edge-computing-initiative
           - item:
             name: Open Glossary of Edge Computing
-            homepage_url: https://www.lfedge.org/openglossary
+            homepage_url: https://lfedge.org/projects/state-of-the-edge/
             project: growth
             repo_url: https://github.com/State-of-the-Edge/glossary
             logo: open-glossary-of-edge-computing.svg
@@ -148,6 +148,18 @@ landscape:
             twitter: https://twitter.com/azion
             crunchbase: https://www.crunchbase.com/organization/azion-technologies
           - item:
+            name: InfiniEdge AI
+            homepage_url: https://lfedge.org/projects/infiniedge-ai/
+            project: at_large
+            logo: infiniedge.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
+            name: InstantX
+            homepage_url: https://lfedge.org/projects/instantx/
+            project: at_large
+            logo: instantx.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
             name: KubeEdge
             homepage_url: https://kubeedge.io/en
             repo_url: https://github.com/kubeedge/kubeedge
@@ -187,7 +199,6 @@ landscape:
       - subcategory:
         name: IoT Focused
         items:
-         
           - item:
             name: EdgeX Foundry
             homepage_url: https://www.edgexfoundry.org/
@@ -206,7 +217,7 @@ landscape:
           - item:
             name: Fledge
             homepage_url: https://www.lfedge.org/projects/fledge
-            project: growth
+            project: impact
             repo_url: https://github.com/fledge-iot/fledge
             logo: fledge.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
@@ -216,6 +227,20 @@ landscape:
             logo: ibm_watson_iot.svg
             crunchbase: https://www.crunchbase.com/organization/ibm-watson
           - item:
+            name: NanoMQ
+            homepage_url: https://lfedge.org/projects/nanomq/
+            project: at_large
+            repo_url: https://github.com/nanomq/nanomq
+            logo: nanomq.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
+            name: Ocre
+            homepage_url: https://lfedge.org/projects/ocre/
+            project: at_large
+            repo_url: https://github.com/project-ocre/ocre-runtime
+            logo: ocre.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
+          - item:
             name: Wilderness Labs
             homepage_url: https://www.wildernesslabs.co
             repo_url: https://github.com/WildernessLabs/Meadow.Foundation
@@ -224,6 +249,13 @@ landscape:
       - subcategory:
         name: Decentralized
         items:
+          - item:
+            name: NexoEdge
+            homepage_url: https://lfedge.org/projects/nexoedge/
+            project: at_large
+            repo_url: https://github.com/nexoedge/nexoedge
+            logo: nexoedge.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: StarlingX
             homepage_url: https://www.starlingx.io
@@ -328,7 +360,7 @@ landscape:
           - item:
             name: Project EVE
             homepage_url: https://wiki.lfedge.org/display/EVE/EVE
-            project: growth
+            project: impact
             repo_url: https://github.com/lf-edge/eve
             logo: project-eve.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
@@ -431,11 +463,11 @@ landscape:
             logo: perimeterx.svg
             crunchbase: https://www.crunchbase.com/organization/perimeterx-inc-
           - item:
-            name: Secure Device Onboard
-            homepage_url: https://secure-device-onboard.github.io/docs/
-            project: at_large
-            repo_url: https://github.com/secure-device-onboard/iot-platform-sdk
-            logo: secure-device-onboard.svg
+            name: FIDO Device Onboard
+            homepage_url: https://lfedge.org/projects/fido-device-onboard/
+            project: growth
+            repo_url: https://github.com/fido-device-onboard
+            logo: fido.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: Xage Security
@@ -708,7 +740,7 @@ landscape:
           - item:
             name: Open Horizon
             homepage_url: https://www.lfedge.org/projects/openhorizon/
-            project: growth
+            project: impact
             repo_url: https://github.com/open-horizon/anax
             logo: open-horizon.svg
             twitter: https://twitter.com/LF_Edge
